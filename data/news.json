@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-19T07:37:36.399192Z",
+  "updatedAt": "2026-10-19T07:40:15.171777Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -2122,50 +2122,576 @@
       "tokens": [],
       "firstSeen": "2026-10-19T07:06:39.351Z",
       "updatedAt": "2026-10-19T07:06:39.351Z"
-    }
-  ],
-  "runs": [
-    {
-      "id": "migration-github-json-v2",
-      "at": "2026-10-19T07:37:36.399192Z",
-      "kind": "仓库数据迁移",
-      "count": 58,
-      "detail": "迁移现有中文新闻与研究评分；此记录不代表 GitHub Actions 已运行。"
     },
     {
-      "id": "d3813995-eae1-4660-a7c3-6a2c922e4756",
-      "at": "2026-10-19T07:23:43.629Z",
-      "kind": "每日研究",
-      "count": 53,
-      "detail": "完成全部53条英文新闻标题的中文翻译；摘要采用中文线索说明，保持仅标题初筛状态。翻译不等于事实核查。"
+      "id": "rss-bcf7b500203aa3cdc069c714",
+      "title": "科斯拉风险投资公司在“甚至保健”上翻了一番,以挑战印度的医院经济学。",
+      "originalTitle": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+      "summary": "在Khosla Ventures领导的一回合中,由于计划扩大印度的医院网络,甚至保健也价值3亿美元。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-19T07:30:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T07:40:15.171777Z",
+      "updatedAt": "2026-10-19T07:40:15.171777Z"
     },
     {
-      "id": "ed80ce0d-730a-4382-94fd-e6efee220991",
-      "at": "2026-10-19T07:12:02.445Z",
-      "kind": "RSS 收集",
-      "count": 0,
-      "detail": "[{\"name\":\"BBC World\",\"ok\":true,\"count\":0},{\"name\":\"BBC Technology\",\"ok\":true,\"count\":0},{\"name\":\"The Guardian World\",\"ok\":true,\"count\":0},{\"name\":\"TechCrunch\",\"ok\":true,\"count\":0}]"
+      "id": "rss-ced4d62317888378152a8687",
+      "title": "Kings Cross 脱衣舞俱乐部老板未能推翻进入自己“高风险”场地的禁令",
+      "originalTitle": "Kings Cross strip club owner fails to overturn ban on entering his own ‘high-risk’ venues",
+      "summary": "新南威尔士州法庭维持酒类权威的决定,阻止曼托斯·帕帕佐普洛斯进入悉尼酒类俱乐部和秀女俱乐部。 悉尼脱衣舞俱乐部的老板在试图推翻禁止进入国王十字的夜生活区(包括他自己自己的企业)的禁令时失败了。 独立酒类和赌博俱乐部禁止悉尼酒类俱乐部的老板曼托斯·帕帕佐普洛斯进入悉尼酒类俱乐部。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-19T07:24:48Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/19/kings-cross-strip-club-owner-fails-to-overturn-ban-on-entering-his-own-high-risk-venues-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T07:40:15.171777Z",
+      "updatedAt": "2026-10-19T07:40:15.171777Z"
     },
     {
-      "id": "3849b060-58e3-40fb-8589-20bd6099396b",
-      "at": "2026-10-19T07:09:13.013Z",
-      "kind": "RSS 收集",
-      "count": 0,
-      "detail": "[{\"name\":\"BBC World\",\"ok\":true,\"count\":0},{\"name\":\"BBC Technology\",\"ok\":true,\"count\":0},{\"name\":\"The Guardian World\",\"ok\":true,\"count\":0},{\"name\":\"TechCrunch\",\"ok\":true,\"count\":0}]"
+      "id": "rss-5ad95bd1276f8ca86068c1d1",
+      "title": "周一简报:你需要了解法国“混乱”周末的情况",
+      "originalTitle": "Monday briefing: What you need to know about a weekend of ‘chaos’ in France",
+      "summary": "在今天的通讯中:暴力暴动和抢掠占据了头条新闻的主导地位,但国家内外的动乱反映了公众对日常问题的更强烈的愤怒。 早上好。 我打赌你的周末比Emmanuel Macron的好。 周五,即计划在整个法国举行大规模抗议的前一天晚上,他和他的妻子Brigitte一起参加了巴黎的Céline Dion音乐会。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-19T05:45:08Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/19/monday-briefing-what-you-need-to-know-about-a-weekend-of-chaos-in-france"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T07:40:15.171777Z",
+      "updatedAt": "2026-10-19T07:40:15.171777Z"
     },
     {
-      "id": "a4cf11b8-1526-411e-9e5f-1edf52923da1",
-      "at": "2026-10-19T07:06:39.351Z",
-      "kind": "每日研究",
-      "count": 5,
-      "detail": "首次研究：阅读 Reuters 原文及 AP 抗议报道，更新 5 个事件；1 个峰会提议保留待核实状态。社交扩散缺少实测数据，不给推测分。复用法国 RSS 事件 ID。4 路 RSS 均访问成功；没有足够新且可信的动物/Meme 原始资料，不强行填充。"
+      "id": "rss-e4906bdb2f8476ad9a553676",
+      "title": "挪威城镇不再饮用塔普水,因为与气候有关的解冻释放出重金属",
+      "originalTitle": "Tap water no longer drinkable in Norwegian town as climate-related thawing releases heavy metals",
+      "summary": "向其他北极社区发出警告,因为据居民说,在斯瓦尔巴德的长年别墅,水是世界升温最快的地方之一。 挪威一个偏远城镇的居民位于世界上升温最快的地方之一。 他们被告知,由于科学家与解冻永久冻土有关的重金属污染,他们不能再喝自来水。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-19T05:00:20Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/environment/2026/oct/19/tap-water-no-longer-drinkable-norwegian-town-climate-related-thawing-heavy-metals-arctic-longyearbyen-svalbard"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T07:40:15.171777Z",
+      "updatedAt": "2026-10-19T07:40:15.171777Z"
     },
     {
-      "id": "a7a2579e-6e31-4160-a9e9-a16e17aea56e",
-      "at": "2026-10-19T07:05:07.231Z",
-      "kind": "RSS 收集",
-      "count": 54,
-      "detail": "[{\"name\":\"BBC World\",\"ok\":true,\"count\":17},{\"name\":\"BBC Technology\",\"ok\":true,\"count\":6},{\"name\":\"The Guardian World\",\"ok\":true,\"count\":13},{\"name\":\"TechCrunch\",\"ok\":true,\"count\":18}]"
+      "id": "rss-836fe0f518b023e4865a77cf",
+      "title": "前劳工总检察官 转任法官罗伯特・麦克莱兰 命名新的反腐败老板",
+      "originalTitle": "Former Labor attorney general turned judge Robert McClelland named new anti-corruption boss",
+      "summary": "在5月保罗·布雷顿辞职后被任命为国家反腐败委员会上司的麦克莱兰德(McClelland)获得我们新的政治电子邮件、免费应用程序或每日新闻播客,前劳工检察长和联邦法院法官罗伯特·麦克莱兰(Robert McClelland)被任命为国家反腐败委员会的新上司。 麦克莱兰(McClelland)是陆克文政府的最高法律官员。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-19T03:56:29Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/19/former-labor-attorney-general-robert-mcclelland-named-new-nacc-boss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T07:40:15.171777Z",
+      "updatedAt": "2026-10-19T07:40:15.171777Z"
+    },
+    {
+      "id": "rss-2af03e24dfa737edbbc2839b",
+      "title": "电费使英国钢铁制造商三年来对欧盟对手处于最糟糕的地位",
+      "originalTitle": "Electricity costs put UK steelmakers in worst position in three years against EU rivals",
+      "summary": "美以对伊朗的战争引发了全球天然气价格的飙升。 英国工业对法国工业的溢价已经上升到每兆瓦时近30英镑。 游说集团的分析发现,在美以对伊朗的战争之后,英国钢铁制造商在电力成本上进一步落后于欧洲竞争对手。 英国工业对法国工业的溢价已经上升到每兆瓦时近30英镑,这是其最高的悬崖。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-18T23:01:12Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/business/2026/oct/19/electricity-costs-uk-steelmakers-worst-position-three-years-eu-rivals"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T07:40:15.171777Z",
+      "updatedAt": "2026-10-19T07:40:15.171777Z"
+    },
+    {
+      "id": "rss-d54fc7597418b304da556336",
+      "title": "芝加哥内部对抗合成毒品的战斗 淹没了美国",
+      "originalTitle": "Inside Chicago's battle against the synthetic drugs flooding the US",
+      "summary": "英国广播公司的昆廷·索默维尔 报道来自芝加哥 那里的社区正在对抗新一波合成毒品（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-18T21:00:22Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T07:40:15.171777Z",
+      "updatedAt": "2026-10-19T07:40:15.171777Z"
+    },
+    {
+      "id": "rss-9e235dbe784a1b6ca5b5a92b",
+      "title": "在法国各地发生骚乱和逮捕2 400人后,",
+      "originalTitle": "Macron criticises ‘unbridled violence’ after days of unrest and 2,400 arrests across France",
+      "summary": "法国总统曼纽尔·麦克隆(Emmanuel Macron)批评「暴力肆虐」,（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-18T18:57:48Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T07:40:15.171777Z",
+      "updatedAt": "2026-10-19T07:40:15.171777Z"
+    },
+    {
+      "id": "rss-53abfb0900ea34a713b50be7",
+      "title": "沙巴纳·马哈穆德就执法合作问题与欧盟举行会谈",
+      "originalTitle": "Shabana Mahmood to hold talks with EU over law enforcement cooperation",
+      "summary": "首相说想重新加入欧洲执法数据库后,英国内政大臣马哈茂德(Shabana Mahmood)将于星期一会见欧盟内政专员,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-18T18:13:11Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/politics/2026/oct/18/shabana-mahmood-talks-eu-law-enforcement-cooperation-magnus-brunner"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T07:40:15.171777Z",
+      "updatedAt": "2026-10-19T07:40:15.171777Z"
+    },
+    {
+      "id": "rss-15dda46e4ddf753818fdf50f",
+      "title": "照片显示豪华船有五千米的游泳池 水滑行在金正恩的暑假后退",
+      "originalTitle": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+      "summary": "卫星图片为金如何度过节日提供了线索,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-17T22:09:50Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T07:40:15.171777Z",
+      "updatedAt": "2026-10-19T07:40:15.171777Z"
+    },
+    {
+      "id": "rss-880a0eaff04e0931abe97941",
+      "title": "加拿大30名获救白鲸的前途不明",
+      "originalTitle": "The uncertain future of Canada's 30 rescued belugas",
+      "summary": "加拿大最后30条捕鲸的国际救援行动成为头条新闻,其中5条死亡。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-17T01:18:08Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T07:40:15.171777Z",
+      "updatedAt": "2026-10-19T07:40:15.171777Z"
+    },
+    {
+      "id": "rss-88386493be35012956f71b20",
+      "title": "上千个标语在此回响,",
+      "originalTitle": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
+      "summary": "18世纪的Jantar Mantar几乎等同于德里的示威活动,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-17T00:41:58Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T07:40:15.171777Z",
+      "updatedAt": "2026-10-19T07:40:15.171777Z"
+    },
+    {
+      "id": "rss-00f30d32b87311f1e9dfd73e",
+      "title": "对德国牛排店女继承人的审判 引发了一起巨大的间谍丑闻",
+      "originalTitle": "Trial of German steakhouse heiress that sparked a huge spy scandal",
+      "summary": "15个月来,汉堡一个高度戒备的法庭一直在审理Christina Block的案件,他被指控下令绑架她的孩子。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-16T23:07:18Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T07:40:15.171777Z",
+      "updatedAt": "2026-10-19T07:40:15.171777Z"
+    },
+    {
+      "id": "rss-76ac965f5c723a2654f21d67",
+      "title": "在乌克兰的攻势中 将俄罗斯推回 星际迷航扮演着关键角色",
+      "originalTitle": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "summary": "英国广播公司加入乌克兰的维瓦尔迪行动,因为它在顿巴斯重获重要领土,但是由于与特朗普总统关系紧张,乐观情绪受到抑制。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-16T16:00:30Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T07:40:15.171777Z",
+      "updatedAt": "2026-10-19T07:40:15.171777Z"
+    },
+    {
+      "id": "rss-7ff2fab56ea772a237d9cee8",
+      "title": "校对:Portnoy",
+      "originalTitle": "Jev is Vercel’s fastest-adopted AI model ever",
+      "summary": "数据来自Vercel的AI网关, 一种类似于 OpenRouter 的统一 API 服务。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-10-16T15:33:49Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T07:40:15.171777Z",
+      "updatedAt": "2026-10-19T07:40:15.171777Z"
     }
   ],
   "history": [
@@ -4521,6 +5047,687 @@
         "firstSeen": "2026-10-19T07:06:39.351Z",
         "updatedAt": "2026-10-19T07:06:39.351Z"
       }
+    },
+    {
+      "eventId": "rss-bcf7b500203aa3cdc069c714",
+      "at": "2026-10-19T07:40:15.171777Z",
+      "data": {
+        "id": "rss-bcf7b500203aa3cdc069c714",
+        "title": "科斯拉风险投资公司在“甚至保健”上翻了一番,以挑战印度的医院经济学。",
+        "originalTitle": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+        "summary": "在Khosla Ventures领导的一回合中,由于计划扩大印度的医院网络,甚至保健也价值3亿美元。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-19T07:30:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T07:40:15.171777Z",
+        "updatedAt": "2026-10-19T07:40:15.171777Z"
+      }
+    },
+    {
+      "eventId": "rss-ced4d62317888378152a8687",
+      "at": "2026-10-19T07:40:15.171777Z",
+      "data": {
+        "id": "rss-ced4d62317888378152a8687",
+        "title": "Kings Cross 脱衣舞俱乐部老板未能推翻进入自己“高风险”场地的禁令",
+        "originalTitle": "Kings Cross strip club owner fails to overturn ban on entering his own ‘high-risk’ venues",
+        "summary": "新南威尔士州法庭维持酒类权威的决定,阻止曼托斯·帕帕佐普洛斯进入悉尼酒类俱乐部和秀女俱乐部。 悉尼脱衣舞俱乐部的老板在试图推翻禁止进入国王十字的夜生活区(包括他自己自己的企业)的禁令时失败了。 独立酒类和赌博俱乐部禁止悉尼酒类俱乐部的老板曼托斯·帕帕佐普洛斯进入悉尼酒类俱乐部。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-19T07:24:48Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/19/kings-cross-strip-club-owner-fails-to-overturn-ban-on-entering-his-own-high-risk-venues-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T07:40:15.171777Z",
+        "updatedAt": "2026-10-19T07:40:15.171777Z"
+      }
+    },
+    {
+      "eventId": "rss-5ad95bd1276f8ca86068c1d1",
+      "at": "2026-10-19T07:40:15.171777Z",
+      "data": {
+        "id": "rss-5ad95bd1276f8ca86068c1d1",
+        "title": "周一简报:你需要了解法国“混乱”周末的情况",
+        "originalTitle": "Monday briefing: What you need to know about a weekend of ‘chaos’ in France",
+        "summary": "在今天的通讯中:暴力暴动和抢掠占据了头条新闻的主导地位,但国家内外的动乱反映了公众对日常问题的更强烈的愤怒。 早上好。 我打赌你的周末比Emmanuel Macron的好。 周五,即计划在整个法国举行大规模抗议的前一天晚上,他和他的妻子Brigitte一起参加了巴黎的Céline Dion音乐会。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-19T05:45:08Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/19/monday-briefing-what-you-need-to-know-about-a-weekend-of-chaos-in-france"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T07:40:15.171777Z",
+        "updatedAt": "2026-10-19T07:40:15.171777Z"
+      }
+    },
+    {
+      "eventId": "rss-e4906bdb2f8476ad9a553676",
+      "at": "2026-10-19T07:40:15.171777Z",
+      "data": {
+        "id": "rss-e4906bdb2f8476ad9a553676",
+        "title": "挪威城镇不再饮用塔普水,因为与气候有关的解冻释放出重金属",
+        "originalTitle": "Tap water no longer drinkable in Norwegian town as climate-related thawing releases heavy metals",
+        "summary": "向其他北极社区发出警告,因为据居民说,在斯瓦尔巴德的长年别墅,水是世界升温最快的地方之一。 挪威一个偏远城镇的居民位于世界上升温最快的地方之一。 他们被告知,由于科学家与解冻永久冻土有关的重金属污染,他们不能再喝自来水。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-19T05:00:20Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/environment/2026/oct/19/tap-water-no-longer-drinkable-norwegian-town-climate-related-thawing-heavy-metals-arctic-longyearbyen-svalbard"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T07:40:15.171777Z",
+        "updatedAt": "2026-10-19T07:40:15.171777Z"
+      }
+    },
+    {
+      "eventId": "rss-836fe0f518b023e4865a77cf",
+      "at": "2026-10-19T07:40:15.171777Z",
+      "data": {
+        "id": "rss-836fe0f518b023e4865a77cf",
+        "title": "前劳工总检察官 转任法官罗伯特・麦克莱兰 命名新的反腐败老板",
+        "originalTitle": "Former Labor attorney general turned judge Robert McClelland named new anti-corruption boss",
+        "summary": "在5月保罗·布雷顿辞职后被任命为国家反腐败委员会上司的麦克莱兰德(McClelland)获得我们新的政治电子邮件、免费应用程序或每日新闻播客,前劳工检察长和联邦法院法官罗伯特·麦克莱兰(Robert McClelland)被任命为国家反腐败委员会的新上司。 麦克莱兰(McClelland)是陆克文政府的最高法律官员。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-19T03:56:29Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/19/former-labor-attorney-general-robert-mcclelland-named-new-nacc-boss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T07:40:15.171777Z",
+        "updatedAt": "2026-10-19T07:40:15.171777Z"
+      }
+    },
+    {
+      "eventId": "rss-2af03e24dfa737edbbc2839b",
+      "at": "2026-10-19T07:40:15.171777Z",
+      "data": {
+        "id": "rss-2af03e24dfa737edbbc2839b",
+        "title": "电费使英国钢铁制造商三年来对欧盟对手处于最糟糕的地位",
+        "originalTitle": "Electricity costs put UK steelmakers in worst position in three years against EU rivals",
+        "summary": "美以对伊朗的战争引发了全球天然气价格的飙升。 英国工业对法国工业的溢价已经上升到每兆瓦时近30英镑。 游说集团的分析发现,在美以对伊朗的战争之后,英国钢铁制造商在电力成本上进一步落后于欧洲竞争对手。 英国工业对法国工业的溢价已经上升到每兆瓦时近30英镑,这是其最高的悬崖。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-18T23:01:12Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/business/2026/oct/19/electricity-costs-uk-steelmakers-worst-position-three-years-eu-rivals"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T07:40:15.171777Z",
+        "updatedAt": "2026-10-19T07:40:15.171777Z"
+      }
+    },
+    {
+      "eventId": "rss-d54fc7597418b304da556336",
+      "at": "2026-10-19T07:40:15.171777Z",
+      "data": {
+        "id": "rss-d54fc7597418b304da556336",
+        "title": "芝加哥内部对抗合成毒品的战斗 淹没了美国",
+        "originalTitle": "Inside Chicago's battle against the synthetic drugs flooding the US",
+        "summary": "英国广播公司的昆廷·索默维尔 报道来自芝加哥 那里的社区正在对抗新一波合成毒品（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-18T21:00:22Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T07:40:15.171777Z",
+        "updatedAt": "2026-10-19T07:40:15.171777Z"
+      }
+    },
+    {
+      "eventId": "rss-9e235dbe784a1b6ca5b5a92b",
+      "at": "2026-10-19T07:40:15.171777Z",
+      "data": {
+        "id": "rss-9e235dbe784a1b6ca5b5a92b",
+        "title": "在法国各地发生骚乱和逮捕2 400人后,",
+        "originalTitle": "Macron criticises ‘unbridled violence’ after days of unrest and 2,400 arrests across France",
+        "summary": "法国总统曼纽尔·麦克隆(Emmanuel Macron)批评「暴力肆虐」,（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-18T18:57:48Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T07:40:15.171777Z",
+        "updatedAt": "2026-10-19T07:40:15.171777Z"
+      }
+    },
+    {
+      "eventId": "rss-53abfb0900ea34a713b50be7",
+      "at": "2026-10-19T07:40:15.171777Z",
+      "data": {
+        "id": "rss-53abfb0900ea34a713b50be7",
+        "title": "沙巴纳·马哈穆德就执法合作问题与欧盟举行会谈",
+        "originalTitle": "Shabana Mahmood to hold talks with EU over law enforcement cooperation",
+        "summary": "首相说想重新加入欧洲执法数据库后,英国内政大臣马哈茂德(Shabana Mahmood)将于星期一会见欧盟内政专员,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-18T18:13:11Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/politics/2026/oct/18/shabana-mahmood-talks-eu-law-enforcement-cooperation-magnus-brunner"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T07:40:15.171777Z",
+        "updatedAt": "2026-10-19T07:40:15.171777Z"
+      }
+    },
+    {
+      "eventId": "rss-15dda46e4ddf753818fdf50f",
+      "at": "2026-10-19T07:40:15.171777Z",
+      "data": {
+        "id": "rss-15dda46e4ddf753818fdf50f",
+        "title": "照片显示豪华船有五千米的游泳池 水滑行在金正恩的暑假后退",
+        "originalTitle": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+        "summary": "卫星图片为金如何度过节日提供了线索,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-17T22:09:50Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T07:40:15.171777Z",
+        "updatedAt": "2026-10-19T07:40:15.171777Z"
+      }
+    },
+    {
+      "eventId": "rss-880a0eaff04e0931abe97941",
+      "at": "2026-10-19T07:40:15.171777Z",
+      "data": {
+        "id": "rss-880a0eaff04e0931abe97941",
+        "title": "加拿大30名获救白鲸的前途不明",
+        "originalTitle": "The uncertain future of Canada's 30 rescued belugas",
+        "summary": "加拿大最后30条捕鲸的国际救援行动成为头条新闻,其中5条死亡。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-17T01:18:08Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T07:40:15.171777Z",
+        "updatedAt": "2026-10-19T07:40:15.171777Z"
+      }
+    },
+    {
+      "eventId": "rss-88386493be35012956f71b20",
+      "at": "2026-10-19T07:40:15.171777Z",
+      "data": {
+        "id": "rss-88386493be35012956f71b20",
+        "title": "上千个标语在此回响,",
+        "originalTitle": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
+        "summary": "18世纪的Jantar Mantar几乎等同于德里的示威活动,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-17T00:41:58Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T07:40:15.171777Z",
+        "updatedAt": "2026-10-19T07:40:15.171777Z"
+      }
+    },
+    {
+      "eventId": "rss-00f30d32b87311f1e9dfd73e",
+      "at": "2026-10-19T07:40:15.171777Z",
+      "data": {
+        "id": "rss-00f30d32b87311f1e9dfd73e",
+        "title": "对德国牛排店女继承人的审判 引发了一起巨大的间谍丑闻",
+        "originalTitle": "Trial of German steakhouse heiress that sparked a huge spy scandal",
+        "summary": "15个月来,汉堡一个高度戒备的法庭一直在审理Christina Block的案件,他被指控下令绑架她的孩子。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-16T23:07:18Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T07:40:15.171777Z",
+        "updatedAt": "2026-10-19T07:40:15.171777Z"
+      }
+    },
+    {
+      "eventId": "rss-76ac965f5c723a2654f21d67",
+      "at": "2026-10-19T07:40:15.171777Z",
+      "data": {
+        "id": "rss-76ac965f5c723a2654f21d67",
+        "title": "在乌克兰的攻势中 将俄罗斯推回 星际迷航扮演着关键角色",
+        "originalTitle": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+        "summary": "英国广播公司加入乌克兰的维瓦尔迪行动,因为它在顿巴斯重获重要领土,但是由于与特朗普总统关系紧张,乐观情绪受到抑制。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-16T16:00:30Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T07:40:15.171777Z",
+        "updatedAt": "2026-10-19T07:40:15.171777Z"
+      }
+    },
+    {
+      "eventId": "rss-7ff2fab56ea772a237d9cee8",
+      "at": "2026-10-19T07:40:15.171777Z",
+      "data": {
+        "id": "rss-7ff2fab56ea772a237d9cee8",
+        "title": "校对:Portnoy",
+        "originalTitle": "Jev is Vercel’s fastest-adopted AI model ever",
+        "summary": "数据来自Vercel的AI网关, 一种类似于 OpenRouter 的统一 API 服务。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-10-16T15:33:49Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T07:40:15.171777Z",
+        "updatedAt": "2026-10-19T07:40:15.171777Z"
+      }
+    }
+  ],
+  "runs": [
+    {
+      "id": "github-2026-10-19T07:40:15.171777Z",
+      "at": "2026-10-19T07:40:15.171777Z",
+      "kind": "GitHub Actions 采集",
+      "count": 15,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 6}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 0}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 7}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 2}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
+    {
+      "id": "migration-github-json-v2",
+      "at": "2026-10-19T07:37:36.399192Z",
+      "kind": "仓库数据迁移",
+      "count": 58,
+      "detail": "迁移现有中文新闻与研究评分；此记录不代表 GitHub Actions 已运行。"
+    },
+    {
+      "id": "d3813995-eae1-4660-a7c3-6a2c922e4756",
+      "at": "2026-10-19T07:23:43.629Z",
+      "kind": "每日研究",
+      "count": 53,
+      "detail": "完成全部53条英文新闻标题的中文翻译；摘要采用中文线索说明，保持仅标题初筛状态。翻译不等于事实核查。"
+    },
+    {
+      "id": "ed80ce0d-730a-4382-94fd-e6efee220991",
+      "at": "2026-10-19T07:12:02.445Z",
+      "kind": "RSS 收集",
+      "count": 0,
+      "detail": "[{\"name\":\"BBC World\",\"ok\":true,\"count\":0},{\"name\":\"BBC Technology\",\"ok\":true,\"count\":0},{\"name\":\"The Guardian World\",\"ok\":true,\"count\":0},{\"name\":\"TechCrunch\",\"ok\":true,\"count\":0}]"
+    },
+    {
+      "id": "3849b060-58e3-40fb-8589-20bd6099396b",
+      "at": "2026-10-19T07:09:13.013Z",
+      "kind": "RSS 收集",
+      "count": 0,
+      "detail": "[{\"name\":\"BBC World\",\"ok\":true,\"count\":0},{\"name\":\"BBC Technology\",\"ok\":true,\"count\":0},{\"name\":\"The Guardian World\",\"ok\":true,\"count\":0},{\"name\":\"TechCrunch\",\"ok\":true,\"count\":0}]"
+    },
+    {
+      "id": "a4cf11b8-1526-411e-9e5f-1edf52923da1",
+      "at": "2026-10-19T07:06:39.351Z",
+      "kind": "每日研究",
+      "count": 5,
+      "detail": "首次研究：阅读 Reuters 原文及 AP 抗议报道，更新 5 个事件；1 个峰会提议保留待核实状态。社交扩散缺少实测数据，不给推测分。复用法国 RSS 事件 ID。4 路 RSS 均访问成功；没有足够新且可信的动物/Meme 原始资料，不强行填充。"
+    },
+    {
+      "id": "a7a2579e-6e31-4160-a9e9-a16e17aea56e",
+      "at": "2026-10-19T07:05:07.231Z",
+      "kind": "RSS 收集",
+      "count": 54,
+      "detail": "[{\"name\":\"BBC World\",\"ok\":true,\"count\":17},{\"name\":\"BBC Technology\",\"ok\":true,\"count\":6},{\"name\":\"The Guardian World\",\"ok\":true,\"count\":13},{\"name\":\"TechCrunch\",\"ok\":true,\"count\":18}]"
     }
   ]
 }
