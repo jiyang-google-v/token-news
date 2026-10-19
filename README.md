@@ -12,7 +12,7 @@
 
 `.github/workflows/update-news.yml` 在 UTC 00:00、12:00（北京时间 08:00、20:00）运行，并支持 Actions 手动运行。GitHub 定时任务可能排队延迟，不能保证整点到达。
 
-在**私有仓库**配置：
+在仓库 Settings → Secrets and variables → Actions 配置（当前仓库为用户创建的公开仓库；凭据只放 Secrets）：
 
 - Repository variable `SITE_URL`：上述网站地址，不带末尾斜杠。
 - Repository secret `SITE_SERVICE_TOKEN`：由该站点 `get_site` 返回的服务访问令牌；仅保存到 Secrets，不写入源码、Issue、日志或工作流。

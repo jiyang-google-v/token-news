@@ -1,0 +1,5 @@
+import { env } from 'cloudflare:workers';
+import { eventSchema } from './model';
+export function db(){if(!env.DB)throw Error('数据库尚未就绪');return env.DB;}
+export async function list(){const r=await db().prepare('SELECT * FROM events ORDER BY updated_at DESC LIMIT 1500').all<any>();return r.results.map(x=>({...JSON.parse(x.data),firstSeen:x.first_seen,updatedAt:x.updated_at,starred:x.starred}));}
+export async function ingest(input:unknown,kind='每日研究',detail=''){const rows=eventSchema.array().max(100).parse(input);const at=new Date().toISOString();const sql=[];for(const e of rows){const data=JSON.stringify(e);sql.push(db().prepare('INSERT INTO events (id,data,first_seen,updated_at,starred) VALUES (?,?,?,?,0) ON CONFLICT(id) DO UPDATE SET data=excluded.data,updated_at=excluded.updated_at').bind(e.id,data,at,at));sql.push(db().prepare('INSERT INTO revisions (id,event_id,at,data) VALUES (?,?,?,?)').bind(crypto.randomUUID(),e.id,at,data));}sql.push(db().prepare('INSERT INTO runs (id,at,kind,count,detail) VALUES (?,?,?,?,?)').bind(crypto.randomUUID(),at,kind,rows.length,detail));await db().batch(sql);return {count:rows.length,at};}

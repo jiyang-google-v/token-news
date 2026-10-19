@@ -1,0 +1,47 @@
+name: 海外新闻采集与中文评分
+on:
+  schedule:
+    # GitHub cron 使用 UTC；00:00 / 12:00 = 北京时间 08:00 / 20:00
+    - cron: '0 0,12 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: narrative-radar-news
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    env:
+      SITE_URL: ${{ vars.SITE_URL || 'https://narrative-radar.plumbean16.chatgpt.site' }}
+      SITE_SERVICE_TOKEN: ${{ secrets.SITE_SERVICE_TOKEN }}
+      HF_HUB_DISABLE_TELEMETRY: '1'
+      HF_HUB_DISABLE_XET: '1'
+      TOKENIZERS_PARALLELISM: 'false'
+    steps:
+      - name: 检查网站同步凭据
+        shell: bash
+        run: |
+          if [ -z "$SITE_SERVICE_TOKEN" ]; then
+            echo "::error::请先在仓库 Actions Secrets 中配置 SITE_SERVICE_TOKEN；尚未执行更新。"
+            exit 1
+          fi
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: scripts/news-requirements.txt
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface/hub
+          key: opus-en-zh-v1
+      - name: 安装 CPU 翻译依赖
+        run: |
+          python -m pip install torch==2.8.0 --index-url https://download.pytorch.org/whl/cpu
+          python -m pip install -r scripts/news-requirements.txt
+      - name: 核验采集与去重逻辑
+        run: python -m unittest discover -s tests -p 'test_news.py'
+      - name: 收集、中文化、评分并同步网站
+        run: python scripts/update_news.py
