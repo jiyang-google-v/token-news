@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-19T07:40:15.171777Z",
+  "updatedAt": "2026-10-19T12:22:37.021647Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -2692,6 +2692,842 @@
       "tokens": [],
       "firstSeen": "2026-10-19T07:40:15.171777Z",
       "updatedAt": "2026-10-19T07:40:15.171777Z"
+    },
+    {
+      "id": "rss-df071996a89d24644bf96cc8",
+      "title": "法国总理在暴动后呼吁实行“局部宵禁”",
+      "originalTitle": "French prime minister calls for ‘local and partial’ curfews after riots",
+      "summary": "内政部长承认警方“失去控制 ” , 包括巴黎和里昂在内的城市在“没有预期”的欧洲现场活动后,力量被淹没了。 法国总理最新消息说,在政府承认警方在全国暴力的周末抗议中“失去控制 ” , 之后,他要求地区当局在某些城市实施部分宵禁。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-19T12:02:47Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T12:22:37.021647Z",
+      "updatedAt": "2026-10-19T12:22:37.021647Z"
+    },
+    {
+      "id": "rss-7d64c70b69146871ea33cd22",
+      "title": "肯尼亚的第三个埃博拉病例突显出美国在削减关键服务时的失败",
+      "originalTitle": "Third Ebola case in Kenya highlights US failures amid Trump cuts to key services",
+      "summary": "在大规模削减资金和撤出世卫组织之后,肯尼亚反对美国领导的隔离中心。 肯尼亚第三人测试了该国有史以来头一批埃博拉病例中的Bundibugyo ebola病毒呈阳性,因为历史上第二大疫情导致该地区4 300多人死亡,9 000多人生病。 这凸显了美国在埃博拉病毒中作用的削弱。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-19T12:00:01Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T12:22:37.021647Z",
+      "updatedAt": "2026-10-19T12:22:37.021647Z"
+    },
+    {
+      "id": "rss-45e9141fa3785d9417d981a8",
+      "title": "法国总理在寻求部分宵禁时, 指责“左倾”利用抗议 — — 欧洲现场直播",
+      "originalTitle": "French PM blames ‘ultra-left’ for exploiting protests as he seeks partial curfews – Europe live",
+      "summary": "塞巴斯蒂安·勒莫诺(Sébastien Legornu)说,在法国各地逮捕了2 400名法国总理(Legornu)之后,今晚宏观批评会采取新的措施,“肆无忌惮的暴力 ” 。 他要求省长在某些“地方化的”城市地区实施“部分宵禁 ” , 以阻止进一步混乱,他认为这是“极端左派”和一些犯罪分子所认为的。 我们无疑会听到更多关于这场骚乱的消息。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-19T11:44:58Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T12:22:37.021647Z",
+      "updatedAt": "2026-10-19T12:22:37.021647Z"
+    },
+    {
+      "id": "rss-b3c5e879a09c087c303bbecc",
+      "title": "巴西第二轮投票前 个人攻击引发了辩论",
+      "originalTitle": "Personal attacks fire up debate before Brazil's run-off vote",
+      "summary": "比赛在左翼阵营和右翼挑战者决斗前几天就热了（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-19T11:41:24Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T12:22:37.021647Z",
+      "updatedAt": "2026-10-19T12:22:37.021647Z"
+    },
+    {
+      "id": "rss-999faf7151b533752e76e2a2",
+      "title": "意大利总理梅洛尼在周末发生暴力冲突后举行紧急会议",
+      "originalTitle": "Italian PM Meloni to hold emergency meeting after weekend of violent clashes",
+      "summary": "意大利媒体报导说,200多人在城市发生两天暴乱期间被拘留。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-19T11:23:36Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T12:22:37.021647Z",
+      "updatedAt": "2026-10-19T12:22:37.021647Z"
+    },
+    {
+      "id": "rss-95b5add82a9944f0488532f3",
+      "title": "独立议员Helen Haines受重伤后,",
+      "originalTitle": "‘Deeply appalled’: politicians condemn alleged attack after independent MP Helen Haines critically injured",
+      "summary": "Anthony Albanese说,他的想法与Indi MP有关,因为他在Wangaratta逮捕了司机,Helen Haines, 议员据称在Victoria遭到袭击。 据我们所知,到目前为止,我们得到了我们新的政治电子邮件、免费应用程序或每日新闻播报。 独立议员Helen Haines在维多利亚州Wangaratta的选民办公室外遭到袭击,据称汽车遭到重伤。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-19T11:10:09Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T12:22:37.021647Z",
+      "updatedAt": "2026-10-19T12:22:37.021647Z"
+    },
+    {
+      "id": "rss-119019f48ebc14b1ea788206",
+      "title": "总理在因迪·海因斯议员受伤后`深感震惊',",
+      "originalTitle": "Premier ‘deeply appalled’ after Indi MP Haines injured – as it happened",
+      "summary": "这个博客现已关闭, `深感震惊 ' :政治人物谴责Helen Haines严重伤害Helen Haines后所指控的攻击事件,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-19T10:44:09Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/live/2026/oct/19/helen-haines-updates-independent-mp-injured-in-incident-wangaratta-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T12:22:37.021647Z",
+      "updatedAt": "2026-10-19T12:22:37.021647Z"
+    },
+    {
+      "id": "rss-f3947b7b015ee2f256b96e9e",
+      "title": "特鲁迪飓风威胁着墨西哥太平洋海岸和希腊遭受致命的洪水袭击",
+      "originalTitle": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+      "summary": "特鲁迪在接到强风和大雨的警告后,被热带风暴削弱,而在希腊,有一人丧生。 与平静的大西洋飓风季节相比,在太平洋,特鲁迪一直在活动,这是最新命名的第22个系统。 第二类飓风在墨西哥海岸西南约100英里处,这意味着情况最糟糕的是,在西南约160公里处。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-19T10:07:09Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T12:22:37.021647Z",
+      "updatedAt": "2026-10-19T12:22:37.021647Z"
+    },
+    {
+      "id": "rss-7787377ffa110c6b74126bf4",
+      "title": "加拿大军事基地的致命火力移动了1公里“30至60秒”。",
+      "originalTitle": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "summary": "据报导,以惊人的速度蔓延的火焰杀死了4人,打伤了数十人。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-19T09:40:44Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T12:22:37.021647Z",
+      "updatedAt": "2026-10-19T12:22:37.021647Z"
+    },
+    {
+      "id": "rss-798ecf9e454bfa7b7dfeab18",
+      "title": "澳大利亚人权报告认为,孕妇面临工作场所的敌意和 \" 虚假的冗余 \" 。",
+      "originalTitle": "Pregnant women face workplace hostility and ‘sham redundancies’, Australian human rights report finds",
+      "summary": "根据澳大利亚人权通讯社的报导, 性歧视专员常说, 在父母歧视个案中, `有投诉责任的是女性'。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-19T09:30:03Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/19/pregnant-women-being-forced-out-of-employment-through-sham-redundancies-australian-human-rights-report-finds"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T12:22:37.021647Z",
+      "updatedAt": "2026-10-19T12:22:37.021647Z"
+    },
+    {
+      "id": "rss-175e0532f2544baad70ed60b",
+      "title": "在AI繁荣刺激出口之后,中国的经济增长快于预测",
+      "originalTitle": "China’s economy grows faster than forecast after AI boom boosts exports",
+      "summary": "第三季度的GDP比去年增长了4.5%,因为去年的工业产出受到电子需求推动。 商业现场直播 — — 最新最新消息是今年第三季度中国经济增长的加速,工厂产出增长快于消费支出。 7月至9月,中国国家统计局报告说,中国GDP年同比增长4.5 % 。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-10-19T09:27:04Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T12:22:37.021647Z",
+      "updatedAt": "2026-10-19T12:22:37.021647Z"
+    },
+    {
+      "id": "rss-0de891a8c832204a842b330c",
+      "title": "艾伯塔省前往民意调查,决定是否就与加拿大分离问题进行投票",
+      "originalTitle": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
+      "summary": "投票表明,大多数艾伯塔人赞成留在该国,尽管仅辩论就证明是分裂的。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-19T09:24:33Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T12:22:37.021647Z",
+      "updatedAt": "2026-10-19T12:22:37.021647Z"
+    },
+    {
+      "id": "rss-a4c4fedc7b827c9be2b4666e",
+      "title": "研究人员说,Amelia Earhart的飞机可能残骸可能是树",
+      "originalTitle": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
+      "summary": "研究人员前往一个偏远的太平洋岛屿,确认2020年卫星图像上首次发现的物体是否解决了飞行员失踪的奥秘。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-19T09:11:42Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T12:22:37.021647Z",
+      "updatedAt": "2026-10-19T12:22:37.021647Z"
+    },
+    {
+      "id": "rss-5051961f5d0fe870664caedb",
+      "title": "在日本节日中,三起浮压致死事件引发了安全问题",
+      "originalTitle": "Three deaths from float crushes raise safety concerns over Japanese festivals",
+      "summary": "Saijo副市长在其他地方两起类似事件发生几天后被困在浮上之后死亡。 一名当地高级官员在周末被压倒在浮上之后,在两名男子在该国另一地区因类似事件死亡后几天,日本传统节日的安全日益受到关注。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-19T09:08:34Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T12:22:37.021647Z",
+      "updatedAt": "2026-10-19T12:22:37.021647Z"
+    },
+    {
+      "id": "rss-3a498495986c6656c7c4a494",
+      "title": "Zelenskyy说,美国没有警告我们俄罗斯袭击基辅发电厂。",
+      "originalTitle": "US gave us no warning of Russian strikes on Kyiv power plants, Zelenskyy says",
+      "summary": "乌克兰总统指责华盛顿在与特朗普的争吵中“否认现实”, 指责他显然支持莫斯科,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-19T09:03:55Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/19/no-us-warning-russian-strikes-kyiv-power-plants-zelenskyy-ukraine-trump"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T12:22:37.021647Z",
+      "updatedAt": "2026-10-19T12:22:37.021647Z"
+    },
+    {
+      "id": "rss-fca1d157876e3c1691d4933e",
+      "title": "孟加拉国说,它没有被告知其公民被沙特阿拉伯处决",
+      "originalTitle": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
+      "summary": "沙特阿拉伯说,上周因两名孟加拉国人在清真寺犯下“不道德行为”而处决了两名孟加拉国人。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-19T08:17:19Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T12:22:37.021647Z",
+      "updatedAt": "2026-10-19T12:22:37.021647Z"
+    },
+    {
+      "id": "rss-7b86031bce6749a19e7f5c6a",
+      "title": "在Elizabeth Struhs的过失杀人案、审讯前三周,母亲认为对其他人没有直接风险。",
+      "originalTitle": "Mother assessed as posing no immediate risk to others three weeks before Elizabeth Struhs’ manslaughter, inquest hears",
+      "summary": "昆士兰州管教机构官员无法了解Kerrie Struhs过去犯罪的细节,包括忽视儿童。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-19T07:39:47Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/19/mother-assessed-as-posing-no-immediate-risk-to-others-three-weeks-before-elizabeth-struhs-manslaughter-inquest-hears-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T12:22:37.021647Z",
+      "updatedAt": "2026-10-19T12:22:37.021647Z"
+    },
+    {
+      "id": "rss-329ea0e801f0cec329b96202",
+      "title": "法国被债务变卖作为抗议不稳的投资者所打击",
+      "originalTitle": "France hit by debt sell-off as protests unnerve investors",
+      "summary": "法国和德国之间10年的借贷成本差异在暴力爆发后有所扩大。 商业现场 — — 法国在周末发生暴力抗议,导致公共建筑被烧毁,数百家商店被抢劫,数千人被捕。 法国近2400人被捕,其中前身是法国。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-19T07:32:59Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T12:22:37.021647Z",
+      "updatedAt": "2026-10-19T12:22:37.021647Z"
+    },
+    {
+      "id": "rss-b7cab3ee8afd0bca9278588a",
+      "title": "观察:在巴黎暴乱中,商店被抢劫,餐馆被夷为平地",
+      "originalTitle": "Watch: Shops looted and restaurants gutted in Paris riots",
+      "summary": "法国各地爆发暴力事件,50多万人在周末走上街头。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-19T06:40:35Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T12:22:37.021647Z",
+      "updatedAt": "2026-10-19T12:22:37.021647Z"
+    },
+    {
+      "id": "rss-885bf00be80eecf56d8648d4",
+      "title": "教皇利奥十四世 在癌症手术后,首先感谢怀有良好愿望的人",
+      "originalTitle": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
+      "summary": "教皇自肺癌诊断和手术以来 第一次在教廷皇宫阳台上 朗诵了传统的安杰鲁斯祷告（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-18T11:09:32Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T12:22:37.021647Z",
+      "updatedAt": "2026-10-19T12:22:37.021647Z"
+    },
+    {
+      "id": "rss-cd1eb74272bdae2dfb6acadc",
+      "title": "抗议日如何在法国各地爆发混乱",
+      "originalTitle": "How day of protests unfolded as disorder breaks out across France",
+      "summary": "全国各地的示威活动演变成暴力,汽车和建筑物被点燃,商店被洗劫一空。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-17T21:33:17Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T12:22:37.021647Z",
+      "updatedAt": "2026-10-19T12:22:37.021647Z"
+    },
+    {
+      "id": "rss-e689e5ff26a2acf5b2b351d4",
+      "title": "观察:随着美国紧张局势的加剧,乌克兰会得到所需的支持吗?",
+      "originalTitle": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+      "summary": "Zelensky在与欧盟在布鲁塞尔会晤之前,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-16T15:45:10Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-19T12:22:37.021647Z",
+      "updatedAt": "2026-10-19T12:22:37.021647Z"
     }
   ],
   "history": [
@@ -5677,9 +6513,940 @@
         "firstSeen": "2026-10-19T07:40:15.171777Z",
         "updatedAt": "2026-10-19T07:40:15.171777Z"
       }
+    },
+    {
+      "eventId": "rss-df071996a89d24644bf96cc8",
+      "at": "2026-10-19T12:22:37.021647Z",
+      "data": {
+        "id": "rss-df071996a89d24644bf96cc8",
+        "title": "法国总理在暴动后呼吁实行“局部宵禁”",
+        "originalTitle": "French prime minister calls for ‘local and partial’ curfews after riots",
+        "summary": "内政部长承认警方“失去控制 ” , 包括巴黎和里昂在内的城市在“没有预期”的欧洲现场活动后,力量被淹没了。 法国总理最新消息说,在政府承认警方在全国暴力的周末抗议中“失去控制 ” , 之后,他要求地区当局在某些城市实施部分宵禁。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-19T12:02:47Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T12:22:37.021647Z",
+        "updatedAt": "2026-10-19T12:22:37.021647Z"
+      }
+    },
+    {
+      "eventId": "rss-7d64c70b69146871ea33cd22",
+      "at": "2026-10-19T12:22:37.021647Z",
+      "data": {
+        "id": "rss-7d64c70b69146871ea33cd22",
+        "title": "肯尼亚的第三个埃博拉病例突显出美国在削减关键服务时的失败",
+        "originalTitle": "Third Ebola case in Kenya highlights US failures amid Trump cuts to key services",
+        "summary": "在大规模削减资金和撤出世卫组织之后,肯尼亚反对美国领导的隔离中心。 肯尼亚第三人测试了该国有史以来头一批埃博拉病例中的Bundibugyo ebola病毒呈阳性,因为历史上第二大疫情导致该地区4 300多人死亡,9 000多人生病。 这凸显了美国在埃博拉病毒中作用的削弱。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-19T12:00:01Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T12:22:37.021647Z",
+        "updatedAt": "2026-10-19T12:22:37.021647Z"
+      }
+    },
+    {
+      "eventId": "rss-45e9141fa3785d9417d981a8",
+      "at": "2026-10-19T12:22:37.021647Z",
+      "data": {
+        "id": "rss-45e9141fa3785d9417d981a8",
+        "title": "法国总理在寻求部分宵禁时, 指责“左倾”利用抗议 — — 欧洲现场直播",
+        "originalTitle": "French PM blames ‘ultra-left’ for exploiting protests as he seeks partial curfews – Europe live",
+        "summary": "塞巴斯蒂安·勒莫诺(Sébastien Legornu)说,在法国各地逮捕了2 400名法国总理(Legornu)之后,今晚宏观批评会采取新的措施,“肆无忌惮的暴力 ” 。 他要求省长在某些“地方化的”城市地区实施“部分宵禁 ” , 以阻止进一步混乱,他认为这是“极端左派”和一些犯罪分子所认为的。 我们无疑会听到更多关于这场骚乱的消息。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-19T11:44:58Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T12:22:37.021647Z",
+        "updatedAt": "2026-10-19T12:22:37.021647Z"
+      }
+    },
+    {
+      "eventId": "rss-b3c5e879a09c087c303bbecc",
+      "at": "2026-10-19T12:22:37.021647Z",
+      "data": {
+        "id": "rss-b3c5e879a09c087c303bbecc",
+        "title": "巴西第二轮投票前 个人攻击引发了辩论",
+        "originalTitle": "Personal attacks fire up debate before Brazil's run-off vote",
+        "summary": "比赛在左翼阵营和右翼挑战者决斗前几天就热了（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-19T11:41:24Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T12:22:37.021647Z",
+        "updatedAt": "2026-10-19T12:22:37.021647Z"
+      }
+    },
+    {
+      "eventId": "rss-999faf7151b533752e76e2a2",
+      "at": "2026-10-19T12:22:37.021647Z",
+      "data": {
+        "id": "rss-999faf7151b533752e76e2a2",
+        "title": "意大利总理梅洛尼在周末发生暴力冲突后举行紧急会议",
+        "originalTitle": "Italian PM Meloni to hold emergency meeting after weekend of violent clashes",
+        "summary": "意大利媒体报导说,200多人在城市发生两天暴乱期间被拘留。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-19T11:23:36Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T12:22:37.021647Z",
+        "updatedAt": "2026-10-19T12:22:37.021647Z"
+      }
+    },
+    {
+      "eventId": "rss-95b5add82a9944f0488532f3",
+      "at": "2026-10-19T12:22:37.021647Z",
+      "data": {
+        "id": "rss-95b5add82a9944f0488532f3",
+        "title": "独立议员Helen Haines受重伤后,",
+        "originalTitle": "‘Deeply appalled’: politicians condemn alleged attack after independent MP Helen Haines critically injured",
+        "summary": "Anthony Albanese说,他的想法与Indi MP有关,因为他在Wangaratta逮捕了司机,Helen Haines, 议员据称在Victoria遭到袭击。 据我们所知,到目前为止,我们得到了我们新的政治电子邮件、免费应用程序或每日新闻播报。 独立议员Helen Haines在维多利亚州Wangaratta的选民办公室外遭到袭击,据称汽车遭到重伤。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-19T11:10:09Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T12:22:37.021647Z",
+        "updatedAt": "2026-10-19T12:22:37.021647Z"
+      }
+    },
+    {
+      "eventId": "rss-119019f48ebc14b1ea788206",
+      "at": "2026-10-19T12:22:37.021647Z",
+      "data": {
+        "id": "rss-119019f48ebc14b1ea788206",
+        "title": "总理在因迪·海因斯议员受伤后`深感震惊',",
+        "originalTitle": "Premier ‘deeply appalled’ after Indi MP Haines injured – as it happened",
+        "summary": "这个博客现已关闭, `深感震惊 ' :政治人物谴责Helen Haines严重伤害Helen Haines后所指控的攻击事件,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-19T10:44:09Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/live/2026/oct/19/helen-haines-updates-independent-mp-injured-in-incident-wangaratta-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T12:22:37.021647Z",
+        "updatedAt": "2026-10-19T12:22:37.021647Z"
+      }
+    },
+    {
+      "eventId": "rss-f3947b7b015ee2f256b96e9e",
+      "at": "2026-10-19T12:22:37.021647Z",
+      "data": {
+        "id": "rss-f3947b7b015ee2f256b96e9e",
+        "title": "特鲁迪飓风威胁着墨西哥太平洋海岸和希腊遭受致命的洪水袭击",
+        "originalTitle": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+        "summary": "特鲁迪在接到强风和大雨的警告后,被热带风暴削弱,而在希腊,有一人丧生。 与平静的大西洋飓风季节相比,在太平洋,特鲁迪一直在活动,这是最新命名的第22个系统。 第二类飓风在墨西哥海岸西南约100英里处,这意味着情况最糟糕的是,在西南约160公里处。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-19T10:07:09Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T12:22:37.021647Z",
+        "updatedAt": "2026-10-19T12:22:37.021647Z"
+      }
+    },
+    {
+      "eventId": "rss-7787377ffa110c6b74126bf4",
+      "at": "2026-10-19T12:22:37.021647Z",
+      "data": {
+        "id": "rss-7787377ffa110c6b74126bf4",
+        "title": "加拿大军事基地的致命火力移动了1公里“30至60秒”。",
+        "originalTitle": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+        "summary": "据报导,以惊人的速度蔓延的火焰杀死了4人,打伤了数十人。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-19T09:40:44Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T12:22:37.021647Z",
+        "updatedAt": "2026-10-19T12:22:37.021647Z"
+      }
+    },
+    {
+      "eventId": "rss-798ecf9e454bfa7b7dfeab18",
+      "at": "2026-10-19T12:22:37.021647Z",
+      "data": {
+        "id": "rss-798ecf9e454bfa7b7dfeab18",
+        "title": "澳大利亚人权报告认为,孕妇面临工作场所的敌意和 \" 虚假的冗余 \" 。",
+        "originalTitle": "Pregnant women face workplace hostility and ‘sham redundancies’, Australian human rights report finds",
+        "summary": "根据澳大利亚人权通讯社的报导, 性歧视专员常说, 在父母歧视个案中, `有投诉责任的是女性'。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-19T09:30:03Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/19/pregnant-women-being-forced-out-of-employment-through-sham-redundancies-australian-human-rights-report-finds"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T12:22:37.021647Z",
+        "updatedAt": "2026-10-19T12:22:37.021647Z"
+      }
+    },
+    {
+      "eventId": "rss-175e0532f2544baad70ed60b",
+      "at": "2026-10-19T12:22:37.021647Z",
+      "data": {
+        "id": "rss-175e0532f2544baad70ed60b",
+        "title": "在AI繁荣刺激出口之后,中国的经济增长快于预测",
+        "originalTitle": "China’s economy grows faster than forecast after AI boom boosts exports",
+        "summary": "第三季度的GDP比去年增长了4.5%,因为去年的工业产出受到电子需求推动。 商业现场直播 — — 最新最新消息是今年第三季度中国经济增长的加速,工厂产出增长快于消费支出。 7月至9月,中国国家统计局报告说,中国GDP年同比增长4.5 % 。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-10-19T09:27:04Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T12:22:37.021647Z",
+        "updatedAt": "2026-10-19T12:22:37.021647Z"
+      }
+    },
+    {
+      "eventId": "rss-0de891a8c832204a842b330c",
+      "at": "2026-10-19T12:22:37.021647Z",
+      "data": {
+        "id": "rss-0de891a8c832204a842b330c",
+        "title": "艾伯塔省前往民意调查,决定是否就与加拿大分离问题进行投票",
+        "originalTitle": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
+        "summary": "投票表明,大多数艾伯塔人赞成留在该国,尽管仅辩论就证明是分裂的。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-19T09:24:33Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T12:22:37.021647Z",
+        "updatedAt": "2026-10-19T12:22:37.021647Z"
+      }
+    },
+    {
+      "eventId": "rss-a4c4fedc7b827c9be2b4666e",
+      "at": "2026-10-19T12:22:37.021647Z",
+      "data": {
+        "id": "rss-a4c4fedc7b827c9be2b4666e",
+        "title": "研究人员说,Amelia Earhart的飞机可能残骸可能是树",
+        "originalTitle": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
+        "summary": "研究人员前往一个偏远的太平洋岛屿,确认2020年卫星图像上首次发现的物体是否解决了飞行员失踪的奥秘。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-19T09:11:42Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T12:22:37.021647Z",
+        "updatedAt": "2026-10-19T12:22:37.021647Z"
+      }
+    },
+    {
+      "eventId": "rss-5051961f5d0fe870664caedb",
+      "at": "2026-10-19T12:22:37.021647Z",
+      "data": {
+        "id": "rss-5051961f5d0fe870664caedb",
+        "title": "在日本节日中,三起浮压致死事件引发了安全问题",
+        "originalTitle": "Three deaths from float crushes raise safety concerns over Japanese festivals",
+        "summary": "Saijo副市长在其他地方两起类似事件发生几天后被困在浮上之后死亡。 一名当地高级官员在周末被压倒在浮上之后,在两名男子在该国另一地区因类似事件死亡后几天,日本传统节日的安全日益受到关注。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-19T09:08:34Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T12:22:37.021647Z",
+        "updatedAt": "2026-10-19T12:22:37.021647Z"
+      }
+    },
+    {
+      "eventId": "rss-3a498495986c6656c7c4a494",
+      "at": "2026-10-19T12:22:37.021647Z",
+      "data": {
+        "id": "rss-3a498495986c6656c7c4a494",
+        "title": "Zelenskyy说,美国没有警告我们俄罗斯袭击基辅发电厂。",
+        "originalTitle": "US gave us no warning of Russian strikes on Kyiv power plants, Zelenskyy says",
+        "summary": "乌克兰总统指责华盛顿在与特朗普的争吵中“否认现实”, 指责他显然支持莫斯科,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-19T09:03:55Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/19/no-us-warning-russian-strikes-kyiv-power-plants-zelenskyy-ukraine-trump"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T12:22:37.021647Z",
+        "updatedAt": "2026-10-19T12:22:37.021647Z"
+      }
+    },
+    {
+      "eventId": "rss-fca1d157876e3c1691d4933e",
+      "at": "2026-10-19T12:22:37.021647Z",
+      "data": {
+        "id": "rss-fca1d157876e3c1691d4933e",
+        "title": "孟加拉国说,它没有被告知其公民被沙特阿拉伯处决",
+        "originalTitle": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
+        "summary": "沙特阿拉伯说,上周因两名孟加拉国人在清真寺犯下“不道德行为”而处决了两名孟加拉国人。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-19T08:17:19Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T12:22:37.021647Z",
+        "updatedAt": "2026-10-19T12:22:37.021647Z"
+      }
+    },
+    {
+      "eventId": "rss-7b86031bce6749a19e7f5c6a",
+      "at": "2026-10-19T12:22:37.021647Z",
+      "data": {
+        "id": "rss-7b86031bce6749a19e7f5c6a",
+        "title": "在Elizabeth Struhs的过失杀人案、审讯前三周,母亲认为对其他人没有直接风险。",
+        "originalTitle": "Mother assessed as posing no immediate risk to others three weeks before Elizabeth Struhs’ manslaughter, inquest hears",
+        "summary": "昆士兰州管教机构官员无法了解Kerrie Struhs过去犯罪的细节,包括忽视儿童。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-19T07:39:47Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/19/mother-assessed-as-posing-no-immediate-risk-to-others-three-weeks-before-elizabeth-struhs-manslaughter-inquest-hears-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T12:22:37.021647Z",
+        "updatedAt": "2026-10-19T12:22:37.021647Z"
+      }
+    },
+    {
+      "eventId": "rss-329ea0e801f0cec329b96202",
+      "at": "2026-10-19T12:22:37.021647Z",
+      "data": {
+        "id": "rss-329ea0e801f0cec329b96202",
+        "title": "法国被债务变卖作为抗议不稳的投资者所打击",
+        "originalTitle": "France hit by debt sell-off as protests unnerve investors",
+        "summary": "法国和德国之间10年的借贷成本差异在暴力爆发后有所扩大。 商业现场 — — 法国在周末发生暴力抗议,导致公共建筑被烧毁,数百家商店被抢劫,数千人被捕。 法国近2400人被捕,其中前身是法国。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-19T07:32:59Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T12:22:37.021647Z",
+        "updatedAt": "2026-10-19T12:22:37.021647Z"
+      }
+    },
+    {
+      "eventId": "rss-b7cab3ee8afd0bca9278588a",
+      "at": "2026-10-19T12:22:37.021647Z",
+      "data": {
+        "id": "rss-b7cab3ee8afd0bca9278588a",
+        "title": "观察:在巴黎暴乱中,商店被抢劫,餐馆被夷为平地",
+        "originalTitle": "Watch: Shops looted and restaurants gutted in Paris riots",
+        "summary": "法国各地爆发暴力事件,50多万人在周末走上街头。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-19T06:40:35Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T12:22:37.021647Z",
+        "updatedAt": "2026-10-19T12:22:37.021647Z"
+      }
+    },
+    {
+      "eventId": "rss-885bf00be80eecf56d8648d4",
+      "at": "2026-10-19T12:22:37.021647Z",
+      "data": {
+        "id": "rss-885bf00be80eecf56d8648d4",
+        "title": "教皇利奥十四世 在癌症手术后,首先感谢怀有良好愿望的人",
+        "originalTitle": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
+        "summary": "教皇自肺癌诊断和手术以来 第一次在教廷皇宫阳台上 朗诵了传统的安杰鲁斯祷告（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-18T11:09:32Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T12:22:37.021647Z",
+        "updatedAt": "2026-10-19T12:22:37.021647Z"
+      }
+    },
+    {
+      "eventId": "rss-cd1eb74272bdae2dfb6acadc",
+      "at": "2026-10-19T12:22:37.021647Z",
+      "data": {
+        "id": "rss-cd1eb74272bdae2dfb6acadc",
+        "title": "抗议日如何在法国各地爆发混乱",
+        "originalTitle": "How day of protests unfolded as disorder breaks out across France",
+        "summary": "全国各地的示威活动演变成暴力,汽车和建筑物被点燃,商店被洗劫一空。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-17T21:33:17Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T12:22:37.021647Z",
+        "updatedAt": "2026-10-19T12:22:37.021647Z"
+      }
+    },
+    {
+      "eventId": "rss-e689e5ff26a2acf5b2b351d4",
+      "at": "2026-10-19T12:22:37.021647Z",
+      "data": {
+        "id": "rss-e689e5ff26a2acf5b2b351d4",
+        "title": "观察:随着美国紧张局势的加剧,乌克兰会得到所需的支持吗?",
+        "originalTitle": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+        "summary": "Zelensky在与欧盟在布鲁塞尔会晤之前,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-16T15:45:10Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-19T12:22:37.021647Z",
+        "updatedAt": "2026-10-19T12:22:37.021647Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-10-19T12:22:37.021647Z",
+      "at": "2026-10-19T12:22:37.021647Z",
+      "kind": "GitHub Actions 采集",
+      "count": 22,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 10}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 0}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 12}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 0}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-10-19T07:40:15.171777Z",
       "at": "2026-10-19T07:40:15.171777Z",
