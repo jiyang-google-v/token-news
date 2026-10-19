@@ -1,11 +1,16 @@
 name: 海外新闻采集与中文评分
 on:
   schedule:
-    # GitHub cron 使用 UTC；00:00 / 12:00 = 北京时间 08:00 / 20:00
+    # UTC 00:00 / 12:00 = 北京时间 08:00 / 20:00；可能排队延迟
     - cron: '0 0,12 * * *'
   workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/update-news.yml'
+      - 'scripts/update_news.py'
+      - 'scripts/news-requirements.txt'
 permissions:
-  contents: read
+  contents: write
 concurrency:
   group: narrative-radar-news
   cancel-in-progress: false
@@ -14,20 +19,14 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 40
     env:
-      SITE_URL: ${{ vars.SITE_URL || 'https://narrative-radar.plumbean16.chatgpt.site' }}
-      SITE_SERVICE_TOKEN: ${{ secrets.SITE_SERVICE_TOKEN }}
       HF_HUB_DISABLE_TELEMETRY: '1'
       HF_HUB_DISABLE_XET: '1'
       TOKENIZERS_PARALLELISM: 'false'
     steps:
-      - name: 检查网站同步凭据
-        shell: bash
-        run: |
-          if [ -z "$SITE_SERVICE_TOKEN" ]; then
-            echo "::error::请先在仓库 Actions Secrets 中配置 SITE_SERVICE_TOKEN；尚未执行更新。"
-            exit 1
-          fi
       - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -41,7 +40,22 @@ jobs:
         run: |
           python -m pip install torch==2.8.0 --index-url https://download.pytorch.org/whl/cpu
           python -m pip install -r scripts/news-requirements.txt
-      - name: 核验采集与去重逻辑
+      - name: 核验采集、去重与保存逻辑
         run: python -m unittest discover -s tests -p 'test_news.py'
-      - name: 收集、中文化、评分并同步网站
+      - name: 收集、中文化并保存新闻 JSON
+        id: collect
         run: python scripts/update_news.py
+      - name: 将新闻提交到仓库
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/news.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'data: 更新海外中文新闻与初筛评分'
+          # If a person pushed while collection ran, abort instead of overwriting.
+          git push origin HEAD:main
+      - name: 报告部分来源失败
+        if: steps.collect.outputs.partial == 'true'
+        run: |
+          echo '::error::成功项已提交，部分来源或翻译失败，请查看运行摘要；失败项下次重试。'
+          exit 1
