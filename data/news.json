@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-20T00:16:14.807755Z",
+  "updatedAt": "2026-10-20T12:19:38.688674Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -5200,6 +5200,1032 @@
       "tokens": [],
       "firstSeen": "2026-10-20T00:16:14.807755Z",
       "updatedAt": "2026-10-20T00:16:14.807755Z"
+    },
+    {
+      "id": "rss-1a9bb903c0ede7207cef2e1c",
+      "title": "Google Cloud说,英国银行和网站停电后会发生“电力事件”。",
+      "originalTitle": "Google Cloud says 'power event' behind outage hitting UK banks and websites",
+      "summary": "从那时起,它就与一些服务有关,最突出的是英国新银行革命党,在星期二上午倒闭给顾客或给病人带来麻烦。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-20T12:09:25Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-20T12:19:38.688674Z",
+      "updatedAt": "2026-10-20T12:19:38.688674Z"
+    },
+    {
+      "id": "rss-ef624b68b0213a9bd9e04b71",
+      "title": "Zelensky准备与美国特使进行奥斯陆会谈,因为Rubio否认隐瞒情报",
+      "originalTitle": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
+      "summary": "美国国务卿否认乌克兰人因美国隐瞒情报而死亡的指控。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-20T12:08:41Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-20T12:19:38.688674Z",
+      "updatedAt": "2026-10-20T12:19:38.688674Z"
+    },
+    {
+      "id": "rss-a140491b8307de63b2cdc3f5",
+      "title": "每天给亚马逊人2英镑 帮助保护雨林 实验项目发现",
+      "originalTitle": "Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds",
+      "summary": "研究人员说,秘鲁近90%的无条件基本收入计划参与者采取了有利于环境的做法。 根据一项研究,向秘鲁亚马孙地区土著人民提供无条件基本收入的开创性项目有助于保护雨林。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-20T12:00:36Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-20T12:19:38.688674Z",
+      "updatedAt": "2026-10-20T12:19:38.688674Z"
+    },
+    {
+      "id": "rss-fce282284b9ed000a4cf6c2f",
+      "title": "点播已付的播客会员资格,",
+      "originalTitle": "Spotify launches paid podcast memberships with perks beyond bonus content",
+      "summary": "让播客提供独家服务, 包括免费收听、早期访问和奖金内容, 同时保留90%的收入。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-20T12:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-20T12:19:38.688674Z",
+      "updatedAt": "2026-10-20T12:19:38.688674Z"
+    },
+    {
+      "id": "rss-2422ed57b08ce42d2259bd08",
+      "title": "欧拉添加了新的健身量度 以显示锻炼对身体的影响",
+      "originalTitle": "Oura adds new fitness metrics to show how workouts impact your body",
+      "summary": "虽然Ourea多年来一直主导着智能环市场,但RingConn和超人等竞争对手正在崛起,要求该公司保持创新。 有了更先进的锻炼度量,Ourea正在寻求在智能环市场越来越拥挤的情况下将自己与竞争者区分开来。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-20T12:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-20T12:19:38.688674Z",
+      "updatedAt": "2026-10-20T12:19:38.688674Z"
+    },
+    {
+      "id": "rss-9ac9a053adc73084085867aa",
+      "title": "总理表示, 法国城市在定点宵禁后“一夜之间降温 ” 。",
+      "originalTitle": "French cities ‘calm overnight’ after targeted curfews, prime minister says – Europe live",
+      "summary": "Sébastien Legornu建议,在周末抗议活动之后,可以实行更多的宵禁来平息动乱。 北欧记者以及Steve Witkoff、乌克兰总统沃洛季米尔·泽伦斯基(Volodymyr Zelenskyy)也将在挪威首相若纳斯·加尔·斯特尔(Jonas Gahr Støre)访问奥斯陆期间会见芬兰总统亚历山大·斯图布(Alexander Stubb)和挪威新国王哈肯(Haakon),（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-20T11:48:35Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-20T12:19:38.688674Z",
+      "updatedAt": "2026-10-20T12:19:38.688674Z"
+    },
+    {
+      "id": "rss-a8903642cc44d53a7d8bbe0a",
+      "title": "嫌犯在历史性市政厅失火后被捕 - 法国媒体",
+      "originalTitle": "Suspect arrested after historic town hall set alight - French media",
+      "summary": "Limoges市政厅钟楼的精华在周六被火焰吞没时急剧倒塌。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-20T11:47:39Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-20T12:19:38.688674Z",
+      "updatedAt": "2026-10-20T12:19:38.688674Z"
+    },
+    {
+      "id": "rss-1245b6feb5631d679450008a",
+      "title": "被控攻击澳洲议员 身为嫌犯父亲的男子 说她是家人的朋友",
+      "originalTitle": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+      "summary": "Brendan Nugent的家人说他们认识Helen Haines, 20多年来他一直处于危急状态。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-20T11:25:35Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-20T12:19:38.688674Z",
+      "updatedAt": "2026-10-20T12:19:38.688674Z"
+    },
+    {
+      "id": "rss-e788c7fc279974cc44bd3825",
+      "title": "在南非首都附近数百人生病后,居民警告不要喝自来水",
+      "originalTitle": "Residents warned not to drink tap water after hundreds fall sick near South Africa capital",
+      "summary": "在比勒陀利亚以东,有400多人,大多数是儿童,因饮用污染水而生病。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-20T11:09:09Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cvrly550780po?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-20T12:19:38.688674Z",
+      "updatedAt": "2026-10-20T12:19:38.688674Z"
+    },
+    {
+      "id": "rss-9be49e2f16c26bc0e3a8f48c",
+      "title": "意大利在几天的抗议和抢劫之后向米兰部署500名士兵",
+      "originalTitle": "Italy to deploy 500 troops to Milan after days of protests and looting",
+      "summary": "在抗议高生活费用之后,政府计划采取更严厉的安全措施。 为什么欧洲各地的人都在抗议? 意大利政府向米兰派遣了500名士兵,因为意大利政府在抗议高生活费用之后,在与警察发生冲突、破坏和抢劫以及计划进一步示威之前,发誓要“从国家那里做出肯定的反应 ” 。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-20T11:00:05Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-20T12:19:38.688674Z",
+      "updatedAt": "2026-10-20T12:19:38.688674Z"
+    },
+    {
+      "id": "rss-739162d7487a517b5d02bfa4",
+      "title": "叶尔普现在可以代你 检查餐厅的等候时间了",
+      "originalTitle": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "summary": "Yelp 正在将许多新的 AI 功能嵌入其应用程序中, 它可以做一切从呼叫到检查餐厅的等候时间, 以创建个性化的建议, 以记住您的偏好 。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-20T11:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-20T12:19:38.688674Z",
+      "updatedAt": "2026-10-20T12:19:38.688674Z"
+    },
+    {
+      "id": "rss-2bb6d52be70271119a6b2114",
+      "title": "Otter.ai从General Calyst的增长基金中为其会议工具筹集3.2亿美元",
+      "originalTitle": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+      "summary": "会议记事工具Otter.ai于星期二宣布,它从General Catalyst的客户价值基金(CVF)中筹集了3.2亿美元,该基金为新开办企业提供资本,而不削弱股本,并获得销售支出的回报。 Otter.ai说,它将利用这些资金促进企业增长、市场战略、国际扩张和产品创新。 [.]（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-10-20T11:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-20T12:19:38.688674Z",
+      "updatedAt": "2026-10-20T12:19:38.688674Z"
+    },
+    {
+      "id": "rss-14df427d5090067164f69b59",
+      "title": "Brendan Nugent的家人说Helen Haines是他们20多年的朋友",
+      "originalTitle": "Brendan Nugent’s family say Helen Haines has been their friend for more than 20 years",
+      "summary": "据称袭击独立议员的43岁的Tarrawingee男子的父亲说,事件是“令人沮丧和难以理解的 ” , 谁是Helen Haines, 议员据称在Victoria遭到袭击? 得到我们新的政治电子邮件、免费应用程序或每日新闻播客。 被指控袭击Helen Haines的43岁男子的父亲承诺与警方合作,并说这一事件“令人震撼和震惊。 ”（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-20T10:37:10Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/20/brendan-nugent-driver-alleged-attack-helen-haines-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-20T12:19:38.688674Z",
+      "updatedAt": "2026-10-20T12:19:38.688674Z"
+    },
+    {
+      "id": "rss-5edaae16d3505a343cafef0d",
+      "title": "Brendan Nugent因被控攻击Helen Haines议员而面临三项指控",
+      "originalTitle": "Brendan Nugent facing three charges over alleged attack on MP Helen Haines",
+      "summary": "维多利亚州警方在周一下午逮捕了43岁的Tarrawingee男子,此人是Helen Haines,据称议员在Victoria发动袭击。 Brendan Nugent的家属说,Haines是他们20多年的朋友。 我们的新政治电子邮件、免费应用程序或每日新闻播报Helen Haines所谓的攻击者Brendan Nugent被指控驾驶危险车辆。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-20T09:18:58Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-alleged-attacker-brendan-nugent-charged-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-20T12:19:38.688674Z",
+      "updatedAt": "2026-10-20T12:19:38.688674Z"
+    },
+    {
+      "id": "rss-d84da803b99eceb4e515cd22",
+      "title": "艾伯塔省选民拒绝离开加拿大的公民投票计划",
+      "originalTitle": "Alberta voters reject plan for referendum to leave Canada",
+      "summary": "其结果是总理马克·卡尼和加拿大艾伯塔省加拿大团结选民的支持者获胜,他们以压倒多数否决了启动独立进程的提案,为总理马克·卡尼和加拿大团结支持者赢得了胜利。 计算了超过150万张选票后,76%的支持者仍留在加拿大,而近24 % 的选民则支持启动一个进程。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-20T09:02:43Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-20T12:19:38.688674Z",
+      "updatedAt": "2026-10-20T12:19:38.688674Z"
+    },
+    {
+      "id": "rss-65ae24e3caee78600763bc40",
+      "title": "调查贝尔格莱德特朗普塔项目的塞尔维亚检察官“以间谍软件为目标”",
+      "originalTitle": "Serbian prosecutor who investigated Belgrade Trump tower project ‘targeted with spyware’",
+      "summary": "专家分析显示,显然有人企图黑进Rade Bajis iPhone,企图破坏具有里程碑意义的刑事案件。 一位塞尔维亚检察官调查了当局据称帮助特朗普斯在贝尔格莱德建造一座塔的非法阴谋。 专家分析显示,这一调查结果表明,在塞尔维亚独裁政权的破坏运动中,出现了一个令人不安的新因素。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-20T09:00:21Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/20/serbia-prosecutor-belgrade-trump-tower-project-targeted-spyware"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-20T12:19:38.688674Z",
+      "updatedAt": "2026-10-20T12:19:38.688674Z"
+    },
+    {
+      "id": "rss-754bf5eeaea9794bd506a5c0",
+      "title": "为何以色列共和党选民被吸引到最右边",
+      "originalTitle": "Why Israeli Gen Z voters are drawn to the far right",
+      "summary": "下星期将有50多万年轻人在以色列投票,他们可以发挥所有作用。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-20T08:53:06Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-20T12:19:38.688674Z",
+      "updatedAt": "2026-10-20T12:19:38.688674Z"
+    },
+    {
+      "id": "rss-c5b810ff90b0027bfdcd405a",
+      "title": "让Ziggy加入其中:David Bowie的自我改变激励舞蹈表演,",
+      "originalTitle": "Getting Ziggy with it: David Bowie’s alter egos inspire dance show that will transform his songs",
+      "summary": "以改变为主题:大卫·鲍伊的舞蹈将探索音乐家“表演一种艺术转世形式 ” , 马科斯·莫劳(Marcos Morou)说“让我们跳舞 ” 。 1983年,他唱了大卫·鲍伊的歌 : “ 穿上红鞋跳蓝调 ” 。 这一呼声应该通过国际舞蹈节目 — — 与鞋类TBC — — 来回应,其中将包含他整个音乐的新的合唱安排。 ”（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-20T07:30:19Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/stage/2026/oct/20/david-bowie-dance-marcos-morau"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-20T12:19:38.688674Z",
+      "updatedAt": "2026-10-20T12:19:38.688674Z"
+    },
+    {
+      "id": "rss-76faeee63fa288008ee4c1ce",
+      "title": "黑墙将估值翻四番到2.2B,",
+      "originalTitle": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+      "summary": "Blackwall以2.2B的估值筹集了1亿美元,以继续建造安全和过滤工具,帮助网站应对不断增长的机器人和AI流量。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-20T07:01:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-20T12:19:38.688674Z",
+      "updatedAt": "2026-10-20T12:19:38.688674Z"
+    },
+    {
+      "id": "rss-84f43d60f6a0a9cf705fcf9d",
+      "title": "维多利亚州验尸官提供22岁死亡的刺痛结果。",
+      "originalTitle": "A young life ‘dominated by gambling’: Victorian coroner delivers stinging findings on death of 22-year-old",
+      "summary": "网上赌博是凯尔·哈德逊决定自杀背后的`直接和最重要的 ' 原因。 调查发现我们突发新闻电子邮件、免费应用程序或每日新闻播客凯尔·哈德逊是“一个充满希望的年轻人 ” , 一个充满爱心和支持的伴侣、家人和朋友以及前景。 “这是一个近乎理想的画面 — — 除了网上体育赌博对他造成的束缚之外 , ” 。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-20T06:29:05Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/20/kyle-hudson-inquest-victorian-coroner-gambling-online-betting-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-20T12:19:38.688674Z",
+      "updatedAt": "2026-10-20T12:19:38.688674Z"
+    },
+    {
+      "id": "rss-5f5ed2da3fd0ea68d1c26a08",
+      "title": "美国经济在特朗普总统统治下如何?",
+      "originalTitle": "How is the US economy really doing under President Trump?",
+      "summary": "特朗普(Trump)在期中赛前夸耀了美国经济的表现。 英国广播公司(BBC)核查了美国的通货膨胀、就业和经济增长。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-20T05:00:45Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-20T12:19:38.688674Z",
+      "updatedAt": "2026-10-20T12:19:38.688674Z"
+    },
+    {
+      "id": "rss-a5adb4e1f5c543fc0796dd12",
+      "title": "旅游者从城中偷盗拉斯维加斯火烈鸟后被判有罪",
+      "originalTitle": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
+      "summary": "该名男子作证说,他饮了30至40瓶啤酒,从Flamingo旅馆和赌场的Pachey的院子里抢走了Pachey,但并未造成任何伤害。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-20T03:10:39Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-20T12:19:38.688674Z",
+      "updatedAt": "2026-10-20T12:19:38.688674Z"
+    },
+    {
+      "id": "rss-d553e1b9af4185c5b144bc6a",
+      "title": "阿尔巴尼亚抗议者与警察之间发生暴力冲突的第七天",
+      "originalTitle": "Seventh day of violent clashes between Albanian protesters and police",
+      "summary": "近300人受伤,其中一半以上是警察,因为暴力反政府示威没有放松的迹象。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-20T02:45:05Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-20T12:19:38.688674Z",
+      "updatedAt": "2026-10-20T12:19:38.688674Z"
+    },
+    {
+      "id": "rss-2bd238535e48e95d389fe241",
+      "title": "沃尔玛(Walmart)的Flipkart正在印度静静地建立一个食品运送挑战者。",
+      "originalTitle": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+      "summary": "Flipkart在其公开启动之前,扩大了向数千名雇员提供食品服务的机会。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-20T02:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-20T12:19:38.688674Z",
+      "updatedAt": "2026-10-20T12:19:38.688674Z"
+    },
+    {
+      "id": "rss-a608b97bceb1e7261a121c27",
+      "title": "Mamdani说联邦调查局已经放弃AI了 要求纽约人退缩",
+      "originalTitle": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "summary": "市长Zohran Mamdani在周一晚上说,纽约人必须抵制这样的说法,即人工智能的接管是不可避免的,并要求制定保护公众并将权力交回他们手中的条例。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-10-20T01:27:03Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-20T12:19:38.688674Z",
+      "updatedAt": "2026-10-20T12:19:38.688674Z"
+    },
+    {
+      "id": "rss-e76126b0ebbf01e0cf6826f9",
+      "title": "任务向火星飞去 以抢夺月球的一块",
+      "originalTitle": "Mission blasts off for Mars to grab a piece of its moon",
+      "summary": "一颗航天器将投入雄心勃勃的飞行任务 将10克火星月尘带回地球（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-19T19:45:46Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-20T12:19:38.688674Z",
+      "updatedAt": "2026-10-20T12:19:38.688674Z"
+    },
+    {
+      "id": "rss-e43025f9a3ce3ae984fcf358",
+      "title": "法国掠夺者列出供出售的被盗货物",
+      "originalTitle": "Vinted blocks French looters listing stolen goods for sale",
+      "summary": "该平台说,自周末以来,它“立即采取行动,查明并删除与抢劫有关的清单”。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-19T16:46:35Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-20T12:19:38.688674Z",
+      "updatedAt": "2026-10-20T12:19:38.688674Z"
     }
   ],
   "history": [
@@ -10957,9 +11983,1150 @@
         "firstSeen": "2026-10-20T00:16:14.807755Z",
         "updatedAt": "2026-10-20T00:16:14.807755Z"
       }
+    },
+    {
+      "eventId": "rss-1a9bb903c0ede7207cef2e1c",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "data": {
+        "id": "rss-1a9bb903c0ede7207cef2e1c",
+        "title": "Google Cloud说,英国银行和网站停电后会发生“电力事件”。",
+        "originalTitle": "Google Cloud says 'power event' behind outage hitting UK banks and websites",
+        "summary": "从那时起,它就与一些服务有关,最突出的是英国新银行革命党,在星期二上午倒闭给顾客或给病人带来麻烦。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-20T12:09:25Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-20T12:19:38.688674Z",
+        "updatedAt": "2026-10-20T12:19:38.688674Z"
+      }
+    },
+    {
+      "eventId": "rss-ef624b68b0213a9bd9e04b71",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "data": {
+        "id": "rss-ef624b68b0213a9bd9e04b71",
+        "title": "Zelensky准备与美国特使进行奥斯陆会谈,因为Rubio否认隐瞒情报",
+        "originalTitle": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
+        "summary": "美国国务卿否认乌克兰人因美国隐瞒情报而死亡的指控。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-20T12:08:41Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-20T12:19:38.688674Z",
+        "updatedAt": "2026-10-20T12:19:38.688674Z"
+      }
+    },
+    {
+      "eventId": "rss-a140491b8307de63b2cdc3f5",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "data": {
+        "id": "rss-a140491b8307de63b2cdc3f5",
+        "title": "每天给亚马逊人2英镑 帮助保护雨林 实验项目发现",
+        "originalTitle": "Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds",
+        "summary": "研究人员说,秘鲁近90%的无条件基本收入计划参与者采取了有利于环境的做法。 根据一项研究,向秘鲁亚马孙地区土著人民提供无条件基本收入的开创性项目有助于保护雨林。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-20T12:00:36Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-20T12:19:38.688674Z",
+        "updatedAt": "2026-10-20T12:19:38.688674Z"
+      }
+    },
+    {
+      "eventId": "rss-fce282284b9ed000a4cf6c2f",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "data": {
+        "id": "rss-fce282284b9ed000a4cf6c2f",
+        "title": "点播已付的播客会员资格,",
+        "originalTitle": "Spotify launches paid podcast memberships with perks beyond bonus content",
+        "summary": "让播客提供独家服务, 包括免费收听、早期访问和奖金内容, 同时保留90%的收入。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-20T12:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-20T12:19:38.688674Z",
+        "updatedAt": "2026-10-20T12:19:38.688674Z"
+      }
+    },
+    {
+      "eventId": "rss-2422ed57b08ce42d2259bd08",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "data": {
+        "id": "rss-2422ed57b08ce42d2259bd08",
+        "title": "欧拉添加了新的健身量度 以显示锻炼对身体的影响",
+        "originalTitle": "Oura adds new fitness metrics to show how workouts impact your body",
+        "summary": "虽然Ourea多年来一直主导着智能环市场,但RingConn和超人等竞争对手正在崛起,要求该公司保持创新。 有了更先进的锻炼度量,Ourea正在寻求在智能环市场越来越拥挤的情况下将自己与竞争者区分开来。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-20T12:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-20T12:19:38.688674Z",
+        "updatedAt": "2026-10-20T12:19:38.688674Z"
+      }
+    },
+    {
+      "eventId": "rss-9ac9a053adc73084085867aa",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "data": {
+        "id": "rss-9ac9a053adc73084085867aa",
+        "title": "总理表示, 法国城市在定点宵禁后“一夜之间降温 ” 。",
+        "originalTitle": "French cities ‘calm overnight’ after targeted curfews, prime minister says – Europe live",
+        "summary": "Sébastien Legornu建议,在周末抗议活动之后,可以实行更多的宵禁来平息动乱。 北欧记者以及Steve Witkoff、乌克兰总统沃洛季米尔·泽伦斯基(Volodymyr Zelenskyy)也将在挪威首相若纳斯·加尔·斯特尔(Jonas Gahr Støre)访问奥斯陆期间会见芬兰总统亚历山大·斯图布(Alexander Stubb)和挪威新国王哈肯(Haakon),（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-20T11:48:35Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-20T12:19:38.688674Z",
+        "updatedAt": "2026-10-20T12:19:38.688674Z"
+      }
+    },
+    {
+      "eventId": "rss-a8903642cc44d53a7d8bbe0a",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "data": {
+        "id": "rss-a8903642cc44d53a7d8bbe0a",
+        "title": "嫌犯在历史性市政厅失火后被捕 - 法国媒体",
+        "originalTitle": "Suspect arrested after historic town hall set alight - French media",
+        "summary": "Limoges市政厅钟楼的精华在周六被火焰吞没时急剧倒塌。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-20T11:47:39Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-20T12:19:38.688674Z",
+        "updatedAt": "2026-10-20T12:19:38.688674Z"
+      }
+    },
+    {
+      "eventId": "rss-1245b6feb5631d679450008a",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "data": {
+        "id": "rss-1245b6feb5631d679450008a",
+        "title": "被控攻击澳洲议员 身为嫌犯父亲的男子 说她是家人的朋友",
+        "originalTitle": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+        "summary": "Brendan Nugent的家人说他们认识Helen Haines, 20多年来他一直处于危急状态。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-20T11:25:35Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-20T12:19:38.688674Z",
+        "updatedAt": "2026-10-20T12:19:38.688674Z"
+      }
+    },
+    {
+      "eventId": "rss-e788c7fc279974cc44bd3825",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "data": {
+        "id": "rss-e788c7fc279974cc44bd3825",
+        "title": "在南非首都附近数百人生病后,居民警告不要喝自来水",
+        "originalTitle": "Residents warned not to drink tap water after hundreds fall sick near South Africa capital",
+        "summary": "在比勒陀利亚以东,有400多人,大多数是儿童,因饮用污染水而生病。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-20T11:09:09Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cvrly550780po?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-20T12:19:38.688674Z",
+        "updatedAt": "2026-10-20T12:19:38.688674Z"
+      }
+    },
+    {
+      "eventId": "rss-9be49e2f16c26bc0e3a8f48c",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "data": {
+        "id": "rss-9be49e2f16c26bc0e3a8f48c",
+        "title": "意大利在几天的抗议和抢劫之后向米兰部署500名士兵",
+        "originalTitle": "Italy to deploy 500 troops to Milan after days of protests and looting",
+        "summary": "在抗议高生活费用之后,政府计划采取更严厉的安全措施。 为什么欧洲各地的人都在抗议? 意大利政府向米兰派遣了500名士兵,因为意大利政府在抗议高生活费用之后,在与警察发生冲突、破坏和抢劫以及计划进一步示威之前,发誓要“从国家那里做出肯定的反应 ” 。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-20T11:00:05Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-20T12:19:38.688674Z",
+        "updatedAt": "2026-10-20T12:19:38.688674Z"
+      }
+    },
+    {
+      "eventId": "rss-739162d7487a517b5d02bfa4",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "data": {
+        "id": "rss-739162d7487a517b5d02bfa4",
+        "title": "叶尔普现在可以代你 检查餐厅的等候时间了",
+        "originalTitle": "Yelp can now call on your behalf to check wait times at a restaurant",
+        "summary": "Yelp 正在将许多新的 AI 功能嵌入其应用程序中, 它可以做一切从呼叫到检查餐厅的等候时间, 以创建个性化的建议, 以记住您的偏好 。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-20T11:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-20T12:19:38.688674Z",
+        "updatedAt": "2026-10-20T12:19:38.688674Z"
+      }
+    },
+    {
+      "eventId": "rss-2bb6d52be70271119a6b2114",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "data": {
+        "id": "rss-2bb6d52be70271119a6b2114",
+        "title": "Otter.ai从General Calyst的增长基金中为其会议工具筹集3.2亿美元",
+        "originalTitle": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+        "summary": "会议记事工具Otter.ai于星期二宣布,它从General Catalyst的客户价值基金(CVF)中筹集了3.2亿美元,该基金为新开办企业提供资本,而不削弱股本,并获得销售支出的回报。 Otter.ai说,它将利用这些资金促进企业增长、市场战略、国际扩张和产品创新。 [.]（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-10-20T11:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-20T12:19:38.688674Z",
+        "updatedAt": "2026-10-20T12:19:38.688674Z"
+      }
+    },
+    {
+      "eventId": "rss-14df427d5090067164f69b59",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "data": {
+        "id": "rss-14df427d5090067164f69b59",
+        "title": "Brendan Nugent的家人说Helen Haines是他们20多年的朋友",
+        "originalTitle": "Brendan Nugent’s family say Helen Haines has been their friend for more than 20 years",
+        "summary": "据称袭击独立议员的43岁的Tarrawingee男子的父亲说,事件是“令人沮丧和难以理解的 ” , 谁是Helen Haines, 议员据称在Victoria遭到袭击? 得到我们新的政治电子邮件、免费应用程序或每日新闻播客。 被指控袭击Helen Haines的43岁男子的父亲承诺与警方合作,并说这一事件“令人震撼和震惊。 ”（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-20T10:37:10Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/20/brendan-nugent-driver-alleged-attack-helen-haines-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-20T12:19:38.688674Z",
+        "updatedAt": "2026-10-20T12:19:38.688674Z"
+      }
+    },
+    {
+      "eventId": "rss-5edaae16d3505a343cafef0d",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "data": {
+        "id": "rss-5edaae16d3505a343cafef0d",
+        "title": "Brendan Nugent因被控攻击Helen Haines议员而面临三项指控",
+        "originalTitle": "Brendan Nugent facing three charges over alleged attack on MP Helen Haines",
+        "summary": "维多利亚州警方在周一下午逮捕了43岁的Tarrawingee男子,此人是Helen Haines,据称议员在Victoria发动袭击。 Brendan Nugent的家属说,Haines是他们20多年的朋友。 我们的新政治电子邮件、免费应用程序或每日新闻播报Helen Haines所谓的攻击者Brendan Nugent被指控驾驶危险车辆。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-20T09:18:58Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-alleged-attacker-brendan-nugent-charged-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-20T12:19:38.688674Z",
+        "updatedAt": "2026-10-20T12:19:38.688674Z"
+      }
+    },
+    {
+      "eventId": "rss-d84da803b99eceb4e515cd22",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "data": {
+        "id": "rss-d84da803b99eceb4e515cd22",
+        "title": "艾伯塔省选民拒绝离开加拿大的公民投票计划",
+        "originalTitle": "Alberta voters reject plan for referendum to leave Canada",
+        "summary": "其结果是总理马克·卡尼和加拿大艾伯塔省加拿大团结选民的支持者获胜,他们以压倒多数否决了启动独立进程的提案,为总理马克·卡尼和加拿大团结支持者赢得了胜利。 计算了超过150万张选票后,76%的支持者仍留在加拿大,而近24 % 的选民则支持启动一个进程。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-20T09:02:43Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-20T12:19:38.688674Z",
+        "updatedAt": "2026-10-20T12:19:38.688674Z"
+      }
+    },
+    {
+      "eventId": "rss-65ae24e3caee78600763bc40",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "data": {
+        "id": "rss-65ae24e3caee78600763bc40",
+        "title": "调查贝尔格莱德特朗普塔项目的塞尔维亚检察官“以间谍软件为目标”",
+        "originalTitle": "Serbian prosecutor who investigated Belgrade Trump tower project ‘targeted with spyware’",
+        "summary": "专家分析显示,显然有人企图黑进Rade Bajis iPhone,企图破坏具有里程碑意义的刑事案件。 一位塞尔维亚检察官调查了当局据称帮助特朗普斯在贝尔格莱德建造一座塔的非法阴谋。 专家分析显示,这一调查结果表明,在塞尔维亚独裁政权的破坏运动中,出现了一个令人不安的新因素。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-20T09:00:21Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/20/serbia-prosecutor-belgrade-trump-tower-project-targeted-spyware"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-20T12:19:38.688674Z",
+        "updatedAt": "2026-10-20T12:19:38.688674Z"
+      }
+    },
+    {
+      "eventId": "rss-754bf5eeaea9794bd506a5c0",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "data": {
+        "id": "rss-754bf5eeaea9794bd506a5c0",
+        "title": "为何以色列共和党选民被吸引到最右边",
+        "originalTitle": "Why Israeli Gen Z voters are drawn to the far right",
+        "summary": "下星期将有50多万年轻人在以色列投票,他们可以发挥所有作用。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-20T08:53:06Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-20T12:19:38.688674Z",
+        "updatedAt": "2026-10-20T12:19:38.688674Z"
+      }
+    },
+    {
+      "eventId": "rss-c5b810ff90b0027bfdcd405a",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "data": {
+        "id": "rss-c5b810ff90b0027bfdcd405a",
+        "title": "让Ziggy加入其中:David Bowie的自我改变激励舞蹈表演,",
+        "originalTitle": "Getting Ziggy with it: David Bowie’s alter egos inspire dance show that will transform his songs",
+        "summary": "以改变为主题:大卫·鲍伊的舞蹈将探索音乐家“表演一种艺术转世形式 ” , 马科斯·莫劳(Marcos Morou)说“让我们跳舞 ” 。 1983年,他唱了大卫·鲍伊的歌 : “ 穿上红鞋跳蓝调 ” 。 这一呼声应该通过国际舞蹈节目 — — 与鞋类TBC — — 来回应,其中将包含他整个音乐的新的合唱安排。 ”（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-20T07:30:19Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/stage/2026/oct/20/david-bowie-dance-marcos-morau"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-20T12:19:38.688674Z",
+        "updatedAt": "2026-10-20T12:19:38.688674Z"
+      }
+    },
+    {
+      "eventId": "rss-76faeee63fa288008ee4c1ce",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "data": {
+        "id": "rss-76faeee63fa288008ee4c1ce",
+        "title": "黑墙将估值翻四番到2.2B,",
+        "originalTitle": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+        "summary": "Blackwall以2.2B的估值筹集了1亿美元,以继续建造安全和过滤工具,帮助网站应对不断增长的机器人和AI流量。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-20T07:01:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-20T12:19:38.688674Z",
+        "updatedAt": "2026-10-20T12:19:38.688674Z"
+      }
+    },
+    {
+      "eventId": "rss-84f43d60f6a0a9cf705fcf9d",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "data": {
+        "id": "rss-84f43d60f6a0a9cf705fcf9d",
+        "title": "维多利亚州验尸官提供22岁死亡的刺痛结果。",
+        "originalTitle": "A young life ‘dominated by gambling’: Victorian coroner delivers stinging findings on death of 22-year-old",
+        "summary": "网上赌博是凯尔·哈德逊决定自杀背后的`直接和最重要的 ' 原因。 调查发现我们突发新闻电子邮件、免费应用程序或每日新闻播客凯尔·哈德逊是“一个充满希望的年轻人 ” , 一个充满爱心和支持的伴侣、家人和朋友以及前景。 “这是一个近乎理想的画面 — — 除了网上体育赌博对他造成的束缚之外 , ” 。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-20T06:29:05Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/20/kyle-hudson-inquest-victorian-coroner-gambling-online-betting-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-20T12:19:38.688674Z",
+        "updatedAt": "2026-10-20T12:19:38.688674Z"
+      }
+    },
+    {
+      "eventId": "rss-5f5ed2da3fd0ea68d1c26a08",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "data": {
+        "id": "rss-5f5ed2da3fd0ea68d1c26a08",
+        "title": "美国经济在特朗普总统统治下如何?",
+        "originalTitle": "How is the US economy really doing under President Trump?",
+        "summary": "特朗普(Trump)在期中赛前夸耀了美国经济的表现。 英国广播公司(BBC)核查了美国的通货膨胀、就业和经济增长。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-20T05:00:45Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-20T12:19:38.688674Z",
+        "updatedAt": "2026-10-20T12:19:38.688674Z"
+      }
+    },
+    {
+      "eventId": "rss-a5adb4e1f5c543fc0796dd12",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "data": {
+        "id": "rss-a5adb4e1f5c543fc0796dd12",
+        "title": "旅游者从城中偷盗拉斯维加斯火烈鸟后被判有罪",
+        "originalTitle": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
+        "summary": "该名男子作证说,他饮了30至40瓶啤酒,从Flamingo旅馆和赌场的Pachey的院子里抢走了Pachey,但并未造成任何伤害。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-20T03:10:39Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-20T12:19:38.688674Z",
+        "updatedAt": "2026-10-20T12:19:38.688674Z"
+      }
+    },
+    {
+      "eventId": "rss-d553e1b9af4185c5b144bc6a",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "data": {
+        "id": "rss-d553e1b9af4185c5b144bc6a",
+        "title": "阿尔巴尼亚抗议者与警察之间发生暴力冲突的第七天",
+        "originalTitle": "Seventh day of violent clashes between Albanian protesters and police",
+        "summary": "近300人受伤,其中一半以上是警察,因为暴力反政府示威没有放松的迹象。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-20T02:45:05Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-20T12:19:38.688674Z",
+        "updatedAt": "2026-10-20T12:19:38.688674Z"
+      }
+    },
+    {
+      "eventId": "rss-2bd238535e48e95d389fe241",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "data": {
+        "id": "rss-2bd238535e48e95d389fe241",
+        "title": "沃尔玛(Walmart)的Flipkart正在印度静静地建立一个食品运送挑战者。",
+        "originalTitle": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+        "summary": "Flipkart在其公开启动之前,扩大了向数千名雇员提供食品服务的机会。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-20T02:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-20T12:19:38.688674Z",
+        "updatedAt": "2026-10-20T12:19:38.688674Z"
+      }
+    },
+    {
+      "eventId": "rss-a608b97bceb1e7261a121c27",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "data": {
+        "id": "rss-a608b97bceb1e7261a121c27",
+        "title": "Mamdani说联邦调查局已经放弃AI了 要求纽约人退缩",
+        "originalTitle": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+        "summary": "市长Zohran Mamdani在周一晚上说,纽约人必须抵制这样的说法,即人工智能的接管是不可避免的,并要求制定保护公众并将权力交回他们手中的条例。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-10-20T01:27:03Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-20T12:19:38.688674Z",
+        "updatedAt": "2026-10-20T12:19:38.688674Z"
+      }
+    },
+    {
+      "eventId": "rss-e76126b0ebbf01e0cf6826f9",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "data": {
+        "id": "rss-e76126b0ebbf01e0cf6826f9",
+        "title": "任务向火星飞去 以抢夺月球的一块",
+        "originalTitle": "Mission blasts off for Mars to grab a piece of its moon",
+        "summary": "一颗航天器将投入雄心勃勃的飞行任务 将10克火星月尘带回地球（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-19T19:45:46Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-20T12:19:38.688674Z",
+        "updatedAt": "2026-10-20T12:19:38.688674Z"
+      }
+    },
+    {
+      "eventId": "rss-e43025f9a3ce3ae984fcf358",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "data": {
+        "id": "rss-e43025f9a3ce3ae984fcf358",
+        "title": "法国掠夺者列出供出售的被盗货物",
+        "originalTitle": "Vinted blocks French looters listing stolen goods for sale",
+        "summary": "该平台说,自周末以来,它“立即采取行动,查明并删除与抢劫有关的清单”。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-19T16:46:35Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-20T12:19:38.688674Z",
+        "updatedAt": "2026-10-20T12:19:38.688674Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-10-20T12:19:38.688674Z",
+      "at": "2026-10-20T12:19:38.688674Z",
+      "kind": "GitHub Actions 采集",
+      "count": 27,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 10}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 1}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 9}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 7}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-10-20T00:16:14.807755Z",
       "at": "2026-10-20T00:16:14.807755Z",
