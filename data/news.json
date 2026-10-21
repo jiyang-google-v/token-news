@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-21T00:14:58.229106Z",
+  "updatedAt": "2026-10-21T12:21:19.969672Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -7936,6 +7936,652 @@
       "tokens": [],
       "firstSeen": "2026-10-21T00:14:58.229106Z",
       "updatedAt": "2026-10-21T00:14:58.229106Z"
+    },
+    {
+      "id": "rss-23d28394e263a1d43bdd67d0",
+      "title": "网络主管告诉网站进行关键的安全更新或关闭",
+      "originalTitle": "Cyber chiefs tell websites to make critical safety update or go offline",
+      "summary": "与PHP一起查明了两个关键的脆弱性,PHP是一种编程语言,在互联网上广泛使用。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-21T12:14:10Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-21T12:21:19.969672Z",
+      "updatedAt": "2026-10-21T12:21:19.969672Z"
+    },
+    {
+      "id": "rss-9bec68b302de36d73e8999eb",
+      "title": "大型爆炸“不可接受”和“愚蠢”评论来自其他领导人的抗议 — — 欧洲实况",
+      "originalTitle": "Macron blasts ‘unacceptable’ and ‘stupid’ commentary on protests from other leaders – Europe live",
+      "summary": "Macron说,他对法国事件的 \" 明显操纵信息 \" 感到沮丧。 与此同时,在维特科夫与普京在圣彼得堡的会晤中,美国总统唐纳德·特朗普刚刚欢迎释放了史蒂芬·赫伯德(Stephen Hubbard ) , 他是一名被莫斯科关押的美国公民,指控他是乌克兰的雇佣兵(11:24 ) 。 在一篇关于真相社会的文章中,他说 : “ 史蒂芬·赫伯德(Stephen Hubbbard, Tak ) 。 ”（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-21T12:01:42Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-21T12:21:19.969672Z",
+      "updatedAt": "2026-10-21T12:21:19.969672Z"
+    },
+    {
+      "id": "rss-628236b1f71bbc8d1307c531",
+      "title": "美国公民Stephen Hubbard 被俄罗斯释放 作为特朗普特使会见普京",
+      "originalTitle": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+      "summary": "特朗普说,74岁的前老师被释放后,没有要求任何“打草机”。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-21T12:00:33Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-21T12:21:19.969672Z",
+      "updatedAt": "2026-10-21T12:21:19.969672Z"
+    },
+    {
+      "id": "rss-7a441bdffafc2e0d49fd3257",
+      "title": "普京在会见特朗普乌克兰会谈特使时 下令释放被监禁的美国人",
+      "originalTitle": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+      "summary": "俄罗斯应美国的请求单方面释放了史蒂芬·哈勃德, 而史蒂夫·维特克夫则赞美普京为“人道主义”欧洲现场直播 — — 美国最新政治实况直播 — — 弗拉基米尔·普京于星期三在圣彼得堡与唐纳德·特朗普的特使史蒂夫·维特克夫会面,（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-21T11:50:27Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-21T12:21:19.969672Z",
+      "updatedAt": "2026-10-21T12:21:19.969672Z"
+    },
+    {
+      "id": "rss-ef94f1503bd6d55c64e1102d",
+      "title": "QA读者:法国在暴乱周末之后接下来会怎样? 问我们的欧洲专栏作家",
+      "originalTitle": "Reader Q&A: What’s next for France after a weekend of riots? Ask our Europe columnists",
+      "summary": "Rokhaya Diallo和Alexander Hurst的欧洲卫士专栏作家Rokhaya Diallo和Alexander Hurst将在10月23日的星期五直播,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-21T10:55:28Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-21T12:21:19.969672Z",
+      "updatedAt": "2026-10-21T12:21:19.969672Z"
+    },
+    {
+      "id": "rss-7d895a7388c466d8fbf2a25b",
+      "title": "`一个强有力的警告 ' :欧洲愤怒的抗议将导致真正的政治变革吗?",
+      "originalTitle": "‘A powerful warning’: will Europe’s angry protests lead to real political change?",
+      "summary": "Hamstrung政府似乎对公众的愤怒要求无动于衷,令更多的不满可能席卷欧洲 — — 最新消息在法国,正是一堆轮式垃圾堆堆积在学校入口前,首先暗示学生因教室倒塌和教师短缺而感到愤怒的程度。 在西班牙,这是一个帐篷营,在首都中心稳步增长,成为Resi。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-21T09:00:03Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/21/will-europe-protests-lead-to-real-political-change"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-21T12:21:19.969672Z",
+      "updatedAt": "2026-10-21T12:21:19.969672Z"
+    },
+    {
+      "id": "rss-8bae13881a1c5f233b62d956",
+      "title": "塞尔维亚学生抗议运动已持续两年。",
+      "originalTitle": "A student protest movement has gripped Serbia for two years. This weekend it will try to take power",
+      "summary": "一个酷酷的秋天晚上,一群塞尔维亚学生志愿者前往贝尔格莱德郊区Krnjača的住宅区进行游说。 他们配备了用“胜利”一词标语的木屋,一个盘点问题的清单和一个移动应用程序,绘制了访问住家和支持程度的地图。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-21T08:36:34Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/21/protest-movement-serbia-student-list-try-to-take-power"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-21T12:21:19.969672Z",
+      "updatedAt": "2026-10-21T12:21:19.969672Z"
+    },
+    {
+      "id": "rss-6adc942b7c4985f5ea24a8e2",
+      "title": "冈比亚从Yahya Jammeh被扣押的美国官邸的收益中支付Yahya Jammeh统治的受害者",
+      "originalTitle": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
+      "summary": "冈比亚已证实从马里兰出售该房屋获得250万美元。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-21T08:31:48Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-21T12:21:19.969672Z",
+      "updatedAt": "2026-10-21T12:21:19.969672Z"
+    },
+    {
+      "id": "rss-431049d19bdcabd53df7ad14",
+      "title": "丈夫说,据称汽车袭击后,澳大利亚议员双腿都断了。",
+      "originalTitle": "Australian MP loses both legs after alleged car attack, husband says",
+      "summary": "她被控袭击者,43岁的Brendan Nugent, 面临多项指控, 于星期三首次出庭。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-21T07:56:30Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-21T12:21:19.969672Z",
+      "updatedAt": "2026-10-21T12:21:19.969672Z"
+    },
+    {
+      "id": "rss-cf0f0f52b99046ff2545e6d0",
+      "title": "但首先他希望政客们在善意上“加倍下台 ” 。",
+      "originalTitle": "Soft-spoken David Pocock has big ambitions – but first he wants politicians to ‘double down’ on kindness",
+      "summary": "独立参议员的目标“比总理大得多 ” , 他在给全国新闻俱乐部的第一次演讲中披露了这一点。 他得到了我们新的政治电子邮件、免费应用程序或每日新闻播客。 他身高6英尺,体力十足,但大卫·波科克的真正力量常常听起来像房间里最明智、最普通的声音。 周三,他在给全国新闻俱乐部的第一次演讲中说,他是。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-21T07:55:23Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/21/david-pocock-big-ambitions-first-speech-to-national-press-club-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-21T12:21:19.969672Z",
+      "updatedAt": "2026-10-21T12:21:19.969672Z"
+    },
+    {
+      "id": "rss-2672f6d202bb6655acc82626",
+      "title": "卡佳·阿德勒:法国对谁应对暴乱负责以及从中学习什么意见有分歧",
+      "originalTitle": "Katya Adler: France divided over who to blame for riots and what to learn from them",
+      "summary": "在法国和其他地方,人们对于导致法国城市在现代历史上发生的一些最糟糕的动乱的情况存在广泛的分歧。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-21T06:50:40Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-21T12:21:19.969672Z",
+      "updatedAt": "2026-10-21T12:21:19.969672Z"
+    },
+    {
+      "id": "rss-8d22fc4debd39ff36343d533",
+      "title": "为什么伊隆·穆斯克 策划一个大型的太空X和特斯拉合并?",
+      "originalTitle": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+      "summary": "穆斯克说公司合并是史上最大的兼并 会带来\"很多好处\"（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-21T06:36:39Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-21T12:21:19.969672Z",
+      "updatedAt": "2026-10-21T12:21:19.969672Z"
+    },
+    {
+      "id": "rss-98164441d891add53b090cad",
+      "title": "警方总长警告澳洲政治环境“febrile”时,",
+      "originalTitle": "No bail for alleged Helen Haines attacker as police chief warns of Australia’s ‘febrile’ political environment",
+      "summary": "AFP专员说,议员们通常对越来越多的虐待和恐吓行为感到担忧,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-21T06:27:19Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/21/no-bail-brendan-nugent-helen-haines-police-chief-warning-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-21T12:21:19.969672Z",
+      "updatedAt": "2026-10-21T12:21:19.969672Z"
+    },
+    {
+      "id": "rss-d328cf96ec5dd34055f257b7",
+      "title": "Helen Haines在被指称的攻击后双腿都断了,",
+      "originalTitle": "Helen Haines has lost both legs after alleged attack but ‘her heart and mind are in good shape’, husband says",
+      "summary": "海因斯处于稳定状态。外科医生试图挽救她的右腿,但两人现在都因受伤而被截肢。 我们的新政治电子邮件、免费应用程序或每日新闻播客。 独立议员海伦·海因斯失去了双腿,但仍处于稳定状态。 两天后,她被指称在维多利亚东北部的选民办公室附近遭到有针对性的袭击。 印度联邦议员海因斯(Haines)曾经是印度人。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-21T06:15:55Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/21/helen-haines-loses-both-legs-after-mondays-alleged-attack-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-21T12:21:19.969672Z",
+      "updatedAt": "2026-10-21T12:21:19.969672Z"
+    },
+    {
+      "id": "rss-12ef0f78fb8c244baf0240db",
+      "title": "巴基斯坦逮捕了被美国通缉的 超过126万美元的邮局诈骗案",
+      "originalTitle": "Pakistan arrests man wanted by US over $126m postage fraud case",
+      "summary": "据称,Fahem Akram以每件2美元的固定价格出售了500多万个假邮票标签。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-21T05:46:33Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-21T12:21:19.969672Z",
+      "updatedAt": "2026-10-21T12:21:19.969672Z"
+    },
+    {
+      "id": "rss-93b9d02b15c3e2b6c6d11cd1",
+      "title": "据称Beau Lamarre-Condon在尸体处理过程中扮演了Taylor Swift的无身无罪,法院告诉",
+      "originalTitle": "Beau Lamarre-Condon allegedly played Taylor Swift’s No Body, No Crime during body disposal, court told",
+      "summary": "被告双人杀人犯的朋友告诉最高法院说,在Bunnings停止之前,面包车背部有柠檬味和蓝色布布。 得到我们的突发新闻电子邮件、免费应用程序或每日新闻播客Beau Lamarre-Condon播放泰勒·斯威夫特的歌曲《没有身体,没有犯罪》,同时试图处理两具尸体,法院也听到了。 听说新南威尔士州最高法院在与朋友一起开车前往邦戈尼亚,而当时他正与朋友一起开车前往邦戈尼亚。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-21T05:23:56Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/21/beau-lamarre-condon-murder-trial-taylor-swift-song-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-21T12:21:19.969672Z",
+      "updatedAt": "2026-10-21T12:21:19.969672Z"
+    },
+    {
+      "id": "rss-61e50c93aa5c493550bab8b1",
+      "title": "尼日利亚确认埃博拉病例,因为疫情蔓延到西非",
+      "originalTitle": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+      "summary": "一位来自乌干达的尼日利亚妇女从首都阿布贾确诊了埃博拉病例。 一位来自乌干达的妇女检测出该病毒呈阳性后,卫生部说,这名妇女于10月7日开始出现症状,四天后被送往阿布贾的一家医院,后来被诊断患有埃博拉。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-21T00:14:55Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-21T12:21:19.969672Z",
+      "updatedAt": "2026-10-21T12:21:19.969672Z"
     }
   ],
   "history": [
@@ -16717,9 +17363,730 @@
         "firstSeen": "2026-10-21T00:14:58.229106Z",
         "updatedAt": "2026-10-21T00:14:58.229106Z"
       }
+    },
+    {
+      "eventId": "rss-23d28394e263a1d43bdd67d0",
+      "at": "2026-10-21T12:21:19.969672Z",
+      "data": {
+        "id": "rss-23d28394e263a1d43bdd67d0",
+        "title": "网络主管告诉网站进行关键的安全更新或关闭",
+        "originalTitle": "Cyber chiefs tell websites to make critical safety update or go offline",
+        "summary": "与PHP一起查明了两个关键的脆弱性,PHP是一种编程语言,在互联网上广泛使用。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-21T12:14:10Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-21T12:21:19.969672Z",
+        "updatedAt": "2026-10-21T12:21:19.969672Z"
+      }
+    },
+    {
+      "eventId": "rss-9bec68b302de36d73e8999eb",
+      "at": "2026-10-21T12:21:19.969672Z",
+      "data": {
+        "id": "rss-9bec68b302de36d73e8999eb",
+        "title": "大型爆炸“不可接受”和“愚蠢”评论来自其他领导人的抗议 — — 欧洲实况",
+        "originalTitle": "Macron blasts ‘unacceptable’ and ‘stupid’ commentary on protests from other leaders – Europe live",
+        "summary": "Macron说,他对法国事件的 \" 明显操纵信息 \" 感到沮丧。 与此同时,在维特科夫与普京在圣彼得堡的会晤中,美国总统唐纳德·特朗普刚刚欢迎释放了史蒂芬·赫伯德(Stephen Hubbard ) , 他是一名被莫斯科关押的美国公民,指控他是乌克兰的雇佣兵(11:24 ) 。 在一篇关于真相社会的文章中,他说 : “ 史蒂芬·赫伯德(Stephen Hubbbard, Tak ) 。 ”（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-21T12:01:42Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-21T12:21:19.969672Z",
+        "updatedAt": "2026-10-21T12:21:19.969672Z"
+      }
+    },
+    {
+      "eventId": "rss-628236b1f71bbc8d1307c531",
+      "at": "2026-10-21T12:21:19.969672Z",
+      "data": {
+        "id": "rss-628236b1f71bbc8d1307c531",
+        "title": "美国公民Stephen Hubbard 被俄罗斯释放 作为特朗普特使会见普京",
+        "originalTitle": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+        "summary": "特朗普说,74岁的前老师被释放后,没有要求任何“打草机”。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-21T12:00:33Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-21T12:21:19.969672Z",
+        "updatedAt": "2026-10-21T12:21:19.969672Z"
+      }
+    },
+    {
+      "eventId": "rss-7a441bdffafc2e0d49fd3257",
+      "at": "2026-10-21T12:21:19.969672Z",
+      "data": {
+        "id": "rss-7a441bdffafc2e0d49fd3257",
+        "title": "普京在会见特朗普乌克兰会谈特使时 下令释放被监禁的美国人",
+        "originalTitle": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+        "summary": "俄罗斯应美国的请求单方面释放了史蒂芬·哈勃德, 而史蒂夫·维特克夫则赞美普京为“人道主义”欧洲现场直播 — — 美国最新政治实况直播 — — 弗拉基米尔·普京于星期三在圣彼得堡与唐纳德·特朗普的特使史蒂夫·维特克夫会面,（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-21T11:50:27Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-21T12:21:19.969672Z",
+        "updatedAt": "2026-10-21T12:21:19.969672Z"
+      }
+    },
+    {
+      "eventId": "rss-ef94f1503bd6d55c64e1102d",
+      "at": "2026-10-21T12:21:19.969672Z",
+      "data": {
+        "id": "rss-ef94f1503bd6d55c64e1102d",
+        "title": "QA读者:法国在暴乱周末之后接下来会怎样? 问我们的欧洲专栏作家",
+        "originalTitle": "Reader Q&A: What’s next for France after a weekend of riots? Ask our Europe columnists",
+        "summary": "Rokhaya Diallo和Alexander Hurst的欧洲卫士专栏作家Rokhaya Diallo和Alexander Hurst将在10月23日的星期五直播,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-21T10:55:28Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-21T12:21:19.969672Z",
+        "updatedAt": "2026-10-21T12:21:19.969672Z"
+      }
+    },
+    {
+      "eventId": "rss-7d895a7388c466d8fbf2a25b",
+      "at": "2026-10-21T12:21:19.969672Z",
+      "data": {
+        "id": "rss-7d895a7388c466d8fbf2a25b",
+        "title": "`一个强有力的警告 ' :欧洲愤怒的抗议将导致真正的政治变革吗?",
+        "originalTitle": "‘A powerful warning’: will Europe’s angry protests lead to real political change?",
+        "summary": "Hamstrung政府似乎对公众的愤怒要求无动于衷,令更多的不满可能席卷欧洲 — — 最新消息在法国,正是一堆轮式垃圾堆堆积在学校入口前,首先暗示学生因教室倒塌和教师短缺而感到愤怒的程度。 在西班牙,这是一个帐篷营,在首都中心稳步增长,成为Resi。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-21T09:00:03Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/21/will-europe-protests-lead-to-real-political-change"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-21T12:21:19.969672Z",
+        "updatedAt": "2026-10-21T12:21:19.969672Z"
+      }
+    },
+    {
+      "eventId": "rss-8bae13881a1c5f233b62d956",
+      "at": "2026-10-21T12:21:19.969672Z",
+      "data": {
+        "id": "rss-8bae13881a1c5f233b62d956",
+        "title": "塞尔维亚学生抗议运动已持续两年。",
+        "originalTitle": "A student protest movement has gripped Serbia for two years. This weekend it will try to take power",
+        "summary": "一个酷酷的秋天晚上,一群塞尔维亚学生志愿者前往贝尔格莱德郊区Krnjača的住宅区进行游说。 他们配备了用“胜利”一词标语的木屋,一个盘点问题的清单和一个移动应用程序,绘制了访问住家和支持程度的地图。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-21T08:36:34Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/21/protest-movement-serbia-student-list-try-to-take-power"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-21T12:21:19.969672Z",
+        "updatedAt": "2026-10-21T12:21:19.969672Z"
+      }
+    },
+    {
+      "eventId": "rss-6adc942b7c4985f5ea24a8e2",
+      "at": "2026-10-21T12:21:19.969672Z",
+      "data": {
+        "id": "rss-6adc942b7c4985f5ea24a8e2",
+        "title": "冈比亚从Yahya Jammeh被扣押的美国官邸的收益中支付Yahya Jammeh统治的受害者",
+        "originalTitle": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
+        "summary": "冈比亚已证实从马里兰出售该房屋获得250万美元。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-21T08:31:48Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-21T12:21:19.969672Z",
+        "updatedAt": "2026-10-21T12:21:19.969672Z"
+      }
+    },
+    {
+      "eventId": "rss-431049d19bdcabd53df7ad14",
+      "at": "2026-10-21T12:21:19.969672Z",
+      "data": {
+        "id": "rss-431049d19bdcabd53df7ad14",
+        "title": "丈夫说,据称汽车袭击后,澳大利亚议员双腿都断了。",
+        "originalTitle": "Australian MP loses both legs after alleged car attack, husband says",
+        "summary": "她被控袭击者,43岁的Brendan Nugent, 面临多项指控, 于星期三首次出庭。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-21T07:56:30Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-21T12:21:19.969672Z",
+        "updatedAt": "2026-10-21T12:21:19.969672Z"
+      }
+    },
+    {
+      "eventId": "rss-cf0f0f52b99046ff2545e6d0",
+      "at": "2026-10-21T12:21:19.969672Z",
+      "data": {
+        "id": "rss-cf0f0f52b99046ff2545e6d0",
+        "title": "但首先他希望政客们在善意上“加倍下台 ” 。",
+        "originalTitle": "Soft-spoken David Pocock has big ambitions – but first he wants politicians to ‘double down’ on kindness",
+        "summary": "独立参议员的目标“比总理大得多 ” , 他在给全国新闻俱乐部的第一次演讲中披露了这一点。 他得到了我们新的政治电子邮件、免费应用程序或每日新闻播客。 他身高6英尺,体力十足,但大卫·波科克的真正力量常常听起来像房间里最明智、最普通的声音。 周三,他在给全国新闻俱乐部的第一次演讲中说,他是。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-21T07:55:23Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/21/david-pocock-big-ambitions-first-speech-to-national-press-club-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-21T12:21:19.969672Z",
+        "updatedAt": "2026-10-21T12:21:19.969672Z"
+      }
+    },
+    {
+      "eventId": "rss-2672f6d202bb6655acc82626",
+      "at": "2026-10-21T12:21:19.969672Z",
+      "data": {
+        "id": "rss-2672f6d202bb6655acc82626",
+        "title": "卡佳·阿德勒:法国对谁应对暴乱负责以及从中学习什么意见有分歧",
+        "originalTitle": "Katya Adler: France divided over who to blame for riots and what to learn from them",
+        "summary": "在法国和其他地方,人们对于导致法国城市在现代历史上发生的一些最糟糕的动乱的情况存在广泛的分歧。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-21T06:50:40Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-21T12:21:19.969672Z",
+        "updatedAt": "2026-10-21T12:21:19.969672Z"
+      }
+    },
+    {
+      "eventId": "rss-8d22fc4debd39ff36343d533",
+      "at": "2026-10-21T12:21:19.969672Z",
+      "data": {
+        "id": "rss-8d22fc4debd39ff36343d533",
+        "title": "为什么伊隆·穆斯克 策划一个大型的太空X和特斯拉合并?",
+        "originalTitle": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+        "summary": "穆斯克说公司合并是史上最大的兼并 会带来\"很多好处\"（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-21T06:36:39Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-21T12:21:19.969672Z",
+        "updatedAt": "2026-10-21T12:21:19.969672Z"
+      }
+    },
+    {
+      "eventId": "rss-98164441d891add53b090cad",
+      "at": "2026-10-21T12:21:19.969672Z",
+      "data": {
+        "id": "rss-98164441d891add53b090cad",
+        "title": "警方总长警告澳洲政治环境“febrile”时,",
+        "originalTitle": "No bail for alleged Helen Haines attacker as police chief warns of Australia’s ‘febrile’ political environment",
+        "summary": "AFP专员说,议员们通常对越来越多的虐待和恐吓行为感到担忧,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-21T06:27:19Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/21/no-bail-brendan-nugent-helen-haines-police-chief-warning-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-21T12:21:19.969672Z",
+        "updatedAt": "2026-10-21T12:21:19.969672Z"
+      }
+    },
+    {
+      "eventId": "rss-d328cf96ec5dd34055f257b7",
+      "at": "2026-10-21T12:21:19.969672Z",
+      "data": {
+        "id": "rss-d328cf96ec5dd34055f257b7",
+        "title": "Helen Haines在被指称的攻击后双腿都断了,",
+        "originalTitle": "Helen Haines has lost both legs after alleged attack but ‘her heart and mind are in good shape’, husband says",
+        "summary": "海因斯处于稳定状态。外科医生试图挽救她的右腿,但两人现在都因受伤而被截肢。 我们的新政治电子邮件、免费应用程序或每日新闻播客。 独立议员海伦·海因斯失去了双腿,但仍处于稳定状态。 两天后,她被指称在维多利亚东北部的选民办公室附近遭到有针对性的袭击。 印度联邦议员海因斯(Haines)曾经是印度人。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-21T06:15:55Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/21/helen-haines-loses-both-legs-after-mondays-alleged-attack-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-21T12:21:19.969672Z",
+        "updatedAt": "2026-10-21T12:21:19.969672Z"
+      }
+    },
+    {
+      "eventId": "rss-12ef0f78fb8c244baf0240db",
+      "at": "2026-10-21T12:21:19.969672Z",
+      "data": {
+        "id": "rss-12ef0f78fb8c244baf0240db",
+        "title": "巴基斯坦逮捕了被美国通缉的 超过126万美元的邮局诈骗案",
+        "originalTitle": "Pakistan arrests man wanted by US over $126m postage fraud case",
+        "summary": "据称,Fahem Akram以每件2美元的固定价格出售了500多万个假邮票标签。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-21T05:46:33Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-21T12:21:19.969672Z",
+        "updatedAt": "2026-10-21T12:21:19.969672Z"
+      }
+    },
+    {
+      "eventId": "rss-93b9d02b15c3e2b6c6d11cd1",
+      "at": "2026-10-21T12:21:19.969672Z",
+      "data": {
+        "id": "rss-93b9d02b15c3e2b6c6d11cd1",
+        "title": "据称Beau Lamarre-Condon在尸体处理过程中扮演了Taylor Swift的无身无罪,法院告诉",
+        "originalTitle": "Beau Lamarre-Condon allegedly played Taylor Swift’s No Body, No Crime during body disposal, court told",
+        "summary": "被告双人杀人犯的朋友告诉最高法院说,在Bunnings停止之前,面包车背部有柠檬味和蓝色布布。 得到我们的突发新闻电子邮件、免费应用程序或每日新闻播客Beau Lamarre-Condon播放泰勒·斯威夫特的歌曲《没有身体,没有犯罪》,同时试图处理两具尸体,法院也听到了。 听说新南威尔士州最高法院在与朋友一起开车前往邦戈尼亚,而当时他正与朋友一起开车前往邦戈尼亚。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-21T05:23:56Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/21/beau-lamarre-condon-murder-trial-taylor-swift-song-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-21T12:21:19.969672Z",
+        "updatedAt": "2026-10-21T12:21:19.969672Z"
+      }
+    },
+    {
+      "eventId": "rss-61e50c93aa5c493550bab8b1",
+      "at": "2026-10-21T12:21:19.969672Z",
+      "data": {
+        "id": "rss-61e50c93aa5c493550bab8b1",
+        "title": "尼日利亚确认埃博拉病例,因为疫情蔓延到西非",
+        "originalTitle": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+        "summary": "一位来自乌干达的尼日利亚妇女从首都阿布贾确诊了埃博拉病例。 一位来自乌干达的妇女检测出该病毒呈阳性后,卫生部说,这名妇女于10月7日开始出现症状,四天后被送往阿布贾的一家医院,后来被诊断患有埃博拉。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-21T00:14:55Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-21T12:21:19.969672Z",
+        "updatedAt": "2026-10-21T12:21:19.969672Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-10-21T12:21:19.969672Z",
+      "at": "2026-10-21T12:21:19.969672Z",
+      "kind": "GitHub Actions 采集",
+      "count": 17,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 5}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 2}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 10}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 0}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-10-21T00:14:58.229106Z",
       "at": "2026-10-21T00:14:58.229106Z",
