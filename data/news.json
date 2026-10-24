@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-24T00:15:12.661090Z",
+  "updatedAt": "2026-10-24T12:16:06.272130Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -15308,6 +15308,918 @@
       "tokens": [],
       "firstSeen": "2026-10-24T00:15:12.661090Z",
       "updatedAt": "2026-10-24T00:15:12.661090Z"
+    },
+    {
+      "id": "rss-af154c8b7028fa6b062aa70a",
+      "title": "乌克兰说,在网络限制之后,星际链路连接“现在稳定”",
+      "originalTitle": "Ukraine says Starlink connection 'now stable' after network limits",
+      "summary": "星际链路的缓慢连接 已经影响了乌克兰的军事和无人机行动 长达一周。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T12:12:40Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-24T12:16:06.272130Z",
+      "updatedAt": "2026-10-24T12:16:06.272130Z"
+    },
+    {
+      "id": "rss-7c2eaa95742e889dfcc1a80e",
+      "title": "抗议始于法国, 意大利警方在示威前突袭米兰的住宅,",
+      "originalTitle": "Protests begin in France, as Italian police raid homes in Milan ahead of demonstrations – Europe live",
+      "summary": "法国在全国各地部署了70,000名军官,而西班牙、奥地利、葡萄牙、阿尔巴尼亚和爱尔兰也将举行抗议活动,来自巴黎北部的40名慈善工作者杰西也参加了街头游行。 她说 : “ 我非常愤怒,我在这里是为了支持学童对更好条件的要求。 我为他们感到骄傲,我们必须站在一起。 ”（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T11:51:58Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-24T12:16:06.272130Z",
+      "updatedAt": "2026-10-24T12:16:06.272130Z"
+    },
+    {
+      "id": "rss-b63a73bec91ba1d8c61a18de",
+      "title": "在希特勒的山顶鹰巢撤退时 遭枪击后被捕",
+      "originalTitle": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "summary": "大约200名紧急救援人员 被派到纳粹独裁者在德国的阿尔卑斯山的住所 与火焰战斗（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T11:23:59Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-24T12:16:06.272130Z",
+      "updatedAt": "2026-10-24T12:16:06.272130Z"
+    },
+    {
+      "id": "rss-e8381cf0974cfe5fb0c8b7a8",
+      "title": "嫌犯因在巴伐利亚的希特勒`艾格勒 ' 雀巢撤退时开火而被捕",
+      "originalTitle": "Suspect arrested over fire at Hitler’s ‘Eagle’s Nest’ retreat in Bavaria",
+      "summary": "大约200名被派往德国南部偏僻地区前纳粹山丘撤退的消防员逮捕了一名嫌犯,当时阿道夫·希特勒在巴伐利亚的前山丘撤退时被烧毁,他们离开历史性的纳粹集会地点 — — 被称为鹰巢 — — 大部分被毁。 大约200名消防员在星期五晚上被部署去对付战火。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T10:04:04Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-24T12:16:06.272130Z",
+      "updatedAt": "2026-10-24T12:16:06.272130Z"
+    },
+    {
+      "id": "rss-fc2568292034cd4579957b15",
+      "title": "在肯尼亚,65岁的妇女成为第二名埃博拉患者死亡",
+      "originalTitle": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "summary": "她是第一个受害者的近亲,此人来自刚果民主共和国。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T09:46:53Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-24T12:16:06.272130Z",
+      "updatedAt": "2026-10-24T12:16:06.272130Z"
+    },
+    {
+      "id": "rss-6221b4b7de9023e0ccc9f84f",
+      "title": "英国女人为了拯救在巴哈马海中被冲走的儿子而死",
+      "originalTitle": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+      "summary": "警察说,这些儿童后来被从水中救出来。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T09:45:47Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-24T12:16:06.272130Z",
+      "updatedAt": "2026-10-24T12:16:06.272130Z"
+    },
+    {
+      "id": "rss-6a0bebe65be73dd14147330d",
+      "title": "在肯尼亚首都多层大楼倒塌后 7个失踪了",
+      "originalTitle": "Seven missing after multi-storey building collapses in Kenya's capital",
+      "summary": "救援工作正在进行中,以找到被困在街区下的人,该街区当时仍在建造之中。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T09:44:01Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-24T12:16:06.272130Z",
+      "updatedAt": "2026-10-24T12:16:06.272130Z"
+    },
+    {
+      "id": "rss-57bac841db7270e745d299d6",
+      "title": "英国女人为了拯救儿子而死 在巴哈马潜水之旅",
+      "originalTitle": "British woman dies trying to save sons on Bahamas snorkelling trip",
+      "summary": "据报道,北比米尼的潮流把两个男孩冲走了,他们后来被救出。 警方说,一名英国女人在海流冲走后试图营救她的两个儿子时,在巴哈马死亡。 巴哈马皇家警察部队说,在星期二一名36岁妇女死亡后,巴哈马警方启动了一项调查。 继续读...（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T09:43:09Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-24T12:16:06.272130Z",
+      "updatedAt": "2026-10-24T12:16:06.272130Z"
+    },
+    {
+      "id": "rss-4d5e52cf2ccc8bf7c61a368e",
+      "title": "金正恩在新开的通向中国的桥上交叉",
+      "originalTitle": "Kim Jong-un crosses over newly opened bridge into China",
+      "summary": "在新亚卢河大桥上乘火车到访标志着一年多来已知的朝鲜领导人金正恩首次出国旅行。 金正恩经过一座新开的桥前往中国,标志着朝鲜领导人一年多来首次出国。 韩国政府的一个消息来源告诉Yonhap新闻社,金已抵达辽宁省中国边境城市丹东。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T09:34:40Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-24T12:16:06.272130Z",
+      "updatedAt": "2026-10-24T12:16:06.272130Z"
+    },
+    {
+      "id": "rss-ad6b67bc328927b63428b39b",
+      "title": "Dónal Lunny, \" 爱尔兰音乐的巨集 \" ,79岁时死亡",
+      "originalTitle": "Dónal Lunny, ‘colossus of Irish music’, dies aged 79",
+      "summary": "爱尔兰传统音乐家Dónal Lunny在79岁死于癌症。 Lunny和他的兄弟Frank和Christy Moore一起在Kildare的三重乐器中显着。他继续演奏诸如Planxty、Moveing Hearts、Bourty乐队和Colfin等乐队。（机器翻译；尚未完成正文核查。）",
+      "category": "网络文化",
+      "publishedAt": "2026-10-24T08:44:44Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/music/2026/oct/24/donal-lunny-colossus-irish-music-dies-aged-79"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-24T12:16:06.272130Z",
+      "updatedAt": "2026-10-24T12:16:06.272130Z"
+    },
+    {
+      "id": "rss-6bd50b2268eff713fbdc21fa",
+      "title": "`这是我们历史的一部分 ' :Menú del día能够活过西班牙改变的饮食习惯吗?",
+      "originalTitle": "‘It’s part of our history’: can the menú del día survive Spain’s changing eating habits?",
+      "summary": "在佛朗哥独裁统治下建立的午餐仪式正在衰落,但并非在西班牙各地每天工作一天的午餐时间之前就失去了一切。 佛朗哥独裁政权遗留下来的遗迹之一,如果不那么臭名昭著的话,则在粉笔、标记笔和打印机墨水中仔细追查。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T06:00:26Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/24/spain-diners-food-restaurants-menu-del-dia"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-24T12:16:06.272130Z",
+      "updatedAt": "2026-10-24T12:16:06.272130Z"
+    },
+    {
+      "id": "rss-6cd693e066bf5c6ffb3135aa",
+      "title": "Minneapolis的撤退是\"投降\", Trump的前边境巡逻队长告诉BBC",
+      "originalTitle": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
+      "summary": "Greg Bovino是今年早些时候该市有争议移民执法行动的公众形象。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-24T05:31:01Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-24T12:16:06.272130Z",
+      "updatedAt": "2026-10-24T12:16:06.272130Z"
+    },
+    {
+      "id": "rss-899aceae39d712194d1f1f20",
+      "title": "巴西变换的工人阶级是如何改变总统竞选的",
+      "originalTitle": "How Brazil's changing working class is reshaping the presidential race",
+      "summary": "要求改革对卢拉总统在星期日第二轮选举中提出了挑战。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T05:05:44Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-24T12:16:06.272130Z",
+      "updatedAt": "2026-10-24T12:16:06.272130Z"
+    },
+    {
+      "id": "rss-aee9d87fa08b66bcc454f274",
+      "title": "AI选举广告在美国中期竞选的兴起",
+      "originalTitle": "The rise of AI election ads in US midterms campaign",
+      "summary": "BBC Vergest追踪了几十个AI广告,（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-10-24T05:03:44Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-24T12:16:06.272130Z",
+      "updatedAt": "2026-10-24T12:16:06.272130Z"
+    },
+    {
+      "id": "rss-235b5642d43137126bd6e6b0",
+      "title": "台风Campi在前往中国的台湾杀死一人,造成500多人受伤",
+      "originalTitle": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
+      "summary": "超级台风正在削弱,但台湾大部分地区,包括台北,仍然大都关闭,台风Campi于周六扫过台湾,造成一人丧生,500多人受伤,并连根拔起树木和断电,因为风向北向中国海岸。 早些时候,台风被划为超级台风,是今年太平洋最强的风暴之一,Cha。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T02:22:32Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-24T12:16:06.272130Z",
+      "updatedAt": "2026-10-24T12:16:06.272130Z"
+    },
+    {
+      "id": "rss-06c9309238102b2123ab81b1",
+      "title": "澳大利亚国会议员在汽车袭击后情况有所改善",
+      "originalTitle": "Australian MP's condition improves after alleged car attack",
+      "summary": "据墨尔本医院称,独立议员目前状况严重但稳定。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T01:55:15Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-24T12:16:06.272130Z",
+      "updatedAt": "2026-10-24T12:16:06.272130Z"
+    },
+    {
+      "id": "rss-ef486b88d6eb6260c0c012c8",
+      "title": "参议员Jordon Steele-John在公开对他的指控后确认他离开议会",
+      "originalTitle": "Embattled Greens senator Jordon Steele-John confirms leave from parliament after allegations against him made public",
+      "summary": "西澳大利亚州政治家说,他几乎考虑参加参议院的估算,但被告知这将是“不能接受的 ” 。 我们的新政治电子邮件、免费应用程序或每日新闻播客Jordon Steele-John已经证实,他下周不会出席议会,因为格斗的格林斯参议员为公开公布针对他的指控而道歉。 星期六下午,斯蒂尔-约翰删除了一封。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T00:52:33Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/24/greens-senator-jordon-steele-john-confirms-leave-from-parliament-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-24T12:16:06.272130Z",
+      "updatedAt": "2026-10-24T12:16:06.272130Z"
+    },
+    {
+      "id": "rss-b1ce173818dfcae13c83c777",
+      "title": "Helen Haines的病情在被指称的攻击中双腿失去数天后有所改善。",
+      "originalTitle": "Helen Haines’s condition improves days after losing both legs from alleged attack",
+      "summary": "根据墨尔本Alfred医院的最新消息,独立议员现在很严肃但稳定。 自由应用或每日新闻播客“独立议员Helen Haines”的状况被降级为严肃但稳定,因为她于周一下午在维多利亚东北部的选民办公室附近遭到袭击后失去了双腿。 墨尔本的Alfred医院提供的情况是:（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T00:41:29Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-24T12:16:06.272130Z",
+      "updatedAt": "2026-10-24T12:16:06.272130Z"
+    },
+    {
+      "id": "rss-97c227bfaa08472768aae88e",
+      "title": "随着中期选举的到来,白宫取消了对加拿大某些商品的关税",
+      "originalTitle": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+      "summary": "从10月30日起,将放松对某些产品,包括某些机械的关税,并对地毯等其他产品征收关税。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T00:36:47Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-24T12:16:06.272130Z",
+      "updatedAt": "2026-10-24T12:16:06.272130Z"
+    },
+    {
+      "id": "rss-e74c44b14e60bf338fcafea6",
+      "title": "Rubio告诉古巴人,",
+      "originalTitle": "Rubio tells Cubans ‘now is the time’ to act to see political change",
+      "summary": "美国国务卿在特朗普(Trump)告诉美国拉力战舰在从伊朗返回后可以进行干预之后,敦促古巴人在他们的国家寻求政治变革。 他说,“现在是时候了 ” , 唐纳德·特朗普(Donald Trump)周五在佛罗里达南部为候选人举行的集会上说,美国战舰在从伊朗战争回来的路上可以干预古巴。 美国国务卿在他的演讲中说,“现在是时候了 ” 。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T00:30:02Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-24T12:16:06.272130Z",
+      "updatedAt": "2026-10-24T12:16:06.272130Z"
+    },
+    {
+      "id": "rss-03a27aa845611eb59fcfdda4",
+      "title": "学生运动将塞尔维亚的Vučić 带到领颈选举的铁丝网上",
+      "originalTitle": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+      "summary": "《学生名单》是从近两年的反腐败抗议中产生的,成为对武契奇统治的最大挑战。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-23T23:08:23Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-24T12:16:06.272130Z",
+      "updatedAt": "2026-10-24T12:16:06.272130Z"
+    },
+    {
+      "id": "rss-316ed2d0479cf95c4307498c",
+      "title": "杀死俄勒冈学校枪手的父亲 描述他无法拯救的孩子的痛苦",
+      "originalTitle": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
+      "summary": "Kaylub Giamanco因杀害一名枪杀三名儿童和一名教师的青少年而成为英雄。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-23T22:47:07Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-24T12:16:06.272130Z",
+      "updatedAt": "2026-10-24T12:16:06.272130Z"
+    },
+    {
+      "id": "rss-1f9547d1f07b0cccb7052a4d",
+      "title": "是谁控制了乌克兰对星际线的接触?",
+      "originalTitle": "Who actually controls Ukraine's access to Starlink?",
+      "summary": "总统Zelensky表示, 技术限制继续影响乌克兰军队,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-23T22:24:36Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-24T12:16:06.272130Z",
+      "updatedAt": "2026-10-24T12:16:06.272130Z"
+    },
+    {
+      "id": "rss-55af3acdc0c6edbdeab3841a",
+      "title": "特朗普政府起诉阻止即将到来的阿拉斯加选举的认证",
+      "originalTitle": "Trump administration sues to block certification of upcoming Alaska election",
+      "summary": "司法部已提起诉讼,认为列入两名候选人丹·苏利文可能会混淆选民。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-23T18:49:14Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-24T12:16:06.272130Z",
+      "updatedAt": "2026-10-24T12:16:06.272130Z"
     }
   ],
   "history": [
@@ -32237,9 +33149,1024 @@
         "firstSeen": "2026-10-24T00:15:12.661090Z",
         "updatedAt": "2026-10-24T00:15:12.661090Z"
       }
+    },
+    {
+      "eventId": "rss-af154c8b7028fa6b062aa70a",
+      "at": "2026-10-24T12:16:06.272130Z",
+      "data": {
+        "id": "rss-af154c8b7028fa6b062aa70a",
+        "title": "乌克兰说,在网络限制之后,星际链路连接“现在稳定”",
+        "originalTitle": "Ukraine says Starlink connection 'now stable' after network limits",
+        "summary": "星际链路的缓慢连接 已经影响了乌克兰的军事和无人机行动 长达一周。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T12:12:40Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-24T12:16:06.272130Z",
+        "updatedAt": "2026-10-24T12:16:06.272130Z"
+      }
+    },
+    {
+      "eventId": "rss-7c2eaa95742e889dfcc1a80e",
+      "at": "2026-10-24T12:16:06.272130Z",
+      "data": {
+        "id": "rss-7c2eaa95742e889dfcc1a80e",
+        "title": "抗议始于法国, 意大利警方在示威前突袭米兰的住宅,",
+        "originalTitle": "Protests begin in France, as Italian police raid homes in Milan ahead of demonstrations – Europe live",
+        "summary": "法国在全国各地部署了70,000名军官,而西班牙、奥地利、葡萄牙、阿尔巴尼亚和爱尔兰也将举行抗议活动,来自巴黎北部的40名慈善工作者杰西也参加了街头游行。 她说 : “ 我非常愤怒,我在这里是为了支持学童对更好条件的要求。 我为他们感到骄傲,我们必须站在一起。 ”（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T11:51:58Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-24T12:16:06.272130Z",
+        "updatedAt": "2026-10-24T12:16:06.272130Z"
+      }
+    },
+    {
+      "eventId": "rss-b63a73bec91ba1d8c61a18de",
+      "at": "2026-10-24T12:16:06.272130Z",
+      "data": {
+        "id": "rss-b63a73bec91ba1d8c61a18de",
+        "title": "在希特勒的山顶鹰巢撤退时 遭枪击后被捕",
+        "originalTitle": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+        "summary": "大约200名紧急救援人员 被派到纳粹独裁者在德国的阿尔卑斯山的住所 与火焰战斗（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T11:23:59Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-24T12:16:06.272130Z",
+        "updatedAt": "2026-10-24T12:16:06.272130Z"
+      }
+    },
+    {
+      "eventId": "rss-e8381cf0974cfe5fb0c8b7a8",
+      "at": "2026-10-24T12:16:06.272130Z",
+      "data": {
+        "id": "rss-e8381cf0974cfe5fb0c8b7a8",
+        "title": "嫌犯因在巴伐利亚的希特勒`艾格勒 ' 雀巢撤退时开火而被捕",
+        "originalTitle": "Suspect arrested over fire at Hitler’s ‘Eagle’s Nest’ retreat in Bavaria",
+        "summary": "大约200名被派往德国南部偏僻地区前纳粹山丘撤退的消防员逮捕了一名嫌犯,当时阿道夫·希特勒在巴伐利亚的前山丘撤退时被烧毁,他们离开历史性的纳粹集会地点 — — 被称为鹰巢 — — 大部分被毁。 大约200名消防员在星期五晚上被部署去对付战火。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T10:04:04Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-24T12:16:06.272130Z",
+        "updatedAt": "2026-10-24T12:16:06.272130Z"
+      }
+    },
+    {
+      "eventId": "rss-fc2568292034cd4579957b15",
+      "at": "2026-10-24T12:16:06.272130Z",
+      "data": {
+        "id": "rss-fc2568292034cd4579957b15",
+        "title": "在肯尼亚,65岁的妇女成为第二名埃博拉患者死亡",
+        "originalTitle": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+        "summary": "她是第一个受害者的近亲,此人来自刚果民主共和国。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T09:46:53Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-24T12:16:06.272130Z",
+        "updatedAt": "2026-10-24T12:16:06.272130Z"
+      }
+    },
+    {
+      "eventId": "rss-6221b4b7de9023e0ccc9f84f",
+      "at": "2026-10-24T12:16:06.272130Z",
+      "data": {
+        "id": "rss-6221b4b7de9023e0ccc9f84f",
+        "title": "英国女人为了拯救在巴哈马海中被冲走的儿子而死",
+        "originalTitle": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+        "summary": "警察说,这些儿童后来被从水中救出来。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T09:45:47Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-24T12:16:06.272130Z",
+        "updatedAt": "2026-10-24T12:16:06.272130Z"
+      }
+    },
+    {
+      "eventId": "rss-6a0bebe65be73dd14147330d",
+      "at": "2026-10-24T12:16:06.272130Z",
+      "data": {
+        "id": "rss-6a0bebe65be73dd14147330d",
+        "title": "在肯尼亚首都多层大楼倒塌后 7个失踪了",
+        "originalTitle": "Seven missing after multi-storey building collapses in Kenya's capital",
+        "summary": "救援工作正在进行中,以找到被困在街区下的人,该街区当时仍在建造之中。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T09:44:01Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-24T12:16:06.272130Z",
+        "updatedAt": "2026-10-24T12:16:06.272130Z"
+      }
+    },
+    {
+      "eventId": "rss-57bac841db7270e745d299d6",
+      "at": "2026-10-24T12:16:06.272130Z",
+      "data": {
+        "id": "rss-57bac841db7270e745d299d6",
+        "title": "英国女人为了拯救儿子而死 在巴哈马潜水之旅",
+        "originalTitle": "British woman dies trying to save sons on Bahamas snorkelling trip",
+        "summary": "据报道,北比米尼的潮流把两个男孩冲走了,他们后来被救出。 警方说,一名英国女人在海流冲走后试图营救她的两个儿子时,在巴哈马死亡。 巴哈马皇家警察部队说,在星期二一名36岁妇女死亡后,巴哈马警方启动了一项调查。 继续读...（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T09:43:09Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-24T12:16:06.272130Z",
+        "updatedAt": "2026-10-24T12:16:06.272130Z"
+      }
+    },
+    {
+      "eventId": "rss-4d5e52cf2ccc8bf7c61a368e",
+      "at": "2026-10-24T12:16:06.272130Z",
+      "data": {
+        "id": "rss-4d5e52cf2ccc8bf7c61a368e",
+        "title": "金正恩在新开的通向中国的桥上交叉",
+        "originalTitle": "Kim Jong-un crosses over newly opened bridge into China",
+        "summary": "在新亚卢河大桥上乘火车到访标志着一年多来已知的朝鲜领导人金正恩首次出国旅行。 金正恩经过一座新开的桥前往中国,标志着朝鲜领导人一年多来首次出国。 韩国政府的一个消息来源告诉Yonhap新闻社,金已抵达辽宁省中国边境城市丹东。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T09:34:40Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-24T12:16:06.272130Z",
+        "updatedAt": "2026-10-24T12:16:06.272130Z"
+      }
+    },
+    {
+      "eventId": "rss-ad6b67bc328927b63428b39b",
+      "at": "2026-10-24T12:16:06.272130Z",
+      "data": {
+        "id": "rss-ad6b67bc328927b63428b39b",
+        "title": "Dónal Lunny, \" 爱尔兰音乐的巨集 \" ,79岁时死亡",
+        "originalTitle": "Dónal Lunny, ‘colossus of Irish music’, dies aged 79",
+        "summary": "爱尔兰传统音乐家Dónal Lunny在79岁死于癌症。 Lunny和他的兄弟Frank和Christy Moore一起在Kildare的三重乐器中显着。他继续演奏诸如Planxty、Moveing Hearts、Bourty乐队和Colfin等乐队。（机器翻译；尚未完成正文核查。）",
+        "category": "网络文化",
+        "publishedAt": "2026-10-24T08:44:44Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/music/2026/oct/24/donal-lunny-colossus-irish-music-dies-aged-79"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-24T12:16:06.272130Z",
+        "updatedAt": "2026-10-24T12:16:06.272130Z"
+      }
+    },
+    {
+      "eventId": "rss-6bd50b2268eff713fbdc21fa",
+      "at": "2026-10-24T12:16:06.272130Z",
+      "data": {
+        "id": "rss-6bd50b2268eff713fbdc21fa",
+        "title": "`这是我们历史的一部分 ' :Menú del día能够活过西班牙改变的饮食习惯吗?",
+        "originalTitle": "‘It’s part of our history’: can the menú del día survive Spain’s changing eating habits?",
+        "summary": "在佛朗哥独裁统治下建立的午餐仪式正在衰落,但并非在西班牙各地每天工作一天的午餐时间之前就失去了一切。 佛朗哥独裁政权遗留下来的遗迹之一,如果不那么臭名昭著的话,则在粉笔、标记笔和打印机墨水中仔细追查。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T06:00:26Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/24/spain-diners-food-restaurants-menu-del-dia"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-24T12:16:06.272130Z",
+        "updatedAt": "2026-10-24T12:16:06.272130Z"
+      }
+    },
+    {
+      "eventId": "rss-6cd693e066bf5c6ffb3135aa",
+      "at": "2026-10-24T12:16:06.272130Z",
+      "data": {
+        "id": "rss-6cd693e066bf5c6ffb3135aa",
+        "title": "Minneapolis的撤退是\"投降\", Trump的前边境巡逻队长告诉BBC",
+        "originalTitle": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
+        "summary": "Greg Bovino是今年早些时候该市有争议移民执法行动的公众形象。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-24T05:31:01Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-24T12:16:06.272130Z",
+        "updatedAt": "2026-10-24T12:16:06.272130Z"
+      }
+    },
+    {
+      "eventId": "rss-899aceae39d712194d1f1f20",
+      "at": "2026-10-24T12:16:06.272130Z",
+      "data": {
+        "id": "rss-899aceae39d712194d1f1f20",
+        "title": "巴西变换的工人阶级是如何改变总统竞选的",
+        "originalTitle": "How Brazil's changing working class is reshaping the presidential race",
+        "summary": "要求改革对卢拉总统在星期日第二轮选举中提出了挑战。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T05:05:44Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-24T12:16:06.272130Z",
+        "updatedAt": "2026-10-24T12:16:06.272130Z"
+      }
+    },
+    {
+      "eventId": "rss-aee9d87fa08b66bcc454f274",
+      "at": "2026-10-24T12:16:06.272130Z",
+      "data": {
+        "id": "rss-aee9d87fa08b66bcc454f274",
+        "title": "AI选举广告在美国中期竞选的兴起",
+        "originalTitle": "The rise of AI election ads in US midterms campaign",
+        "summary": "BBC Vergest追踪了几十个AI广告,（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-10-24T05:03:44Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-24T12:16:06.272130Z",
+        "updatedAt": "2026-10-24T12:16:06.272130Z"
+      }
+    },
+    {
+      "eventId": "rss-235b5642d43137126bd6e6b0",
+      "at": "2026-10-24T12:16:06.272130Z",
+      "data": {
+        "id": "rss-235b5642d43137126bd6e6b0",
+        "title": "台风Campi在前往中国的台湾杀死一人,造成500多人受伤",
+        "originalTitle": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
+        "summary": "超级台风正在削弱,但台湾大部分地区,包括台北,仍然大都关闭,台风Campi于周六扫过台湾,造成一人丧生,500多人受伤,并连根拔起树木和断电,因为风向北向中国海岸。 早些时候,台风被划为超级台风,是今年太平洋最强的风暴之一,Cha。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T02:22:32Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-24T12:16:06.272130Z",
+        "updatedAt": "2026-10-24T12:16:06.272130Z"
+      }
+    },
+    {
+      "eventId": "rss-06c9309238102b2123ab81b1",
+      "at": "2026-10-24T12:16:06.272130Z",
+      "data": {
+        "id": "rss-06c9309238102b2123ab81b1",
+        "title": "澳大利亚国会议员在汽车袭击后情况有所改善",
+        "originalTitle": "Australian MP's condition improves after alleged car attack",
+        "summary": "据墨尔本医院称,独立议员目前状况严重但稳定。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T01:55:15Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-24T12:16:06.272130Z",
+        "updatedAt": "2026-10-24T12:16:06.272130Z"
+      }
+    },
+    {
+      "eventId": "rss-ef486b88d6eb6260c0c012c8",
+      "at": "2026-10-24T12:16:06.272130Z",
+      "data": {
+        "id": "rss-ef486b88d6eb6260c0c012c8",
+        "title": "参议员Jordon Steele-John在公开对他的指控后确认他离开议会",
+        "originalTitle": "Embattled Greens senator Jordon Steele-John confirms leave from parliament after allegations against him made public",
+        "summary": "西澳大利亚州政治家说,他几乎考虑参加参议院的估算,但被告知这将是“不能接受的 ” 。 我们的新政治电子邮件、免费应用程序或每日新闻播客Jordon Steele-John已经证实,他下周不会出席议会,因为格斗的格林斯参议员为公开公布针对他的指控而道歉。 星期六下午,斯蒂尔-约翰删除了一封。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T00:52:33Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/24/greens-senator-jordon-steele-john-confirms-leave-from-parliament-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-24T12:16:06.272130Z",
+        "updatedAt": "2026-10-24T12:16:06.272130Z"
+      }
+    },
+    {
+      "eventId": "rss-b1ce173818dfcae13c83c777",
+      "at": "2026-10-24T12:16:06.272130Z",
+      "data": {
+        "id": "rss-b1ce173818dfcae13c83c777",
+        "title": "Helen Haines的病情在被指称的攻击中双腿失去数天后有所改善。",
+        "originalTitle": "Helen Haines’s condition improves days after losing both legs from alleged attack",
+        "summary": "根据墨尔本Alfred医院的最新消息,独立议员现在很严肃但稳定。 自由应用或每日新闻播客“独立议员Helen Haines”的状况被降级为严肃但稳定,因为她于周一下午在维多利亚东北部的选民办公室附近遭到袭击后失去了双腿。 墨尔本的Alfred医院提供的情况是:（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T00:41:29Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-24T12:16:06.272130Z",
+        "updatedAt": "2026-10-24T12:16:06.272130Z"
+      }
+    },
+    {
+      "eventId": "rss-97c227bfaa08472768aae88e",
+      "at": "2026-10-24T12:16:06.272130Z",
+      "data": {
+        "id": "rss-97c227bfaa08472768aae88e",
+        "title": "随着中期选举的到来,白宫取消了对加拿大某些商品的关税",
+        "originalTitle": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+        "summary": "从10月30日起,将放松对某些产品,包括某些机械的关税,并对地毯等其他产品征收关税。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T00:36:47Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-24T12:16:06.272130Z",
+        "updatedAt": "2026-10-24T12:16:06.272130Z"
+      }
+    },
+    {
+      "eventId": "rss-e74c44b14e60bf338fcafea6",
+      "at": "2026-10-24T12:16:06.272130Z",
+      "data": {
+        "id": "rss-e74c44b14e60bf338fcafea6",
+        "title": "Rubio告诉古巴人,",
+        "originalTitle": "Rubio tells Cubans ‘now is the time’ to act to see political change",
+        "summary": "美国国务卿在特朗普(Trump)告诉美国拉力战舰在从伊朗返回后可以进行干预之后,敦促古巴人在他们的国家寻求政治变革。 他说,“现在是时候了 ” , 唐纳德·特朗普(Donald Trump)周五在佛罗里达南部为候选人举行的集会上说,美国战舰在从伊朗战争回来的路上可以干预古巴。 美国国务卿在他的演讲中说,“现在是时候了 ” 。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T00:30:02Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-24T12:16:06.272130Z",
+        "updatedAt": "2026-10-24T12:16:06.272130Z"
+      }
+    },
+    {
+      "eventId": "rss-03a27aa845611eb59fcfdda4",
+      "at": "2026-10-24T12:16:06.272130Z",
+      "data": {
+        "id": "rss-03a27aa845611eb59fcfdda4",
+        "title": "学生运动将塞尔维亚的Vučić 带到领颈选举的铁丝网上",
+        "originalTitle": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+        "summary": "《学生名单》是从近两年的反腐败抗议中产生的,成为对武契奇统治的最大挑战。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-23T23:08:23Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-24T12:16:06.272130Z",
+        "updatedAt": "2026-10-24T12:16:06.272130Z"
+      }
+    },
+    {
+      "eventId": "rss-316ed2d0479cf95c4307498c",
+      "at": "2026-10-24T12:16:06.272130Z",
+      "data": {
+        "id": "rss-316ed2d0479cf95c4307498c",
+        "title": "杀死俄勒冈学校枪手的父亲 描述他无法拯救的孩子的痛苦",
+        "originalTitle": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
+        "summary": "Kaylub Giamanco因杀害一名枪杀三名儿童和一名教师的青少年而成为英雄。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-23T22:47:07Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-24T12:16:06.272130Z",
+        "updatedAt": "2026-10-24T12:16:06.272130Z"
+      }
+    },
+    {
+      "eventId": "rss-1f9547d1f07b0cccb7052a4d",
+      "at": "2026-10-24T12:16:06.272130Z",
+      "data": {
+        "id": "rss-1f9547d1f07b0cccb7052a4d",
+        "title": "是谁控制了乌克兰对星际线的接触?",
+        "originalTitle": "Who actually controls Ukraine's access to Starlink?",
+        "summary": "总统Zelensky表示, 技术限制继续影响乌克兰军队,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-23T22:24:36Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-24T12:16:06.272130Z",
+        "updatedAt": "2026-10-24T12:16:06.272130Z"
+      }
+    },
+    {
+      "eventId": "rss-55af3acdc0c6edbdeab3841a",
+      "at": "2026-10-24T12:16:06.272130Z",
+      "data": {
+        "id": "rss-55af3acdc0c6edbdeab3841a",
+        "title": "特朗普政府起诉阻止即将到来的阿拉斯加选举的认证",
+        "originalTitle": "Trump administration sues to block certification of upcoming Alaska election",
+        "summary": "司法部已提起诉讼,认为列入两名候选人丹·苏利文可能会混淆选民。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-23T18:49:14Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-24T12:16:06.272130Z",
+        "updatedAt": "2026-10-24T12:16:06.272130Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-10-24T12:16:06.272130Z",
+      "at": "2026-10-24T12:16:06.272130Z",
+      "kind": "GitHub Actions 采集",
+      "count": 24,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 14}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 0}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 10}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 0}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-10-24T00:15:12.661090Z",
       "at": "2026-10-24T00:15:12.661090Z",
