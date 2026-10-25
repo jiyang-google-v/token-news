@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-25T00:10:39.557905Z",
+  "updatedAt": "2026-10-25T12:15:08.154592Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -17056,6 +17056,462 @@
       "tokens": [],
       "firstSeen": "2026-10-25T00:10:39.557905Z",
       "updatedAt": "2026-10-25T00:10:39.557905Z"
+    },
+    {
+      "id": "rss-ee273e8d6d2effa2e3171640",
+      "title": "卢拉与博尔索纳罗的儿子对立,",
+      "originalTitle": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+      "summary": "巴西前总统的儿子Flávio Bolsonaro正在挑战卢拉,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-25T11:54:16Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T12:15:08.154592Z",
+      "updatedAt": "2026-10-25T12:15:08.154592Z"
+    },
+    {
+      "id": "rss-b48029ef08eec337629c9bfb",
+      "title": "菲律宾部长指出, Thomas Markle Sr 可能是「最凶恶的性罪犯」,",
+      "originalTitle": "Signs suggest Thomas Markle Sr may be ‘sex offender of the grossest kind’, says Philippine minister",
+      "summary": "独家:对发现图像的法医分析仍在继续,因为Meghan的父亲否认拥有儿童性虐待图像。 所有迹象都表明Thomas Markle Sr是“可能的最恶毒的性罪犯 ” , 尽管全面的法医调查会给出“确切的画面 ” , 菲律宾内政部长告诉守护者。 东南亚国家当局正在分析数字。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-25T11:52:45Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/25/thomas-markle-sr-philippines-investigation"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T12:15:08.154592Z",
+      "updatedAt": "2026-10-25T12:15:08.154592Z"
+    },
+    {
+      "id": "rss-e37b7b45f378bd8bf25a677f",
+      "title": "要求联合王国政府在英国男子在格林纳达死亡10个月后采取行动",
+      "originalTitle": "Demand for UK government action 10 months after British man’s death in Grenada",
+      "summary": "警方查封了Andrew Frederick的案子 尽管尸检报告证实他死于谋杀 对一名英国人的死亡进行了时间紧迫的调查 他的尸体被发现在格林纳达加勒比海岛上被洗劫的财产里 因为两国之间的外交拖延而停止了调查（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-25T11:00:01Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T12:15:08.154592Z",
+      "updatedAt": "2026-10-25T12:15:08.154592Z"
+    },
+    {
+      "id": "rss-32bd2b6300f9cd74f3011f57",
+      "title": "萨尔瓦多总统说在海地发现的尸体 不是人质的尸体",
+      "originalTitle": "El Salvador president says bodies found in Haiti are not those of hostages",
+      "summary": "Nayib Bukele说,在上周搜寻被绑架的萨尔瓦多人时,交给士兵的尸体“不是我们的人”。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-25T10:55:33Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T12:15:08.154592Z",
+      "updatedAt": "2026-10-25T12:15:08.154592Z"
+    },
+    {
+      "id": "rss-e764a5389607640e08851c6c",
+      "title": "Musk说SpaceX在恢复服务后 限制乌克兰的星际连线",
+      "originalTitle": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "summary": "技术亿万富翁指责乌克兰利用网络开展军事活动,违反了其服务条款。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-25T09:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T12:15:08.154592Z",
+      "updatedAt": "2026-10-25T12:15:08.154592Z"
+    },
+    {
+      "id": "rss-4446d7ab28b5c10bdeeb8863",
+      "title": "巴西人在第二轮总统选举中投票 左派卢拉反对极右翼的博尔索纳罗",
+      "originalTitle": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
+      "summary": "执政党总统在第一轮投票中输给参议员和被判定有罪的前总统巴西的儿子。 星期天,在极难预料的决胜中,左翼总统路易斯·伊纳西奥·卢拉·达席尔瓦试图对赢得第一轮投票的极右翼参议员弗拉维奥·博尔索纳罗(Flávio Bolsonaro)进行前所未有的反击。 博尔索纳罗(Bolsonaro)的出人意料的胜利尽管没有在多数投票中领先。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-25T08:00:58Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T12:15:08.154592Z",
+      "updatedAt": "2026-10-25T12:15:08.154592Z"
+    },
+    {
+      "id": "rss-431fd156916f8f5aa9883559",
+      "title": "“非常大”的多国风暴给澳大利亚东部地区带来了恶劣的天气 — — 更多的风暴即将到来。",
+      "originalTitle": "‘Unusually large’ multi-state storm causing severe weather for Australia’s east – with more on the way",
+      "summary": "澳洲东部大片地区在周日下午面临严重的雷暴, 星期一会有更多潜在的暴风雨和洪水风险。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-25T05:30:30Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/25/unusual-multi-state-storm-causing-flood-warningd-and-severe-weather-for-australias-east"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T12:15:08.154592Z",
+      "updatedAt": "2026-10-25T12:15:08.154592Z"
+    },
+    {
+      "id": "rss-ff00da6ff48d059a4de4b5a6",
+      "title": "以色列将在选举日关闭西岸过境点,因为镇压升级",
+      "originalTitle": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "summary": "以色列国防军宣布在星期二选举之前限制巴勒斯坦工人的行动。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-25T05:15:52Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T12:15:08.154592Z",
+      "updatedAt": "2026-10-25T12:15:08.154592Z"
+    },
+    {
+      "id": "rss-9bd25faf91eba531aa4d2cc6",
+      "title": "AFP 老板说政治人物的激烈言论激起了对国会议员的威胁",
+      "originalTitle": "AFP boss says politicians’ heated rhetoric is fuelling threats against MPs",
+      "summary": "Krissy Barrett专员说,妇女更经常被挑出来,经常受到性暴力的威胁。 利用我们的突发新闻电子邮件、免费应用程序或每日新闻播客,澳大利亚的联邦执法高层官员已经将政客的言论与针对领导人的威胁和虐待直接联系起来。 各级当选代表的安全被扔进了污点。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-25T03:54:43Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/25/afp-commissioner-krissy-barrett-threats-mps-political-debate-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T12:15:08.154592Z",
+      "updatedAt": "2026-10-25T12:15:08.154592Z"
+    },
+    {
+      "id": "rss-35c67fdb10b3910ba1b39a56",
+      "title": "枪手在尼日利亚东北部杀害至少10名村民并抢劫商店",
+      "originalTitle": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
+      "summary": "警察正在寻找其他伤亡人员,官员们警告说,实际死亡人数可能会进一步增加。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-25T03:20:16Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T12:15:08.154592Z",
+      "updatedAt": "2026-10-25T12:15:08.154592Z"
+    },
+    {
+      "id": "rss-2ac5d225560f70aa9efb31de",
+      "title": "奥巴马在中期选举前竞选民主党人时攻击特朗普",
+      "originalTitle": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+      "summary": "奥巴马说,这次选举是“至少控制这个政府某些愚蠢行为的最后最佳机会”。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-25T02:27:15Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T12:15:08.154592Z",
+      "updatedAt": "2026-10-25T12:15:08.154592Z"
+    },
+    {
+      "id": "rss-6e81a0dcdc2b30442b469f92",
+      "title": "从俄罗斯笼子到爱尔兰避难所:布和塔帕的五年救援之旅",
+      "originalTitle": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
+      "summary": "对布和塔帕来说,从俄罗斯到爱尔兰乡村的五年旅程非常简单。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T23:02:51Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T12:15:08.154592Z",
+      "updatedAt": "2026-10-25T12:15:08.154592Z"
     }
   ],
   "history": [
@@ -35917,9 +36373,520 @@
         "firstSeen": "2026-10-25T00:10:39.557905Z",
         "updatedAt": "2026-10-25T00:10:39.557905Z"
       }
+    },
+    {
+      "eventId": "rss-ee273e8d6d2effa2e3171640",
+      "at": "2026-10-25T12:15:08.154592Z",
+      "data": {
+        "id": "rss-ee273e8d6d2effa2e3171640",
+        "title": "卢拉与博尔索纳罗的儿子对立,",
+        "originalTitle": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+        "summary": "巴西前总统的儿子Flávio Bolsonaro正在挑战卢拉,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-25T11:54:16Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T12:15:08.154592Z",
+        "updatedAt": "2026-10-25T12:15:08.154592Z"
+      }
+    },
+    {
+      "eventId": "rss-b48029ef08eec337629c9bfb",
+      "at": "2026-10-25T12:15:08.154592Z",
+      "data": {
+        "id": "rss-b48029ef08eec337629c9bfb",
+        "title": "菲律宾部长指出, Thomas Markle Sr 可能是「最凶恶的性罪犯」,",
+        "originalTitle": "Signs suggest Thomas Markle Sr may be ‘sex offender of the grossest kind’, says Philippine minister",
+        "summary": "独家:对发现图像的法医分析仍在继续,因为Meghan的父亲否认拥有儿童性虐待图像。 所有迹象都表明Thomas Markle Sr是“可能的最恶毒的性罪犯 ” , 尽管全面的法医调查会给出“确切的画面 ” , 菲律宾内政部长告诉守护者。 东南亚国家当局正在分析数字。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-25T11:52:45Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/uk-news/2026/oct/25/thomas-markle-sr-philippines-investigation"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T12:15:08.154592Z",
+        "updatedAt": "2026-10-25T12:15:08.154592Z"
+      }
+    },
+    {
+      "eventId": "rss-e37b7b45f378bd8bf25a677f",
+      "at": "2026-10-25T12:15:08.154592Z",
+      "data": {
+        "id": "rss-e37b7b45f378bd8bf25a677f",
+        "title": "要求联合王国政府在英国男子在格林纳达死亡10个月后采取行动",
+        "originalTitle": "Demand for UK government action 10 months after British man’s death in Grenada",
+        "summary": "警方查封了Andrew Frederick的案子 尽管尸检报告证实他死于谋杀 对一名英国人的死亡进行了时间紧迫的调查 他的尸体被发现在格林纳达加勒比海岛上被洗劫的财产里 因为两国之间的外交拖延而停止了调查（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-25T11:00:01Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T12:15:08.154592Z",
+        "updatedAt": "2026-10-25T12:15:08.154592Z"
+      }
+    },
+    {
+      "eventId": "rss-32bd2b6300f9cd74f3011f57",
+      "at": "2026-10-25T12:15:08.154592Z",
+      "data": {
+        "id": "rss-32bd2b6300f9cd74f3011f57",
+        "title": "萨尔瓦多总统说在海地发现的尸体 不是人质的尸体",
+        "originalTitle": "El Salvador president says bodies found in Haiti are not those of hostages",
+        "summary": "Nayib Bukele说,在上周搜寻被绑架的萨尔瓦多人时,交给士兵的尸体“不是我们的人”。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-25T10:55:33Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T12:15:08.154592Z",
+        "updatedAt": "2026-10-25T12:15:08.154592Z"
+      }
+    },
+    {
+      "eventId": "rss-e764a5389607640e08851c6c",
+      "at": "2026-10-25T12:15:08.154592Z",
+      "data": {
+        "id": "rss-e764a5389607640e08851c6c",
+        "title": "Musk说SpaceX在恢复服务后 限制乌克兰的星际连线",
+        "originalTitle": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+        "summary": "技术亿万富翁指责乌克兰利用网络开展军事活动,违反了其服务条款。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-25T09:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T12:15:08.154592Z",
+        "updatedAt": "2026-10-25T12:15:08.154592Z"
+      }
+    },
+    {
+      "eventId": "rss-4446d7ab28b5c10bdeeb8863",
+      "at": "2026-10-25T12:15:08.154592Z",
+      "data": {
+        "id": "rss-4446d7ab28b5c10bdeeb8863",
+        "title": "巴西人在第二轮总统选举中投票 左派卢拉反对极右翼的博尔索纳罗",
+        "originalTitle": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
+        "summary": "执政党总统在第一轮投票中输给参议员和被判定有罪的前总统巴西的儿子。 星期天,在极难预料的决胜中,左翼总统路易斯·伊纳西奥·卢拉·达席尔瓦试图对赢得第一轮投票的极右翼参议员弗拉维奥·博尔索纳罗(Flávio Bolsonaro)进行前所未有的反击。 博尔索纳罗(Bolsonaro)的出人意料的胜利尽管没有在多数投票中领先。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-25T08:00:58Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T12:15:08.154592Z",
+        "updatedAt": "2026-10-25T12:15:08.154592Z"
+      }
+    },
+    {
+      "eventId": "rss-431fd156916f8f5aa9883559",
+      "at": "2026-10-25T12:15:08.154592Z",
+      "data": {
+        "id": "rss-431fd156916f8f5aa9883559",
+        "title": "“非常大”的多国风暴给澳大利亚东部地区带来了恶劣的天气 — — 更多的风暴即将到来。",
+        "originalTitle": "‘Unusually large’ multi-state storm causing severe weather for Australia’s east – with more on the way",
+        "summary": "澳洲东部大片地区在周日下午面临严重的雷暴, 星期一会有更多潜在的暴风雨和洪水风险。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-25T05:30:30Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/25/unusual-multi-state-storm-causing-flood-warningd-and-severe-weather-for-australias-east"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T12:15:08.154592Z",
+        "updatedAt": "2026-10-25T12:15:08.154592Z"
+      }
+    },
+    {
+      "eventId": "rss-ff00da6ff48d059a4de4b5a6",
+      "at": "2026-10-25T12:15:08.154592Z",
+      "data": {
+        "id": "rss-ff00da6ff48d059a4de4b5a6",
+        "title": "以色列将在选举日关闭西岸过境点,因为镇压升级",
+        "originalTitle": "Israel to close West Bank crossings on election day as crackdown escalates",
+        "summary": "以色列国防军宣布在星期二选举之前限制巴勒斯坦工人的行动。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-25T05:15:52Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T12:15:08.154592Z",
+        "updatedAt": "2026-10-25T12:15:08.154592Z"
+      }
+    },
+    {
+      "eventId": "rss-9bd25faf91eba531aa4d2cc6",
+      "at": "2026-10-25T12:15:08.154592Z",
+      "data": {
+        "id": "rss-9bd25faf91eba531aa4d2cc6",
+        "title": "AFP 老板说政治人物的激烈言论激起了对国会议员的威胁",
+        "originalTitle": "AFP boss says politicians’ heated rhetoric is fuelling threats against MPs",
+        "summary": "Krissy Barrett专员说,妇女更经常被挑出来,经常受到性暴力的威胁。 利用我们的突发新闻电子邮件、免费应用程序或每日新闻播客,澳大利亚的联邦执法高层官员已经将政客的言论与针对领导人的威胁和虐待直接联系起来。 各级当选代表的安全被扔进了污点。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-25T03:54:43Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/25/afp-commissioner-krissy-barrett-threats-mps-political-debate-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T12:15:08.154592Z",
+        "updatedAt": "2026-10-25T12:15:08.154592Z"
+      }
+    },
+    {
+      "eventId": "rss-35c67fdb10b3910ba1b39a56",
+      "at": "2026-10-25T12:15:08.154592Z",
+      "data": {
+        "id": "rss-35c67fdb10b3910ba1b39a56",
+        "title": "枪手在尼日利亚东北部杀害至少10名村民并抢劫商店",
+        "originalTitle": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
+        "summary": "警察正在寻找其他伤亡人员,官员们警告说,实际死亡人数可能会进一步增加。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-25T03:20:16Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T12:15:08.154592Z",
+        "updatedAt": "2026-10-25T12:15:08.154592Z"
+      }
+    },
+    {
+      "eventId": "rss-2ac5d225560f70aa9efb31de",
+      "at": "2026-10-25T12:15:08.154592Z",
+      "data": {
+        "id": "rss-2ac5d225560f70aa9efb31de",
+        "title": "奥巴马在中期选举前竞选民主党人时攻击特朗普",
+        "originalTitle": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+        "summary": "奥巴马说,这次选举是“至少控制这个政府某些愚蠢行为的最后最佳机会”。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-25T02:27:15Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T12:15:08.154592Z",
+        "updatedAt": "2026-10-25T12:15:08.154592Z"
+      }
+    },
+    {
+      "eventId": "rss-6e81a0dcdc2b30442b469f92",
+      "at": "2026-10-25T12:15:08.154592Z",
+      "data": {
+        "id": "rss-6e81a0dcdc2b30442b469f92",
+        "title": "从俄罗斯笼子到爱尔兰避难所:布和塔帕的五年救援之旅",
+        "originalTitle": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
+        "summary": "对布和塔帕来说,从俄罗斯到爱尔兰乡村的五年旅程非常简单。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T23:02:51Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T12:15:08.154592Z",
+        "updatedAt": "2026-10-25T12:15:08.154592Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-10-25T12:15:08.154592Z",
+      "at": "2026-10-25T12:15:08.154592Z",
+      "kind": "GitHub Actions 采集",
+      "count": 12,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 7}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 0}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 5}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 0}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-10-25T00:10:39.557905Z",
       "at": "2026-10-25T00:10:39.557905Z",
