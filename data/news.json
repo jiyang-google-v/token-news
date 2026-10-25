@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-24T12:16:06.272130Z",
+  "updatedAt": "2026-10-25T00:10:39.557905Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -16220,6 +16220,842 @@
       "tokens": [],
       "firstSeen": "2026-10-24T12:16:06.272130Z",
       "updatedAt": "2026-10-24T12:16:06.272130Z"
+    },
+    {
+      "id": "rss-b3b00dd7322cd5095cd28cb4",
+      "title": "在布里斯班以南的拳击赛场外,四人受伤",
+      "originalTitle": "Four people injured after drive-by shooting outside boxing event south of Brisbane",
+      "summary": "在洛根霍尔梅(Loganholme)有牌照的车外开枪后,罪犯仍然逍遥法外。 获得我们的突发新闻电子邮件、免费应用程序或每日新闻播客,四人在拳击场外开车射击后受伤。 警察说,他们回应了有关在布里斯班(Brisbane)以南洛根霍尔梅(Loganholme)有牌照的车外开枪的报道。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T23:13:32Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/25/drive-by-shooting-loganholme-four-injured-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T00:10:39.557905Z",
+      "updatedAt": "2026-10-25T00:10:39.557905Z"
+    },
+    {
+      "id": "rss-2594c67d5018836e032bf4a6",
+      "title": "Andy Burnham说,他想与欧盟就行动自由问题进行“诚实的讨论”。",
+      "originalTitle": "Andy Burnham says he wants ‘honest discussion’ about freedom of movement with EU",
+      "summary": "总理在11月峰会前正在考虑与布鲁塞尔建立新关系的不同选择,他说他想与英国公众进行“诚实的讨论 ” , 讨论英国和欧盟之间重新自由行动的可能性,作为他与集团建立新关系计划的一部分。 总理对重新审视这种关系的愿望持开放态度。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T23:07:12Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T00:10:39.557905Z",
+      "updatedAt": "2026-10-25T00:10:39.557905Z"
+    },
+    {
+      "id": "rss-3fcd6f10560124f915c94c5a",
+      "title": "以色列部队拆毁希布伦住房时流离失所的巴勒斯坦家庭",
+      "originalTitle": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "summary": "这次镇压行动是在星期五两名巴勒斯坦枪手杀害两名以色列士兵之后进行的,而且是在以色列选举前几天进行的。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T23:02:06Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T00:10:39.557905Z",
+      "updatedAt": "2026-10-25T00:10:39.557905Z"
+    },
+    {
+      "id": "rss-a2b868bf8a4831b551cd6e0b",
+      "title": "巴西总统选举的候选人是谁?",
+      "originalTitle": "Who are the candidates in Brazil's presidential election?",
+      "summary": "周日选举的选民在两位非常不同的候选人之间做出选择,（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-24T22:08:47Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T00:10:39.557905Z",
+      "updatedAt": "2026-10-25T00:10:39.557905Z"
+    },
+    {
+      "id": "rss-4bd07663470201bea77e52cc",
+      "title": "乌克兰军方表示,",
+      "originalTitle": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
+      "summary": "但是,SpaceX公司拥有Starlink公司的Elon Musk公司指责乌克兰军方违反了该公司的条件,乌克兰军方“与Starlink有稳定的联系 ” , 乌克兰政府说,在它使用卫星通信系统的能力突然受到限制10天之后,SpaceX公司拥有Starlink公司的CEO Elon Musk公司却指责Ukraini公司。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T21:25:58Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T00:10:39.557905Z",
+      "updatedAt": "2026-10-25T00:10:39.557905Z"
+    },
+    {
+      "id": "rss-5dfae4862abdfa023ee817ea",
+      "title": "超过100万卢拉支持者在巴西大选决赛前夕集会",
+      "originalTitle": "More than one million Lula supporters rally on eve of Brazilian election runoff",
+      "summary": "巴西左翼总统卢拉达席尔瓦(Luiz Inácio Lula da Silva)的100多万支持者前往里约最著名的海滩,（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-24T21:10:23Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T00:10:39.557905Z",
+      "updatedAt": "2026-10-25T00:10:39.557905Z"
+    },
+    {
+      "id": "rss-431f5566a31b29b49c93579a",
+      "title": "在法国各地又一天的群众抗议之后,",
+      "originalTitle": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "summary": "迄今为止,由于数十万人参加了示威活动,官员设法避免了上周末的暴动和抢劫重演。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T21:09:27Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T00:10:39.557905Z",
+      "updatedAt": "2026-10-25T00:10:39.557905Z"
+    },
+    {
+      "id": "rss-87bb975b7408391e696c42fc",
+      "title": "星际迷航似乎又在乌克兰正常运转了",
+      "originalTitle": "Starlink seems to be working normally again in Ukraine",
+      "summary": "据报告,Elon Musk命令SpaceX加速乌克兰的星际航线。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T20:46:34Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T00:10:39.557905Z",
+      "updatedAt": "2026-10-25T00:10:39.557905Z"
+    },
+    {
+      "id": "rss-d3798ec9a0ad0aebf7daa191",
+      "title": "AI会揭发互联网的扭曲性基础设施吗?",
+      "originalTitle": "Will AI expose the rickety infrastructure of the internet?",
+      "summary": "当你意识到互联网是\"由胶水和梦想在一起\"的时候。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-10-24T20:15:33Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T00:10:39.557905Z",
+      "updatedAt": "2026-10-25T00:10:39.557905Z"
+    },
+    {
+      "id": "rss-d58590effe1c443fb536bca4",
+      "title": "巴黎的抗议者和防暴警察冲突",
+      "originalTitle": "Fireworks and tear gas as protesters and riot police clash in Paris",
+      "summary": "欧洲记者Nick Beake从巴黎报导,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T19:37:35Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T00:10:39.557905Z",
+      "updatedAt": "2026-10-25T00:10:39.557905Z"
+    },
+    {
+      "id": "rss-9b1d1f14a9b8f9bec8a19d49",
+      "title": "Vanessa Trump说,在诊断出来六个月后,她没有癌症",
+      "originalTitle": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+      "summary": "小唐纳德·特朗普的前妻与她同住五个孩子,她于5月宣布,她已被诊断患有乳腺癌。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-24T19:12:51Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T00:10:39.557905Z",
+      "updatedAt": "2026-10-25T00:10:39.557905Z"
+    },
+    {
+      "id": "rss-43fa73ddaf377eb53f4ddcb6",
+      "title": "AI墓地:一个运行中的项目和新创企业清单,没有成功",
+      "originalTitle": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "从苹果公司一再推迟Siri AI到OpenAI的混乱的“超级应用程序”的启动,（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-10-24T19:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T00:10:39.557905Z",
+      "updatedAt": "2026-10-25T00:10:39.557905Z"
+    },
+    {
+      "id": "rss-9a6a573f975948182403b1bc",
+      "title": "数十万人在法国各地游行抗议学校及维持治安",
+      "originalTitle": "Hundreds of thousands march across France in protests over schools and policing",
+      "summary": "在巴黎,近1,000人因警察指控人群而被捕,催泪瓦斯也用来阻止抗议者前往其他市中心。 上周六,数十万人在法国各城市游行,抗议活动基本上是和平的,目的是支持学童要求更多教师和修复破旧建筑,因为Emmanuel Macron在担任总统的最后几个月面临社会和政治危机。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T17:54:41Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T00:10:39.557905Z",
+      "updatedAt": "2026-10-25T00:10:39.557905Z"
+    },
+    {
+      "id": "rss-93f8cf567fdc5cc8cb164f78",
+      "title": "据报告,Instacart与DoorDash和Uber讨论了销售问题。",
+      "originalTitle": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+      "summary": "Instacart可能会把自己卖给一个更大的竞争对手（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T16:30:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T00:10:39.557905Z",
+      "updatedAt": "2026-10-25T00:10:39.557905Z"
+    },
+    {
+      "id": "rss-61ceba6cfe4981597ca26136",
+      "title": "布洛克的新声音模型听起来很像人",
+      "originalTitle": "Block’s new voice model sounds eerily human",
+      "summary": "布洛克说,声音模型可以 本地运行在麦克布鲁克 M4 Max上（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T16:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T00:10:39.557905Z",
+      "updatedAt": "2026-10-25T00:10:39.557905Z"
+    },
+    {
+      "id": "rss-155f7f5e8c38da2c0cbfd506",
+      "title": "战火吞没了希特勒的山顶鹰巢",
+      "originalTitle": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+      "summary": "德国南部巴伐利亚州的警察在火灾后拘留了一名33岁的德国男子。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T15:56:48Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T00:10:39.557905Z",
+      "updatedAt": "2026-10-25T00:10:39.557905Z"
+    },
+    {
+      "id": "rss-2829b6d867987bf473e5eebe",
+      "title": "PHP- ocalpse: 两个关键的网络错误是如何几乎打破互联网的",
+      "originalTitle": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+      "summary": "PHP网络编程语言中的两个关键错误被大多数互联网使用,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T15:30:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T00:10:39.557905Z",
+      "updatedAt": "2026-10-25T00:10:39.557905Z"
+    },
+    {
+      "id": "rss-0b2d6cf7f7c34f259814a7a0",
+      "title": "这些聪明的应用程序展示了iPhone Duo的潜力",
+      "originalTitle": "These clever apps show off the iPhone Duo’s potential",
+      "summary": "从回放磁带播放器和虚拟笔记本到飞行追踪器 甚至一个数字烤面包机 开发者正在寻找创新的方法 来利用苹果的第一个折叠的iPhone（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T15:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T00:10:39.557905Z",
+      "updatedAt": "2026-10-25T00:10:39.557905Z"
+    },
+    {
+      "id": "rss-e7a80d87e8606cee69a815d0",
+      "title": "Grok的AI模式被迫选择共和党人。 OpenAI选择民主党人。",
+      "originalTitle": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "summary": "Grok的AI以压倒多数推荐共和党候选人, 而OpenAI的GPT则支持民主党,（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-10-24T15:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T00:10:39.557905Z",
+      "updatedAt": "2026-10-25T00:10:39.557905Z"
+    },
+    {
+      "id": "rss-e838bae57c5769833a299b3a",
+      "title": "鲍克斯・帕尔马2号 终于让我不再在手机上看书了",
+      "originalTitle": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
+      "summary": "400美元Boox Palma 2 Pro是一个智能手机式的电子阅读器,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T14:15:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T00:10:39.557905Z",
+      "updatedAt": "2026-10-25T00:10:39.557905Z"
+    },
+    {
+      "id": "rss-ba1e969f5ed16b52b1196083",
+      "title": "这里是顶尖的AI代理 可以在您的短信中生活",
+      "originalTitle": "Here are the top AI agents that can live in your text messages",
+      "summary": "我们创造了一个名单 最引人注目的AI代理 可以在你的短信中生活, 从一般助理到 为家庭、旅行和工作设计的代理。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-10-24T14:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T00:10:39.557905Z",
+      "updatedAt": "2026-10-25T00:10:39.557905Z"
+    },
+    {
+      "id": "rss-d14f1415a00f6f282482545a",
+      "title": "在爱尔兰发生致命纵火袭击事件后,3人未经指控获释",
+      "originalTitle": "Three released without charge after fatal arson attack in Ireland",
+      "summary": "Gardaí说,3人——2名妇女和1名男子——已经获释,1人仍然在押。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-24T09:38:28Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-25T00:10:39.557905Z",
+      "updatedAt": "2026-10-25T00:10:39.557905Z"
     }
   ],
   "history": [
@@ -34157,9 +34993,940 @@
         "firstSeen": "2026-10-24T12:16:06.272130Z",
         "updatedAt": "2026-10-24T12:16:06.272130Z"
       }
+    },
+    {
+      "eventId": "rss-b3b00dd7322cd5095cd28cb4",
+      "at": "2026-10-25T00:10:39.557905Z",
+      "data": {
+        "id": "rss-b3b00dd7322cd5095cd28cb4",
+        "title": "在布里斯班以南的拳击赛场外,四人受伤",
+        "originalTitle": "Four people injured after drive-by shooting outside boxing event south of Brisbane",
+        "summary": "在洛根霍尔梅(Loganholme)有牌照的车外开枪后,罪犯仍然逍遥法外。 获得我们的突发新闻电子邮件、免费应用程序或每日新闻播客,四人在拳击场外开车射击后受伤。 警察说,他们回应了有关在布里斯班(Brisbane)以南洛根霍尔梅(Loganholme)有牌照的车外开枪的报道。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T23:13:32Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/25/drive-by-shooting-loganholme-four-injured-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T00:10:39.557905Z",
+        "updatedAt": "2026-10-25T00:10:39.557905Z"
+      }
+    },
+    {
+      "eventId": "rss-2594c67d5018836e032bf4a6",
+      "at": "2026-10-25T00:10:39.557905Z",
+      "data": {
+        "id": "rss-2594c67d5018836e032bf4a6",
+        "title": "Andy Burnham说,他想与欧盟就行动自由问题进行“诚实的讨论”。",
+        "originalTitle": "Andy Burnham says he wants ‘honest discussion’ about freedom of movement with EU",
+        "summary": "总理在11月峰会前正在考虑与布鲁塞尔建立新关系的不同选择,他说他想与英国公众进行“诚实的讨论 ” , 讨论英国和欧盟之间重新自由行动的可能性,作为他与集团建立新关系计划的一部分。 总理对重新审视这种关系的愿望持开放态度。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T23:07:12Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T00:10:39.557905Z",
+        "updatedAt": "2026-10-25T00:10:39.557905Z"
+      }
+    },
+    {
+      "eventId": "rss-3fcd6f10560124f915c94c5a",
+      "at": "2026-10-25T00:10:39.557905Z",
+      "data": {
+        "id": "rss-3fcd6f10560124f915c94c5a",
+        "title": "以色列部队拆毁希布伦住房时流离失所的巴勒斯坦家庭",
+        "originalTitle": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+        "summary": "这次镇压行动是在星期五两名巴勒斯坦枪手杀害两名以色列士兵之后进行的,而且是在以色列选举前几天进行的。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T23:02:06Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T00:10:39.557905Z",
+        "updatedAt": "2026-10-25T00:10:39.557905Z"
+      }
+    },
+    {
+      "eventId": "rss-a2b868bf8a4831b551cd6e0b",
+      "at": "2026-10-25T00:10:39.557905Z",
+      "data": {
+        "id": "rss-a2b868bf8a4831b551cd6e0b",
+        "title": "巴西总统选举的候选人是谁?",
+        "originalTitle": "Who are the candidates in Brazil's presidential election?",
+        "summary": "周日选举的选民在两位非常不同的候选人之间做出选择,（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-24T22:08:47Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T00:10:39.557905Z",
+        "updatedAt": "2026-10-25T00:10:39.557905Z"
+      }
+    },
+    {
+      "eventId": "rss-4bd07663470201bea77e52cc",
+      "at": "2026-10-25T00:10:39.557905Z",
+      "data": {
+        "id": "rss-4bd07663470201bea77e52cc",
+        "title": "乌克兰军方表示,",
+        "originalTitle": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
+        "summary": "但是,SpaceX公司拥有Starlink公司的Elon Musk公司指责乌克兰军方违反了该公司的条件,乌克兰军方“与Starlink有稳定的联系 ” , 乌克兰政府说,在它使用卫星通信系统的能力突然受到限制10天之后,SpaceX公司拥有Starlink公司的CEO Elon Musk公司却指责Ukraini公司。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T21:25:58Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T00:10:39.557905Z",
+        "updatedAt": "2026-10-25T00:10:39.557905Z"
+      }
+    },
+    {
+      "eventId": "rss-5dfae4862abdfa023ee817ea",
+      "at": "2026-10-25T00:10:39.557905Z",
+      "data": {
+        "id": "rss-5dfae4862abdfa023ee817ea",
+        "title": "超过100万卢拉支持者在巴西大选决赛前夕集会",
+        "originalTitle": "More than one million Lula supporters rally on eve of Brazilian election runoff",
+        "summary": "巴西左翼总统卢拉达席尔瓦(Luiz Inácio Lula da Silva)的100多万支持者前往里约最著名的海滩,（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-24T21:10:23Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T00:10:39.557905Z",
+        "updatedAt": "2026-10-25T00:10:39.557905Z"
+      }
+    },
+    {
+      "eventId": "rss-431f5566a31b29b49c93579a",
+      "at": "2026-10-25T00:10:39.557905Z",
+      "data": {
+        "id": "rss-431f5566a31b29b49c93579a",
+        "title": "在法国各地又一天的群众抗议之后,",
+        "originalTitle": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+        "summary": "迄今为止,由于数十万人参加了示威活动,官员设法避免了上周末的暴动和抢劫重演。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T21:09:27Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T00:10:39.557905Z",
+        "updatedAt": "2026-10-25T00:10:39.557905Z"
+      }
+    },
+    {
+      "eventId": "rss-87bb975b7408391e696c42fc",
+      "at": "2026-10-25T00:10:39.557905Z",
+      "data": {
+        "id": "rss-87bb975b7408391e696c42fc",
+        "title": "星际迷航似乎又在乌克兰正常运转了",
+        "originalTitle": "Starlink seems to be working normally again in Ukraine",
+        "summary": "据报告,Elon Musk命令SpaceX加速乌克兰的星际航线。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T20:46:34Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T00:10:39.557905Z",
+        "updatedAt": "2026-10-25T00:10:39.557905Z"
+      }
+    },
+    {
+      "eventId": "rss-d3798ec9a0ad0aebf7daa191",
+      "at": "2026-10-25T00:10:39.557905Z",
+      "data": {
+        "id": "rss-d3798ec9a0ad0aebf7daa191",
+        "title": "AI会揭发互联网的扭曲性基础设施吗?",
+        "originalTitle": "Will AI expose the rickety infrastructure of the internet?",
+        "summary": "当你意识到互联网是\"由胶水和梦想在一起\"的时候。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-10-24T20:15:33Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T00:10:39.557905Z",
+        "updatedAt": "2026-10-25T00:10:39.557905Z"
+      }
+    },
+    {
+      "eventId": "rss-d58590effe1c443fb536bca4",
+      "at": "2026-10-25T00:10:39.557905Z",
+      "data": {
+        "id": "rss-d58590effe1c443fb536bca4",
+        "title": "巴黎的抗议者和防暴警察冲突",
+        "originalTitle": "Fireworks and tear gas as protesters and riot police clash in Paris",
+        "summary": "欧洲记者Nick Beake从巴黎报导,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T19:37:35Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T00:10:39.557905Z",
+        "updatedAt": "2026-10-25T00:10:39.557905Z"
+      }
+    },
+    {
+      "eventId": "rss-9b1d1f14a9b8f9bec8a19d49",
+      "at": "2026-10-25T00:10:39.557905Z",
+      "data": {
+        "id": "rss-9b1d1f14a9b8f9bec8a19d49",
+        "title": "Vanessa Trump说,在诊断出来六个月后,她没有癌症",
+        "originalTitle": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+        "summary": "小唐纳德·特朗普的前妻与她同住五个孩子,她于5月宣布,她已被诊断患有乳腺癌。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-24T19:12:51Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T00:10:39.557905Z",
+        "updatedAt": "2026-10-25T00:10:39.557905Z"
+      }
+    },
+    {
+      "eventId": "rss-43fa73ddaf377eb53f4ddcb6",
+      "at": "2026-10-25T00:10:39.557905Z",
+      "data": {
+        "id": "rss-43fa73ddaf377eb53f4ddcb6",
+        "title": "AI墓地:一个运行中的项目和新创企业清单,没有成功",
+        "originalTitle": "The AI graveyard: a running list of projects and startups that didn’t make it",
+        "summary": "从苹果公司一再推迟Siri AI到OpenAI的混乱的“超级应用程序”的启动,（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-10-24T19:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T00:10:39.557905Z",
+        "updatedAt": "2026-10-25T00:10:39.557905Z"
+      }
+    },
+    {
+      "eventId": "rss-9a6a573f975948182403b1bc",
+      "at": "2026-10-25T00:10:39.557905Z",
+      "data": {
+        "id": "rss-9a6a573f975948182403b1bc",
+        "title": "数十万人在法国各地游行抗议学校及维持治安",
+        "originalTitle": "Hundreds of thousands march across France in protests over schools and policing",
+        "summary": "在巴黎,近1,000人因警察指控人群而被捕,催泪瓦斯也用来阻止抗议者前往其他市中心。 上周六,数十万人在法国各城市游行,抗议活动基本上是和平的,目的是支持学童要求更多教师和修复破旧建筑,因为Emmanuel Macron在担任总统的最后几个月面临社会和政治危机。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T17:54:41Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T00:10:39.557905Z",
+        "updatedAt": "2026-10-25T00:10:39.557905Z"
+      }
+    },
+    {
+      "eventId": "rss-93f8cf567fdc5cc8cb164f78",
+      "at": "2026-10-25T00:10:39.557905Z",
+      "data": {
+        "id": "rss-93f8cf567fdc5cc8cb164f78",
+        "title": "据报告,Instacart与DoorDash和Uber讨论了销售问题。",
+        "originalTitle": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+        "summary": "Instacart可能会把自己卖给一个更大的竞争对手（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T16:30:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T00:10:39.557905Z",
+        "updatedAt": "2026-10-25T00:10:39.557905Z"
+      }
+    },
+    {
+      "eventId": "rss-61ceba6cfe4981597ca26136",
+      "at": "2026-10-25T00:10:39.557905Z",
+      "data": {
+        "id": "rss-61ceba6cfe4981597ca26136",
+        "title": "布洛克的新声音模型听起来很像人",
+        "originalTitle": "Block’s new voice model sounds eerily human",
+        "summary": "布洛克说,声音模型可以 本地运行在麦克布鲁克 M4 Max上（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T16:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T00:10:39.557905Z",
+        "updatedAt": "2026-10-25T00:10:39.557905Z"
+      }
+    },
+    {
+      "eventId": "rss-155f7f5e8c38da2c0cbfd506",
+      "at": "2026-10-25T00:10:39.557905Z",
+      "data": {
+        "id": "rss-155f7f5e8c38da2c0cbfd506",
+        "title": "战火吞没了希特勒的山顶鹰巢",
+        "originalTitle": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+        "summary": "德国南部巴伐利亚州的警察在火灾后拘留了一名33岁的德国男子。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T15:56:48Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T00:10:39.557905Z",
+        "updatedAt": "2026-10-25T00:10:39.557905Z"
+      }
+    },
+    {
+      "eventId": "rss-2829b6d867987bf473e5eebe",
+      "at": "2026-10-25T00:10:39.557905Z",
+      "data": {
+        "id": "rss-2829b6d867987bf473e5eebe",
+        "title": "PHP- ocalpse: 两个关键的网络错误是如何几乎打破互联网的",
+        "originalTitle": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+        "summary": "PHP网络编程语言中的两个关键错误被大多数互联网使用,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T15:30:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T00:10:39.557905Z",
+        "updatedAt": "2026-10-25T00:10:39.557905Z"
+      }
+    },
+    {
+      "eventId": "rss-0b2d6cf7f7c34f259814a7a0",
+      "at": "2026-10-25T00:10:39.557905Z",
+      "data": {
+        "id": "rss-0b2d6cf7f7c34f259814a7a0",
+        "title": "这些聪明的应用程序展示了iPhone Duo的潜力",
+        "originalTitle": "These clever apps show off the iPhone Duo’s potential",
+        "summary": "从回放磁带播放器和虚拟笔记本到飞行追踪器 甚至一个数字烤面包机 开发者正在寻找创新的方法 来利用苹果的第一个折叠的iPhone（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T15:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T00:10:39.557905Z",
+        "updatedAt": "2026-10-25T00:10:39.557905Z"
+      }
+    },
+    {
+      "eventId": "rss-e7a80d87e8606cee69a815d0",
+      "at": "2026-10-25T00:10:39.557905Z",
+      "data": {
+        "id": "rss-e7a80d87e8606cee69a815d0",
+        "title": "Grok的AI模式被迫选择共和党人。 OpenAI选择民主党人。",
+        "originalTitle": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+        "summary": "Grok的AI以压倒多数推荐共和党候选人, 而OpenAI的GPT则支持民主党,（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-10-24T15:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T00:10:39.557905Z",
+        "updatedAt": "2026-10-25T00:10:39.557905Z"
+      }
+    },
+    {
+      "eventId": "rss-e838bae57c5769833a299b3a",
+      "at": "2026-10-25T00:10:39.557905Z",
+      "data": {
+        "id": "rss-e838bae57c5769833a299b3a",
+        "title": "鲍克斯・帕尔马2号 终于让我不再在手机上看书了",
+        "originalTitle": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
+        "summary": "400美元Boox Palma 2 Pro是一个智能手机式的电子阅读器,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T14:15:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T00:10:39.557905Z",
+        "updatedAt": "2026-10-25T00:10:39.557905Z"
+      }
+    },
+    {
+      "eventId": "rss-ba1e969f5ed16b52b1196083",
+      "at": "2026-10-25T00:10:39.557905Z",
+      "data": {
+        "id": "rss-ba1e969f5ed16b52b1196083",
+        "title": "这里是顶尖的AI代理 可以在您的短信中生活",
+        "originalTitle": "Here are the top AI agents that can live in your text messages",
+        "summary": "我们创造了一个名单 最引人注目的AI代理 可以在你的短信中生活, 从一般助理到 为家庭、旅行和工作设计的代理。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-10-24T14:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T00:10:39.557905Z",
+        "updatedAt": "2026-10-25T00:10:39.557905Z"
+      }
+    },
+    {
+      "eventId": "rss-d14f1415a00f6f282482545a",
+      "at": "2026-10-25T00:10:39.557905Z",
+      "data": {
+        "id": "rss-d14f1415a00f6f282482545a",
+        "title": "在爱尔兰发生致命纵火袭击事件后,3人未经指控获释",
+        "originalTitle": "Three released without charge after fatal arson attack in Ireland",
+        "summary": "Gardaí说,3人——2名妇女和1名男子——已经获释,1人仍然在押。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-24T09:38:28Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-25T00:10:39.557905Z",
+        "updatedAt": "2026-10-25T00:10:39.557905Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-10-25T00:10:39.557905Z",
+      "at": "2026-10-25T00:10:39.557905Z",
+      "kind": "GitHub Actions 采集",
+      "count": 22,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 7}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 0}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 5}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 10}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-10-24T12:16:06.272130Z",
       "at": "2026-10-24T12:16:06.272130Z",
