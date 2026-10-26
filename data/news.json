@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-25T12:15:08.154592Z",
+  "updatedAt": "2026-10-26T00:13:57.127551Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -17512,6 +17512,880 @@
       "tokens": [],
       "firstSeen": "2026-10-25T12:15:08.154592Z",
       "updatedAt": "2026-10-25T12:15:08.154592Z"
+    },
+    {
+      "id": "rss-73f91a097df5701e53424915",
+      "title": "澳大利亚政治现场直播:Albanese在议会中给Haines带来情感上的敬意;获得避孕和UTI治疗的机会变得更便宜和容易。",
+      "originalTitle": "Australia politics live: Albanese leads emotional tributes to Haines in parliament; access to contraception and UTI treatment to become cheaper and easier",
+      "summary": "获取我们每天的政治电子邮件、免费的应用程序或每日新闻播客 Steggall 呼唤文明和尊重独立议员Zali Steggall 呼吁在分歧时给予更多的尊重,告诉ABC领导和言语很重要。我们绝对需要确保更多的文明和尊重。社交媒体是他们可以通过直接传递虐待和威胁的平台。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-25T23:59:38Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T00:13:57.127551Z",
+      "updatedAt": "2026-10-26T00:13:57.127551Z"
+    },
+    {
+      "id": "rss-cebb2093d450cd55d24c4bcf",
+      "title": "巴西的径流实时更新: 投票延期两小时后恢复计票",
+      "originalTitle": "Brazil runoff live updates: ballot count resumes after two-hour voting extension",
+      "summary": "在巴西最高法院下令延长星期日后,Polls正式关闭,因为Flávio Bolsonaro和Luiz Inácio Lula da Silva等待结果。 第二轮选举结果（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-25T23:51:51Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T00:13:57.127551Z",
+      "updatedAt": "2026-10-26T00:13:57.127551Z"
+    },
+    {
+      "id": "rss-842f3b34c2cc681d62066084",
+      "title": "数据中心的辩论在美国期中赛前就热了,这是你需要知道的",
+      "originalTitle": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+      "summary": "数据中心是我们数字世界的生命线,但人们越来越关注其对环境的影响。 英国广播公司在图表中探索它们的上升。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-25T23:44:34Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T00:13:57.127551Z",
+      "updatedAt": "2026-10-26T00:13:57.127551Z"
+    },
+    {
+      "id": "rss-d83e3da8b8178fe93bdf9b0d",
+      "title": "塞尔维亚领导人Aleksandar Vučić在地震选举中被学生运动赶下台",
+      "originalTitle": "Serbian leader Aleksandar Vučić ousted by student movement in seismic election",
+      "summary": "塞尔维亚长期执政的领导人阿列克桑达尔·武契奇(Aleksandar Vučić)承认失败,在一次历史性选举之后,政治发生了震动性转变,这次选举目睹了日益独裁的领导人与一个学生领导的运动对立,该运动花了两年时间抗议他的政府。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-25T23:42:32Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T00:13:57.127551Z",
+      "updatedAt": "2026-10-26T00:13:57.127551Z"
+    },
+    {
+      "id": "rss-5953a3a1f3accd67266194bc",
+      "title": "在Vučić承认选举后,",
+      "originalTitle": "‘Door to EU is open’ new Serbian government told after Vučić concedes election – Europe live as it happened",
+      "summary": "学生名单运动预计将在新议会中拥有141个席位,而多数塞族领袖Aleksandar Vučić所需要的126个席位则完全没有在激烈竞选的议会选举中获胜。 Ipsos/Cesid的最新投票预测显示,当地时间下午5点前投票率为60.8%(4pm UK ) , 投票站关闭前还有3小时。 超过13人投票。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-25T23:40:57Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T00:13:57.127551Z",
+      "updatedAt": "2026-10-26T00:13:57.127551Z"
+    },
+    {
+      "id": "rss-4f9596d87794c5b0c382d3b0",
+      "title": "委内瑞拉反对派领导人María Machado在流亡数月后返回",
+      "originalTitle": "Venezuelan opposition leader María Machado returns after months in exile",
+      "summary": "马查多在美国政府逮捕委内瑞拉总统马杜罗前一个月离开委内瑞拉。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-25T23:33:14Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T00:13:57.127551Z",
+      "updatedAt": "2026-10-26T00:13:57.127551Z"
+    },
+    {
+      "id": "rss-389047118581412ae4bee80e",
+      "title": "塞尔维亚资深统治者武契奇承认参加学生领导的抗议运动",
+      "originalTitle": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+      "summary": "12年的民粹主义右翼领袖说,（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-25T22:54:57Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T00:13:57.127551Z",
+      "updatedAt": "2026-10-26T00:13:57.127551Z"
+    },
+    {
+      "id": "rss-7ec2bb0f66e3b6f619d01414",
+      "title": "巴西2026年选举:第二轮实况选举结果",
+      "originalTitle": "Brazil election 2026: Live second round results",
+      "summary": "巴西现任总统路易斯·伊纳西奥·卢拉·达席尔瓦(Luiz Inácio Lula da Silva)在第一轮投票被击败后,正寻求与Flávio Bolsonaro(被判罪的前任波尔斯之子,（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-25T22:11:16Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T00:13:57.127551Z",
+      "updatedAt": "2026-10-26T00:13:57.127551Z"
+    },
+    {
+      "id": "rss-fe2cbd9325d39f55a5f8c7af",
+      "title": "以色列对关键选举的支离破碎的支架",
+      "originalTitle": "Deeply divided Israel braces for pivotal election",
+      "summary": "在经历了三年的区域战争之后,这是以色列一直知道的一场战斗,露西·威廉森写道。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-25T22:11:13Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T00:13:57.127551Z",
+      "updatedAt": "2026-10-26T00:13:57.127551Z"
+    },
+    {
+      "id": "rss-d3d23ea5050c7b57542467b5",
+      "title": "为什么以色列选举是其历史上最重要的选举之一",
+      "originalTitle": "Why Israel's election is one of the most important in its history",
+      "summary": "正如中东记者Lucy Williamson所报导的那样,安全和民主是以色列高度预期的大选的中心问题。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-25T22:05:30Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T00:13:57.127551Z",
+      "updatedAt": "2026-10-26T00:13:57.127551Z"
+    },
+    {
+      "id": "rss-08ec5c76056e031d898a328e",
+      "title": "Grok 发布 AI 生成的“ Odyssey” 前七分钟",
+      "originalTitle": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "summary": "录像看起来还不错 只要你不寻求艺术 灵感 或人类的兴趣（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-10-25T21:31:16Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T00:13:57.127551Z",
+      "updatedAt": "2026-10-26T00:13:57.127551Z"
+    },
+    {
+      "id": "rss-3c9d363221abcabae388b4c5",
+      "title": "作者「自以为是」以技术自由主义为目的,",
+      "originalTitle": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+      "summary": "\"这是12年前的世界观\"（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-10-25T20:20:08Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T00:13:57.127551Z",
+      "updatedAt": "2026-10-26T00:13:57.127551Z"
+    },
+    {
+      "id": "rss-507711a0da9d3fe24dcd91d2",
+      "title": "Macron指控法国将抗议权置于「暴徒法」的风险之下,",
+      "originalTitle": "Macron accused of putting France’s right to protest at risk with ‘vandal’s law’",
+      "summary": "让无辜的抗议者为破坏负责对法治有害,并玩弄极右手,他说,工会指责反对者Emmanuel Macron试图限制法国基本的抗议权,因为政府快速执行一项法案,要求抗议者为街头示威中破坏行为造成的损失付出代价,即使他们不是直接造成这种行为的。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-25T19:57:40Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/25/macrons-vandals-pay-bill-puts-right-to-protest-at-risk"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T00:13:57.127551Z",
+      "updatedAt": "2026-10-26T00:13:57.127551Z"
+    },
+    {
+      "id": "rss-d0c8c64dbf61b2c9df4dc18a",
+      "title": "流亡的反对派领袖María Corina Machado返回委内瑞拉",
+      "originalTitle": "Exiled opposition leader María Corina Machado returns to Venezuela",
+      "summary": "诺贝尔和平奖获得者在流亡近一年后返回,这不太可能令临时总统戴尔西·罗德里格斯高兴。 委内瑞拉反对党领袖玛利亚·科琳娜·马查多宣布,她在离开委内瑞拉获得诺贝尔和平奖近一年后就已返回委内瑞拉。 她周日午餐时在X上写道 : “ 我在这里。 ”（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-25T19:56:56Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T00:13:57.127551Z",
+      "updatedAt": "2026-10-26T00:13:57.127551Z"
+    },
+    {
+      "id": "rss-9a814be9eb368823251ceec6",
+      "title": "阿波罗经济学家说,",
+      "originalTitle": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "summary": "\"尽管大量投资 和广泛的杂乱无章的人工智能, 技术已经向美国公司 带来了零金融回报 技术之外。\"（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-10-25T16:57:32Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T00:13:57.127551Z",
+      "updatedAt": "2026-10-26T00:13:57.127551Z"
+    },
+    {
+      "id": "rss-f84645de29731d152570c3b9",
+      "title": "TechCrunch 流动性: 蓝绿色是自主的颜色",
+      "originalTitle": "TechCrunch Mobility: Blue-green is the color of autonomy",
+      "summary": "欢迎回到TechCrunch行动中心 未来的交通枢纽 现在 AI比以往更在其中扮演的角色（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-10-25T16:05:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T00:13:57.127551Z",
+      "updatedAt": "2026-10-26T00:13:57.127551Z"
+    },
+    {
+      "id": "rss-f9e2e6b3702535ba7f4a91b3",
+      "title": "巴黎郊区致命枪击案的嫌犯 被送去接受精神检查",
+      "originalTitle": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+      "summary": "当局说,将观察他,评估他的“精神健康状况是否与审问相符”。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-25T15:32:51Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T00:13:57.127551Z",
+      "updatedAt": "2026-10-26T00:13:57.127551Z"
+    },
+    {
+      "id": "rss-68a138b585ade2b287c26dba",
+      "title": "葡萄牙警察用警犬和警棍拆除住房抗议营地",
+      "originalTitle": "Portuguese police with dogs and batons dismantle housing protest camps",
+      "summary": "在里斯本市中心至少清除了100个帐篷的30多人和葡萄牙波尔图警察局的50多人在星期天凌晨拆除了里斯本和波尔图的住房抗议营,并逮捕了30多人。 袭击是警方与在西班牙类似营地的煽动下爆发的几天冲突的最新事件。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-25T15:32:20Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T00:13:57.127551Z",
+      "updatedAt": "2026-10-26T00:13:57.127551Z"
+    },
+    {
+      "id": "rss-65053c0b0bf5eaa367864d8d",
+      "title": "加蓬说,在禁止8个月后恢复了使用社交媒体的机会。",
+      "originalTitle": "Gabon says access to social media restored after eight-month ban",
+      "summary": "当局为这项禁令辩护,说网上内容助长冲突,而反对派则谴责这种做法是滥用权力。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-25T14:39:47Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T00:13:57.127551Z",
+      "updatedAt": "2026-10-26T00:13:57.127551Z"
+    },
+    {
+      "id": "rss-a18a7851efbde35c1b2abb7e",
+      "title": "最热的人工智能 穿戴和工具 你应该知道",
+      "originalTitle": "The hottest AI wearables and gadgets you should know about",
+      "summary": "我们编制了一份全美国最热的服装清单, 包括Muse Charm、Bee、Friend、Plaud等等。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-10-25T14:10:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T00:13:57.127551Z",
+      "updatedAt": "2026-10-26T00:13:57.127551Z"
+    },
+    {
+      "id": "rss-19ec18c1f5a85a7e1c66435e",
+      "title": "“非常失望”:西澳大利亚州政府要求德洛伊特公司偿还大学报告有缺陷的费用。",
+      "originalTitle": "‘Extremely disappointed’: WA government seeks reimbursement from Deloitte over flawed university report",
+      "summary": "西澳大利亚州政府说,它“非常失望”, 并正在寻求德洛伊特公司“快速”收回成本, 因为在一份有关大学合并的报告(包括AI-Halluced r)中发现错误后,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-25T14:00:06Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/26/deloitte-report-wa-university-mergers-260m-discrepancy-ai"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T00:13:57.127551Z",
+      "updatedAt": "2026-10-26T00:13:57.127551Z"
+    },
+    {
+      "id": "rss-0734f5538e07c422763b297c",
+      "title": "近三分之二的澳大利亚人在所有普通医生护理方面都发放了批量账单,同时给予医生额外的奖励。",
+      "originalTitle": "Almost two-thirds of Australians bulk-billed for all GP care amid extra incentives for doctors",
+      "summary": "RACGP说结果可能反映了医疗计划的投资, 但专家也提醒注意护理质量和结果。 追踪我们的澳大利亚政坛实况博客获取最新消息。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-25T14:00:06Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/26/almost-two-thirds-of-australians-bulk-billed-for-all-gp-care-amid-extra-incentives-for-doctors"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T00:13:57.127551Z",
+      "updatedAt": "2026-10-26T00:13:57.127551Z"
+    },
+    {
+      "id": "rss-097ce32a83063d9a75795b17",
+      "title": "尽管家里裁员,但大众仍要在美国建造4bn Audi SUV工厂",
+      "originalTitle": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
+      "summary": "在佐治亚州,VW投资创造了4,500个就业机会,而与此同时,Trump的破坏性关税、中国激烈的竞争和向EVs Audi的昂贵转变表明,它将花费4bn(3bn)美元在美国建造其第一家工厂,因为其母公司Volkswagen在与Donald Trump施加的巨额关税的冲击中挣扎。 德国品牌的首席执行官Gernot Döllner(Gernot Döllner)在舞台上加入了Trump。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-25T13:43:19Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T00:13:57.127551Z",
+      "updatedAt": "2026-10-26T00:13:57.127551Z"
     }
   ],
   "history": [
@@ -36877,9 +37751,982 @@
         "firstSeen": "2026-10-25T12:15:08.154592Z",
         "updatedAt": "2026-10-25T12:15:08.154592Z"
       }
+    },
+    {
+      "eventId": "rss-73f91a097df5701e53424915",
+      "at": "2026-10-26T00:13:57.127551Z",
+      "data": {
+        "id": "rss-73f91a097df5701e53424915",
+        "title": "澳大利亚政治现场直播:Albanese在议会中给Haines带来情感上的敬意;获得避孕和UTI治疗的机会变得更便宜和容易。",
+        "originalTitle": "Australia politics live: Albanese leads emotional tributes to Haines in parliament; access to contraception and UTI treatment to become cheaper and easier",
+        "summary": "获取我们每天的政治电子邮件、免费的应用程序或每日新闻播客 Steggall 呼唤文明和尊重独立议员Zali Steggall 呼吁在分歧时给予更多的尊重,告诉ABC领导和言语很重要。我们绝对需要确保更多的文明和尊重。社交媒体是他们可以通过直接传递虐待和威胁的平台。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-25T23:59:38Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T00:13:57.127551Z",
+        "updatedAt": "2026-10-26T00:13:57.127551Z"
+      }
+    },
+    {
+      "eventId": "rss-cebb2093d450cd55d24c4bcf",
+      "at": "2026-10-26T00:13:57.127551Z",
+      "data": {
+        "id": "rss-cebb2093d450cd55d24c4bcf",
+        "title": "巴西的径流实时更新: 投票延期两小时后恢复计票",
+        "originalTitle": "Brazil runoff live updates: ballot count resumes after two-hour voting extension",
+        "summary": "在巴西最高法院下令延长星期日后,Polls正式关闭,因为Flávio Bolsonaro和Luiz Inácio Lula da Silva等待结果。 第二轮选举结果（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-25T23:51:51Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T00:13:57.127551Z",
+        "updatedAt": "2026-10-26T00:13:57.127551Z"
+      }
+    },
+    {
+      "eventId": "rss-842f3b34c2cc681d62066084",
+      "at": "2026-10-26T00:13:57.127551Z",
+      "data": {
+        "id": "rss-842f3b34c2cc681d62066084",
+        "title": "数据中心的辩论在美国期中赛前就热了,这是你需要知道的",
+        "originalTitle": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+        "summary": "数据中心是我们数字世界的生命线,但人们越来越关注其对环境的影响。 英国广播公司在图表中探索它们的上升。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-25T23:44:34Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T00:13:57.127551Z",
+        "updatedAt": "2026-10-26T00:13:57.127551Z"
+      }
+    },
+    {
+      "eventId": "rss-d83e3da8b8178fe93bdf9b0d",
+      "at": "2026-10-26T00:13:57.127551Z",
+      "data": {
+        "id": "rss-d83e3da8b8178fe93bdf9b0d",
+        "title": "塞尔维亚领导人Aleksandar Vučić在地震选举中被学生运动赶下台",
+        "originalTitle": "Serbian leader Aleksandar Vučić ousted by student movement in seismic election",
+        "summary": "塞尔维亚长期执政的领导人阿列克桑达尔·武契奇(Aleksandar Vučić)承认失败,在一次历史性选举之后,政治发生了震动性转变,这次选举目睹了日益独裁的领导人与一个学生领导的运动对立,该运动花了两年时间抗议他的政府。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-25T23:42:32Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T00:13:57.127551Z",
+        "updatedAt": "2026-10-26T00:13:57.127551Z"
+      }
+    },
+    {
+      "eventId": "rss-5953a3a1f3accd67266194bc",
+      "at": "2026-10-26T00:13:57.127551Z",
+      "data": {
+        "id": "rss-5953a3a1f3accd67266194bc",
+        "title": "在Vučić承认选举后,",
+        "originalTitle": "‘Door to EU is open’ new Serbian government told after Vučić concedes election – Europe live as it happened",
+        "summary": "学生名单运动预计将在新议会中拥有141个席位,而多数塞族领袖Aleksandar Vučić所需要的126个席位则完全没有在激烈竞选的议会选举中获胜。 Ipsos/Cesid的最新投票预测显示,当地时间下午5点前投票率为60.8%(4pm UK ) , 投票站关闭前还有3小时。 超过13人投票。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-25T23:40:57Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T00:13:57.127551Z",
+        "updatedAt": "2026-10-26T00:13:57.127551Z"
+      }
+    },
+    {
+      "eventId": "rss-4f9596d87794c5b0c382d3b0",
+      "at": "2026-10-26T00:13:57.127551Z",
+      "data": {
+        "id": "rss-4f9596d87794c5b0c382d3b0",
+        "title": "委内瑞拉反对派领导人María Machado在流亡数月后返回",
+        "originalTitle": "Venezuelan opposition leader María Machado returns after months in exile",
+        "summary": "马查多在美国政府逮捕委内瑞拉总统马杜罗前一个月离开委内瑞拉。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-25T23:33:14Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T00:13:57.127551Z",
+        "updatedAt": "2026-10-26T00:13:57.127551Z"
+      }
+    },
+    {
+      "eventId": "rss-389047118581412ae4bee80e",
+      "at": "2026-10-26T00:13:57.127551Z",
+      "data": {
+        "id": "rss-389047118581412ae4bee80e",
+        "title": "塞尔维亚资深统治者武契奇承认参加学生领导的抗议运动",
+        "originalTitle": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+        "summary": "12年的民粹主义右翼领袖说,（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-25T22:54:57Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T00:13:57.127551Z",
+        "updatedAt": "2026-10-26T00:13:57.127551Z"
+      }
+    },
+    {
+      "eventId": "rss-7ec2bb0f66e3b6f619d01414",
+      "at": "2026-10-26T00:13:57.127551Z",
+      "data": {
+        "id": "rss-7ec2bb0f66e3b6f619d01414",
+        "title": "巴西2026年选举:第二轮实况选举结果",
+        "originalTitle": "Brazil election 2026: Live second round results",
+        "summary": "巴西现任总统路易斯·伊纳西奥·卢拉·达席尔瓦(Luiz Inácio Lula da Silva)在第一轮投票被击败后,正寻求与Flávio Bolsonaro(被判罪的前任波尔斯之子,（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-25T22:11:16Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T00:13:57.127551Z",
+        "updatedAt": "2026-10-26T00:13:57.127551Z"
+      }
+    },
+    {
+      "eventId": "rss-fe2cbd9325d39f55a5f8c7af",
+      "at": "2026-10-26T00:13:57.127551Z",
+      "data": {
+        "id": "rss-fe2cbd9325d39f55a5f8c7af",
+        "title": "以色列对关键选举的支离破碎的支架",
+        "originalTitle": "Deeply divided Israel braces for pivotal election",
+        "summary": "在经历了三年的区域战争之后,这是以色列一直知道的一场战斗,露西·威廉森写道。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-25T22:11:13Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T00:13:57.127551Z",
+        "updatedAt": "2026-10-26T00:13:57.127551Z"
+      }
+    },
+    {
+      "eventId": "rss-d3d23ea5050c7b57542467b5",
+      "at": "2026-10-26T00:13:57.127551Z",
+      "data": {
+        "id": "rss-d3d23ea5050c7b57542467b5",
+        "title": "为什么以色列选举是其历史上最重要的选举之一",
+        "originalTitle": "Why Israel's election is one of the most important in its history",
+        "summary": "正如中东记者Lucy Williamson所报导的那样,安全和民主是以色列高度预期的大选的中心问题。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-25T22:05:30Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T00:13:57.127551Z",
+        "updatedAt": "2026-10-26T00:13:57.127551Z"
+      }
+    },
+    {
+      "eventId": "rss-08ec5c76056e031d898a328e",
+      "at": "2026-10-26T00:13:57.127551Z",
+      "data": {
+        "id": "rss-08ec5c76056e031d898a328e",
+        "title": "Grok 发布 AI 生成的“ Odyssey” 前七分钟",
+        "originalTitle": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+        "summary": "录像看起来还不错 只要你不寻求艺术 灵感 或人类的兴趣（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-10-25T21:31:16Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T00:13:57.127551Z",
+        "updatedAt": "2026-10-26T00:13:57.127551Z"
+      }
+    },
+    {
+      "eventId": "rss-3c9d363221abcabae388b4c5",
+      "at": "2026-10-26T00:13:57.127551Z",
+      "data": {
+        "id": "rss-3c9d363221abcabae388b4c5",
+        "title": "作者「自以为是」以技术自由主义为目的,",
+        "originalTitle": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+        "summary": "\"这是12年前的世界观\"（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-10-25T20:20:08Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T00:13:57.127551Z",
+        "updatedAt": "2026-10-26T00:13:57.127551Z"
+      }
+    },
+    {
+      "eventId": "rss-507711a0da9d3fe24dcd91d2",
+      "at": "2026-10-26T00:13:57.127551Z",
+      "data": {
+        "id": "rss-507711a0da9d3fe24dcd91d2",
+        "title": "Macron指控法国将抗议权置于「暴徒法」的风险之下,",
+        "originalTitle": "Macron accused of putting France’s right to protest at risk with ‘vandal’s law’",
+        "summary": "让无辜的抗议者为破坏负责对法治有害,并玩弄极右手,他说,工会指责反对者Emmanuel Macron试图限制法国基本的抗议权,因为政府快速执行一项法案,要求抗议者为街头示威中破坏行为造成的损失付出代价,即使他们不是直接造成这种行为的。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-25T19:57:40Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/25/macrons-vandals-pay-bill-puts-right-to-protest-at-risk"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T00:13:57.127551Z",
+        "updatedAt": "2026-10-26T00:13:57.127551Z"
+      }
+    },
+    {
+      "eventId": "rss-d0c8c64dbf61b2c9df4dc18a",
+      "at": "2026-10-26T00:13:57.127551Z",
+      "data": {
+        "id": "rss-d0c8c64dbf61b2c9df4dc18a",
+        "title": "流亡的反对派领袖María Corina Machado返回委内瑞拉",
+        "originalTitle": "Exiled opposition leader María Corina Machado returns to Venezuela",
+        "summary": "诺贝尔和平奖获得者在流亡近一年后返回,这不太可能令临时总统戴尔西·罗德里格斯高兴。 委内瑞拉反对党领袖玛利亚·科琳娜·马查多宣布,她在离开委内瑞拉获得诺贝尔和平奖近一年后就已返回委内瑞拉。 她周日午餐时在X上写道 : “ 我在这里。 ”（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-25T19:56:56Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T00:13:57.127551Z",
+        "updatedAt": "2026-10-26T00:13:57.127551Z"
+      }
+    },
+    {
+      "eventId": "rss-9a814be9eb368823251ceec6",
+      "at": "2026-10-26T00:13:57.127551Z",
+      "data": {
+        "id": "rss-9a814be9eb368823251ceec6",
+        "title": "阿波罗经济学家说,",
+        "originalTitle": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+        "summary": "\"尽管大量投资 和广泛的杂乱无章的人工智能, 技术已经向美国公司 带来了零金融回报 技术之外。\"（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-10-25T16:57:32Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T00:13:57.127551Z",
+        "updatedAt": "2026-10-26T00:13:57.127551Z"
+      }
+    },
+    {
+      "eventId": "rss-f84645de29731d152570c3b9",
+      "at": "2026-10-26T00:13:57.127551Z",
+      "data": {
+        "id": "rss-f84645de29731d152570c3b9",
+        "title": "TechCrunch 流动性: 蓝绿色是自主的颜色",
+        "originalTitle": "TechCrunch Mobility: Blue-green is the color of autonomy",
+        "summary": "欢迎回到TechCrunch行动中心 未来的交通枢纽 现在 AI比以往更在其中扮演的角色（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-10-25T16:05:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T00:13:57.127551Z",
+        "updatedAt": "2026-10-26T00:13:57.127551Z"
+      }
+    },
+    {
+      "eventId": "rss-f9e2e6b3702535ba7f4a91b3",
+      "at": "2026-10-26T00:13:57.127551Z",
+      "data": {
+        "id": "rss-f9e2e6b3702535ba7f4a91b3",
+        "title": "巴黎郊区致命枪击案的嫌犯 被送去接受精神检查",
+        "originalTitle": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+        "summary": "当局说,将观察他,评估他的“精神健康状况是否与审问相符”。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-25T15:32:51Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T00:13:57.127551Z",
+        "updatedAt": "2026-10-26T00:13:57.127551Z"
+      }
+    },
+    {
+      "eventId": "rss-68a138b585ade2b287c26dba",
+      "at": "2026-10-26T00:13:57.127551Z",
+      "data": {
+        "id": "rss-68a138b585ade2b287c26dba",
+        "title": "葡萄牙警察用警犬和警棍拆除住房抗议营地",
+        "originalTitle": "Portuguese police with dogs and batons dismantle housing protest camps",
+        "summary": "在里斯本市中心至少清除了100个帐篷的30多人和葡萄牙波尔图警察局的50多人在星期天凌晨拆除了里斯本和波尔图的住房抗议营,并逮捕了30多人。 袭击是警方与在西班牙类似营地的煽动下爆发的几天冲突的最新事件。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-25T15:32:20Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T00:13:57.127551Z",
+        "updatedAt": "2026-10-26T00:13:57.127551Z"
+      }
+    },
+    {
+      "eventId": "rss-65053c0b0bf5eaa367864d8d",
+      "at": "2026-10-26T00:13:57.127551Z",
+      "data": {
+        "id": "rss-65053c0b0bf5eaa367864d8d",
+        "title": "加蓬说,在禁止8个月后恢复了使用社交媒体的机会。",
+        "originalTitle": "Gabon says access to social media restored after eight-month ban",
+        "summary": "当局为这项禁令辩护,说网上内容助长冲突,而反对派则谴责这种做法是滥用权力。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-25T14:39:47Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T00:13:57.127551Z",
+        "updatedAt": "2026-10-26T00:13:57.127551Z"
+      }
+    },
+    {
+      "eventId": "rss-a18a7851efbde35c1b2abb7e",
+      "at": "2026-10-26T00:13:57.127551Z",
+      "data": {
+        "id": "rss-a18a7851efbde35c1b2abb7e",
+        "title": "最热的人工智能 穿戴和工具 你应该知道",
+        "originalTitle": "The hottest AI wearables and gadgets you should know about",
+        "summary": "我们编制了一份全美国最热的服装清单, 包括Muse Charm、Bee、Friend、Plaud等等。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-10-25T14:10:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T00:13:57.127551Z",
+        "updatedAt": "2026-10-26T00:13:57.127551Z"
+      }
+    },
+    {
+      "eventId": "rss-19ec18c1f5a85a7e1c66435e",
+      "at": "2026-10-26T00:13:57.127551Z",
+      "data": {
+        "id": "rss-19ec18c1f5a85a7e1c66435e",
+        "title": "“非常失望”:西澳大利亚州政府要求德洛伊特公司偿还大学报告有缺陷的费用。",
+        "originalTitle": "‘Extremely disappointed’: WA government seeks reimbursement from Deloitte over flawed university report",
+        "summary": "西澳大利亚州政府说,它“非常失望”, 并正在寻求德洛伊特公司“快速”收回成本, 因为在一份有关大学合并的报告(包括AI-Halluced r)中发现错误后,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-25T14:00:06Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/26/deloitte-report-wa-university-mergers-260m-discrepancy-ai"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T00:13:57.127551Z",
+        "updatedAt": "2026-10-26T00:13:57.127551Z"
+      }
+    },
+    {
+      "eventId": "rss-0734f5538e07c422763b297c",
+      "at": "2026-10-26T00:13:57.127551Z",
+      "data": {
+        "id": "rss-0734f5538e07c422763b297c",
+        "title": "近三分之二的澳大利亚人在所有普通医生护理方面都发放了批量账单,同时给予医生额外的奖励。",
+        "originalTitle": "Almost two-thirds of Australians bulk-billed for all GP care amid extra incentives for doctors",
+        "summary": "RACGP说结果可能反映了医疗计划的投资, 但专家也提醒注意护理质量和结果。 追踪我们的澳大利亚政坛实况博客获取最新消息。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-25T14:00:06Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/26/almost-two-thirds-of-australians-bulk-billed-for-all-gp-care-amid-extra-incentives-for-doctors"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T00:13:57.127551Z",
+        "updatedAt": "2026-10-26T00:13:57.127551Z"
+      }
+    },
+    {
+      "eventId": "rss-097ce32a83063d9a75795b17",
+      "at": "2026-10-26T00:13:57.127551Z",
+      "data": {
+        "id": "rss-097ce32a83063d9a75795b17",
+        "title": "尽管家里裁员,但大众仍要在美国建造4bn Audi SUV工厂",
+        "originalTitle": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
+        "summary": "在佐治亚州,VW投资创造了4,500个就业机会,而与此同时,Trump的破坏性关税、中国激烈的竞争和向EVs Audi的昂贵转变表明,它将花费4bn(3bn)美元在美国建造其第一家工厂,因为其母公司Volkswagen在与Donald Trump施加的巨额关税的冲击中挣扎。 德国品牌的首席执行官Gernot Döllner(Gernot Döllner)在舞台上加入了Trump。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-25T13:43:19Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T00:13:57.127551Z",
+        "updatedAt": "2026-10-26T00:13:57.127551Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-10-26T00:13:57.127551Z",
+      "at": "2026-10-26T00:13:57.127551Z",
+      "kind": "GitHub Actions 采集",
+      "count": 23,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 6}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 1}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 11}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 5}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-10-25T12:15:08.154592Z",
       "at": "2026-10-25T12:15:08.154592Z",
