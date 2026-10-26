@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-26T00:13:57.127551Z",
+  "updatedAt": "2026-10-26T14:16:25.759804Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -18386,6 +18386,1336 @@
       "tokens": [],
       "firstSeen": "2026-10-26T00:13:57.127551Z",
       "updatedAt": "2026-10-26T00:13:57.127551Z"
+    },
+    {
+      "id": "rss-b7e0a7314df9ab0934d32a30",
+      "title": "人类警告 AI的“人类风险 ” 提前 冻结股票列表",
+      "originalTitle": "Anthropic warns of AI's 'risks to humanity' ahead of blockbuster share listing",
+      "summary": "该公司将是第一个真正的人工智能公司,随着技术公司继续对AI进行大量投资而公诸于世。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-10-26T14:15:01Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-78b88479bf6c295cd0143d61",
+      "title": "马提克斯筹集了1 000万美元 以扩展其数学和谜题游戏平台",
+      "originalTitle": "Matiks raises $10M to expand its math and puzzle gaming platform",
+      "summary": "Matiks为用户推出新平台,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-26T14:08:04Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-d40554decfa031b4d10a7a54",
+      "title": "卢拉在戏剧性的巴西大选中赢得第四届连任",
+      "originalTitle": "Lula wins fourth term in dramatic Brazil election comeback",
+      "summary": "左翼现任总统输给了右翼挑战者Flávio Bolsonaro。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-26T13:54:21Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-5e7debce299689e1f0c245f2",
+      "title": "塞尔维亚在学生领导的运动驱赶Vučić后醒来,",
+      "originalTitle": "Serbia wakes up to new reality after student-led movement ousts Vučić – Europe live",
+      "summary": "与欧盟和其他伙伴重新建立关系的希望, 在塞尔维亚的独裁总统在地震选举中被学生运动所推翻的塞尔维亚领导人击败后, 我们期待在接下来的几个小时里听到两组选举监督员:首先,很快,来自塞尔维亚研究、透明和问责中心(CRTA),（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-26T13:43:16Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/live/2026/oct/26/serbia-vucic-elections-students-bulgaria-france-urkaine-russia-latest-news-updates"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-5c34d364b9dc4ad917df8f3d",
+      "title": "日本检察官指控美国海军陆战队涉嫌抢劫和杀害妇女",
+      "originalTitle": "Japanese prosecutors charge US marine suspected of robbing and killing woman",
+      "summary": "20岁的Devin Jacob Ballard否认指控他在日本冲绳岛的一家旅馆中致命勒死Anna Yagi,39岁的检察官对一名美国海军陆战队士兵提出正式指控,根据日本媒体的说法,此人涉嫌谋杀和抢劫驻扎在该国冲绳岛的一名妇女。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-26T13:41:41Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/26/japanese-prosecuters-charge-marine-killing"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-0e5704c9c609d05d52153ad8",
+      "title": "Chris Brown因夜总会袭击被判缓刑8个月",
+      "originalTitle": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+      "summary": "在用玻璃瓶袭击一名音乐制作人之后,研究与研究小组的明星曾认罪。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-26T13:25:29Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-ca3e8154a02119a58af86018",
+      "title": "特斯拉转向图罗,推动全面自驾车(超能力)的采用",
+      "originalTitle": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
+      "summary": "合格的Turo主机也将免费试用Tesla的FSD软件一个月。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-26T12:58:40Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-64ebafba5677c6b62505986d",
+      "title": "在应对刚果民主共和国埃博拉警报时,护士在袭击中丧生",
+      "originalTitle": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+      "summary": "据报告,当地青年指责卫生工作者污染水源,传播埃博拉病毒。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-26T12:57:58Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-9420d289314b633b8ffcb401",
+      "title": "卢拉是谁?",
+      "originalTitle": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
+      "summary": "与特朗普不和的火花左翼者 赢得了巴西总统的第四任任期（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-26T11:39:16Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-9baca4369bbe5d11c93bcbb8",
+      "title": "网络机构警告说,",
+      "originalTitle": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
+      "summary": "澳洲信号局主任表示需要先进的AI工具来抵御“受AI控制的攻击者 ” ( Get our day political email, free app 或 day new podcast Australians) 。 澳洲人应该准备更多基本的、重要的网络服务,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-26T11:30:40Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-8f8ad708ddef06c79d7c6818",
+      "title": "特朗普改变了美国移民的五种方式",
+      "originalTitle": "Five ways Trump has changed immigration in the US",
+      "summary": "这就是他在恢复权力、承诺关闭边界和大规模驱逐之后的签字政策。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-26T11:29:02Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-d6871d0535130f899b48193f",
+      "title": "惊人的照片 捕捉十月的猎人月球 遍及世界各地",
+      "originalTitle": "Stunning photos capture October's Hunter's Moon around the world",
+      "summary": "十月的满月, 绰号猎人月亮, 点燃夜空这个周末。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-26T11:27:39Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-eb7f0340af3d096cf4a28fec",
+      "title": "美国军队被指控将妇女和儿童困在厄尔尼诺的道路上,",
+      "originalTitle": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
+      "summary": "专属:青年党占领的领土上的协调空袭正在驱使平民在水位上升对安全构成威胁的河边寻找避难所。 这是蓄意的军事战略吗? 水正在迅速上升,已经到达Cayni Ali的腰部。 她的家离索马里南部被洪水淹没的朱巴河5米远,从来就没有机会。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-26T11:00:40Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-9f1f4370953f00a90b696c94",
+      "title": "欧洲天然气价格在冬季供应方面猛涨到四年之久的担忧",
+      "originalTitle": "European gas prices soar to four-year high over winter supply fears",
+      "summary": "美以计划打击伊朗的欧洲天然气价格的报道使中东进一步供应中断的恐惧激起了跳跃。 2022年以来,欧洲的天然气价格猛升到前所未有的水平,因为今年冬天和中东冲突期间,该大陆的天然气供应继续增长。 周一,全市天然气价格跌至97欧元(81英镑),每兆瓦小时,整个欧洲的气温下降,贸易商价格下跌。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-26T10:35:24Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-2f3de9f7785b0deb7df17792",
+      "title": "苏丹准军事无人机袭击导致东部各州大规模断电",
+      "originalTitle": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
+      "summary": "一位政府官员说,快速支援部队袭击了苏丹军队准军事部队快速支援部队控制的三个州的五个发电站,对五个发电站发动了协调的无人驾驶飞机袭击,造成该国东部各地的大规模停电。 无人驾驶飞机袭击了Al-Jazira州和Gedalef州的两个发电站,以及白尼罗州的一个发电站。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-26T09:59:27Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-d4759a2e2fd24c378469e01d",
+      "title": "”热能伴奏:奇特的爱好在中国压力大的年轻人中占据了种子。",
+      "originalTitle": "‘Zero-energy companionship’: bizarre hobby takes seed among China’s stressed young adults",
+      "summary": "面对停滞的就业市场,许多人在中国向儿童或宠物施舍,支持“加砖 ” , 年轻成年人寻找更便宜、更低温的替代方法来取代有孩子或宠物的解决方案:加砖。 砖头可能不像猫或像人类后代那样可爱或活生生的,但是它们也付出了无价之宝。 “没有猫,没有约会,我开始举砖块,”（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-26T09:47:14Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-7666912ecb31f723f8911ca4",
+      "title": "民众欢迎委内瑞拉的María Machado,",
+      "originalTitle": "Crowds welcome Venezuela's María Machado after months in exile",
+      "summary": "委内瑞拉反对派领导人在乘快艇逃离委内瑞拉后流亡了10个多月。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-26T09:31:12Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-4cd898bb36283e0aa6aa86bd",
+      "title": "Andy Burnham说,英国公众无法接受布莱斯特交易。",
+      "originalTitle": "Brexit deal is not good enough for British public, says Andy Burnham",
+      "summary": "首相说,欧盟的退出破坏了经济,未能带来许诺的好处,但他排除了英国在选举前的政治变革 — — 最新欧洲实况最新消息 — — 最新消息“Brexit”并没有像向公众承诺的那样“发挥出来 ” , 削弱了经济,目前的交易也不够好,安迪·伯纳姆说,他排除了当前议会的任何重大变革。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-26T09:30:10Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/politics/2026/oct/26/brexit-deal-not-good-enough-andy-burnham"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-7c245c7e81fe027671241cb2",
+      "title": "在昆士兰州洪水水域 发现有人死于多起暴风雨和长达数天的暴风雨",
+      "originalTitle": "Man found dead in Queensland flood waters as state hit by multiple storms and days-long deluge",
+      "summary": "许多河流和道路在昆士兰州暴雨后被淹没。 11点过后不久,在昆士兰Fraser海岸的Bompa的一个小溪接到紧急服务电话。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-26T07:43:52Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/26/man-found-dead-in-queensland-floodwaters-as-state-hit-by-days-long-deluge"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-c8c0cab2bafd8dbcb18d9bd6",
+      "title": "中国的大型政治会议 可以看到习近平在党内\"严守纪律\"",
+      "originalTitle": "China's big political meeting could see Xi 'tighten discipline' in party",
+      "summary": "周一在北京举行 高度机密的四天全体会议（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-26T07:40:57Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-ed1d84d05e8c4acc6f26b293",
+      "title": "联合王国将无法实现将援助支出降至占国民收入0.3%的目标",
+      "originalTitle": "UK poised to miss reduced aid spending target of 0.3% of national income",
+      "summary": "根据全球发展中心的计算,明年的支出可能比预期的少410万英镑。 英国在明年年底之前将国民收入的0.3%用于国际援助的目标落空,估计达400万英镑。 全球发展中心(CGD)的计算发现,联合王国在承诺的官方开发商方面出现了巨大的缺口。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-26T06:59:36Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-b7aa96bdc8a2e0b03d8403fb",
+      "title": "巴西仍然保留着:卢拉的胜利对于他的国家和国外意味着什么?",
+      "originalTitle": "Brazil keeps left: what Lula’s victory means for his country and beyond",
+      "summary": "在今天的通讯中:随着路易斯·伊纳西奥·卢拉·达席尔瓦在总统竞选中获得胜利,我们审视了对民主、环境和国际关系的影响。 今天上午,你有机会听到两个重大选举结果的消息。 在塞尔维亚,一个学生领导的运动驱逐了该国长期执政的领导人阿列克桑达尔·武契奇(Aleksandar Vučić ) 。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-26T06:44:33Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-4164daff5e3aa1a5a9ffc95b",
+      "title": "Angus Taylor批评对Helen Haines攻击事件「全聋」的反应,",
+      "originalTitle": "Angus Taylor criticised for ‘tone deaf’ response to alleged attack on Helen Haines",
+      "summary": "Zali Steggall和Monique Ryan说,联盟领导人否认议会辩论与政治暴力之间的联系是错误的,因为Angus Taylor因对指称的对Helen Haines的袭击的反应而受到批评,Crossbenchers Monique Ryan和Zali Steggall将反对派领导人的演讲贴上“聋子”的标签,并说他没有“读过房间”。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-26T06:41:36Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/26/angus-taylor-criticised-for-tone-deaf-response-to-alleged-attack-on-helen-haines-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-2cf2090c6f331009ca8c6065",
+      "title": "谁应该赢得男士的Ballon d'Or?",
+      "originalTitle": "Who should win the men's Ballon d'Or? BBC Sport pundits have their say",
+      "summary": "Ballon d'O 获奖者将于星期一在伦敦宣布,但谁将获得展品奖?（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-26T06:19:12Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-24f4e73ce7f92a3648d27ebe",
+      "title": "Eric Bauza, 臭兔和达菲鸭的声音, 死亡年龄46岁",
+      "originalTitle": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
+      "summary": "Bauza在今年夏天的\"狼人对Acme\"的 动画片中发表了一些人物（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-26T06:16:15Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-7e41f50256896228efe5e385",
+      "title": "前RAAF飞行员,据称谋杀妻子是“爱的老鼠”和“操纵大师”,陪审团听取了",
+      "originalTitle": "Former RAAF pilot who allegedly murdered wife was ‘love rat’ and ‘master manipulator’, jury hears",
+      "summary": "罗伯特·约翰·克劳福德(Robert John Crawford)在Toowoomba 地产上发现妻子在骑行草坪时受审。 我们的突发新闻电子邮件、免费应用程序或每日新闻播客前RAAF飞行员是一名“爱爱的老鼠”和“操纵者 ” , 他将妻子的死编成一个意外,陪审团听到了。 49岁的罗伯特·约翰·克劳福德(Robert John Crawford)在星期一对谋杀妻子弗朗西斯·伊丽莎白·C(Frances Elizabeth C)表示无罪。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-26T05:28:02Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/26/raaf-pilot-robert-john-crawford-murder-trial-wife-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-a8fb3c457a70088aa88a3f1b",
+      "title": "澳大利亚杀人犯在监狱里输了吃维格米特的价钱",
+      "originalTitle": "Australian murderer loses bid to eat Vegemite in prison",
+      "summary": "Andre McKichnie谋杀了一位房地产开发商, 认为他有权享受澳大利亚文化。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-26T04:05:28Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-30993307ab52b70e5d0ef3ac",
+      "title": "注意:卢拉总统如何扭转局面,打败弗拉维奥·博尔索纳罗",
+      "originalTitle": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
+      "summary": "巴西左翼总统当选后,（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-26T02:53:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-c12166328f392eb92033fe37",
+      "title": "跟踪阅读和发现新书的最佳应用程序",
+      "originalTitle": "The best apps for tracking your reading and discovering new books",
+      "summary": "市场上有许多应用程序, 都承诺这样做, 所以我们编订了一份最佳软件的清单, 帮助您选择合适的软件。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-26T01:10:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-b5602e38a0898ddab2e084e1",
+      "title": "印度漫画家在网络上建立了观众,",
+      "originalTitle": "India's cartoonists built an audience online - now their posts are being restricted",
+      "summary": "印度漫画家说,网络限制 使讽刺更难, 但他们并没有放弃。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-26T01:09:41Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm3elp3v7jkdo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-0d074eb7e47a153d9ea96132",
+      "title": "习近平在中国筹备高层领导人会议时,",
+      "originalTitle": "Xi Jinping’s corruption crackdown in the spotlight as China prepares for meeting of top leaders",
+      "summary": "第五次全体会议是在多年清洗的背景下召开的,当时有一些分析家在想,问题是腐败还是缺乏忠诚。 当2012年习近平上台时,他承诺通过共产党的队伍彻底铲除腐败。 十多年后,调查的步伐没有减缓。 去年,中国纪律机关开始调查。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-26T00:58:25Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-ab6893d051ad7ae13afcd05b",
+      "title": "卢拉赢得巴西总统的第四次任期 击败极右派的弗拉维奥·博尔索纳罗",
+      "originalTitle": "Lula wins historic fourth term as Brazilian president in defeat of far-right Flávio Bolsonaro",
+      "summary": "左翼现任总统卢拉(Lula)说,史无前例的回归是“拒绝否认主义的牺牲 ” , 因为博尔索纳罗拒绝接受选举结果 — — 巴西总统路易斯·伊纳西奥·卢拉·达席尔瓦(Luiz Inácio Lula da Silva)在令人惊叹的回升中赢得了选举结果 — — 巴西总统路易斯·伊纳西奥·卢拉·达席尔瓦(Lula Lula da Silva)发动了一场戏剧性的回升,击败了极右翼的对手弗拉维奥·博尔索纳罗(Flávio Bolsonaro),要求获得具有历史意义的第四届政权。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-26T00:19:05Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-16c236743dafb31d1752d2a6",
+      "title": "穆林霍让克拉西科·梅达斯在La Liga加热的13年时间里触摸到",
+      "originalTitle": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
+      "summary": "Kylian Mbappe在巴塞罗那的两个目标打开了La Liga, 作为Jose Mourinho的真正的马德里离开努营的胜利。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-26T00:07:16Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-9adeceb6fe7acda4ac474d57",
+      "title": "Rapper Nicki Minaj 参加密歇根州的Trump集会",
+      "originalTitle": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+      "summary": "超级巴斯歌手是密歇根州竞选活动的最新大名, 参议院激烈的竞选在11月3日的期中赛前进行。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-25T23:33:19Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
+    },
+    {
+      "id": "rss-fc2b0f3489b93e82c15c7b4b",
+      "title": "俄罗斯主办自乌克兰入侵以来的第一次奥林匹克联合会世界活动",
+      "originalTitle": "Russia to host first Olympic federation world event since Ukraine invasion",
+      "summary": "自入侵乌克兰以来,国际重量提升联合会成为第一个选择俄罗斯主办世界锦标赛的奥林匹克联合会。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-25T14:34:33Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-26T14:16:25.759804Z",
+      "updatedAt": "2026-10-26T14:16:25.759804Z"
     }
   ],
   "history": [
@@ -38717,9 +40047,1486 @@
         "firstSeen": "2026-10-26T00:13:57.127551Z",
         "updatedAt": "2026-10-26T00:13:57.127551Z"
       }
+    },
+    {
+      "eventId": "rss-b7e0a7314df9ab0934d32a30",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-b7e0a7314df9ab0934d32a30",
+        "title": "人类警告 AI的“人类风险 ” 提前 冻结股票列表",
+        "originalTitle": "Anthropic warns of AI's 'risks to humanity' ahead of blockbuster share listing",
+        "summary": "该公司将是第一个真正的人工智能公司,随着技术公司继续对AI进行大量投资而公诸于世。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-10-26T14:15:01Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-78b88479bf6c295cd0143d61",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-78b88479bf6c295cd0143d61",
+        "title": "马提克斯筹集了1 000万美元 以扩展其数学和谜题游戏平台",
+        "originalTitle": "Matiks raises $10M to expand its math and puzzle gaming platform",
+        "summary": "Matiks为用户推出新平台,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-26T14:08:04Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-d40554decfa031b4d10a7a54",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-d40554decfa031b4d10a7a54",
+        "title": "卢拉在戏剧性的巴西大选中赢得第四届连任",
+        "originalTitle": "Lula wins fourth term in dramatic Brazil election comeback",
+        "summary": "左翼现任总统输给了右翼挑战者Flávio Bolsonaro。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-26T13:54:21Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-5e7debce299689e1f0c245f2",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-5e7debce299689e1f0c245f2",
+        "title": "塞尔维亚在学生领导的运动驱赶Vučić后醒来,",
+        "originalTitle": "Serbia wakes up to new reality after student-led movement ousts Vučić – Europe live",
+        "summary": "与欧盟和其他伙伴重新建立关系的希望, 在塞尔维亚的独裁总统在地震选举中被学生运动所推翻的塞尔维亚领导人击败后, 我们期待在接下来的几个小时里听到两组选举监督员:首先,很快,来自塞尔维亚研究、透明和问责中心(CRTA),（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-26T13:43:16Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/live/2026/oct/26/serbia-vucic-elections-students-bulgaria-france-urkaine-russia-latest-news-updates"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-5c34d364b9dc4ad917df8f3d",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-5c34d364b9dc4ad917df8f3d",
+        "title": "日本检察官指控美国海军陆战队涉嫌抢劫和杀害妇女",
+        "originalTitle": "Japanese prosecutors charge US marine suspected of robbing and killing woman",
+        "summary": "20岁的Devin Jacob Ballard否认指控他在日本冲绳岛的一家旅馆中致命勒死Anna Yagi,39岁的检察官对一名美国海军陆战队士兵提出正式指控,根据日本媒体的说法,此人涉嫌谋杀和抢劫驻扎在该国冲绳岛的一名妇女。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-26T13:41:41Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/26/japanese-prosecuters-charge-marine-killing"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-0e5704c9c609d05d52153ad8",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-0e5704c9c609d05d52153ad8",
+        "title": "Chris Brown因夜总会袭击被判缓刑8个月",
+        "originalTitle": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+        "summary": "在用玻璃瓶袭击一名音乐制作人之后,研究与研究小组的明星曾认罪。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-26T13:25:29Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-ca3e8154a02119a58af86018",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-ca3e8154a02119a58af86018",
+        "title": "特斯拉转向图罗,推动全面自驾车(超能力)的采用",
+        "originalTitle": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
+        "summary": "合格的Turo主机也将免费试用Tesla的FSD软件一个月。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-26T12:58:40Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-64ebafba5677c6b62505986d",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-64ebafba5677c6b62505986d",
+        "title": "在应对刚果民主共和国埃博拉警报时,护士在袭击中丧生",
+        "originalTitle": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+        "summary": "据报告,当地青年指责卫生工作者污染水源,传播埃博拉病毒。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-26T12:57:58Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-9420d289314b633b8ffcb401",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-9420d289314b633b8ffcb401",
+        "title": "卢拉是谁?",
+        "originalTitle": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
+        "summary": "与特朗普不和的火花左翼者 赢得了巴西总统的第四任任期（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-26T11:39:16Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-9baca4369bbe5d11c93bcbb8",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-9baca4369bbe5d11c93bcbb8",
+        "title": "网络机构警告说,",
+        "originalTitle": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
+        "summary": "澳洲信号局主任表示需要先进的AI工具来抵御“受AI控制的攻击者 ” ( Get our day political email, free app 或 day new podcast Australians) 。 澳洲人应该准备更多基本的、重要的网络服务,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-26T11:30:40Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-8f8ad708ddef06c79d7c6818",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-8f8ad708ddef06c79d7c6818",
+        "title": "特朗普改变了美国移民的五种方式",
+        "originalTitle": "Five ways Trump has changed immigration in the US",
+        "summary": "这就是他在恢复权力、承诺关闭边界和大规模驱逐之后的签字政策。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-26T11:29:02Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-d6871d0535130f899b48193f",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-d6871d0535130f899b48193f",
+        "title": "惊人的照片 捕捉十月的猎人月球 遍及世界各地",
+        "originalTitle": "Stunning photos capture October's Hunter's Moon around the world",
+        "summary": "十月的满月, 绰号猎人月亮, 点燃夜空这个周末。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-26T11:27:39Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-eb7f0340af3d096cf4a28fec",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-eb7f0340af3d096cf4a28fec",
+        "title": "美国军队被指控将妇女和儿童困在厄尔尼诺的道路上,",
+        "originalTitle": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
+        "summary": "专属:青年党占领的领土上的协调空袭正在驱使平民在水位上升对安全构成威胁的河边寻找避难所。 这是蓄意的军事战略吗? 水正在迅速上升,已经到达Cayni Ali的腰部。 她的家离索马里南部被洪水淹没的朱巴河5米远,从来就没有机会。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-26T11:00:40Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-9f1f4370953f00a90b696c94",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-9f1f4370953f00a90b696c94",
+        "title": "欧洲天然气价格在冬季供应方面猛涨到四年之久的担忧",
+        "originalTitle": "European gas prices soar to four-year high over winter supply fears",
+        "summary": "美以计划打击伊朗的欧洲天然气价格的报道使中东进一步供应中断的恐惧激起了跳跃。 2022年以来,欧洲的天然气价格猛升到前所未有的水平,因为今年冬天和中东冲突期间,该大陆的天然气供应继续增长。 周一,全市天然气价格跌至97欧元(81英镑),每兆瓦小时,整个欧洲的气温下降,贸易商价格下跌。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-26T10:35:24Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-2f3de9f7785b0deb7df17792",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-2f3de9f7785b0deb7df17792",
+        "title": "苏丹准军事无人机袭击导致东部各州大规模断电",
+        "originalTitle": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
+        "summary": "一位政府官员说,快速支援部队袭击了苏丹军队准军事部队快速支援部队控制的三个州的五个发电站,对五个发电站发动了协调的无人驾驶飞机袭击,造成该国东部各地的大规模停电。 无人驾驶飞机袭击了Al-Jazira州和Gedalef州的两个发电站,以及白尼罗州的一个发电站。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-26T09:59:27Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-d4759a2e2fd24c378469e01d",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-d4759a2e2fd24c378469e01d",
+        "title": "”热能伴奏:奇特的爱好在中国压力大的年轻人中占据了种子。",
+        "originalTitle": "‘Zero-energy companionship’: bizarre hobby takes seed among China’s stressed young adults",
+        "summary": "面对停滞的就业市场,许多人在中国向儿童或宠物施舍,支持“加砖 ” , 年轻成年人寻找更便宜、更低温的替代方法来取代有孩子或宠物的解决方案:加砖。 砖头可能不像猫或像人类后代那样可爱或活生生的,但是它们也付出了无价之宝。 “没有猫,没有约会,我开始举砖块,”（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-26T09:47:14Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-7666912ecb31f723f8911ca4",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-7666912ecb31f723f8911ca4",
+        "title": "民众欢迎委内瑞拉的María Machado,",
+        "originalTitle": "Crowds welcome Venezuela's María Machado after months in exile",
+        "summary": "委内瑞拉反对派领导人在乘快艇逃离委内瑞拉后流亡了10个多月。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-26T09:31:12Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-4cd898bb36283e0aa6aa86bd",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-4cd898bb36283e0aa6aa86bd",
+        "title": "Andy Burnham说,英国公众无法接受布莱斯特交易。",
+        "originalTitle": "Brexit deal is not good enough for British public, says Andy Burnham",
+        "summary": "首相说,欧盟的退出破坏了经济,未能带来许诺的好处,但他排除了英国在选举前的政治变革 — — 最新欧洲实况最新消息 — — 最新消息“Brexit”并没有像向公众承诺的那样“发挥出来 ” , 削弱了经济,目前的交易也不够好,安迪·伯纳姆说,他排除了当前议会的任何重大变革。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-26T09:30:10Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/politics/2026/oct/26/brexit-deal-not-good-enough-andy-burnham"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-7c245c7e81fe027671241cb2",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-7c245c7e81fe027671241cb2",
+        "title": "在昆士兰州洪水水域 发现有人死于多起暴风雨和长达数天的暴风雨",
+        "originalTitle": "Man found dead in Queensland flood waters as state hit by multiple storms and days-long deluge",
+        "summary": "许多河流和道路在昆士兰州暴雨后被淹没。 11点过后不久,在昆士兰Fraser海岸的Bompa的一个小溪接到紧急服务电话。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-26T07:43:52Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/26/man-found-dead-in-queensland-floodwaters-as-state-hit-by-days-long-deluge"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-c8c0cab2bafd8dbcb18d9bd6",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-c8c0cab2bafd8dbcb18d9bd6",
+        "title": "中国的大型政治会议 可以看到习近平在党内\"严守纪律\"",
+        "originalTitle": "China's big political meeting could see Xi 'tighten discipline' in party",
+        "summary": "周一在北京举行 高度机密的四天全体会议（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-26T07:40:57Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-ed1d84d05e8c4acc6f26b293",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-ed1d84d05e8c4acc6f26b293",
+        "title": "联合王国将无法实现将援助支出降至占国民收入0.3%的目标",
+        "originalTitle": "UK poised to miss reduced aid spending target of 0.3% of national income",
+        "summary": "根据全球发展中心的计算,明年的支出可能比预期的少410万英镑。 英国在明年年底之前将国民收入的0.3%用于国际援助的目标落空,估计达400万英镑。 全球发展中心(CGD)的计算发现,联合王国在承诺的官方开发商方面出现了巨大的缺口。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-26T06:59:36Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-b7aa96bdc8a2e0b03d8403fb",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-b7aa96bdc8a2e0b03d8403fb",
+        "title": "巴西仍然保留着:卢拉的胜利对于他的国家和国外意味着什么?",
+        "originalTitle": "Brazil keeps left: what Lula’s victory means for his country and beyond",
+        "summary": "在今天的通讯中:随着路易斯·伊纳西奥·卢拉·达席尔瓦在总统竞选中获得胜利,我们审视了对民主、环境和国际关系的影响。 今天上午,你有机会听到两个重大选举结果的消息。 在塞尔维亚,一个学生领导的运动驱逐了该国长期执政的领导人阿列克桑达尔·武契奇(Aleksandar Vučić ) 。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-26T06:44:33Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-4164daff5e3aa1a5a9ffc95b",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-4164daff5e3aa1a5a9ffc95b",
+        "title": "Angus Taylor批评对Helen Haines攻击事件「全聋」的反应,",
+        "originalTitle": "Angus Taylor criticised for ‘tone deaf’ response to alleged attack on Helen Haines",
+        "summary": "Zali Steggall和Monique Ryan说,联盟领导人否认议会辩论与政治暴力之间的联系是错误的,因为Angus Taylor因对指称的对Helen Haines的袭击的反应而受到批评,Crossbenchers Monique Ryan和Zali Steggall将反对派领导人的演讲贴上“聋子”的标签,并说他没有“读过房间”。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-26T06:41:36Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/26/angus-taylor-criticised-for-tone-deaf-response-to-alleged-attack-on-helen-haines-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-2cf2090c6f331009ca8c6065",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-2cf2090c6f331009ca8c6065",
+        "title": "谁应该赢得男士的Ballon d'Or?",
+        "originalTitle": "Who should win the men's Ballon d'Or? BBC Sport pundits have their say",
+        "summary": "Ballon d'O 获奖者将于星期一在伦敦宣布,但谁将获得展品奖?（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-26T06:19:12Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-24f4e73ce7f92a3648d27ebe",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-24f4e73ce7f92a3648d27ebe",
+        "title": "Eric Bauza, 臭兔和达菲鸭的声音, 死亡年龄46岁",
+        "originalTitle": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
+        "summary": "Bauza在今年夏天的\"狼人对Acme\"的 动画片中发表了一些人物（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-26T06:16:15Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-7e41f50256896228efe5e385",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-7e41f50256896228efe5e385",
+        "title": "前RAAF飞行员,据称谋杀妻子是“爱的老鼠”和“操纵大师”,陪审团听取了",
+        "originalTitle": "Former RAAF pilot who allegedly murdered wife was ‘love rat’ and ‘master manipulator’, jury hears",
+        "summary": "罗伯特·约翰·克劳福德(Robert John Crawford)在Toowoomba 地产上发现妻子在骑行草坪时受审。 我们的突发新闻电子邮件、免费应用程序或每日新闻播客前RAAF飞行员是一名“爱爱的老鼠”和“操纵者 ” , 他将妻子的死编成一个意外,陪审团听到了。 49岁的罗伯特·约翰·克劳福德(Robert John Crawford)在星期一对谋杀妻子弗朗西斯·伊丽莎白·C(Frances Elizabeth C)表示无罪。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-26T05:28:02Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/26/raaf-pilot-robert-john-crawford-murder-trial-wife-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-a8fb3c457a70088aa88a3f1b",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-a8fb3c457a70088aa88a3f1b",
+        "title": "澳大利亚杀人犯在监狱里输了吃维格米特的价钱",
+        "originalTitle": "Australian murderer loses bid to eat Vegemite in prison",
+        "summary": "Andre McKichnie谋杀了一位房地产开发商, 认为他有权享受澳大利亚文化。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-26T04:05:28Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-30993307ab52b70e5d0ef3ac",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-30993307ab52b70e5d0ef3ac",
+        "title": "注意:卢拉总统如何扭转局面,打败弗拉维奥·博尔索纳罗",
+        "originalTitle": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
+        "summary": "巴西左翼总统当选后,（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-26T02:53:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-c12166328f392eb92033fe37",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-c12166328f392eb92033fe37",
+        "title": "跟踪阅读和发现新书的最佳应用程序",
+        "originalTitle": "The best apps for tracking your reading and discovering new books",
+        "summary": "市场上有许多应用程序, 都承诺这样做, 所以我们编订了一份最佳软件的清单, 帮助您选择合适的软件。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-26T01:10:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-b5602e38a0898ddab2e084e1",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-b5602e38a0898ddab2e084e1",
+        "title": "印度漫画家在网络上建立了观众,",
+        "originalTitle": "India's cartoonists built an audience online - now their posts are being restricted",
+        "summary": "印度漫画家说,网络限制 使讽刺更难, 但他们并没有放弃。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-26T01:09:41Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cm3elp3v7jkdo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-0d074eb7e47a153d9ea96132",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-0d074eb7e47a153d9ea96132",
+        "title": "习近平在中国筹备高层领导人会议时,",
+        "originalTitle": "Xi Jinping’s corruption crackdown in the spotlight as China prepares for meeting of top leaders",
+        "summary": "第五次全体会议是在多年清洗的背景下召开的,当时有一些分析家在想,问题是腐败还是缺乏忠诚。 当2012年习近平上台时,他承诺通过共产党的队伍彻底铲除腐败。 十多年后,调查的步伐没有减缓。 去年,中国纪律机关开始调查。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-26T00:58:25Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-ab6893d051ad7ae13afcd05b",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-ab6893d051ad7ae13afcd05b",
+        "title": "卢拉赢得巴西总统的第四次任期 击败极右派的弗拉维奥·博尔索纳罗",
+        "originalTitle": "Lula wins historic fourth term as Brazilian president in defeat of far-right Flávio Bolsonaro",
+        "summary": "左翼现任总统卢拉(Lula)说,史无前例的回归是“拒绝否认主义的牺牲 ” , 因为博尔索纳罗拒绝接受选举结果 — — 巴西总统路易斯·伊纳西奥·卢拉·达席尔瓦(Luiz Inácio Lula da Silva)在令人惊叹的回升中赢得了选举结果 — — 巴西总统路易斯·伊纳西奥·卢拉·达席尔瓦(Lula Lula da Silva)发动了一场戏剧性的回升,击败了极右翼的对手弗拉维奥·博尔索纳罗(Flávio Bolsonaro),要求获得具有历史意义的第四届政权。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-26T00:19:05Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-16c236743dafb31d1752d2a6",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-16c236743dafb31d1752d2a6",
+        "title": "穆林霍让克拉西科·梅达斯在La Liga加热的13年时间里触摸到",
+        "originalTitle": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
+        "summary": "Kylian Mbappe在巴塞罗那的两个目标打开了La Liga, 作为Jose Mourinho的真正的马德里离开努营的胜利。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-26T00:07:16Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-9adeceb6fe7acda4ac474d57",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-9adeceb6fe7acda4ac474d57",
+        "title": "Rapper Nicki Minaj 参加密歇根州的Trump集会",
+        "originalTitle": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+        "summary": "超级巴斯歌手是密歇根州竞选活动的最新大名, 参议院激烈的竞选在11月3日的期中赛前进行。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-25T23:33:19Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
+    },
+    {
+      "eventId": "rss-fc2b0f3489b93e82c15c7b4b",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "data": {
+        "id": "rss-fc2b0f3489b93e82c15c7b4b",
+        "title": "俄罗斯主办自乌克兰入侵以来的第一次奥林匹克联合会世界活动",
+        "originalTitle": "Russia to host first Olympic federation world event since Ukraine invasion",
+        "summary": "自入侵乌克兰以来,国际重量提升联合会成为第一个选择俄罗斯主办世界锦标赛的奥林匹克联合会。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-25T14:34:33Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-26T14:16:25.759804Z",
+        "updatedAt": "2026-10-26T14:16:25.759804Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-10-26T14:16:25.759804Z",
+      "at": "2026-10-26T14:16:25.759804Z",
+      "kind": "GitHub Actions 采集",
+      "count": 35,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 17}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 0}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 15}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 3}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-10-26T00:13:57.127551Z",
       "at": "2026-10-26T00:13:57.127551Z",
