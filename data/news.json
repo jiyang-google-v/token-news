@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-29T00:24:11.846317Z",
+  "updatedAt": "2026-10-29T12:29:58.779003Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -26708,6 +26708,1032 @@
       "tokens": [],
       "firstSeen": "2026-10-29T00:24:11.846317Z",
       "updatedAt": "2026-10-29T00:24:11.846317Z"
+    },
+    {
+      "id": "rss-e7072e643905d6747231dd89",
+      "title": "Carney在蒙特利尔加拿大-欧盟首脑会议上推动建立更密切的关系",
+      "originalTitle": "Carney to push for closer ties at Canada-EU summit in Montreal",
+      "summary": "“准成员”一词据说在官员讨论更深层次的经济和国防关系时被删除。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-29T12:27:31Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-29T12:29:58.779003Z",
+      "updatedAt": "2026-10-29T12:29:58.779003Z"
+    },
+    {
+      "id": "rss-d4fb7d19c702c3422dfaf9c0",
+      "title": "在中国政治集会上,以习近平强调“党纪”的清洗次数创纪录",
+      "originalTitle": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+      "summary": "习近平的反腐败运动已成为“巩固和维护权威的努力”,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-29T11:34:03Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-29T12:29:58.779003Z",
+      "updatedAt": "2026-10-29T12:29:58.779003Z"
+    },
+    {
+      "id": "rss-292be8b725a4bac373fcdff7",
+      "title": "阿拉斯加州长下令调查 民主党竞选活动与同名候选人的关联",
+      "originalTitle": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "summary": "共和党州长回应了《纽约时报》的指控 民主党招募了一个破坏者候选人 Dan Sullivan（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-29T11:27:05Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-29T12:29:58.779003Z",
+      "updatedAt": "2026-10-29T12:29:58.779003Z"
+    },
+    {
+      "id": "rss-4dd579edd050ef39f24c6acc",
+      "title": "西班牙在火车坠毁后开始哀悼,",
+      "originalTitle": "Spain begins mourning period after train crash as search continues for victims in wreckage",
+      "summary": "紧急服务、无人驾驶飞机和警犬队在为亲属建立诊所以提供DNA样本的同时,继续梳理车厢。 西班牙已经开始了三天的哀悼日,以纪念在高速铁路碰撞中死亡的69人,因为医院继续治疗数十名受伤乘客和亲属,等待其亲人的消息。 火车 — — 一辆来自西班牙国有Renfe的火车 — — 正在等待他们的亲人的消息。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-29T11:11:52Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-29T12:29:58.779003Z",
+      "updatedAt": "2026-10-29T12:29:58.779003Z"
+    },
+    {
+      "id": "rss-927aa9df16c839344f3ccc6e",
+      "title": "音频显示控制中心与驾驶员在西班牙火车坠毁前的交流",
+      "originalTitle": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+      "summary": "记录显示,尽管前面的一辆高速列车停了下来,但该列车还是获准行驶。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-29T11:07:35Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-29T12:29:58.779003Z",
+      "updatedAt": "2026-10-29T12:29:58.779003Z"
+    },
+    {
+      "id": "rss-666457ad5ee38b325c696927",
+      "title": "很少写情书给法国贵族 揭示路易十六号海洋神秘",
+      "originalTitle": "Rare love letters to French aristocrat shed light on Louis XVI maritime mystery",
+      "summary": "1793年1月21日,法国科学家准备爬上由断头台公开执行的脚架,Louis 十六号据报问道:“是否有Péroze先生的消息?” 他指的是Jean-François de Galaup、海军军官和海军军官的伯爵Péroze。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-29T11:00:30Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/29/rare-love-letters-french-aristocrat-la-perouse-maritime-mystery"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-29T12:29:58.779003Z",
+      "updatedAt": "2026-10-29T12:29:58.779003Z"
+    },
+    {
+      "id": "rss-e1b04d92f42e71678c6b9bdd",
+      "title": "欧洲央行行长克里斯蒂娜·拉加德提前九个月下台",
+      "originalTitle": "Europe’s central bank chief Christine Lagarde to step down nine months early",
+      "summary": "拉加德的离任被视为接替世界经济论坛的候选人,随着欧元区与增长疲软和通货膨胀的抗争,欧元区顶尖央行行长拉加德提前九个月下台,结束了对其未来的数月投机。 欧洲央行(ECB)于星期四上午宣布拉加德将于2027年2月7日下台担任其行长。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-29T10:56:12Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-29T12:29:58.779003Z",
+      "updatedAt": "2026-10-29T12:29:58.779003Z"
+    },
+    {
+      "id": "rss-b65ab71cbfefe664a31aebfc",
+      "title": "Ofcom 在禁止16岁以下者使用社交媒体之前,先提出年龄检查方法",
+      "originalTitle": "Ofcom outlines age check methods ahead of social media ban for under-16s",
+      "summary": "Ofcom说,照片和数字身份证,银行检查或面部年龄估计可以证明某人已经16岁或以上。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-29T09:31:44Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-29T12:29:58.779003Z",
+      "updatedAt": "2026-10-29T12:29:58.779003Z"
+    },
+    {
+      "id": "rss-2eb401fedf29c3ecfbcfdd1d",
+      "title": "\"我和鬼一起生活\" - 在鬼屋里吸引了讨价还价的猎人",
+      "originalTitle": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+      "summary": "某人在悲惨情况下死亡的地产 可能会大幅降低价格（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-29T09:30:03Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-29T12:29:58.779003Z",
+      "updatedAt": "2026-10-29T12:29:58.779003Z"
+    },
+    {
+      "id": "rss-1acfb4d4660a81a30df61fb9",
+      "title": "大胆的印度越狱之夜 17名囚犯被重新抓获",
+      "originalTitle": "Audacious Indian jailbreak saga ends with 17 prisoners recaptured",
+      "summary": "越狱开始时是伪造的扣押,36小时后结束,所有囚犯都回到狱中。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-29T09:17:05Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-29T12:29:58.779003Z",
+      "updatedAt": "2026-10-29T12:29:58.779003Z"
+    },
+    {
+      "id": "rss-ba725ff0b8cf773ed7c89c30",
+      "title": "一个民族指控PM试图“施加不当的政治影响”,",
+      "originalTitle": "One Nation accuses PM of trying to ‘exert undue political influence’ by offering David Farley an extra staffer",
+      "summary": "Pauline Hanson说,Anthony Albanese向她的一位议员提出 \" 未经邀请 \" 的顾问,其工资为20万美元。 获得我们的每日政治电子邮件、免费应用程序或每日新闻播客。 总理Anthony Albanese在党称为 \" 未经邀请 \" 的举动中,向一个民族议员David Farley增派了一名工作人员,试图利用纳税人基金赢得新政治家的胜利。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-29T08:26:51Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/29/one-nation-accuses-pm-of-trying-to-exert-undue-political-influence-by-offering-david-farley-extra-staffer-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-29T12:29:58.779003Z",
+      "updatedAt": "2026-10-29T12:29:58.779003Z"
+    },
+    {
+      "id": "rss-d2c1e21cbe5f74d3290520f4",
+      "title": "埃塞俄比亚在提格雷战争中获得俄罗斯战斗机和防空系统",
+      "originalTitle": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
+      "summary": "获取战机的原因是上个月在提格雷地区北部开始的不断战斗。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-29T08:23:31Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-29T12:29:58.779003Z",
+      "updatedAt": "2026-10-29T12:29:58.779003Z"
+    },
+    {
+      "id": "rss-2fe4f7bfd8f5262e2a44996e",
+      "title": "警方在布里斯班酒吧 以女性身份调查帮派关系 19岁 开车枪击身亡",
+      "originalTitle": "Police investigate gang links as woman, 19, dies after drive-by shooting at Brisbane pub",
+      "summary": "警方正在调查Vana-Reese Schuster-Togiatau在Fitzy's Loganholm城南外的枪击事件中受伤。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-29T08:14:40Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/29/woman-19-dies-after-masked-gunmen-opened-fire-outside-brisbane-pub-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-29T12:29:58.779003Z",
+      "updatedAt": "2026-10-29T12:29:58.779003Z"
+    },
+    {
+      "id": "rss-c0d4405f5a7d56f1cff3fc82",
+      "title": "你好,小鹰公司在中国大吵大闹后 和日本间谍秀断绝了关系",
+      "originalTitle": "Hello Kitty company cuts ties with Japanese spy show after China outcry",
+      "summary": "Sanrio最后与电视剧Vivant有关,因为中国说,无情中国特工的描绘是“蓄意诽谤 ” 。 成功的Hello Kitty专营公司在中国国家媒体和网民谴责该节目对中国的“蓄意诽谤”之后,道歉并结束了与日本电视剧的商业联系。 Sanrio是一家日本公司,其角色很受欢迎。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-29T08:03:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/29/hello-kitty-japanese-spy-show-vivant-china-outcry"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-29T12:29:58.779003Z",
+      "updatedAt": "2026-10-29T12:29:58.779003Z"
+    },
+    {
+      "id": "rss-93815908143a72219dde0e26",
+      "title": "壳牌公司的利润翻了一番到10.8bn,因为伊朗战争提高了石油的利润幅度",
+      "originalTitle": "Shell profits double to $10.8bn as Iran war pushes up margin on oil",
+      "summary": "能源公司将5美元回报给股东,因为气候运动者批评高利润 商业现场 — — 最新消息是壳牌公司在中东冲突推动石油和天然气价格上涨并造成全球市场短缺后最后一个季度的利润翻了一番。 壳牌公司于星期四上午报告,7月至9月季度,该公司经调整的利润为10.8美元(8.1美元 ) 。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-29T08:00:37Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/business/2026/oct/29/shell-profits-double-iran-war-pushes-up-profit-margin-on-oil"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-29T12:29:58.779003Z",
+      "updatedAt": "2026-10-29T12:29:58.779003Z"
+    },
+    {
+      "id": "rss-5447372ee9e21e4c0076c350",
+      "title": "你好,小鹰制造者在中国反弹后 切断了与日本间谍剧的联系",
+      "originalTitle": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+      "summary": "Sanrio在与日本电视系列Vivant的商品连线引起批评后道歉。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-29T07:54:33Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-29T12:29:58.779003Z",
+      "updatedAt": "2026-10-29T12:29:58.779003Z"
+    },
+    {
+      "id": "rss-b63f6ca7cb780e0d81bf76f3",
+      "title": "Albanese在面临内部劳动力对生活费用危机的压力时,承认了所需的储蓄。",
+      "originalTitle": "Albanese concedes savings needed as he faces internal Labor pressure on cost-of-living crisis",
+      "summary": "总理发誓不要在处理经济的政治问题中削减卫生和教育资金。 我们的日常政治电子邮件、免费应用程序或每日新闻播客安东尼·阿尔巴内斯在12月的年中预算更新中排除了对卫生、教育和基本服务的重大削减,但随着劳动党努力遏制加速的通货膨胀,需要放行储蓄。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-29T07:31:41Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/29/albanese-concedes-savings-needed-as-he-faces-internal-labor-pressure-on-cost-of-living-crisis"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-29T12:29:58.779003Z",
+      "updatedAt": "2026-10-29T12:29:58.779003Z"
+    },
+    {
+      "id": "rss-cffa4a70e2ee6f0638af87ea",
+      "title": "英国广播公司在菲律宾,",
+      "originalTitle": "BBC in the Philippines where Thomas Markle is expected to be investigated",
+      "summary": "Jonathan Head在宿务,报告来自Markle最后住的家门外。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-29T07:28:26Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-29T12:29:58.779003Z",
+      "updatedAt": "2026-10-29T12:29:58.779003Z"
+    },
+    {
+      "id": "rss-a8466d6ed0dc15d44595293b",
+      "title": "验尸官要求TGA审查澳大利亚演员死后未经批准的",
+      "originalTitle": "Coroner calls for TGA to review unapproved peptides after death of Australian actor",
+      "summary": "理查德·诺顿(Richard Norton,75岁)在2025年3月被注射了CJC1295和Ipamorelin(未经批准)之后,心脏停止跳动。 获得我们的突发新闻电子邮件、免费应用程序或每日新闻播客。 在注射未经批准的peptides之后,一名澳大利亚演员的死亡可能导致对药物的限制更加严厉。 理查德·诺顿(Richard Norton,75岁),一位有经验的电影业工作者,与舞蹈编剧、特技演员和武术比赛。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-29T07:22:28Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/29/peptide-actor-richard-norton-death-coroner-tga-review-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-29T12:29:58.779003Z",
+      "updatedAt": "2026-10-29T12:29:58.779003Z"
+    },
+    {
+      "id": "rss-3652ed1b02e006e6d73f20b7",
+      "title": "萨尔瓦多向海地派遣2 000名士兵,以营救4名失踪士兵",
+      "originalTitle": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+      "summary": "部队正在设法找回在海地首都太子港郊区伏击中失踪的4名军事人员。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-29T06:24:56Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-29T12:29:58.779003Z",
+      "updatedAt": "2026-10-29T12:29:58.779003Z"
+    },
+    {
+      "id": "rss-8f23a10e1c69b5fc1c124aac",
+      "title": "大赦国际指称,柬埔寨警察和士兵帮助看守虐待性骗局。",
+      "originalTitle": "Cambodian police and soldiers helped guard abusive scam compounds, Amnesty alleges",
+      "summary": "幸存者告诉权利团体,担任警卫的现役军官在骗局大院中实施电击和殴打柬埔寨警察和军官,根据大赦国际的一份报告,数千人被迫在网上欺诈行业工作。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-29T06:00:26Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/29/cambodian-police-scam-compounds-amnesty-international"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-29T12:29:58.779003Z",
+      "updatedAt": "2026-10-29T12:29:58.779003Z"
+    },
+    {
+      "id": "rss-c5251ad9de981cad43ff4e1b",
+      "title": "在新的电子游戏中 使用致命的汉城人群挤压的真片段",
+      "originalTitle": "Outcry after Call of Duty maker uses real footage of deadly Seoul crowd crush in new video game",
+      "summary": "受难家庭已敦促《责任召唤:现代战争4》的出版商从游戏中移除一个剪辑,其中显示一位从事心肺复苏术的人物和躺在韩国街头受难家庭的尸体,并要求《责任召唤》的制作人删除2022年首尔最惨痛的人群挤压片段。这些剪辑是几秒钟长的,App。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-29T04:41:41Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/29/call-of-duty-seoul-crowd-crush-video-footage"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-29T12:29:58.779003Z",
+      "updatedAt": "2026-10-29T12:29:58.779003Z"
+    },
+    {
+      "id": "rss-6e3e6fe9af0a73dc705154d2",
+      "title": "“像切一个毕加索” : AI 缩微片编辑邻居担心的演员和团队",
+      "originalTitle": "'Like cutting up a Picasso': AI microdrama edit of Neighbours worries actors and crew",
+      "summary": "一部微型剧将使用人工智能辅助技术编辑澳大利亚电视肥皂的旧片段,（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-10-29T03:15:35Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cj1dw9znd1q1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-29T12:29:58.779003Z",
+      "updatedAt": "2026-10-29T12:29:58.779003Z"
+    },
+    {
+      "id": "rss-1692af305bfe0ffbf51ca7c4",
+      "title": "学生如何推翻塞尔维亚的强者 — — 播客",
+      "originalTitle": "How students toppled Serbia’s strongman – podcast",
+      "summary": "经过两年的抗议,一个由学生领导的运动在投票箱击败了塞尔维亚的独裁领袖Aleksander Vučić。 但一个无领袖运动能治理一个国家吗? 将你的评论和问题传达给tif. questions@theguardian.com 塞尔维亚的政治局势已经升级。 星期天,有创纪录的人数参加了投票,投票结束了Aleksandar Vuči的12年统治。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-29T03:00:20Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/news/audio/2026/oct/29/how-students-toppled-serbias-strongman-podcast"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-29T12:29:58.779003Z",
+      "updatedAt": "2026-10-29T12:29:58.779003Z"
+    },
+    {
+      "id": "rss-6f0240bccdc0badf4b3fd877",
+      "title": "微软的利润在宣布数千名裁员后猛增",
+      "originalTitle": "Microsoft profits soar days after announcing thousands of layoffs",
+      "summary": "这个星期,Windows开发商说,它会向60,000名工人提供买断,因为它希望抑制成本。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-29T01:27:40Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-29T12:29:58.779003Z",
+      "updatedAt": "2026-10-29T12:29:58.779003Z"
+    },
+    {
+      "id": "rss-2fedfe53e1a089a7c1f92176",
+      "title": "阿尔巴尼亚对参加暴力抗议的示威者处以6 000美元的罚款。",
+      "originalTitle": "Albania imposes $6,000 fine for demonstrators present at a protest that turns violent",
+      "summary": "罚款是平均月薪的六倍, 将适用于参加暴力抗议活动的人, 即使他们不亲自实施暴力行动,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-29T00:53:26Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/29/albania-protest-attendance-fine-law"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-29T12:29:58.779003Z",
+      "updatedAt": "2026-10-29T12:29:58.779003Z"
+    },
+    {
+      "id": "rss-ce77f42aa1aee3617964e85c",
+      "title": "欧洲的年轻人走上街头 他们觉得被排斥在充满希望的未来之外",
+      "originalTitle": "Europe's youth take to the streets - they feel locked out of a promising future",
+      "summary": "上个月,欧洲各地发生了由青年推动的示威活动。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-29T00:33:11Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm2ke80nd929o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-29T12:29:58.779003Z",
+      "updatedAt": "2026-10-29T12:29:58.779003Z"
     }
   ],
   "history": [
@@ -56237,9 +57263,1150 @@
         "firstSeen": "2026-10-29T00:24:11.846317Z",
         "updatedAt": "2026-10-29T00:24:11.846317Z"
       }
+    },
+    {
+      "eventId": "rss-e7072e643905d6747231dd89",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "data": {
+        "id": "rss-e7072e643905d6747231dd89",
+        "title": "Carney在蒙特利尔加拿大-欧盟首脑会议上推动建立更密切的关系",
+        "originalTitle": "Carney to push for closer ties at Canada-EU summit in Montreal",
+        "summary": "“准成员”一词据说在官员讨论更深层次的经济和国防关系时被删除。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-29T12:27:31Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-29T12:29:58.779003Z",
+        "updatedAt": "2026-10-29T12:29:58.779003Z"
+      }
+    },
+    {
+      "eventId": "rss-d4fb7d19c702c3422dfaf9c0",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "data": {
+        "id": "rss-d4fb7d19c702c3422dfaf9c0",
+        "title": "在中国政治集会上,以习近平强调“党纪”的清洗次数创纪录",
+        "originalTitle": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+        "summary": "习近平的反腐败运动已成为“巩固和维护权威的努力”,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-29T11:34:03Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-29T12:29:58.779003Z",
+        "updatedAt": "2026-10-29T12:29:58.779003Z"
+      }
+    },
+    {
+      "eventId": "rss-292be8b725a4bac373fcdff7",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "data": {
+        "id": "rss-292be8b725a4bac373fcdff7",
+        "title": "阿拉斯加州长下令调查 民主党竞选活动与同名候选人的关联",
+        "originalTitle": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+        "summary": "共和党州长回应了《纽约时报》的指控 民主党招募了一个破坏者候选人 Dan Sullivan（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-29T11:27:05Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-29T12:29:58.779003Z",
+        "updatedAt": "2026-10-29T12:29:58.779003Z"
+      }
+    },
+    {
+      "eventId": "rss-4dd579edd050ef39f24c6acc",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "data": {
+        "id": "rss-4dd579edd050ef39f24c6acc",
+        "title": "西班牙在火车坠毁后开始哀悼,",
+        "originalTitle": "Spain begins mourning period after train crash as search continues for victims in wreckage",
+        "summary": "紧急服务、无人驾驶飞机和警犬队在为亲属建立诊所以提供DNA样本的同时,继续梳理车厢。 西班牙已经开始了三天的哀悼日,以纪念在高速铁路碰撞中死亡的69人,因为医院继续治疗数十名受伤乘客和亲属,等待其亲人的消息。 火车 — — 一辆来自西班牙国有Renfe的火车 — — 正在等待他们的亲人的消息。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-29T11:11:52Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-29T12:29:58.779003Z",
+        "updatedAt": "2026-10-29T12:29:58.779003Z"
+      }
+    },
+    {
+      "eventId": "rss-927aa9df16c839344f3ccc6e",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "data": {
+        "id": "rss-927aa9df16c839344f3ccc6e",
+        "title": "音频显示控制中心与驾驶员在西班牙火车坠毁前的交流",
+        "originalTitle": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+        "summary": "记录显示,尽管前面的一辆高速列车停了下来,但该列车还是获准行驶。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-29T11:07:35Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-29T12:29:58.779003Z",
+        "updatedAt": "2026-10-29T12:29:58.779003Z"
+      }
+    },
+    {
+      "eventId": "rss-666457ad5ee38b325c696927",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "data": {
+        "id": "rss-666457ad5ee38b325c696927",
+        "title": "很少写情书给法国贵族 揭示路易十六号海洋神秘",
+        "originalTitle": "Rare love letters to French aristocrat shed light on Louis XVI maritime mystery",
+        "summary": "1793年1月21日,法国科学家准备爬上由断头台公开执行的脚架,Louis 十六号据报问道:“是否有Péroze先生的消息?” 他指的是Jean-François de Galaup、海军军官和海军军官的伯爵Péroze。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-29T11:00:30Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/29/rare-love-letters-french-aristocrat-la-perouse-maritime-mystery"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-29T12:29:58.779003Z",
+        "updatedAt": "2026-10-29T12:29:58.779003Z"
+      }
+    },
+    {
+      "eventId": "rss-e1b04d92f42e71678c6b9bdd",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "data": {
+        "id": "rss-e1b04d92f42e71678c6b9bdd",
+        "title": "欧洲央行行长克里斯蒂娜·拉加德提前九个月下台",
+        "originalTitle": "Europe’s central bank chief Christine Lagarde to step down nine months early",
+        "summary": "拉加德的离任被视为接替世界经济论坛的候选人,随着欧元区与增长疲软和通货膨胀的抗争,欧元区顶尖央行行长拉加德提前九个月下台,结束了对其未来的数月投机。 欧洲央行(ECB)于星期四上午宣布拉加德将于2027年2月7日下台担任其行长。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-29T10:56:12Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-29T12:29:58.779003Z",
+        "updatedAt": "2026-10-29T12:29:58.779003Z"
+      }
+    },
+    {
+      "eventId": "rss-b65ab71cbfefe664a31aebfc",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "data": {
+        "id": "rss-b65ab71cbfefe664a31aebfc",
+        "title": "Ofcom 在禁止16岁以下者使用社交媒体之前,先提出年龄检查方法",
+        "originalTitle": "Ofcom outlines age check methods ahead of social media ban for under-16s",
+        "summary": "Ofcom说,照片和数字身份证,银行检查或面部年龄估计可以证明某人已经16岁或以上。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-29T09:31:44Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-29T12:29:58.779003Z",
+        "updatedAt": "2026-10-29T12:29:58.779003Z"
+      }
+    },
+    {
+      "eventId": "rss-2eb401fedf29c3ecfbcfdd1d",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "data": {
+        "id": "rss-2eb401fedf29c3ecfbcfdd1d",
+        "title": "\"我和鬼一起生活\" - 在鬼屋里吸引了讨价还价的猎人",
+        "originalTitle": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+        "summary": "某人在悲惨情况下死亡的地产 可能会大幅降低价格（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-29T09:30:03Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-29T12:29:58.779003Z",
+        "updatedAt": "2026-10-29T12:29:58.779003Z"
+      }
+    },
+    {
+      "eventId": "rss-1acfb4d4660a81a30df61fb9",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "data": {
+        "id": "rss-1acfb4d4660a81a30df61fb9",
+        "title": "大胆的印度越狱之夜 17名囚犯被重新抓获",
+        "originalTitle": "Audacious Indian jailbreak saga ends with 17 prisoners recaptured",
+        "summary": "越狱开始时是伪造的扣押,36小时后结束,所有囚犯都回到狱中。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-29T09:17:05Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-29T12:29:58.779003Z",
+        "updatedAt": "2026-10-29T12:29:58.779003Z"
+      }
+    },
+    {
+      "eventId": "rss-ba725ff0b8cf773ed7c89c30",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "data": {
+        "id": "rss-ba725ff0b8cf773ed7c89c30",
+        "title": "一个民族指控PM试图“施加不当的政治影响”,",
+        "originalTitle": "One Nation accuses PM of trying to ‘exert undue political influence’ by offering David Farley an extra staffer",
+        "summary": "Pauline Hanson说,Anthony Albanese向她的一位议员提出 \" 未经邀请 \" 的顾问,其工资为20万美元。 获得我们的每日政治电子邮件、免费应用程序或每日新闻播客。 总理Anthony Albanese在党称为 \" 未经邀请 \" 的举动中,向一个民族议员David Farley增派了一名工作人员,试图利用纳税人基金赢得新政治家的胜利。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-29T08:26:51Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/29/one-nation-accuses-pm-of-trying-to-exert-undue-political-influence-by-offering-david-farley-extra-staffer-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-29T12:29:58.779003Z",
+        "updatedAt": "2026-10-29T12:29:58.779003Z"
+      }
+    },
+    {
+      "eventId": "rss-d2c1e21cbe5f74d3290520f4",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "data": {
+        "id": "rss-d2c1e21cbe5f74d3290520f4",
+        "title": "埃塞俄比亚在提格雷战争中获得俄罗斯战斗机和防空系统",
+        "originalTitle": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
+        "summary": "获取战机的原因是上个月在提格雷地区北部开始的不断战斗。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-29T08:23:31Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-29T12:29:58.779003Z",
+        "updatedAt": "2026-10-29T12:29:58.779003Z"
+      }
+    },
+    {
+      "eventId": "rss-2fe4f7bfd8f5262e2a44996e",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "data": {
+        "id": "rss-2fe4f7bfd8f5262e2a44996e",
+        "title": "警方在布里斯班酒吧 以女性身份调查帮派关系 19岁 开车枪击身亡",
+        "originalTitle": "Police investigate gang links as woman, 19, dies after drive-by shooting at Brisbane pub",
+        "summary": "警方正在调查Vana-Reese Schuster-Togiatau在Fitzy's Loganholm城南外的枪击事件中受伤。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-29T08:14:40Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/29/woman-19-dies-after-masked-gunmen-opened-fire-outside-brisbane-pub-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-29T12:29:58.779003Z",
+        "updatedAt": "2026-10-29T12:29:58.779003Z"
+      }
+    },
+    {
+      "eventId": "rss-c0d4405f5a7d56f1cff3fc82",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "data": {
+        "id": "rss-c0d4405f5a7d56f1cff3fc82",
+        "title": "你好,小鹰公司在中国大吵大闹后 和日本间谍秀断绝了关系",
+        "originalTitle": "Hello Kitty company cuts ties with Japanese spy show after China outcry",
+        "summary": "Sanrio最后与电视剧Vivant有关,因为中国说,无情中国特工的描绘是“蓄意诽谤 ” 。 成功的Hello Kitty专营公司在中国国家媒体和网民谴责该节目对中国的“蓄意诽谤”之后,道歉并结束了与日本电视剧的商业联系。 Sanrio是一家日本公司,其角色很受欢迎。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-29T08:03:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/29/hello-kitty-japanese-spy-show-vivant-china-outcry"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-29T12:29:58.779003Z",
+        "updatedAt": "2026-10-29T12:29:58.779003Z"
+      }
+    },
+    {
+      "eventId": "rss-93815908143a72219dde0e26",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "data": {
+        "id": "rss-93815908143a72219dde0e26",
+        "title": "壳牌公司的利润翻了一番到10.8bn,因为伊朗战争提高了石油的利润幅度",
+        "originalTitle": "Shell profits double to $10.8bn as Iran war pushes up margin on oil",
+        "summary": "能源公司将5美元回报给股东,因为气候运动者批评高利润 商业现场 — — 最新消息是壳牌公司在中东冲突推动石油和天然气价格上涨并造成全球市场短缺后最后一个季度的利润翻了一番。 壳牌公司于星期四上午报告,7月至9月季度,该公司经调整的利润为10.8美元(8.1美元 ) 。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-29T08:00:37Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/business/2026/oct/29/shell-profits-double-iran-war-pushes-up-profit-margin-on-oil"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-29T12:29:58.779003Z",
+        "updatedAt": "2026-10-29T12:29:58.779003Z"
+      }
+    },
+    {
+      "eventId": "rss-5447372ee9e21e4c0076c350",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "data": {
+        "id": "rss-5447372ee9e21e4c0076c350",
+        "title": "你好,小鹰制造者在中国反弹后 切断了与日本间谍剧的联系",
+        "originalTitle": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+        "summary": "Sanrio在与日本电视系列Vivant的商品连线引起批评后道歉。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-29T07:54:33Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-29T12:29:58.779003Z",
+        "updatedAt": "2026-10-29T12:29:58.779003Z"
+      }
+    },
+    {
+      "eventId": "rss-b63f6ca7cb780e0d81bf76f3",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "data": {
+        "id": "rss-b63f6ca7cb780e0d81bf76f3",
+        "title": "Albanese在面临内部劳动力对生活费用危机的压力时,承认了所需的储蓄。",
+        "originalTitle": "Albanese concedes savings needed as he faces internal Labor pressure on cost-of-living crisis",
+        "summary": "总理发誓不要在处理经济的政治问题中削减卫生和教育资金。 我们的日常政治电子邮件、免费应用程序或每日新闻播客安东尼·阿尔巴内斯在12月的年中预算更新中排除了对卫生、教育和基本服务的重大削减,但随着劳动党努力遏制加速的通货膨胀,需要放行储蓄。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-29T07:31:41Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/29/albanese-concedes-savings-needed-as-he-faces-internal-labor-pressure-on-cost-of-living-crisis"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-29T12:29:58.779003Z",
+        "updatedAt": "2026-10-29T12:29:58.779003Z"
+      }
+    },
+    {
+      "eventId": "rss-cffa4a70e2ee6f0638af87ea",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "data": {
+        "id": "rss-cffa4a70e2ee6f0638af87ea",
+        "title": "英国广播公司在菲律宾,",
+        "originalTitle": "BBC in the Philippines where Thomas Markle is expected to be investigated",
+        "summary": "Jonathan Head在宿务,报告来自Markle最后住的家门外。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-29T07:28:26Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-29T12:29:58.779003Z",
+        "updatedAt": "2026-10-29T12:29:58.779003Z"
+      }
+    },
+    {
+      "eventId": "rss-a8466d6ed0dc15d44595293b",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "data": {
+        "id": "rss-a8466d6ed0dc15d44595293b",
+        "title": "验尸官要求TGA审查澳大利亚演员死后未经批准的",
+        "originalTitle": "Coroner calls for TGA to review unapproved peptides after death of Australian actor",
+        "summary": "理查德·诺顿(Richard Norton,75岁)在2025年3月被注射了CJC1295和Ipamorelin(未经批准)之后,心脏停止跳动。 获得我们的突发新闻电子邮件、免费应用程序或每日新闻播客。 在注射未经批准的peptides之后,一名澳大利亚演员的死亡可能导致对药物的限制更加严厉。 理查德·诺顿(Richard Norton,75岁),一位有经验的电影业工作者,与舞蹈编剧、特技演员和武术比赛。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-29T07:22:28Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/29/peptide-actor-richard-norton-death-coroner-tga-review-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-29T12:29:58.779003Z",
+        "updatedAt": "2026-10-29T12:29:58.779003Z"
+      }
+    },
+    {
+      "eventId": "rss-3652ed1b02e006e6d73f20b7",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "data": {
+        "id": "rss-3652ed1b02e006e6d73f20b7",
+        "title": "萨尔瓦多向海地派遣2 000名士兵,以营救4名失踪士兵",
+        "originalTitle": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+        "summary": "部队正在设法找回在海地首都太子港郊区伏击中失踪的4名军事人员。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-29T06:24:56Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-29T12:29:58.779003Z",
+        "updatedAt": "2026-10-29T12:29:58.779003Z"
+      }
+    },
+    {
+      "eventId": "rss-8f23a10e1c69b5fc1c124aac",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "data": {
+        "id": "rss-8f23a10e1c69b5fc1c124aac",
+        "title": "大赦国际指称,柬埔寨警察和士兵帮助看守虐待性骗局。",
+        "originalTitle": "Cambodian police and soldiers helped guard abusive scam compounds, Amnesty alleges",
+        "summary": "幸存者告诉权利团体,担任警卫的现役军官在骗局大院中实施电击和殴打柬埔寨警察和军官,根据大赦国际的一份报告,数千人被迫在网上欺诈行业工作。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-29T06:00:26Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/29/cambodian-police-scam-compounds-amnesty-international"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-29T12:29:58.779003Z",
+        "updatedAt": "2026-10-29T12:29:58.779003Z"
+      }
+    },
+    {
+      "eventId": "rss-c5251ad9de981cad43ff4e1b",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "data": {
+        "id": "rss-c5251ad9de981cad43ff4e1b",
+        "title": "在新的电子游戏中 使用致命的汉城人群挤压的真片段",
+        "originalTitle": "Outcry after Call of Duty maker uses real footage of deadly Seoul crowd crush in new video game",
+        "summary": "受难家庭已敦促《责任召唤:现代战争4》的出版商从游戏中移除一个剪辑,其中显示一位从事心肺复苏术的人物和躺在韩国街头受难家庭的尸体,并要求《责任召唤》的制作人删除2022年首尔最惨痛的人群挤压片段。这些剪辑是几秒钟长的,App。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-29T04:41:41Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/29/call-of-duty-seoul-crowd-crush-video-footage"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-29T12:29:58.779003Z",
+        "updatedAt": "2026-10-29T12:29:58.779003Z"
+      }
+    },
+    {
+      "eventId": "rss-6e3e6fe9af0a73dc705154d2",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "data": {
+        "id": "rss-6e3e6fe9af0a73dc705154d2",
+        "title": "“像切一个毕加索” : AI 缩微片编辑邻居担心的演员和团队",
+        "originalTitle": "'Like cutting up a Picasso': AI microdrama edit of Neighbours worries actors and crew",
+        "summary": "一部微型剧将使用人工智能辅助技术编辑澳大利亚电视肥皂的旧片段,（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-10-29T03:15:35Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cj1dw9znd1q1o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-29T12:29:58.779003Z",
+        "updatedAt": "2026-10-29T12:29:58.779003Z"
+      }
+    },
+    {
+      "eventId": "rss-1692af305bfe0ffbf51ca7c4",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "data": {
+        "id": "rss-1692af305bfe0ffbf51ca7c4",
+        "title": "学生如何推翻塞尔维亚的强者 — — 播客",
+        "originalTitle": "How students toppled Serbia’s strongman – podcast",
+        "summary": "经过两年的抗议,一个由学生领导的运动在投票箱击败了塞尔维亚的独裁领袖Aleksander Vučić。 但一个无领袖运动能治理一个国家吗? 将你的评论和问题传达给tif. questions@theguardian.com 塞尔维亚的政治局势已经升级。 星期天,有创纪录的人数参加了投票,投票结束了Aleksandar Vuči的12年统治。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-29T03:00:20Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/news/audio/2026/oct/29/how-students-toppled-serbias-strongman-podcast"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-29T12:29:58.779003Z",
+        "updatedAt": "2026-10-29T12:29:58.779003Z"
+      }
+    },
+    {
+      "eventId": "rss-6f0240bccdc0badf4b3fd877",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "data": {
+        "id": "rss-6f0240bccdc0badf4b3fd877",
+        "title": "微软的利润在宣布数千名裁员后猛增",
+        "originalTitle": "Microsoft profits soar days after announcing thousands of layoffs",
+        "summary": "这个星期,Windows开发商说,它会向60,000名工人提供买断,因为它希望抑制成本。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-29T01:27:40Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-29T12:29:58.779003Z",
+        "updatedAt": "2026-10-29T12:29:58.779003Z"
+      }
+    },
+    {
+      "eventId": "rss-2fedfe53e1a089a7c1f92176",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "data": {
+        "id": "rss-2fedfe53e1a089a7c1f92176",
+        "title": "阿尔巴尼亚对参加暴力抗议的示威者处以6 000美元的罚款。",
+        "originalTitle": "Albania imposes $6,000 fine for demonstrators present at a protest that turns violent",
+        "summary": "罚款是平均月薪的六倍, 将适用于参加暴力抗议活动的人, 即使他们不亲自实施暴力行动,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-29T00:53:26Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/29/albania-protest-attendance-fine-law"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-29T12:29:58.779003Z",
+        "updatedAt": "2026-10-29T12:29:58.779003Z"
+      }
+    },
+    {
+      "eventId": "rss-ce77f42aa1aee3617964e85c",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "data": {
+        "id": "rss-ce77f42aa1aee3617964e85c",
+        "title": "欧洲的年轻人走上街头 他们觉得被排斥在充满希望的未来之外",
+        "originalTitle": "Europe's youth take to the streets - they feel locked out of a promising future",
+        "summary": "上个月,欧洲各地发生了由青年推动的示威活动。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-29T00:33:11Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cm2ke80nd929o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-29T12:29:58.779003Z",
+        "updatedAt": "2026-10-29T12:29:58.779003Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-10-29T12:29:58.779003Z",
+      "at": "2026-10-29T12:29:58.779003Z",
+      "kind": "GitHub Actions 采集",
+      "count": 27,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 12}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 2}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 13}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 0}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-10-29T00:24:11.846317Z",
       "at": "2026-10-29T00:24:11.846317Z",
