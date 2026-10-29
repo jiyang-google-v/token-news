@@ -1,0 +1,54 @@
+name: SOL 外盘雷达 · 5分钟重点池更新
+on:
+  schedule:
+    - cron: '2-57/5 * * * *'
+  workflow_dispatch:
+    inputs:
+      discovery:
+        description: 强制发现新币及复查待核验池
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/sol-radar.yml'
+      - 'scripts/sol_radar/**'
+      - 'tests/test_sol_radar.py'
+permissions:
+  contents: write
+concurrency:
+  group: sol-radar-collector
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: 核验重点池与增量历史逻辑
+        run: python -m unittest discover -s tests -p 'test_sol_radar.py'
+      - name: 采集重点池；每30分钟发现新币
+        id: collect
+        env:
+          SOL_RADAR_FORCE_DISCOVERY: ${{ inputs.discovery == true && 'true' || 'false' }}
+        run: python scripts/sol_radar/run.py
+      - name: 保存公开代币快照
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/sol-radar/latest.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'data: 更新 SOL 外盘雷达快照 [skip ci]'
+          # Only this data file changes. Replay on concurrent news updates; never force-push.
+          git pull --rebase origin main
+          git push origin HEAD:main
+      - name: 报告部分采集失败
+        if: steps.collect.outputs.partial == 'true'
+        run: |
+          echo '::warning::已保存成功数据；缺失或历史核验失败的代币不会冒充新行情。详见运行摘要。'
