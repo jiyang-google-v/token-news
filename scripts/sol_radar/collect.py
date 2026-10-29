@@ -54,12 +54,13 @@ def history_check(row):
     if not bars:raise ValueError('No post-migration historical candles')
     full=[r for r in bars if r[5]>=migrated]
     high=max([float(row.get('price') or 0)]+[r[1] for r in full])
+    post_migration_high=high
     boundary=[r for r in bars if r[5]<migrated]
     ambiguous=any(r[1]>=.0008 for r in boundary)
     if not ambiguous:high=max([high]+[r[1] for r in boundary])
     start=(int(migrated)//300000)*300000
     complete=(bars[0][5]<=start and bars[-1][5]>=((now//300000)-1)*300000 and len(d['data'])<500 and all(bars[i][5]-bars[i-1][5]==300000 for i in range(1,len(bars))) and not ambiguous)
-    return {'source':'Binance USD OHLCV' if complete else 'Binance USD OHLCV partial','high':high,'from':migrated if complete else None,'through':int(time.time()*1000),'bars':len(bars),'complete':complete}
+    return {'source':'Binance USD OHLCV' if complete else 'Binance USD OHLCV partial','high':high,'from':migrated if complete else None,'through':int(time.time()*1000),'bars':len(bars),'complete':complete,'postMigrationHigh':post_migration_high,'points':[[int(r[5]+300000),r[3]] for r in bars if r[5]+300000<=now]}
 def enrich_history(data,state):
     known={x['mint']:x for x in state.get('tokens',[])};todo=[]
     for r in data['rows']:

@@ -5,7 +5,7 @@ sys.path.insert(0,str(Path(__file__).resolve().parents[1]/'scripts'/'sol_radar')
 import run as runner
 class CollectionTests(unittest.TestCase):
  def setUp(self):
-  self.now=int(time.time()*1000);self.mint='9195ZJ8dks1534LePW1xDCQVpy4Kdp1s1sA7hr5rpump';self.row={'contractAddress':self.mint,'chainId':'CT_501','protocol':1001,'migrateStatus':1,'migrateTime':self.now-3600000,'holders':50,'price':.00001,'liquidity':10000,'snapshotAt':self.now-300000,'_track':True,'historyCheck':{'source':'Binance USD OHLCV','complete':True,'high':.0001,'from':self.now-3600000,'through':self.now-300000}}
+  self.now=int(time.time()*1000);self.mint='9195ZJ8dks1534LePW1xDCQVpy4Kdp1s1sA7hr5rpump';self.row={'contractAddress':self.mint,'chainId':'CT_501','protocol':1001,'migrateStatus':1,'migrateTime':self.now-3600000,'holders':50,'price':.00001,'liquidity':10000,'snapshotAt':self.now-300000,'trend':[[self.now-900000,.00001],[self.now-300000,.00002]],'_track':True,'historyCheck':{'source':'Binance USD OHLCV','complete':True,'high':.0001,'from':self.now-3600000,'through':self.now-300000}}
  def test_historical_cap_and_exact_boundaries(self):
   self.assertFalse(runner.excluded(self.row));self.assertTrue(runner.excluded({**self.row,'holders':49}));self.assertTrue(runner.excluded({**self.row,'price':.0008}));self.assertTrue(runner.excluded({**self.row,'_peak':.0008}));self.assertFalse(runner.excluded({**self.row,'price':.000003}));self.assertTrue(runner.excluded({**self.row,'price':.0000029}))
  def test_fast_updates_can_observe_holders_below_50(self):
@@ -37,4 +37,14 @@ class CollectionTests(unittest.TestCase):
    with patch.object(runner.time,'time',return_value=self.now/1000),patch.object(runner.base,'collect',return_value=dict(d)),patch.object(runner,'fast_collect',return_value=dict(d)):
     out=runner.produce({'rows':[],'lastDiscoveryAt':self.now-elapsed})
    self.assertEqual(out['mode'],expected)
+ def test_chart_merge_uses_real_post_migration_points_and_preserves_gaps(self):
+  prior={**self.row,'trend':[[self.now-4000000,.4],[self.now-1200000,.00002],[self.now-1000000,.00003]]}
+  row={**self.row,'price':.00001,'snapshotAt':self.now,'historyCheck':{'points':[[self.now-1000000,.00004],[self.now-300000,.00005],[self.now+300000,.5]]}}
+  points=runner.merge_trend(row,prior)
+  self.assertEqual(points,[[self.now-1200000,.00002],[self.now-1000000,.00004],[self.now-300000,.00005],[self.now,.00001]])
+ def test_initial_chart_backfill_reuses_full_history_request(self):
+  old={**self.row,'trend':[]}
+  with patch.object(runner.base,'history_check',return_value={'points':[[self.now-300000,.00001]]}) as full:
+   result=runner.incremental_history(self.row,old)
+  full.assert_called_once();self.assertEqual(len(result['points']),1)
 if __name__=='__main__':unittest.main()

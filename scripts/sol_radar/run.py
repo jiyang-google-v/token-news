@@ -56,7 +56,7 @@ def fast_collect(targets):
 
 def incremental_history(row,old):
  previous=old.get('historyCheck') or {};now=int(time.time()*1000);migrated=ts(row['migrateTime'])
- if not previous.get('complete') or ts(previous.get('from'))>migrated:return base.history_check(row)
+ if not previous.get('complete') or ts(previous.get('from'))>migrated or not old.get('trend'):return base.history_check(row)
  # Re-read the previously open interval. Never use a stale checkpoint as current proof.
  start=(ts(previous.get('through'))//300000)*300000
  limit=max(4,math.ceil((now-start)/300000)+2)
@@ -73,7 +73,23 @@ def incremental_history(row,old):
  bars=sorted({r[5]:r for r in bars}.values(),key=lambda x:x[5]);last_closed=(now//300000-1)*300000
  complete=bool(bars) and bars[0][5]<=start and bars[-1][5]>=last_closed and all(bars[i][5]-bars[i-1][5]==300000 for i in range(1,len(bars)))
  high=max([peak(old),float(row.get('price') or 0)]+[r[1] for r in bars])
- return {'source':'Binance USD OHLCV' if complete else 'Binance USD OHLCV partial','high':high,'from':migrated if complete else None,'through':now,'bars':len(bars),'complete':complete,'incremental':True}
+ return {'source':'Binance USD OHLCV' if complete else 'Binance USD OHLCV partial','high':high,'from':migrated if complete else None,'through':now,'bars':len(bars),'complete':complete,'incremental':True,'postMigrationHigh':max([float(row.get('price') or 0),float(old.get('trendPeakUsd') or 0)]+[r[1] for r in bars if r[5]>=migrated]),'points':[[int(r[5]+300000),r[3]] for r in bars if r[5]+300000<=now]}
+
+def merge_trend(row,prior):
+ migrated=ts(row.get('migrateTime'));now=int(time.time()*1000);points={}
+ for pair in (prior.get('trend') or [])+((row.get('historyCheck') or {}).get('points') or []):
+  if not isinstance(pair,list) or len(pair)!=2:continue
+  try:t=ts(pair[0]);value=float(pair[1])
+  except (TypeError,ValueError):continue
+  if migrated<=t<=now and math.isfinite(value) and value>0:points[t]=value
+ try:
+  current=float(row.get('price') or 0);snapshot=ts(row.get('snapshotAt'))
+  if current>0 and math.isfinite(current) and migrated<=snapshot<=now:points[snapshot]=current
+ except (ValueError,TypeError):pass
+ # 30 hours of 5-minute closes plus one current observation; retain the earliest point.
+ samples=sorted(points.items())
+ if len(samples)>400:samples=[samples[0]]+samples[-399:]
+ return [[t,v] for t,v in samples]
 
 def produce(previous,force=False):
  now=int(time.time()*1000);old={r['contractAddress']:r for r in previous.get('rows',[]) if 0<=now-ts(r.get('migrateTime'))<WINDOW}
@@ -94,7 +110,7 @@ def produce(previous,force=False):
     except Exception as e:
      r['historyCheck']={'high':peak(old.get(r['contractAddress'],{})),'attemptedAt':int(time.time()*1000),'complete':False};history_errors.append(r['contractAddress']+': '+str(e))
  for r in data['rows']:
-  prior=old.get(r['contractAddress'],{});r['_peak']=max(peak(prior),peak(r));r['historyCheck']={**(r.get('historyCheck') or {}),'high':r['_peak']};r['_track']=not excluded(r) and (prior.get('_track',False) or ready(r));old[r['contractAddress']]=r
+  prior=old.get(r['contractAddress'],{});r['trend']=merge_trend(r,prior);r['trendPeakUsd']=max(float(prior.get('trendPeakUsd') or 0),float((r.get('historyCheck') or {}).get('postMigrationHigh') or 0),float(r.get('price') or 0));r['_peak']=max(peak(prior),peak(r));r['historyCheck']={**{k:v for k,v in (r.get('historyCheck') or {}).items() if k!='points'},'high':r['_peak']};r['_track']=not excluded(r) and (prior.get('_track',False) or ready(r));old[r['contractAddress']]=r
  data.update({'rows':list(old.values()),'schemaVersion':1,'mode':'discovery' if discover else 'priority','lastDiscoveryAt':data['collectedAt'] if discover else previous.get('lastDiscoveryAt'),'historyRequests':count,'historyErrors':history_errors[:5],'errors':(data['errors']+(['历史价格核验部分失败，相关代币保持待核验'] if history_errors else []))[:6],'focusMints':[r['contractAddress'] for r in old.values() if r.get('_track') and not excluded(r)]})
  return data
 
