@@ -4,7 +4,7 @@ import json,os,sys,time,math,urllib.parse,concurrent.futures
 from pathlib import Path
 import collect as base
 WINDOW=108000000
-PERIOD=1800000
+PERIOD=900000
 
 def ts(v):
  try:

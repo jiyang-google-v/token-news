@@ -33,7 +33,7 @@ jobs:
           python-version: '3.12'
       - name: 核验重点池与增量历史逻辑
         run: python -m unittest discover -s tests -p 'test_sol_radar.py'
-      - name: 采集重点池；每30分钟发现新币
+      - name: 采集重点池；每15分钟发现新币
         id: collect
         env:
           SOL_RADAR_FORCE_DISCOVERY: ${{ inputs.discovery == true && 'true' || 'false' }}

@@ -26,9 +26,15 @@ class CollectionTests(unittest.TestCase):
   d={'rows':[],'requests':1,'saturated':0,'rejected':0,'errors':['missing'],'collectedAt':self.now,'source':'Binance Meme Rush'}
   with patch.object(runner,'fast_collect',return_value=d):out=runner.produce(previous)
   self.assertEqual(out['mode'],'priority');self.assertEqual(out['rows'][0]['snapshotAt'],self.row['snapshotAt']);self.assertIn(self.mint,out['focusMints'])
- def test_discovery_due_after_half_hour_and_expired_rows_removed(self):
-  previous={'rows':[{**self.row,'migrateTime':self.now-31*3600000}],'lastDiscoveryAt':self.now-1800001}
+ def test_discovery_due_after_quarter_hour_and_expired_rows_removed(self):
+  previous={'rows':[{**self.row,'migrateTime':self.now-31*3600000}],'lastDiscoveryAt':self.now-900001}
   d={'rows':[],'requests':4,'saturated':0,'rejected':0,'errors':[],'collectedAt':self.now,'source':'Binance Meme Rush'}
   with patch.object(runner.base,'collect',return_value=d):out=runner.produce(previous)
   self.assertEqual(out['mode'],'discovery');self.assertEqual(out['rows'],[])
+ def test_fifteen_minute_boundary_keeps_five_minute_priority_runs(self):
+  for elapsed,expected in [(899999,'priority'),(900000,'discovery')]:
+   d={'rows':[],'requests':0,'saturated':0,'rejected':0,'errors':[],'collectedAt':self.now,'source':'Binance Meme Rush'}
+   with patch.object(runner.time,'time',return_value=self.now/1000),patch.object(runner.base,'collect',return_value=dict(d)),patch.object(runner,'fast_collect',return_value=dict(d)):
+    out=runner.produce({'rows':[],'lastDiscoveryAt':self.now-elapsed})
+   self.assertEqual(out['mode'],expected)
 if __name__=='__main__':unittest.main()
