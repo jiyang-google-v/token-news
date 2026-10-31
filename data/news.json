@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-31T00:27:47.554065Z",
+  "updatedAt": "2026-10-31T12:26:01.138414Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -31990,6 +31990,614 @@
       "tokens": [],
       "firstSeen": "2026-10-31T00:27:47.554065Z",
       "updatedAt": "2026-10-31T00:27:47.554065Z"
+    },
+    {
+      "id": "rss-b9e718a99c9ff57744e16943",
+      "title": "法国和德国为动乱准备了数以百计的示威计划 — — 欧洲现场直播",
+      "originalTitle": "France and Germany braced for unrest with hundreds of demonstrations planned – Europe live",
+      "summary": "法国内政部长劳伦特·努涅斯在本周早些时候警告说,“公共秩序混乱的风险非常高 ” 。 这是法国周围最近的一些图像:在巴黎,工会和吉列斯·雅奈斯计划通过市中心举行的两场游行被禁止。 相反,警方授权在远东地区举行一场游行。 组织者对排除这些游行的决定提出了上诉。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-31T12:09:22Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-31T12:26:01.138414Z",
+      "updatedAt": "2026-10-31T12:26:01.138414Z"
+    },
+    {
+      "id": "rss-deefa82a83a2bcadfaf0b14c",
+      "title": "居民在前往乌克兰的路上吃杂草",
+      "originalTitle": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
+      "summary": "美国第一夫人梅拉尼亚·特朗普促成停火后,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-31T12:05:04Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-31T12:26:01.138414Z",
+      "updatedAt": "2026-10-31T12:26:01.138414Z"
+    },
+    {
+      "id": "rss-e10069f8e2c7b8d4cf076732",
+      "title": "闭路电视、拉链和选举观察者:如何确保和计算美国的邮件投票",
+      "originalTitle": "CCTV, zip ties and election watchers: How US mail-in votes are secured and counted",
+      "summary": "BBC 校验会前往选举中心, 以了解美国中期选举的邮寄选票是如何处理的。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-31T09:16:14Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-31T12:26:01.138414Z",
+      "updatedAt": "2026-10-31T12:26:01.138414Z"
+    },
+    {
+      "id": "rss-9cc3fe81ae67b6588b3f1320",
+      "title": "\" 最后一个堡垒 \" :历史悠久的雅典咖啡馆因反文化区而关闭",
+      "originalTitle": "‘The last fortress’: historic Athens cafe closes as countercultural area gentrifies",
+      "summary": "Mouria咖啡馆无法续租以左翼团结、抵抗和激进主义闻名的Exarchia。 作家、艺术家、诗人和政治家、医生和律师、激进分子和革命分子的宿醉已经持续了44年,穆里亚的业主Christos Vanas让他们都进来了。 每天早上7点,默默式前服务员都是默默式服务员。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-31T08:00:37Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/31/mouria-historic-athens-cafe-closes-exarchia-gentrifies"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-31T12:26:01.138414Z",
+      "updatedAt": "2026-10-31T12:26:01.138414Z"
+    },
+    {
+      "id": "rss-0f49b80eb2e97fd6df0ba3c4",
+      "title": "向墨尔本、堪培拉、悉尼和布里斯班发出风暴警告,",
+      "originalTitle": "Storm warnings for Melbourne, Canberra, Sydney and Brisbane as cold front ‘packs a punch’",
+      "summary": "澳洲东部和东南部多个首都城市的暴风雨警报已经到位,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-31T06:05:20Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/31/weather-bom-storm-warnings-melbourne-canberra-sydney-brisbane"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-31T12:26:01.138414Z",
+      "updatedAt": "2026-10-31T12:26:01.138414Z"
+    },
+    {
+      "id": "rss-0783a78dc33abe0d4e991a1b",
+      "title": "西班牙培训灾难云 Sánchez 重新当选的机会",
+      "originalTitle": "Spain train disaster clouds Sánchez chances of re-election",
+      "summary": "西班牙总理在紧接着的大选前几周, 遭遇一系列危机。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-31T05:44:21Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-31T12:26:01.138414Z",
+      "updatedAt": "2026-10-31T12:26:01.138414Z"
+    },
+    {
+      "id": "rss-7543aa46de76411739904701",
+      "title": "波兰宪法法院在法官停职后部署的暴动警察",
+      "originalTitle": "Riot police deployed to Poland’s constitutional court after judge suspended",
+      "summary": "总统卡罗尔·纳乌罗基在法院合法性问题上的长期斗争中,目睹了争取进入华沙法院大楼的挣扎。 周五晚上,暴动警察与波兰宪法法院外的抗议者陷入紧张的对峙状态,因为其高级法官在长达十年的法院法律地位争端中被中止。 冲突发生后发生了争议 d 。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-31T04:27:25Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-31T12:26:01.138414Z",
+      "updatedAt": "2026-10-31T12:26:01.138414Z"
+    },
+    {
+      "id": "rss-1f419414a2c31da6b6df8cbf",
+      "title": "困境、支付和节奏压力:VC背后的投资者打开了",
+      "originalTitle": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "summary": "钱背后的钱是兴奋的, 大部分。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-31T04:16:50Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-31T12:26:01.138414Z",
+      "updatedAt": "2026-10-31T12:26:01.138414Z"
+    },
+    {
+      "id": "rss-fbb56d50cc0ff55606d1bf96",
+      "title": "拯救加拿大城镇的战斗 受到特朗普的关税威胁",
+      "originalTitle": "The fight to save Canadian town threatened by Trump's tariffs",
+      "summary": "美国对其产品征收了50%的关税,使数百人失业,此后魁北克省提米斯卡明的一个百年之久的造纸厂被无限期关闭。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-10-31T02:39:25Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-31T12:26:01.138414Z",
+      "updatedAt": "2026-10-31T12:26:01.138414Z"
+    },
+    {
+      "id": "rss-664d96dd18c9183d0237832e",
+      "title": "Albanese寻找世界舞台的重置,",
+      "originalTitle": "Albanese looks for reset on world stage as ‘spot fires burn’ domestically and likely interest rate hike looms",
+      "summary": "分析家们指出,在安东尼·阿尔巴内斯(Anthony Albanese)的国内和经济灾难中,与世界舞台上其他领导人的联系可能是一个断路器。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-31T02:24:10Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/31/albanese-reset-world-stage-economic-spot-fires-rba-interest-rate-decision"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-31T12:26:01.138414Z",
+      "updatedAt": "2026-10-31T12:26:01.138414Z"
+    },
+    {
+      "id": "rss-70715445a9d34eff2a0c251d",
+      "title": "乌克兰的Zelenskyy赞美美国超过2.1bn爱国者导弹交易,但警告说可能要花好几年时间。",
+      "originalTitle": "Ukraine’s Zelenskyy praises US over $2.1bn Patriot missile deal but warns it could take years",
+      "summary": "乌克兰总统认为美国的决定很有力,但又说,500枚爱国者PAC-3型导弹的运送可能需要数年。 美国已经批准向乌克兰出售500枚爱国者PAC-3型导弹,估计价值2.1美元,但沃洛季米尔·泽伦斯基警告说,运送可能需要数年时间,现在需要库存来对付俄罗斯的弹道导弹袭击。 “拟议的销售将改善乌克拉。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-31T02:18:17Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/31/ukraines-zelenskyy-praises-us-over-21bn-patriot-missile-deal-but-warns-it-could-take-years"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-31T12:26:01.138414Z",
+      "updatedAt": "2026-10-31T12:26:01.138414Z"
+    },
+    {
+      "id": "rss-d13e42607d018e9c885a98f0",
+      "title": "为什么朝鲜的\"精英\"黑客 是主要宾恩斯黑客的主要嫌疑人",
+      "originalTitle": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "summary": "如果指控属实,记录盗窃案显示,怀疑的朝鲜黑客已变得多么强大。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-31T02:12:19Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-31T12:26:01.138414Z",
+      "updatedAt": "2026-10-31T12:26:01.138414Z"
+    },
+    {
+      "id": "rss-b0b7c3efd75243fd6b1e49e6",
+      "title": "全球性质谈判达成了协议,但资金仍然是一个问题",
+      "originalTitle": "Global nature talks reach deal but money remains an issue",
+      "summary": "各国一直在努力达成一项全球协议,以阻止自然退化。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-31T01:27:05Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-31T12:26:01.138414Z",
+      "updatedAt": "2026-10-31T12:26:01.138414Z"
+    },
+    {
+      "id": "rss-420fd151ca6ffeb42af8bb4d",
+      "title": "Nvidia在西弗吉尼亚州Nscale的AI数据中心扮演共同签名人",
+      "originalTitle": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "summary": "当投资者对人工智能支出感到紧张时,让售出芯片的芯片制造商共同签署贷款。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-10-31T01:20:05Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-31T12:26:01.138414Z",
+      "updatedAt": "2026-10-31T12:26:01.138414Z"
+    },
+    {
+      "id": "rss-b3293af492d639bf23c58a75",
+      "title": "美国在澳大利亚、英国及其他国家拒绝在俄罗斯出现后取消G20“家庭照片”",
+      "originalTitle": "US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia",
+      "summary": "马科·鲁比奥在大约三分之一的国家威胁抵制后,在外交部长会议上发表传统照片。 在包括澳大利亚和联合王国在内的许多国家拒绝在俄罗斯外交部长谢尔盖·拉夫罗夫身边出现后,20国集团外长会议在美国突然取消了传统的 \" 家庭照片 \" 。 美国国务卿拉夫罗夫(Sergei Lavrov),M先生。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-31T00:29:28Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-31T12:26:01.138414Z",
+      "updatedAt": "2026-10-31T12:26:01.138414Z"
+    },
+    {
+      "id": "rss-4846aabaff860d65c10e432f",
+      "title": "俄罗斯占领的奥列什基的停火进展如何?",
+      "originalTitle": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
+      "summary": "乌克兰记者Dan Johnson解释在被摧毁的奥列什基镇的临时停火。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-10-30T23:19:17Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-10-31T12:26:01.138414Z",
+      "updatedAt": "2026-10-31T12:26:01.138414Z"
     }
   ],
   "history": [
@@ -67357,9 +67965,688 @@
         "firstSeen": "2026-10-31T00:27:47.554065Z",
         "updatedAt": "2026-10-31T00:27:47.554065Z"
       }
+    },
+    {
+      "eventId": "rss-b9e718a99c9ff57744e16943",
+      "at": "2026-10-31T12:26:01.138414Z",
+      "data": {
+        "id": "rss-b9e718a99c9ff57744e16943",
+        "title": "法国和德国为动乱准备了数以百计的示威计划 — — 欧洲现场直播",
+        "originalTitle": "France and Germany braced for unrest with hundreds of demonstrations planned – Europe live",
+        "summary": "法国内政部长劳伦特·努涅斯在本周早些时候警告说,“公共秩序混乱的风险非常高 ” 。 这是法国周围最近的一些图像:在巴黎,工会和吉列斯·雅奈斯计划通过市中心举行的两场游行被禁止。 相反,警方授权在远东地区举行一场游行。 组织者对排除这些游行的决定提出了上诉。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-31T12:09:22Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-31T12:26:01.138414Z",
+        "updatedAt": "2026-10-31T12:26:01.138414Z"
+      }
+    },
+    {
+      "eventId": "rss-deefa82a83a2bcadfaf0b14c",
+      "at": "2026-10-31T12:26:01.138414Z",
+      "data": {
+        "id": "rss-deefa82a83a2bcadfaf0b14c",
+        "title": "居民在前往乌克兰的路上吃杂草",
+        "originalTitle": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
+        "summary": "美国第一夫人梅拉尼亚·特朗普促成停火后,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-31T12:05:04Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-31T12:26:01.138414Z",
+        "updatedAt": "2026-10-31T12:26:01.138414Z"
+      }
+    },
+    {
+      "eventId": "rss-e10069f8e2c7b8d4cf076732",
+      "at": "2026-10-31T12:26:01.138414Z",
+      "data": {
+        "id": "rss-e10069f8e2c7b8d4cf076732",
+        "title": "闭路电视、拉链和选举观察者:如何确保和计算美国的邮件投票",
+        "originalTitle": "CCTV, zip ties and election watchers: How US mail-in votes are secured and counted",
+        "summary": "BBC 校验会前往选举中心, 以了解美国中期选举的邮寄选票是如何处理的。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-31T09:16:14Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-31T12:26:01.138414Z",
+        "updatedAt": "2026-10-31T12:26:01.138414Z"
+      }
+    },
+    {
+      "eventId": "rss-9cc3fe81ae67b6588b3f1320",
+      "at": "2026-10-31T12:26:01.138414Z",
+      "data": {
+        "id": "rss-9cc3fe81ae67b6588b3f1320",
+        "title": "\" 最后一个堡垒 \" :历史悠久的雅典咖啡馆因反文化区而关闭",
+        "originalTitle": "‘The last fortress’: historic Athens cafe closes as countercultural area gentrifies",
+        "summary": "Mouria咖啡馆无法续租以左翼团结、抵抗和激进主义闻名的Exarchia。 作家、艺术家、诗人和政治家、医生和律师、激进分子和革命分子的宿醉已经持续了44年,穆里亚的业主Christos Vanas让他们都进来了。 每天早上7点,默默式前服务员都是默默式服务员。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-31T08:00:37Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/31/mouria-historic-athens-cafe-closes-exarchia-gentrifies"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-31T12:26:01.138414Z",
+        "updatedAt": "2026-10-31T12:26:01.138414Z"
+      }
+    },
+    {
+      "eventId": "rss-0f49b80eb2e97fd6df0ba3c4",
+      "at": "2026-10-31T12:26:01.138414Z",
+      "data": {
+        "id": "rss-0f49b80eb2e97fd6df0ba3c4",
+        "title": "向墨尔本、堪培拉、悉尼和布里斯班发出风暴警告,",
+        "originalTitle": "Storm warnings for Melbourne, Canberra, Sydney and Brisbane as cold front ‘packs a punch’",
+        "summary": "澳洲东部和东南部多个首都城市的暴风雨警报已经到位,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-31T06:05:20Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/31/weather-bom-storm-warnings-melbourne-canberra-sydney-brisbane"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-31T12:26:01.138414Z",
+        "updatedAt": "2026-10-31T12:26:01.138414Z"
+      }
+    },
+    {
+      "eventId": "rss-0783a78dc33abe0d4e991a1b",
+      "at": "2026-10-31T12:26:01.138414Z",
+      "data": {
+        "id": "rss-0783a78dc33abe0d4e991a1b",
+        "title": "西班牙培训灾难云 Sánchez 重新当选的机会",
+        "originalTitle": "Spain train disaster clouds Sánchez chances of re-election",
+        "summary": "西班牙总理在紧接着的大选前几周, 遭遇一系列危机。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-31T05:44:21Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-31T12:26:01.138414Z",
+        "updatedAt": "2026-10-31T12:26:01.138414Z"
+      }
+    },
+    {
+      "eventId": "rss-7543aa46de76411739904701",
+      "at": "2026-10-31T12:26:01.138414Z",
+      "data": {
+        "id": "rss-7543aa46de76411739904701",
+        "title": "波兰宪法法院在法官停职后部署的暴动警察",
+        "originalTitle": "Riot police deployed to Poland’s constitutional court after judge suspended",
+        "summary": "总统卡罗尔·纳乌罗基在法院合法性问题上的长期斗争中,目睹了争取进入华沙法院大楼的挣扎。 周五晚上,暴动警察与波兰宪法法院外的抗议者陷入紧张的对峙状态,因为其高级法官在长达十年的法院法律地位争端中被中止。 冲突发生后发生了争议 d 。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-31T04:27:25Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-31T12:26:01.138414Z",
+        "updatedAt": "2026-10-31T12:26:01.138414Z"
+      }
+    },
+    {
+      "eventId": "rss-1f419414a2c31da6b6df8cbf",
+      "at": "2026-10-31T12:26:01.138414Z",
+      "data": {
+        "id": "rss-1f419414a2c31da6b6df8cbf",
+        "title": "困境、支付和节奏压力:VC背后的投资者打开了",
+        "originalTitle": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+        "summary": "钱背后的钱是兴奋的, 大部分。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-31T04:16:50Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-31T12:26:01.138414Z",
+        "updatedAt": "2026-10-31T12:26:01.138414Z"
+      }
+    },
+    {
+      "eventId": "rss-fbb56d50cc0ff55606d1bf96",
+      "at": "2026-10-31T12:26:01.138414Z",
+      "data": {
+        "id": "rss-fbb56d50cc0ff55606d1bf96",
+        "title": "拯救加拿大城镇的战斗 受到特朗普的关税威胁",
+        "originalTitle": "The fight to save Canadian town threatened by Trump's tariffs",
+        "summary": "美国对其产品征收了50%的关税,使数百人失业,此后魁北克省提米斯卡明的一个百年之久的造纸厂被无限期关闭。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-10-31T02:39:25Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-31T12:26:01.138414Z",
+        "updatedAt": "2026-10-31T12:26:01.138414Z"
+      }
+    },
+    {
+      "eventId": "rss-664d96dd18c9183d0237832e",
+      "at": "2026-10-31T12:26:01.138414Z",
+      "data": {
+        "id": "rss-664d96dd18c9183d0237832e",
+        "title": "Albanese寻找世界舞台的重置,",
+        "originalTitle": "Albanese looks for reset on world stage as ‘spot fires burn’ domestically and likely interest rate hike looms",
+        "summary": "分析家们指出,在安东尼·阿尔巴内斯(Anthony Albanese)的国内和经济灾难中,与世界舞台上其他领导人的联系可能是一个断路器。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-31T02:24:10Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/oct/31/albanese-reset-world-stage-economic-spot-fires-rba-interest-rate-decision"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-31T12:26:01.138414Z",
+        "updatedAt": "2026-10-31T12:26:01.138414Z"
+      }
+    },
+    {
+      "eventId": "rss-70715445a9d34eff2a0c251d",
+      "at": "2026-10-31T12:26:01.138414Z",
+      "data": {
+        "id": "rss-70715445a9d34eff2a0c251d",
+        "title": "乌克兰的Zelenskyy赞美美国超过2.1bn爱国者导弹交易,但警告说可能要花好几年时间。",
+        "originalTitle": "Ukraine’s Zelenskyy praises US over $2.1bn Patriot missile deal but warns it could take years",
+        "summary": "乌克兰总统认为美国的决定很有力,但又说,500枚爱国者PAC-3型导弹的运送可能需要数年。 美国已经批准向乌克兰出售500枚爱国者PAC-3型导弹,估计价值2.1美元,但沃洛季米尔·泽伦斯基警告说,运送可能需要数年时间,现在需要库存来对付俄罗斯的弹道导弹袭击。 “拟议的销售将改善乌克拉。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-31T02:18:17Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/31/ukraines-zelenskyy-praises-us-over-21bn-patriot-missile-deal-but-warns-it-could-take-years"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-31T12:26:01.138414Z",
+        "updatedAt": "2026-10-31T12:26:01.138414Z"
+      }
+    },
+    {
+      "eventId": "rss-d13e42607d018e9c885a98f0",
+      "at": "2026-10-31T12:26:01.138414Z",
+      "data": {
+        "id": "rss-d13e42607d018e9c885a98f0",
+        "title": "为什么朝鲜的\"精英\"黑客 是主要宾恩斯黑客的主要嫌疑人",
+        "originalTitle": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+        "summary": "如果指控属实,记录盗窃案显示,怀疑的朝鲜黑客已变得多么强大。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-31T02:12:19Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-31T12:26:01.138414Z",
+        "updatedAt": "2026-10-31T12:26:01.138414Z"
+      }
+    },
+    {
+      "eventId": "rss-b0b7c3efd75243fd6b1e49e6",
+      "at": "2026-10-31T12:26:01.138414Z",
+      "data": {
+        "id": "rss-b0b7c3efd75243fd6b1e49e6",
+        "title": "全球性质谈判达成了协议,但资金仍然是一个问题",
+        "originalTitle": "Global nature talks reach deal but money remains an issue",
+        "summary": "各国一直在努力达成一项全球协议,以阻止自然退化。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-31T01:27:05Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-31T12:26:01.138414Z",
+        "updatedAt": "2026-10-31T12:26:01.138414Z"
+      }
+    },
+    {
+      "eventId": "rss-420fd151ca6ffeb42af8bb4d",
+      "at": "2026-10-31T12:26:01.138414Z",
+      "data": {
+        "id": "rss-420fd151ca6ffeb42af8bb4d",
+        "title": "Nvidia在西弗吉尼亚州Nscale的AI数据中心扮演共同签名人",
+        "originalTitle": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+        "summary": "当投资者对人工智能支出感到紧张时,让售出芯片的芯片制造商共同签署贷款。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-10-31T01:20:05Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-31T12:26:01.138414Z",
+        "updatedAt": "2026-10-31T12:26:01.138414Z"
+      }
+    },
+    {
+      "eventId": "rss-b3293af492d639bf23c58a75",
+      "at": "2026-10-31T12:26:01.138414Z",
+      "data": {
+        "id": "rss-b3293af492d639bf23c58a75",
+        "title": "美国在澳大利亚、英国及其他国家拒绝在俄罗斯出现后取消G20“家庭照片”",
+        "originalTitle": "US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia",
+        "summary": "马科·鲁比奥在大约三分之一的国家威胁抵制后,在外交部长会议上发表传统照片。 在包括澳大利亚和联合王国在内的许多国家拒绝在俄罗斯外交部长谢尔盖·拉夫罗夫身边出现后,20国集团外长会议在美国突然取消了传统的 \" 家庭照片 \" 。 美国国务卿拉夫罗夫(Sergei Lavrov),M先生。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-31T00:29:28Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-31T12:26:01.138414Z",
+        "updatedAt": "2026-10-31T12:26:01.138414Z"
+      }
+    },
+    {
+      "eventId": "rss-4846aabaff860d65c10e432f",
+      "at": "2026-10-31T12:26:01.138414Z",
+      "data": {
+        "id": "rss-4846aabaff860d65c10e432f",
+        "title": "俄罗斯占领的奥列什基的停火进展如何?",
+        "originalTitle": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
+        "summary": "乌克兰记者Dan Johnson解释在被摧毁的奥列什基镇的临时停火。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-10-30T23:19:17Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-10-31T12:26:01.138414Z",
+        "updatedAt": "2026-10-31T12:26:01.138414Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-10-31T12:26:01.138414Z",
+      "at": "2026-10-31T12:26:01.138414Z",
+      "kind": "GitHub Actions 采集",
+      "count": 16,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 7}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 0}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 7}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 2}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-10-31T00:27:47.554065Z",
       "at": "2026-10-31T00:27:47.554065Z",
