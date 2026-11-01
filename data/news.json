@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-01T00:25:45.938755Z",
+  "updatedAt": "2026-11-01T12:28:09.140209Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -33548,6 +33548,538 @@
       "tokens": [],
       "firstSeen": "2026-11-01T00:25:45.938755Z",
       "updatedAt": "2026-11-01T00:25:45.938755Z"
+    },
+    {
+      "id": "rss-f063ceae6ff751ba9d7c0016",
+      "title": "中美贸易战争似乎已经平息 — — 但平静感是误导性的。",
+      "originalTitle": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+      "summary": "休战平息了贸易冲突,但两国都没有采取任何措施限制新敌对行动的爆发。 唐纳德·特朗普的贸易战争在很大程度上已经从新闻头条上掉下来。 当美国总统脱轨时,对新关税的恐惧不时爆发 — — 比如,除非美联储削减利息,否则威胁结束美国与有赤字的国家的贸易。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-01T12:00:12Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-01T12:28:09.140209Z",
+      "updatedAt": "2026-11-01T12:28:09.140209Z"
+    },
+    {
+      "id": "rss-f845da07825410f4870fccb8",
+      "title": "随着德国人的生活费用暴涨 商店被抢",
+      "originalTitle": "Shops looted as German cost of living protests turn violent",
+      "summary": "包括柏林、汉堡和法兰克福等德国各地城市的抗议活动,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-01T11:57:48Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-01T12:28:09.140209Z",
+      "updatedAt": "2026-11-01T12:28:09.140209Z"
+    },
+    {
+      "id": "rss-427c6ed04695a1c010b3dcb8",
+      "title": "Binance在创纪录6.3bn黑客之后恢复客户提款",
+      "originalTitle": "Binance resumes customer withdrawals after record $6.3bn hack",
+      "summary": "加密货币交易所说,90%的损失被作为联邦调查局的罪魁祸首,朝鲜国家赞助的集团TraderTraitor Crypto货币交易所Binance开始允许其客户从平台上提取资金,因为它从创纪录的6.3bn(4.7bn英镑)黑客中恢复过来。 星期四的这次交易被偷盗击中,被描述为历史上最大的抢劫事件,专家i（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-01T11:54:23Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-01T12:28:09.140209Z",
+      "updatedAt": "2026-11-01T12:28:09.140209Z"
+    },
+    {
+      "id": "rss-898ebefc184c871802a33fda",
+      "title": "Rachel Reeves说,英国的未来在欧盟,因为她在布雷西特支持Andy Burnham。",
+      "originalTitle": "Rachel Reeves says UK’s future is in EU as she backs Andy Burnham on Brexit",
+      "summary": "前总理说离开欧盟让英国`更穷、更弱、更不安全 ' 。 前任总理雷切尔·里夫斯认为英国的未来应该回到欧盟,他说布雷希特让英国“更穷、更弱、更不安全 ” 。 在安迪·伯纳姆上任后离开财政部以来的第一次重大干预中,她说了那些试图回到欧盟的人。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-01T09:55:20Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-01T12:28:09.140209Z",
+      "updatedAt": "2026-11-01T12:28:09.140209Z"
+    },
+    {
+      "id": "rss-f506d8785e5238df8dc345c9",
+      "title": "在计划结束后的几个星期内,寻求庇护者仍被 \" 一一一地 \" 送往法国",
+      "originalTitle": "Asylum seekers still being sent to France under ‘one in one out’ weeks after scheme ended",
+      "summary": "保护者知道,内政部继续拘留数十人,本周有一群人被强行驱逐。 在有争议的驱逐计划结束几周后,内政部仍然将寻求庇护者送上飞往法国的飞机。 法国总统埃马纽埃尔·马隆和前总理基尔·斯塔默(Keir Starmer)宣布了“一进一出”计划。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-01T09:00:07Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/01/asylum-seekers-still-being-sent-to-france-under-one-in-one-out-weeks-after-scheme-ended"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-01T12:28:09.140209Z",
+      "updatedAt": "2026-11-01T12:28:09.140209Z"
+    },
+    {
+      "id": "rss-13618f579f32ea6fb361f9b7",
+      "title": "英国儿童之家处于危机之中。 丹麦是否持有答案?",
+      "originalTitle": "English children’s homes are in crisis. Does Denmark hold the answers?",
+      "summary": "英国儿童部长Josh MacAlister前往哥本哈根,看看丹麦制度能学到什么。 在哥本哈根郊外的一个宁静的郊区,有一座大白屋停在一条紫叶梅树后面的路上。 它看起来像街道上的其他建筑,而且没有什么外表,这就是Josephine Schneider的房子,被认为是最好的房子之一。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-01T08:00:05Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/society/2026/nov/01/english-childrens-homes-crisis-denmark-care-system-model"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-01T12:28:09.140209Z",
+      "updatedAt": "2026-11-01T12:28:09.140209Z"
+    },
+    {
+      "id": "rss-7fb3d4ee97552534c1da6e23",
+      "title": "Jacinda Ardern在悉尼歌剧院演讲建议政治家“通过建立金融安全来重建信任”。",
+      "originalTitle": "Jacinda Ardern in Sydney Opera House talk advises politicians to ‘rebuild trust by building financial security’",
+      "summary": "前新西兰总理已搬到澳大利亚,并在悉尼大学演讲,从城市著名里程碑Jacinda Ardern(现称Sydney家)的舞台上,从该市歌剧院的舞台上向澳大利亚政治家传递了信息。 前新西兰总理在星期天转学时告诉观众,政治家们正在加剧问题的严重性。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-01T06:53:22Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/01/jacinda-ardern-sydney-opera-house-talk-advises-politicians-to-rebuild-trust"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-01T12:28:09.140209Z",
+      "updatedAt": "2026-11-01T12:28:09.140209Z"
+    },
+    {
+      "id": "rss-c71dce269c2d8a0108f30392",
+      "title": "民主党人习惯在德克萨斯州心碎... 塔拉里科能扭转潮流吗?",
+      "originalTitle": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+      "summary": "美国参议院五亿元的竞选 可能是美国期中最受关注的 远远超出国会的控制范围（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-01T06:03:57Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-01T12:28:09.140209Z",
+      "updatedAt": "2026-11-01T12:28:09.140209Z"
+    },
+    {
+      "id": "rss-dee8666c86012a0c6541299f",
+      "title": "看着:海迪. 克伦像万圣节狂欢一样被割断的手",
+      "originalTitle": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+      "summary": "超级模特儿和电视主持人对她的纽约活动产生了新的震撼。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-01T05:26:02Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-01T12:28:09.140209Z",
+      "updatedAt": "2026-11-01T12:28:09.140209Z"
+    },
+    {
+      "id": "rss-1cf8f670adac64720d77dac1",
+      "title": "数据中心现在是中期问题 即使在布鲁克林",
+      "originalTitle": "Data centers are now a midterm issue, even in Brooklyn",
+      "summary": "在选举日前五天的布鲁克林中期党中, 每次谈话, 从一名理事会成员的消防队谈话到一场关于民主党的辩论, 都一直绕回AI和数据中心。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-01T02:22:10Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-01T12:28:09.140209Z",
+      "updatedAt": "2026-11-01T12:28:09.140209Z"
+    },
+    {
+      "id": "rss-de7377484e8d562198bd25e8",
+      "title": "这些你从未听说过的公司 给人带来恐惧 人工智能泡沫可能破灭",
+      "originalTitle": "These firms you've never heard of are feeding fears the AI bubble could burst",
+      "summary": "数据中心持有的债务额按数百亿英镑计算。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-01T01:37:26Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-01T12:28:09.140209Z",
+      "updatedAt": "2026-11-01T12:28:09.140209Z"
+    },
+    {
+      "id": "rss-fea61251420c3db959978118",
+      "title": "塞尔维亚武契的倒塌如何与匈牙利欧班的倒塌相仿?",
+      "originalTitle": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "summary": "在上周末的投票中, 塞尔维亚的Aleksandar Vuči是Viktor Orbán在匈牙利倒台的碳拷贝。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-01T00:55:06Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-01T12:28:09.140209Z",
+      "updatedAt": "2026-11-01T12:28:09.140209Z"
+    },
+    {
+      "id": "rss-e5976f38079c1f10eb3e2184",
+      "title": "法官驳回特朗普对《华尔街日报》 有关爱普斯坦生日书的诉讼",
+      "originalTitle": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+      "summary": "Trump在发表一封写给Epstein的信后起诉媒体,（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-01T00:41:24Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-01T12:28:09.140209Z",
+      "updatedAt": "2026-11-01T12:28:09.140209Z"
+    },
+    {
+      "id": "rss-9ff61a3915cfa949f7880a84",
+      "title": "法官命令特朗普政府停止威胁美国选举官员",
+      "originalTitle": "Judge orders Trump administration to stop threatening US election officials",
+      "summary": "这项命令是在选举官员收到要求他们搁置可能的非公民选民选票的信函之后下达的。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-01T00:27:33Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-01T12:28:09.140209Z",
+      "updatedAt": "2026-11-01T12:28:09.140209Z"
     }
   ],
   "history": [
@@ -70637,9 +71169,604 @@
         "firstSeen": "2026-11-01T00:25:45.938755Z",
         "updatedAt": "2026-11-01T00:25:45.938755Z"
       }
+    },
+    {
+      "eventId": "rss-f063ceae6ff751ba9d7c0016",
+      "at": "2026-11-01T12:28:09.140209Z",
+      "data": {
+        "id": "rss-f063ceae6ff751ba9d7c0016",
+        "title": "中美贸易战争似乎已经平息 — — 但平静感是误导性的。",
+        "originalTitle": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+        "summary": "休战平息了贸易冲突,但两国都没有采取任何措施限制新敌对行动的爆发。 唐纳德·特朗普的贸易战争在很大程度上已经从新闻头条上掉下来。 当美国总统脱轨时,对新关税的恐惧不时爆发 — — 比如,除非美联储削减利息,否则威胁结束美国与有赤字的国家的贸易。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-01T12:00:12Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-01T12:28:09.140209Z",
+        "updatedAt": "2026-11-01T12:28:09.140209Z"
+      }
+    },
+    {
+      "eventId": "rss-f845da07825410f4870fccb8",
+      "at": "2026-11-01T12:28:09.140209Z",
+      "data": {
+        "id": "rss-f845da07825410f4870fccb8",
+        "title": "随着德国人的生活费用暴涨 商店被抢",
+        "originalTitle": "Shops looted as German cost of living protests turn violent",
+        "summary": "包括柏林、汉堡和法兰克福等德国各地城市的抗议活动,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-01T11:57:48Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-01T12:28:09.140209Z",
+        "updatedAt": "2026-11-01T12:28:09.140209Z"
+      }
+    },
+    {
+      "eventId": "rss-427c6ed04695a1c010b3dcb8",
+      "at": "2026-11-01T12:28:09.140209Z",
+      "data": {
+        "id": "rss-427c6ed04695a1c010b3dcb8",
+        "title": "Binance在创纪录6.3bn黑客之后恢复客户提款",
+        "originalTitle": "Binance resumes customer withdrawals after record $6.3bn hack",
+        "summary": "加密货币交易所说,90%的损失被作为联邦调查局的罪魁祸首,朝鲜国家赞助的集团TraderTraitor Crypto货币交易所Binance开始允许其客户从平台上提取资金,因为它从创纪录的6.3bn(4.7bn英镑)黑客中恢复过来。 星期四的这次交易被偷盗击中,被描述为历史上最大的抢劫事件,专家i（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-01T11:54:23Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-01T12:28:09.140209Z",
+        "updatedAt": "2026-11-01T12:28:09.140209Z"
+      }
+    },
+    {
+      "eventId": "rss-898ebefc184c871802a33fda",
+      "at": "2026-11-01T12:28:09.140209Z",
+      "data": {
+        "id": "rss-898ebefc184c871802a33fda",
+        "title": "Rachel Reeves说,英国的未来在欧盟,因为她在布雷西特支持Andy Burnham。",
+        "originalTitle": "Rachel Reeves says UK’s future is in EU as she backs Andy Burnham on Brexit",
+        "summary": "前总理说离开欧盟让英国`更穷、更弱、更不安全 ' 。 前任总理雷切尔·里夫斯认为英国的未来应该回到欧盟,他说布雷希特让英国“更穷、更弱、更不安全 ” 。 在安迪·伯纳姆上任后离开财政部以来的第一次重大干预中,她说了那些试图回到欧盟的人。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-01T09:55:20Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-01T12:28:09.140209Z",
+        "updatedAt": "2026-11-01T12:28:09.140209Z"
+      }
+    },
+    {
+      "eventId": "rss-f506d8785e5238df8dc345c9",
+      "at": "2026-11-01T12:28:09.140209Z",
+      "data": {
+        "id": "rss-f506d8785e5238df8dc345c9",
+        "title": "在计划结束后的几个星期内,寻求庇护者仍被 \" 一一一地 \" 送往法国",
+        "originalTitle": "Asylum seekers still being sent to France under ‘one in one out’ weeks after scheme ended",
+        "summary": "保护者知道,内政部继续拘留数十人,本周有一群人被强行驱逐。 在有争议的驱逐计划结束几周后,内政部仍然将寻求庇护者送上飞往法国的飞机。 法国总统埃马纽埃尔·马隆和前总理基尔·斯塔默(Keir Starmer)宣布了“一进一出”计划。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-01T09:00:07Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/uk-news/2026/nov/01/asylum-seekers-still-being-sent-to-france-under-one-in-one-out-weeks-after-scheme-ended"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-01T12:28:09.140209Z",
+        "updatedAt": "2026-11-01T12:28:09.140209Z"
+      }
+    },
+    {
+      "eventId": "rss-13618f579f32ea6fb361f9b7",
+      "at": "2026-11-01T12:28:09.140209Z",
+      "data": {
+        "id": "rss-13618f579f32ea6fb361f9b7",
+        "title": "英国儿童之家处于危机之中。 丹麦是否持有答案?",
+        "originalTitle": "English children’s homes are in crisis. Does Denmark hold the answers?",
+        "summary": "英国儿童部长Josh MacAlister前往哥本哈根,看看丹麦制度能学到什么。 在哥本哈根郊外的一个宁静的郊区,有一座大白屋停在一条紫叶梅树后面的路上。 它看起来像街道上的其他建筑,而且没有什么外表,这就是Josephine Schneider的房子,被认为是最好的房子之一。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-01T08:00:05Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/society/2026/nov/01/english-childrens-homes-crisis-denmark-care-system-model"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-01T12:28:09.140209Z",
+        "updatedAt": "2026-11-01T12:28:09.140209Z"
+      }
+    },
+    {
+      "eventId": "rss-7fb3d4ee97552534c1da6e23",
+      "at": "2026-11-01T12:28:09.140209Z",
+      "data": {
+        "id": "rss-7fb3d4ee97552534c1da6e23",
+        "title": "Jacinda Ardern在悉尼歌剧院演讲建议政治家“通过建立金融安全来重建信任”。",
+        "originalTitle": "Jacinda Ardern in Sydney Opera House talk advises politicians to ‘rebuild trust by building financial security’",
+        "summary": "前新西兰总理已搬到澳大利亚,并在悉尼大学演讲,从城市著名里程碑Jacinda Ardern(现称Sydney家)的舞台上,从该市歌剧院的舞台上向澳大利亚政治家传递了信息。 前新西兰总理在星期天转学时告诉观众,政治家们正在加剧问题的严重性。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-01T06:53:22Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/01/jacinda-ardern-sydney-opera-house-talk-advises-politicians-to-rebuild-trust"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-01T12:28:09.140209Z",
+        "updatedAt": "2026-11-01T12:28:09.140209Z"
+      }
+    },
+    {
+      "eventId": "rss-c71dce269c2d8a0108f30392",
+      "at": "2026-11-01T12:28:09.140209Z",
+      "data": {
+        "id": "rss-c71dce269c2d8a0108f30392",
+        "title": "民主党人习惯在德克萨斯州心碎... 塔拉里科能扭转潮流吗?",
+        "originalTitle": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+        "summary": "美国参议院五亿元的竞选 可能是美国期中最受关注的 远远超出国会的控制范围（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-01T06:03:57Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-01T12:28:09.140209Z",
+        "updatedAt": "2026-11-01T12:28:09.140209Z"
+      }
+    },
+    {
+      "eventId": "rss-dee8666c86012a0c6541299f",
+      "at": "2026-11-01T12:28:09.140209Z",
+      "data": {
+        "id": "rss-dee8666c86012a0c6541299f",
+        "title": "看着:海迪. 克伦像万圣节狂欢一样被割断的手",
+        "originalTitle": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+        "summary": "超级模特儿和电视主持人对她的纽约活动产生了新的震撼。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-01T05:26:02Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-01T12:28:09.140209Z",
+        "updatedAt": "2026-11-01T12:28:09.140209Z"
+      }
+    },
+    {
+      "eventId": "rss-1cf8f670adac64720d77dac1",
+      "at": "2026-11-01T12:28:09.140209Z",
+      "data": {
+        "id": "rss-1cf8f670adac64720d77dac1",
+        "title": "数据中心现在是中期问题 即使在布鲁克林",
+        "originalTitle": "Data centers are now a midterm issue, even in Brooklyn",
+        "summary": "在选举日前五天的布鲁克林中期党中, 每次谈话, 从一名理事会成员的消防队谈话到一场关于民主党的辩论, 都一直绕回AI和数据中心。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-01T02:22:10Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-01T12:28:09.140209Z",
+        "updatedAt": "2026-11-01T12:28:09.140209Z"
+      }
+    },
+    {
+      "eventId": "rss-de7377484e8d562198bd25e8",
+      "at": "2026-11-01T12:28:09.140209Z",
+      "data": {
+        "id": "rss-de7377484e8d562198bd25e8",
+        "title": "这些你从未听说过的公司 给人带来恐惧 人工智能泡沫可能破灭",
+        "originalTitle": "These firms you've never heard of are feeding fears the AI bubble could burst",
+        "summary": "数据中心持有的债务额按数百亿英镑计算。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-01T01:37:26Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-01T12:28:09.140209Z",
+        "updatedAt": "2026-11-01T12:28:09.140209Z"
+      }
+    },
+    {
+      "eventId": "rss-fea61251420c3db959978118",
+      "at": "2026-11-01T12:28:09.140209Z",
+      "data": {
+        "id": "rss-fea61251420c3db959978118",
+        "title": "塞尔维亚武契的倒塌如何与匈牙利欧班的倒塌相仿?",
+        "originalTitle": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+        "summary": "在上周末的投票中, 塞尔维亚的Aleksandar Vuči是Viktor Orbán在匈牙利倒台的碳拷贝。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-01T00:55:06Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-01T12:28:09.140209Z",
+        "updatedAt": "2026-11-01T12:28:09.140209Z"
+      }
+    },
+    {
+      "eventId": "rss-e5976f38079c1f10eb3e2184",
+      "at": "2026-11-01T12:28:09.140209Z",
+      "data": {
+        "id": "rss-e5976f38079c1f10eb3e2184",
+        "title": "法官驳回特朗普对《华尔街日报》 有关爱普斯坦生日书的诉讼",
+        "originalTitle": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+        "summary": "Trump在发表一封写给Epstein的信后起诉媒体,（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-01T00:41:24Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-01T12:28:09.140209Z",
+        "updatedAt": "2026-11-01T12:28:09.140209Z"
+      }
+    },
+    {
+      "eventId": "rss-9ff61a3915cfa949f7880a84",
+      "at": "2026-11-01T12:28:09.140209Z",
+      "data": {
+        "id": "rss-9ff61a3915cfa949f7880a84",
+        "title": "法官命令特朗普政府停止威胁美国选举官员",
+        "originalTitle": "Judge orders Trump administration to stop threatening US election officials",
+        "summary": "这项命令是在选举官员收到要求他们搁置可能的非公民选民选票的信函之后下达的。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-01T00:27:33Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-01T12:28:09.140209Z",
+        "updatedAt": "2026-11-01T12:28:09.140209Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-01T12:28:09.140209Z",
+      "at": "2026-11-01T12:28:09.140209Z",
+      "kind": "GitHub Actions 采集",
+      "count": 14,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 7}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 0}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 6}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 1}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-01T00:25:45.938755Z",
       "at": "2026-11-01T00:25:45.938755Z",
