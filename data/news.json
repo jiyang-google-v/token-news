@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-02T00:28:24.555597Z",
+  "updatedAt": "2026-11-02T12:44:19.642958Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -35030,6 +35030,880 @@
       "tokens": [],
       "firstSeen": "2026-11-02T00:28:24.555597Z",
       "updatedAt": "2026-11-02T00:28:24.555597Z"
+    },
+    {
+      "id": "rss-f2de8e72f98519e1197ee109",
+      "title": "Ryanair说,这可能冻结工人的工资,提高机票价格。",
+      "originalTitle": "Ryanair says it may freeze workers' pay and raise airfares",
+      "summary": "航空公司说,除非美以停止与伊朗的战争,否则燃料价格在2028年可能会上涨2bn欧元。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-02T12:22:10Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-02T12:44:19.642958Z",
+      "updatedAt": "2026-11-02T12:44:19.642958Z"
+    },
+    {
+      "id": "rss-8926691970afb98aa80d8fbd",
+      "title": "乌干达在20年后开始从索马里撤军",
+      "originalTitle": "Uganda begins withdrawing troops from Somalia after 20 years",
+      "summary": "该国是2007年为稳定索马里而设立的非盟特派团的第一个派遣部队的国家。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-02T12:05:34Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-02T12:44:19.642958Z",
+      "updatedAt": "2026-11-02T12:44:19.642958Z"
+    },
+    {
+      "id": "rss-fa03063f43c9d75e563224f7",
+      "title": "乌克兰和俄罗斯说紧急空袭警报系统遭到网络黑客袭击,",
+      "originalTitle": "Ukraine and Russia say emergency air-raid warning systems hit by cyber-hacks – Europe live",
+      "summary": "在乌克兰,这个应用程序开始在星期天深夜发出令人震惊的假消息。 俄罗斯恢复对南部城市赫森的攻击,就在停火结束几小时后,数百人从附近的克里姆林宫控制的小镇奥莱什基撤离。 赫森的军事行政当局说,俄罗斯的无人机袭击了一家医院。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-02T11:59:24Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-02T12:44:19.642958Z",
+      "updatedAt": "2026-11-02T12:44:19.642958Z"
+    },
+    {
+      "id": "rss-83f9b7f4ae34ad1fdebc8dd8",
+      "title": "比利时、瑞典和卢森堡的超级市场冷冻厂受到网络攻击嫌疑袭击",
+      "originalTitle": "Supermarket freezers in Belgium, Sweden and Luxembourg hit by suspected cyber-attack",
+      "summary": "瑞典的仓库说,其冰箱的温度提高到50C(122F)。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-02T11:56:32Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-02T12:44:19.642958Z",
+      "updatedAt": "2026-11-02T12:44:19.642958Z"
+    },
+    {
+      "id": "rss-4ef4d216a0d18803e9fd5933",
+      "title": "欧洲各地的超级市场冰柜 被第二起网络攻击嫌犯袭击",
+      "originalTitle": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+      "summary": "瑞典、比利时和卢森堡的连锁店说,冰箱温度一夜之间上升,这与瑞典、比利时和卢森堡的法国超市连锁店的黑客类似。 瑞典、比利时和卢森堡的超市连锁店说,他们的冰箱和冷藏柜的温度一夜之间上升,这引起了对网络攻击的恐惧,这种攻击类似于法国数百万欧元的粮食损失。 瑞典的库珀连锁店告诉了这一点。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-02T11:12:36Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-02T12:44:19.642958Z",
+      "updatedAt": "2026-11-02T12:44:19.642958Z"
+    },
+    {
+      "id": "rss-75e086cbf0e035a09f881cff",
+      "title": "黑客向乌克兰紧急程序发送假的核威胁警报",
+      "originalTitle": "Hackers send fake nuclear threat alert to Ukraine emergency app",
+      "summary": "基辅的居民也警告说化学袭击和街头对街的争斗是欧洲未知政党发出的虚假信息 — — 最新消息显示,不明黑客袭击了乌克兰全国范围的紧急警报移动应用程序,向基辅居民发出警告说他们面临即将发生核打击的风险。 应用程序报告,周日晚间可能发生核辐射。 程序还存在一些问题。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-02T11:11:28Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/02/hackers-fake-nuclear-chemical-threat-alert-kyiv-ukraine-emergency-app"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-02T12:44:19.642958Z",
+      "updatedAt": "2026-11-02T12:44:19.642958Z"
+    },
+    {
+      "id": "rss-7d71ef78516f0ee02ce3d7af",
+      "title": "欧洲可能会面临更寒冷的天气 极地旋涡会削弱",
+      "originalTitle": "Europe could face colder weather as polar vortex weakens",
+      "summary": "北半球平流层极地旋涡正面临异常的早期衰减前景。 预测模型表明,在未来10天中,它可能会大大削弱,而这一天通常会增强。 一次重大的平流层突然变暖事件是阿波(Po ) 。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-02T11:00:54Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/environment/2026/nov/02/polar-vortex-disruption-colder-weather-europe"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-02T12:44:19.642958Z",
+      "updatedAt": "2026-11-02T12:44:19.642958Z"
+    },
+    {
+      "id": "rss-b870932b8a7e85a401f3d8c8",
+      "title": "福特发布一个“隐私承诺”,并解释其使用客户数据的方式和原因",
+      "originalTitle": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
+      "summary": "福特说,它在对客户做出\"明确承诺\" 说\"他们的车辆数据是安全的\" 在公司。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-02T11:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-02T12:44:19.642958Z",
+      "updatedAt": "2026-11-02T12:44:19.642958Z"
+    },
+    {
+      "id": "rss-5d4ca73724edaa6aa18988bc",
+      "title": "南非农民开枪并施以酷刑后,5人被捕",
+      "originalTitle": "Five arrested after South African farmer shot and tortured",
+      "summary": "50岁的Donovan Marx遭到攻击, 右翼团体声称白人遭到种族灭绝,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-02T10:48:47Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-02T12:44:19.642958Z",
+      "updatedAt": "2026-11-02T12:44:19.642958Z"
+    },
+    {
+      "id": "rss-e3b756138fe24336cdf137a3",
+      "title": "佛罗里达街有九次小飞机坠毁身亡",
+      "originalTitle": "Nine killed as small jet crashes on Florida street",
+      "summary": "交通部长Sean Duffy将这次坠机事件描述为“可怕的悲剧”,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-02T09:10:19Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-02T12:44:19.642958Z",
+      "updatedAt": "2026-11-02T12:44:19.642958Z"
+    },
+    {
+      "id": "rss-823ef000f84ad5ea71a19eca",
+      "title": "Ryanair认为,冻结工资和减少乘飞机的机组人员是燃料费用飙升的结果",
+      "originalTitle": "Ryanair considers pay freezes and reducing crew on flights as fuel costs soar",
+      "summary": "航空公司在年度燃料账单2bn上涨的警告中,越来越多地使用AI作为削减成本措施的一部分。 商业现场直播 — — 最新消息显示,Ryanair正在考虑削减成本措施,包括冻结工资、减少航班机组人员人数以及增加AI的使用以抵消中东冲突所引发的飞涨的燃料成本。 欧洲最大的低成本运输公司说,它预期Eur公司会减少成本。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-02T09:06:51Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-02T12:44:19.642958Z",
+      "updatedAt": "2026-11-02T12:44:19.642958Z"
+    },
+    {
+      "id": "rss-9d25dae59b5cfa43050ea937",
+      "title": "广受欢迎的澳大利亚儿童提交人因剥削儿童罪入狱",
+      "originalTitle": "Popular Australian children's author jailed over child exploitation offences",
+      "summary": "5月,Jasper Jones和Runt的提交人在警察数月前搜查了他的家后认罪。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-02T08:03:39Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-02T12:44:19.642958Z",
+      "updatedAt": "2026-11-02T12:44:19.642958Z"
+    },
+    {
+      "id": "rss-7a9654b9b64f2ab8be196751",
+      "title": "获奖的澳大利亚儿童作家Craig Silvey因剥削儿童材料而被监禁",
+      "originalTitle": "Award‑winning Australian children’s author Craig Silvey jailed over child exploitation material",
+      "summary": "贾斯珀·琼斯(Jasper Jones)的作家发送了许多关于他对年轻男孩的性欲望的信息, 西澳大利亚州法院会听取警告:这篇文章包含一些图片内容。 Get our break news email, free app 或每日新闻播客。获奖的作者克雷格·西尔维(Craig Silvey)发送了许多关于他对年轻男孩的性欲望的信息,并被清晰的儿童和成人图像所捕捉。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-02T08:01:34Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/02/australian-author-craig-silvey-jailed-child-exploitation-material-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-02T12:44:19.642958Z",
+      "updatedAt": "2026-11-02T12:44:19.642958Z"
+    },
+    {
+      "id": "rss-b560fd0d84f7e22fae5c8275",
+      "title": "随着第五次利率上升的到来,预计经济将出现 \" 夏珀尔,更长期的减速 \" 。",
+      "originalTitle": "‘Sharper, longer slowdown’ predicted for economy as fifth interest rate hike looms",
+      "summary": "主要银行经济学家说,随着中东战争与房价暴跌相结合,澳洲央行预计会在星期二再次打击抵押贷款持有者。 主要银行经济学家说,正如储备银行被迫将利率维持在更高的水平,以摆脱持续的通胀压力一样,我们的突发新闻电子邮件、免费应用程序或每日新闻播客澳大利亚经济被设定为“挥霍、更长期的减速 ” 。（机器翻译；尚未完成正文核查。）",
+      "category": "商业 / 宏观",
+      "publishedAt": "2026-11-02T06:57:29Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/02/australia-economy-fifth-interest-rate-hike-looms"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-02T12:44:19.642958Z",
+      "updatedAt": "2026-11-02T12:44:19.642958Z"
+    },
+    {
+      "id": "rss-e3fa89265477feb96fda163c",
+      "title": "警方使用面部识别 扫描西澳大利亚州审判中的100万面孔 导致122人被捕",
+      "originalTitle": "Police use facial recognition to scan one million faces in WA trial leading to 122 arrests",
+      "summary": "超过100万人在西澳大利亚州一次实时面部识别技术试验中被扫描了脸部,导致122人被捕和9次错误警报。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-02T06:12:52Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/02/wa-police-facial-recognition-technology-trial"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-02T12:44:19.642958Z",
+      "updatedAt": "2026-11-02T12:44:19.642958Z"
+    },
+    {
+      "id": "rss-b93b2077c86eaeef2db21dd3",
+      "title": "Minns警告说,随着PM的压力增加,预期RBA的利率会上升,",
+      "originalTitle": "Minns warns expected RBA rate rise will see ‘shops close that don’t reopen’ as pressure mounts on PM",
+      "summary": "新南威尔士州总理克里斯·明斯(Chris Minns)警告预计利率会上升, 将迫使企业倒闭, 要求联邦政府和各州控制开支。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-02T06:08:33Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/02/minns-warns-rba-rate-rise-job-losses-economy"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-02T12:44:19.642958Z",
+      "updatedAt": "2026-11-02T12:44:19.642958Z"
+    },
+    {
+      "id": "rss-9e197db2782d3caa57eef2ed",
+      "title": "伊朗杀害了她十几岁的女儿,",
+      "originalTitle": "Iran killed her teenage daughter - now she is facing up to the regime",
+      "summary": "Samira的16岁女儿Sevda在1月参加群众抗议时被枪杀。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-02T06:00:54Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-02T12:44:19.642958Z",
+      "updatedAt": "2026-11-02T12:44:19.642958Z"
+    },
+    {
+      "id": "rss-743c9adc1c15650721744dc5",
+      "title": "借来的读物:来自我们广大同事的故事",
+      "originalTitle": "Borrowed reading: stories from our extended colleagues",
+      "summary": "五个故事值得你花时间 从我们的广博同事 在CIO,计算机世界,麦克世界和PCWorld。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-02T04:23:48Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-02T12:44:19.642958Z",
+      "updatedAt": "2026-11-02T12:44:19.642958Z"
+    },
+    {
+      "id": "rss-de730a61418268e7c23dba41",
+      "title": "`我也想打你一巴掌 ' :维多利亚法官因语言问题在法庭上受到谴责",
+      "originalTitle": "‘I want to slap you around a bit, too’: Victorian magistrate reprimanded over language in court",
+      "summary": "司法委员会对Vicky Prapas的一连串评论表示反对, 包括在校儿童在场时发表的评论。 一位地方法官告诉一名法庭使用者“我也想打你一巴掌”,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-02T04:05:01Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/02/victorian-magistrate-reprimanded-over-language-in-court-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-02T12:44:19.642958Z",
+      "updatedAt": "2026-11-02T12:44:19.642958Z"
+    },
+    {
+      "id": "rss-89fc8f48f3fc7507f62bb49e",
+      "title": "中国国家广播公司在Mbappé笑话后拉起La Liga的比赛",
+      "originalTitle": "China state broadcaster pulls La Liga matches following Mbappé joke",
+      "summary": "中国媒体集团承认Mbappé的道歉,但没有说明停电将持续多久。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-02T03:58:38Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-02T12:44:19.642958Z",
+      "updatedAt": "2026-11-02T12:44:19.642958Z"
+    },
+    {
+      "id": "rss-f7a1968f92cbddfa4c0f132e",
+      "title": "民主党对中期选举寄予厚望,",
+      "originalTitle": "Democrats have high hopes for midterms - but are the polls right?",
+      "summary": "民调预测民主党会激增, 但最后一刻的决策者和抽样问题 意味着没有保证。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-02T00:25:12Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-02T12:44:19.642958Z",
+      "updatedAt": "2026-11-02T12:44:19.642958Z"
+    },
+    {
+      "id": "rss-9e63bf21a4708cbbc0e1ebff",
+      "title": "法国在向警察投掷汽油炸弹后试图进行谋杀调查",
+      "originalTitle": "France launches attempted murder investigation after petrol bomb thrown at police",
+      "summary": "抗议者连续第三个周末在法国各城市走上街头,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-02T00:15:30Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-02T12:44:19.642958Z",
+      "updatedAt": "2026-11-02T12:44:19.642958Z"
+    },
+    {
+      "id": "rss-5e7a6f7995cde7459bbaed09",
+      "title": "北卡罗来纳州选民 衡量特朗普的生活成本记录",
+      "originalTitle": "North Carolina voters weigh up Trump's track record on cost of living",
+      "summary": "英国广播公司的Clive Myrie在州里发现选民问自己,他们是否比两年前更好。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-01T22:25:51Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-02T12:44:19.642958Z",
+      "updatedAt": "2026-11-02T12:44:19.642958Z"
     }
   ],
   "history": [
@@ -73757,9 +74631,982 @@
         "firstSeen": "2026-11-02T00:28:24.555597Z",
         "updatedAt": "2026-11-02T00:28:24.555597Z"
       }
+    },
+    {
+      "eventId": "rss-f2de8e72f98519e1197ee109",
+      "at": "2026-11-02T12:44:19.642958Z",
+      "data": {
+        "id": "rss-f2de8e72f98519e1197ee109",
+        "title": "Ryanair说,这可能冻结工人的工资,提高机票价格。",
+        "originalTitle": "Ryanair says it may freeze workers' pay and raise airfares",
+        "summary": "航空公司说,除非美以停止与伊朗的战争,否则燃料价格在2028年可能会上涨2bn欧元。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-02T12:22:10Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-02T12:44:19.642958Z",
+        "updatedAt": "2026-11-02T12:44:19.642958Z"
+      }
+    },
+    {
+      "eventId": "rss-8926691970afb98aa80d8fbd",
+      "at": "2026-11-02T12:44:19.642958Z",
+      "data": {
+        "id": "rss-8926691970afb98aa80d8fbd",
+        "title": "乌干达在20年后开始从索马里撤军",
+        "originalTitle": "Uganda begins withdrawing troops from Somalia after 20 years",
+        "summary": "该国是2007年为稳定索马里而设立的非盟特派团的第一个派遣部队的国家。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-02T12:05:34Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-02T12:44:19.642958Z",
+        "updatedAt": "2026-11-02T12:44:19.642958Z"
+      }
+    },
+    {
+      "eventId": "rss-fa03063f43c9d75e563224f7",
+      "at": "2026-11-02T12:44:19.642958Z",
+      "data": {
+        "id": "rss-fa03063f43c9d75e563224f7",
+        "title": "乌克兰和俄罗斯说紧急空袭警报系统遭到网络黑客袭击,",
+        "originalTitle": "Ukraine and Russia say emergency air-raid warning systems hit by cyber-hacks – Europe live",
+        "summary": "在乌克兰,这个应用程序开始在星期天深夜发出令人震惊的假消息。 俄罗斯恢复对南部城市赫森的攻击,就在停火结束几小时后,数百人从附近的克里姆林宫控制的小镇奥莱什基撤离。 赫森的军事行政当局说,俄罗斯的无人机袭击了一家医院。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-02T11:59:24Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-02T12:44:19.642958Z",
+        "updatedAt": "2026-11-02T12:44:19.642958Z"
+      }
+    },
+    {
+      "eventId": "rss-83f9b7f4ae34ad1fdebc8dd8",
+      "at": "2026-11-02T12:44:19.642958Z",
+      "data": {
+        "id": "rss-83f9b7f4ae34ad1fdebc8dd8",
+        "title": "比利时、瑞典和卢森堡的超级市场冷冻厂受到网络攻击嫌疑袭击",
+        "originalTitle": "Supermarket freezers in Belgium, Sweden and Luxembourg hit by suspected cyber-attack",
+        "summary": "瑞典的仓库说,其冰箱的温度提高到50C(122F)。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-02T11:56:32Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-02T12:44:19.642958Z",
+        "updatedAt": "2026-11-02T12:44:19.642958Z"
+      }
+    },
+    {
+      "eventId": "rss-4ef4d216a0d18803e9fd5933",
+      "at": "2026-11-02T12:44:19.642958Z",
+      "data": {
+        "id": "rss-4ef4d216a0d18803e9fd5933",
+        "title": "欧洲各地的超级市场冰柜 被第二起网络攻击嫌犯袭击",
+        "originalTitle": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+        "summary": "瑞典、比利时和卢森堡的连锁店说,冰箱温度一夜之间上升,这与瑞典、比利时和卢森堡的法国超市连锁店的黑客类似。 瑞典、比利时和卢森堡的超市连锁店说,他们的冰箱和冷藏柜的温度一夜之间上升,这引起了对网络攻击的恐惧,这种攻击类似于法国数百万欧元的粮食损失。 瑞典的库珀连锁店告诉了这一点。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-02T11:12:36Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-02T12:44:19.642958Z",
+        "updatedAt": "2026-11-02T12:44:19.642958Z"
+      }
+    },
+    {
+      "eventId": "rss-75e086cbf0e035a09f881cff",
+      "at": "2026-11-02T12:44:19.642958Z",
+      "data": {
+        "id": "rss-75e086cbf0e035a09f881cff",
+        "title": "黑客向乌克兰紧急程序发送假的核威胁警报",
+        "originalTitle": "Hackers send fake nuclear threat alert to Ukraine emergency app",
+        "summary": "基辅的居民也警告说化学袭击和街头对街的争斗是欧洲未知政党发出的虚假信息 — — 最新消息显示,不明黑客袭击了乌克兰全国范围的紧急警报移动应用程序,向基辅居民发出警告说他们面临即将发生核打击的风险。 应用程序报告,周日晚间可能发生核辐射。 程序还存在一些问题。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-02T11:11:28Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/02/hackers-fake-nuclear-chemical-threat-alert-kyiv-ukraine-emergency-app"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-02T12:44:19.642958Z",
+        "updatedAt": "2026-11-02T12:44:19.642958Z"
+      }
+    },
+    {
+      "eventId": "rss-7d71ef78516f0ee02ce3d7af",
+      "at": "2026-11-02T12:44:19.642958Z",
+      "data": {
+        "id": "rss-7d71ef78516f0ee02ce3d7af",
+        "title": "欧洲可能会面临更寒冷的天气 极地旋涡会削弱",
+        "originalTitle": "Europe could face colder weather as polar vortex weakens",
+        "summary": "北半球平流层极地旋涡正面临异常的早期衰减前景。 预测模型表明,在未来10天中,它可能会大大削弱,而这一天通常会增强。 一次重大的平流层突然变暖事件是阿波(Po ) 。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-02T11:00:54Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/environment/2026/nov/02/polar-vortex-disruption-colder-weather-europe"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-02T12:44:19.642958Z",
+        "updatedAt": "2026-11-02T12:44:19.642958Z"
+      }
+    },
+    {
+      "eventId": "rss-b870932b8a7e85a401f3d8c8",
+      "at": "2026-11-02T12:44:19.642958Z",
+      "data": {
+        "id": "rss-b870932b8a7e85a401f3d8c8",
+        "title": "福特发布一个“隐私承诺”,并解释其使用客户数据的方式和原因",
+        "originalTitle": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
+        "summary": "福特说,它在对客户做出\"明确承诺\" 说\"他们的车辆数据是安全的\" 在公司。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-02T11:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-02T12:44:19.642958Z",
+        "updatedAt": "2026-11-02T12:44:19.642958Z"
+      }
+    },
+    {
+      "eventId": "rss-5d4ca73724edaa6aa18988bc",
+      "at": "2026-11-02T12:44:19.642958Z",
+      "data": {
+        "id": "rss-5d4ca73724edaa6aa18988bc",
+        "title": "南非农民开枪并施以酷刑后,5人被捕",
+        "originalTitle": "Five arrested after South African farmer shot and tortured",
+        "summary": "50岁的Donovan Marx遭到攻击, 右翼团体声称白人遭到种族灭绝,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-02T10:48:47Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-02T12:44:19.642958Z",
+        "updatedAt": "2026-11-02T12:44:19.642958Z"
+      }
+    },
+    {
+      "eventId": "rss-e3b756138fe24336cdf137a3",
+      "at": "2026-11-02T12:44:19.642958Z",
+      "data": {
+        "id": "rss-e3b756138fe24336cdf137a3",
+        "title": "佛罗里达街有九次小飞机坠毁身亡",
+        "originalTitle": "Nine killed as small jet crashes on Florida street",
+        "summary": "交通部长Sean Duffy将这次坠机事件描述为“可怕的悲剧”,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-02T09:10:19Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-02T12:44:19.642958Z",
+        "updatedAt": "2026-11-02T12:44:19.642958Z"
+      }
+    },
+    {
+      "eventId": "rss-823ef000f84ad5ea71a19eca",
+      "at": "2026-11-02T12:44:19.642958Z",
+      "data": {
+        "id": "rss-823ef000f84ad5ea71a19eca",
+        "title": "Ryanair认为,冻结工资和减少乘飞机的机组人员是燃料费用飙升的结果",
+        "originalTitle": "Ryanair considers pay freezes and reducing crew on flights as fuel costs soar",
+        "summary": "航空公司在年度燃料账单2bn上涨的警告中,越来越多地使用AI作为削减成本措施的一部分。 商业现场直播 — — 最新消息显示,Ryanair正在考虑削减成本措施,包括冻结工资、减少航班机组人员人数以及增加AI的使用以抵消中东冲突所引发的飞涨的燃料成本。 欧洲最大的低成本运输公司说,它预期Eur公司会减少成本。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-02T09:06:51Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-02T12:44:19.642958Z",
+        "updatedAt": "2026-11-02T12:44:19.642958Z"
+      }
+    },
+    {
+      "eventId": "rss-9d25dae59b5cfa43050ea937",
+      "at": "2026-11-02T12:44:19.642958Z",
+      "data": {
+        "id": "rss-9d25dae59b5cfa43050ea937",
+        "title": "广受欢迎的澳大利亚儿童提交人因剥削儿童罪入狱",
+        "originalTitle": "Popular Australian children's author jailed over child exploitation offences",
+        "summary": "5月,Jasper Jones和Runt的提交人在警察数月前搜查了他的家后认罪。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-02T08:03:39Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-02T12:44:19.642958Z",
+        "updatedAt": "2026-11-02T12:44:19.642958Z"
+      }
+    },
+    {
+      "eventId": "rss-7a9654b9b64f2ab8be196751",
+      "at": "2026-11-02T12:44:19.642958Z",
+      "data": {
+        "id": "rss-7a9654b9b64f2ab8be196751",
+        "title": "获奖的澳大利亚儿童作家Craig Silvey因剥削儿童材料而被监禁",
+        "originalTitle": "Award‑winning Australian children’s author Craig Silvey jailed over child exploitation material",
+        "summary": "贾斯珀·琼斯(Jasper Jones)的作家发送了许多关于他对年轻男孩的性欲望的信息, 西澳大利亚州法院会听取警告:这篇文章包含一些图片内容。 Get our break news email, free app 或每日新闻播客。获奖的作者克雷格·西尔维(Craig Silvey)发送了许多关于他对年轻男孩的性欲望的信息,并被清晰的儿童和成人图像所捕捉。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-02T08:01:34Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/02/australian-author-craig-silvey-jailed-child-exploitation-material-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-02T12:44:19.642958Z",
+        "updatedAt": "2026-11-02T12:44:19.642958Z"
+      }
+    },
+    {
+      "eventId": "rss-b560fd0d84f7e22fae5c8275",
+      "at": "2026-11-02T12:44:19.642958Z",
+      "data": {
+        "id": "rss-b560fd0d84f7e22fae5c8275",
+        "title": "随着第五次利率上升的到来,预计经济将出现 \" 夏珀尔,更长期的减速 \" 。",
+        "originalTitle": "‘Sharper, longer slowdown’ predicted for economy as fifth interest rate hike looms",
+        "summary": "主要银行经济学家说,随着中东战争与房价暴跌相结合,澳洲央行预计会在星期二再次打击抵押贷款持有者。 主要银行经济学家说,正如储备银行被迫将利率维持在更高的水平,以摆脱持续的通胀压力一样,我们的突发新闻电子邮件、免费应用程序或每日新闻播客澳大利亚经济被设定为“挥霍、更长期的减速 ” 。（机器翻译；尚未完成正文核查。）",
+        "category": "商业 / 宏观",
+        "publishedAt": "2026-11-02T06:57:29Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/02/australia-economy-fifth-interest-rate-hike-looms"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-02T12:44:19.642958Z",
+        "updatedAt": "2026-11-02T12:44:19.642958Z"
+      }
+    },
+    {
+      "eventId": "rss-e3fa89265477feb96fda163c",
+      "at": "2026-11-02T12:44:19.642958Z",
+      "data": {
+        "id": "rss-e3fa89265477feb96fda163c",
+        "title": "警方使用面部识别 扫描西澳大利亚州审判中的100万面孔 导致122人被捕",
+        "originalTitle": "Police use facial recognition to scan one million faces in WA trial leading to 122 arrests",
+        "summary": "超过100万人在西澳大利亚州一次实时面部识别技术试验中被扫描了脸部,导致122人被捕和9次错误警报。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-02T06:12:52Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/02/wa-police-facial-recognition-technology-trial"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-02T12:44:19.642958Z",
+        "updatedAt": "2026-11-02T12:44:19.642958Z"
+      }
+    },
+    {
+      "eventId": "rss-b93b2077c86eaeef2db21dd3",
+      "at": "2026-11-02T12:44:19.642958Z",
+      "data": {
+        "id": "rss-b93b2077c86eaeef2db21dd3",
+        "title": "Minns警告说,随着PM的压力增加,预期RBA的利率会上升,",
+        "originalTitle": "Minns warns expected RBA rate rise will see ‘shops close that don’t reopen’ as pressure mounts on PM",
+        "summary": "新南威尔士州总理克里斯·明斯(Chris Minns)警告预计利率会上升, 将迫使企业倒闭, 要求联邦政府和各州控制开支。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-02T06:08:33Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/02/minns-warns-rba-rate-rise-job-losses-economy"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-02T12:44:19.642958Z",
+        "updatedAt": "2026-11-02T12:44:19.642958Z"
+      }
+    },
+    {
+      "eventId": "rss-9e197db2782d3caa57eef2ed",
+      "at": "2026-11-02T12:44:19.642958Z",
+      "data": {
+        "id": "rss-9e197db2782d3caa57eef2ed",
+        "title": "伊朗杀害了她十几岁的女儿,",
+        "originalTitle": "Iran killed her teenage daughter - now she is facing up to the regime",
+        "summary": "Samira的16岁女儿Sevda在1月参加群众抗议时被枪杀。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-02T06:00:54Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-02T12:44:19.642958Z",
+        "updatedAt": "2026-11-02T12:44:19.642958Z"
+      }
+    },
+    {
+      "eventId": "rss-743c9adc1c15650721744dc5",
+      "at": "2026-11-02T12:44:19.642958Z",
+      "data": {
+        "id": "rss-743c9adc1c15650721744dc5",
+        "title": "借来的读物:来自我们广大同事的故事",
+        "originalTitle": "Borrowed reading: stories from our extended colleagues",
+        "summary": "五个故事值得你花时间 从我们的广博同事 在CIO,计算机世界,麦克世界和PCWorld。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-02T04:23:48Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-02T12:44:19.642958Z",
+        "updatedAt": "2026-11-02T12:44:19.642958Z"
+      }
+    },
+    {
+      "eventId": "rss-de730a61418268e7c23dba41",
+      "at": "2026-11-02T12:44:19.642958Z",
+      "data": {
+        "id": "rss-de730a61418268e7c23dba41",
+        "title": "`我也想打你一巴掌 ' :维多利亚法官因语言问题在法庭上受到谴责",
+        "originalTitle": "‘I want to slap you around a bit, too’: Victorian magistrate reprimanded over language in court",
+        "summary": "司法委员会对Vicky Prapas的一连串评论表示反对, 包括在校儿童在场时发表的评论。 一位地方法官告诉一名法庭使用者“我也想打你一巴掌”,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-02T04:05:01Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/02/victorian-magistrate-reprimanded-over-language-in-court-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-02T12:44:19.642958Z",
+        "updatedAt": "2026-11-02T12:44:19.642958Z"
+      }
+    },
+    {
+      "eventId": "rss-89fc8f48f3fc7507f62bb49e",
+      "at": "2026-11-02T12:44:19.642958Z",
+      "data": {
+        "id": "rss-89fc8f48f3fc7507f62bb49e",
+        "title": "中国国家广播公司在Mbappé笑话后拉起La Liga的比赛",
+        "originalTitle": "China state broadcaster pulls La Liga matches following Mbappé joke",
+        "summary": "中国媒体集团承认Mbappé的道歉,但没有说明停电将持续多久。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-02T03:58:38Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-02T12:44:19.642958Z",
+        "updatedAt": "2026-11-02T12:44:19.642958Z"
+      }
+    },
+    {
+      "eventId": "rss-f7a1968f92cbddfa4c0f132e",
+      "at": "2026-11-02T12:44:19.642958Z",
+      "data": {
+        "id": "rss-f7a1968f92cbddfa4c0f132e",
+        "title": "民主党对中期选举寄予厚望,",
+        "originalTitle": "Democrats have high hopes for midterms - but are the polls right?",
+        "summary": "民调预测民主党会激增, 但最后一刻的决策者和抽样问题 意味着没有保证。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-02T00:25:12Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-02T12:44:19.642958Z",
+        "updatedAt": "2026-11-02T12:44:19.642958Z"
+      }
+    },
+    {
+      "eventId": "rss-9e63bf21a4708cbbc0e1ebff",
+      "at": "2026-11-02T12:44:19.642958Z",
+      "data": {
+        "id": "rss-9e63bf21a4708cbbc0e1ebff",
+        "title": "法国在向警察投掷汽油炸弹后试图进行谋杀调查",
+        "originalTitle": "France launches attempted murder investigation after petrol bomb thrown at police",
+        "summary": "抗议者连续第三个周末在法国各城市走上街头,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-02T00:15:30Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-02T12:44:19.642958Z",
+        "updatedAt": "2026-11-02T12:44:19.642958Z"
+      }
+    },
+    {
+      "eventId": "rss-5e7a6f7995cde7459bbaed09",
+      "at": "2026-11-02T12:44:19.642958Z",
+      "data": {
+        "id": "rss-5e7a6f7995cde7459bbaed09",
+        "title": "北卡罗来纳州选民 衡量特朗普的生活成本记录",
+        "originalTitle": "North Carolina voters weigh up Trump's track record on cost of living",
+        "summary": "英国广播公司的Clive Myrie在州里发现选民问自己,他们是否比两年前更好。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-01T22:25:51Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-02T12:44:19.642958Z",
+        "updatedAt": "2026-11-02T12:44:19.642958Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-02T12:44:19.642958Z",
+      "at": "2026-11-02T12:44:19.642958Z",
+      "kind": "GitHub Actions 采集",
+      "count": 23,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 11}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 0}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 10}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 2}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-02T00:28:24.555597Z",
       "at": "2026-11-02T00:28:24.555597Z",
