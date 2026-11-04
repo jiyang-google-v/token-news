@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-04T00:29:25.090523Z",
+  "updatedAt": "2026-11-04T12:41:30.015887Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -40160,6 +40160,1146 @@
       "tokens": [],
       "firstSeen": "2026-11-04T00:29:25.090523Z",
       "updatedAt": "2026-11-04T00:29:25.090523Z"
+    },
+    {
+      "id": "rss-686a08ca0b1bb4aea9d6a15b",
+      "title": "伊朗首席谈判代表说,美国人投票反对战争",
+      "originalTitle": "Iran's chief negotiator says Americans voted 'no to war'",
+      "summary": "正如唐纳德·特朗普(Donald Trump)承认冲突在共和党失败中所起的作用。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-04T12:21:21Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-3a0038a1a515bce70b8980b8",
+      "title": "所有你需要知道的 从美国中期选举",
+      "originalTitle": "Everything you need to know from the US midterm elections",
+      "summary": "民主党赢得了一些大胜 以及一些历史性的胜利 赢得了特朗普总统的祝贺（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-04T12:01:07Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-b3f73cbe2dd5f431cd5d91ef",
+      "title": "900多名学者敦促联合王国撤销禁止Andreas Malm的决定",
+      "originalTitle": "More than 900 academics urge UK to reverse decision to bar Andreas Malm",
+      "summary": "阻止瑞典作家参加巴勒斯坦行动组织共同创始人的活动是对言论自由的攻击, 信上说,900多名学者反对政府阻止气候学者Andreas Malm进入英国的决定, 警告说这一行动 \" 严重侵犯了学术自由和言论自由 \" 。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-04T12:00:10Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/04/andreas-malm-academics-letter-uk-reverse-entry-bar"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-300d76f18ea7c12b5a3d88ba",
+      "title": "Canva在增长放缓的情况下解雇了1 200多人",
+      "originalTitle": "Canva lays off over 1,200 people amid slowing growth",
+      "summary": "Canva正在裁员22%,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-04T11:59:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-aeb69efe12192b0ebf365bdf",
+      "title": "宝马公司警告利润,因为它计算了8000个裁员的计划成本",
+      "originalTitle": "BMW warns on profits as it counts cost of plan for 8,000 job cuts",
+      "summary": "德国汽车制造商在今年面临来自中国的竞争,将利润幅度削减至-0.5%至0.5%。 德国汽车制造商BMW在一年中发布了第二次利润警告,指责重组方案的成本,包括中国持续竞争带来的大量就业机会损失。 该公司是德国汽车行业最近与Merce公司一道降低利润水平的公司。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-04T11:58:19Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/business/2026/nov/04/bmw-warns-on-profits-counts-cost-plan-for-8000-job-cuts"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-a143994be5486339ff99aaa7",
+      "title": "欧盟牵头与美国、纳托(Nato)等伙伴就支持乌克兰问题进行会谈——欧洲现场直播",
+      "originalTitle": "EU to lead talks on support for Ukraine with US, Nato, partners – Europe live",
+      "summary": "路透社说,欧盟委员会将与美国、法国、德国、英国、纳托和世界银行举行会谈。 与此同时,克里姆林宫说 : “ 希望美国中期选举的结果不会影响总统唐纳德·特朗普(Donald Trump)对乌克兰的“和平努力 ” 。 ”克里姆林宫发言人德米特里·佩斯科夫(Dmitry Peskov)在评论中说 : “ 我们就是如此。 ”（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-04T11:57:57Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-a2cf7e49d93e50080bb0b38f",
+      "title": "ANC面临扭转南非衰退的压力",
+      "originalTitle": "ANC under pressure to reverse South Africa decline",
+      "summary": "当南非人在地方选举中投票时, 居民告诉英国广播公司,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-04T11:47:44Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-cc6e34e4745db08d51ca2720",
+      "title": "NBA指出,",
+      "originalTitle": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+      "summary": "美国对卢旺达军队在刚果民主共和国冲突中的作用实行制裁。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-04T11:46:09Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-15c0b8c726da53cb3c1a7d30",
+      "title": "被控跟踪和企图勒索绿党参议员乔登·斯蒂尔-约翰",
+      "originalTitle": "Woman charged over alleged stalking and attempted extortion of Greens senator Jordon Steele-John",
+      "summary": "独家:警方将指控这名40岁的妇女是Steele-John的前伴侣,预计她将于星期四在珀斯出庭,一名40岁的妇女因涉嫌跟踪和试图敲诈Greens参议员Jordon Steele-John而被西澳大利亚警方逮捕和指控。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-04T11:07:10Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/04/jordon-steele-john-woman-charged-alleged-stalking-attempted-extortion-greens-senator-court-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-ef7c90f07cb16ca01242264c",
+      "title": "伦敦大屠杀档案馆审查了世界上第一个“病毒”反犹主义丑闻。",
+      "originalTitle": "‘The point was to dehumanise’: London Holocaust archive examines world’s first ‘viral’ antisemitism scandal",
+      "summary": "Dreyfus事件反映了今天反犹太仇恨的表现,维纳图书馆的馆长说,这是世界上最先经历的反犹主义“过时的病毒 ” 。 巴巴拉·沃诺克(Barbara Warnock)是历史最悠久的大屠杀档案馆伦敦Wiener大屠杀图书馆的共同馆长。 当时是1894年,印刷机比以往更快。 法国令人望而却步的检查法被废除了。（机器翻译；尚未完成正文核查。）",
+      "category": "网络文化",
+      "publishedAt": "2026-11-04T10:58:48Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/news/2026/nov/04/london-wiener-holocaust-library-dreyfus-affair-antisemitism"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-7f2348e1a53c476000755ba0",
+      "title": "美国承包商给了埃塞俄比亚秘密 帮助杀死提格雷战斗机",
+      "originalTitle": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
+      "summary": "这名出生在埃塞俄比亚的美国公民承认与埃塞俄比亚高级官员分享了几十份机密文件。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-04T10:35:03Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-faf2b866811252b85d0fd8b6",
+      "title": "美国如何在地图和图表中投票",
+      "originalTitle": "How America voted in maps and charts",
+      "summary": "显示美国如何在美国中期选举中投票的地图和图表。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-04T09:53:18Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-601829d83817338678c6b6e7",
+      "title": "`很久没这么兴奋了 ' :美国在澳大利亚期中观赏派对上骑着蓝波",
+      "originalTitle": "‘Not been this excited in a long time’: US expats ride the blue wave at Australian midterms watch parties",
+      "summary": "美国选民、他们的澳大利亚伙伴和英国观众围着酒吧电视看美国中期选举的历史性选举结果卷 — — 实时更新民主党的蓝色浪潮和特朗普的糟糕夜晚:在悉尼酒吧的二楼,美国关键的期中脱衣舞女郎,情绪从紧张、浏览器重燃的焦虑转向几小时内的香槟。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-04T09:09:31Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/04/not-been-this-excited-in-a-long-time-us-expats-ride-the-blue-wave-at-australian-midterms-watch-parties"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-f032d238c11619440d234cce",
+      "title": "随着消防限制的生效,德里的空气质量在迪瓦利之前恶化",
+      "originalTitle": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+      "summary": "德里的空气质量指数为377, 属于“非常差”类别。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-04T07:39:38Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-fb0e681b52e3514f4abe5d59",
+      "title": "南卡罗来纳州在近30年中首次选举民主党参议员",
+      "originalTitle": "South Carolina elects Democratic senator for first time in almost three decades",
+      "summary": "Annie Andrews预计击败Darline Graham 特朗普总统在他死后 亲自挑选了他哥哥的位子（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-04T07:32:02Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-0a02afb05cabbf5abc3cce35",
+      "title": "佛罗里达共和党抵制民主党 州选举第一任黑人州长",
+      "originalTitle": "Florida Republicans fend off Democrats as state elects first black governor",
+      "summary": "共和党的拜伦・唐纳德斯 得到总统唐纳德・特朗普的支持 将成为佛罗里达州第一位黑人州长（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-04T07:12:21Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-57cbc14d8bc311c33bfb6fa4",
+      "title": "Aukus是澳大利亚有史以来最糟糕、最危险、最昂贵的国防决定,",
+      "originalTitle": "Aukus is ‘worst, riskiest and most costly’ Australian defence decision ever, public inquiry into submarine deal says",
+      "summary": "Peter Garrett和前国防部长Adm Chris Barrie的报导说, 协议应该中止, 并要求皇家委员会,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-04T07:02:44Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/04/aukus-worst-australian-defence-decision-ever-public-inquiry"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-c711712980208eec8a17737f",
+      "title": "在“非常有力”的评断之后,第一批10首澳大利亚歌曲被引入《国家歌曲手册》",
+      "originalTitle": "First 10 Australian songs inducted into the National Songbook after ‘very robust’ judging",
+      "summary": "Yothu Yindi的《午夜油床燃烧》和Helen Reddy的《I am Women》是每年将增高的新名单上首首首歌。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-04T07:00:28Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/music/2026/nov/04/first-10-australian-songs-inducted-into-national-songbook"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-a57e01296f1d3283b069f8c6",
+      "title": "Anthony Zurcher:在历史性的夜晚,民主党人深入特朗普心脏地带",
+      "originalTitle": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
+      "summary": "一年前的两场参议院赛事 都被认为是民主党的战场（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-04T06:53:56Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-f21df90c3b26b6a8453d0011",
+      "title": "Kate McClymont在Alan Jones的审讯中,",
+      "originalTitle": "Kate McClymont questioned over ‘nail in the coffin’ and poo emoji texts at Alan Jones trial",
+      "summary": "获奖的调查记者说,她`可能'给据称受害人的母亲发短信说,`我希望事情对他有利 ' ,法庭听取我们的突发新闻电子邮件、免费应用程序或每日新闻播客、调查记者Kate McClymont告诉悉尼法庭说,她所说的新信息是“棺材中绝对钉子”的录音没有提到“k”。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-04T06:23:40Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/04/alan-jones-trial-kate-mcclymont-nail-in-coffin-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-644d6479773719fbb61784f5",
+      "title": "自1988年以来,詹姆斯·塔拉里科成为第一个赢得得克萨斯参议院席位的民主党人。",
+      "originalTitle": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+      "summary": "一位专家告诉英国广播公司, 民主党在得克萨斯州赢得了历史性胜利。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-04T05:39:36Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-ed5d10bf28490ab47249c3b7",
+      "title": "联合王国向乌克兰儿童难民道歉,他们被要求学习俄语。",
+      "originalTitle": "UK apologises to Ukrainian child refugees who were told to study Russian",
+      "summary": "独家学校:学校部长推出了新的乌克兰GCSE,并说她很遗憾学生们被迫在不在家的情况下学习俄语。 当乌克兰儿童难民被要求在英语学校学习俄语时,英国向他们道歉。 乌克兰儿童们在2022年弗拉基米尔·普京入侵后被迫在英国寻求避难。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-04T05:00:25Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/education/2026/nov/04/ukrainian-gcse-uk-apologises-child-refugees"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-73cea4e0606f375e90032d84",
+      "title": "印度的EloElo nabs 80M元来自NBCUniversal,",
+      "originalTitle": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
+      "summary": "根据Sensor Tower的数字,StoryTV每月有超过3 300万活跃用户（机器翻译；尚未完成正文核查。）",
+      "category": "商业 / 宏观",
+      "publishedAt": "2026-11-04T04:45:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-8c4ec9300281deb557aa1a2e",
+      "title": "南非人民在地方选举中投票时,",
+      "originalTitle": "ANC faces anger over poor services as South Africans vote in local elections",
+      "summary": "人民党在对缺水和停电感到沮丧的情况下,预期会得到不到三分之一的选票。 非洲人国民大会在周三的南非地方选举中,因为选民在对缺水、停电和基础设施崩溃的强烈不满中去投票,因此,南非的地方选举产生了一场惨痛的结果。 纳尔逊·曼德拉在1994年赢得了权力的前解放运动(Nelson Mandela ) 。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-04T04:00:23Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-c99cf4f2df7ba7e97e71e9cd",
+      "title": "武器还是酒瓶?",
+      "originalTitle": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+      "summary": "巴布亚新几内亚警方先前曾否认这32公斤物体“只是个假人”的猜测。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-04T03:46:10Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-dd26cd2f1a9b139ef41fec70",
+      "title": "逃出田纳西监狱的凶手在被追捕一周后被抓获",
+      "originalTitle": "Killer who escaped Tennessee prison captured after week-long manhunt",
+      "summary": "Jacob Allen Morley因谋杀罪被判无期徒刑,然后越狱越狱。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-04T02:11:40Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-04f335e35da90b5f46258b5b",
+      "title": "加拿大加入联盟 拒绝在乌克兰战争中 与俄罗斯打冰球",
+      "originalTitle": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
+      "summary": "越来越多的国家抵制俄罗斯重新加入国际曲棍球赛,因为一个体育法庭取消了对竞争的禁令。 加拿大加入了拒绝参加俄罗斯冰球队的国家联盟。 总理卡尼(Mark Carney)说,由于乌克兰战争,俄罗斯滑冰运动员下个月将无法参加世界初级锦标赛。 “尽管俄罗斯是俄罗斯。 ”（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-04T01:31:46Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-45b1b0bb0686ebc9a6a45242",
+      "title": "为什么金·卡戴珊又回到了\"史上最糟糕的电视剧\"",
+      "originalTitle": "Why Kim Kardashian came back to 'the worst TV drama ever'",
+      "summary": "媒体人物和女商人说, 她的工作是她的演艺 系列二的All's Fair。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-04T00:52:19Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cxvgd4drmevro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-747b1f6bb38fc3aba959970c",
+      "title": "移植的斯考特在新西兰 以他为荣",
+      "originalTitle": "The transplanted Scot doing famous father proud in New Zealand",
+      "summary": "Clark Laidlaw, 超级橄榄球冠军飓风的首席教练, 在新西兰产生了巨大影响,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-03T17:50:16Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6ewerp0w5lvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
+    },
+    {
+      "id": "rss-6c391467ae45ec1bcb327890",
+      "title": "体育赛事如何受到中东冲突的影响",
+      "originalTitle": "How sporting events are being affected by Middle East conflict",
+      "summary": "BBC Sport公司审视中东持续不断的冲突如何影响沙特阿拉伯、卡塔尔、巴林和广大地区的体育活动。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-03T16:01:24Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-04T12:41:30.015887Z",
+      "updatedAt": "2026-11-04T12:41:30.015887Z"
     }
   ],
   "history": [
@@ -84557,9 +85697,1276 @@
         "firstSeen": "2026-11-04T00:29:25.090523Z",
         "updatedAt": "2026-11-04T00:29:25.090523Z"
       }
+    },
+    {
+      "eventId": "rss-686a08ca0b1bb4aea9d6a15b",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-686a08ca0b1bb4aea9d6a15b",
+        "title": "伊朗首席谈判代表说,美国人投票反对战争",
+        "originalTitle": "Iran's chief negotiator says Americans voted 'no to war'",
+        "summary": "正如唐纳德·特朗普(Donald Trump)承认冲突在共和党失败中所起的作用。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-04T12:21:21Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-3a0038a1a515bce70b8980b8",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-3a0038a1a515bce70b8980b8",
+        "title": "所有你需要知道的 从美国中期选举",
+        "originalTitle": "Everything you need to know from the US midterm elections",
+        "summary": "民主党赢得了一些大胜 以及一些历史性的胜利 赢得了特朗普总统的祝贺（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-04T12:01:07Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-b3f73cbe2dd5f431cd5d91ef",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-b3f73cbe2dd5f431cd5d91ef",
+        "title": "900多名学者敦促联合王国撤销禁止Andreas Malm的决定",
+        "originalTitle": "More than 900 academics urge UK to reverse decision to bar Andreas Malm",
+        "summary": "阻止瑞典作家参加巴勒斯坦行动组织共同创始人的活动是对言论自由的攻击, 信上说,900多名学者反对政府阻止气候学者Andreas Malm进入英国的决定, 警告说这一行动 \" 严重侵犯了学术自由和言论自由 \" 。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-04T12:00:10Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/uk-news/2026/nov/04/andreas-malm-academics-letter-uk-reverse-entry-bar"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-300d76f18ea7c12b5a3d88ba",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-300d76f18ea7c12b5a3d88ba",
+        "title": "Canva在增长放缓的情况下解雇了1 200多人",
+        "originalTitle": "Canva lays off over 1,200 people amid slowing growth",
+        "summary": "Canva正在裁员22%,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-04T11:59:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-aeb69efe12192b0ebf365bdf",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-aeb69efe12192b0ebf365bdf",
+        "title": "宝马公司警告利润,因为它计算了8000个裁员的计划成本",
+        "originalTitle": "BMW warns on profits as it counts cost of plan for 8,000 job cuts",
+        "summary": "德国汽车制造商在今年面临来自中国的竞争,将利润幅度削减至-0.5%至0.5%。 德国汽车制造商BMW在一年中发布了第二次利润警告,指责重组方案的成本,包括中国持续竞争带来的大量就业机会损失。 该公司是德国汽车行业最近与Merce公司一道降低利润水平的公司。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-04T11:58:19Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/business/2026/nov/04/bmw-warns-on-profits-counts-cost-plan-for-8000-job-cuts"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-a143994be5486339ff99aaa7",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-a143994be5486339ff99aaa7",
+        "title": "欧盟牵头与美国、纳托(Nato)等伙伴就支持乌克兰问题进行会谈——欧洲现场直播",
+        "originalTitle": "EU to lead talks on support for Ukraine with US, Nato, partners – Europe live",
+        "summary": "路透社说,欧盟委员会将与美国、法国、德国、英国、纳托和世界银行举行会谈。 与此同时,克里姆林宫说 : “ 希望美国中期选举的结果不会影响总统唐纳德·特朗普(Donald Trump)对乌克兰的“和平努力 ” 。 ”克里姆林宫发言人德米特里·佩斯科夫(Dmitry Peskov)在评论中说 : “ 我们就是如此。 ”（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-04T11:57:57Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-a2cf7e49d93e50080bb0b38f",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-a2cf7e49d93e50080bb0b38f",
+        "title": "ANC面临扭转南非衰退的压力",
+        "originalTitle": "ANC under pressure to reverse South Africa decline",
+        "summary": "当南非人在地方选举中投票时, 居民告诉英国广播公司,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-04T11:47:44Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-cc6e34e4745db08d51ca2720",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-cc6e34e4745db08d51ca2720",
+        "title": "NBA指出,",
+        "originalTitle": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+        "summary": "美国对卢旺达军队在刚果民主共和国冲突中的作用实行制裁。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-04T11:46:09Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-15c0b8c726da53cb3c1a7d30",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-15c0b8c726da53cb3c1a7d30",
+        "title": "被控跟踪和企图勒索绿党参议员乔登·斯蒂尔-约翰",
+        "originalTitle": "Woman charged over alleged stalking and attempted extortion of Greens senator Jordon Steele-John",
+        "summary": "独家:警方将指控这名40岁的妇女是Steele-John的前伴侣,预计她将于星期四在珀斯出庭,一名40岁的妇女因涉嫌跟踪和试图敲诈Greens参议员Jordon Steele-John而被西澳大利亚警方逮捕和指控。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-04T11:07:10Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/04/jordon-steele-john-woman-charged-alleged-stalking-attempted-extortion-greens-senator-court-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-ef7c90f07cb16ca01242264c",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-ef7c90f07cb16ca01242264c",
+        "title": "伦敦大屠杀档案馆审查了世界上第一个“病毒”反犹主义丑闻。",
+        "originalTitle": "‘The point was to dehumanise’: London Holocaust archive examines world’s first ‘viral’ antisemitism scandal",
+        "summary": "Dreyfus事件反映了今天反犹太仇恨的表现,维纳图书馆的馆长说,这是世界上最先经历的反犹主义“过时的病毒 ” 。 巴巴拉·沃诺克(Barbara Warnock)是历史最悠久的大屠杀档案馆伦敦Wiener大屠杀图书馆的共同馆长。 当时是1894年,印刷机比以往更快。 法国令人望而却步的检查法被废除了。（机器翻译；尚未完成正文核查。）",
+        "category": "网络文化",
+        "publishedAt": "2026-11-04T10:58:48Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/news/2026/nov/04/london-wiener-holocaust-library-dreyfus-affair-antisemitism"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-7f2348e1a53c476000755ba0",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-7f2348e1a53c476000755ba0",
+        "title": "美国承包商给了埃塞俄比亚秘密 帮助杀死提格雷战斗机",
+        "originalTitle": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
+        "summary": "这名出生在埃塞俄比亚的美国公民承认与埃塞俄比亚高级官员分享了几十份机密文件。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-04T10:35:03Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-faf2b866811252b85d0fd8b6",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-faf2b866811252b85d0fd8b6",
+        "title": "美国如何在地图和图表中投票",
+        "originalTitle": "How America voted in maps and charts",
+        "summary": "显示美国如何在美国中期选举中投票的地图和图表。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-04T09:53:18Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-601829d83817338678c6b6e7",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-601829d83817338678c6b6e7",
+        "title": "`很久没这么兴奋了 ' :美国在澳大利亚期中观赏派对上骑着蓝波",
+        "originalTitle": "‘Not been this excited in a long time’: US expats ride the blue wave at Australian midterms watch parties",
+        "summary": "美国选民、他们的澳大利亚伙伴和英国观众围着酒吧电视看美国中期选举的历史性选举结果卷 — — 实时更新民主党的蓝色浪潮和特朗普的糟糕夜晚:在悉尼酒吧的二楼,美国关键的期中脱衣舞女郎,情绪从紧张、浏览器重燃的焦虑转向几小时内的香槟。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-04T09:09:31Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/04/not-been-this-excited-in-a-long-time-us-expats-ride-the-blue-wave-at-australian-midterms-watch-parties"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-f032d238c11619440d234cce",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-f032d238c11619440d234cce",
+        "title": "随着消防限制的生效,德里的空气质量在迪瓦利之前恶化",
+        "originalTitle": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+        "summary": "德里的空气质量指数为377, 属于“非常差”类别。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-04T07:39:38Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-fb0e681b52e3514f4abe5d59",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-fb0e681b52e3514f4abe5d59",
+        "title": "南卡罗来纳州在近30年中首次选举民主党参议员",
+        "originalTitle": "South Carolina elects Democratic senator for first time in almost three decades",
+        "summary": "Annie Andrews预计击败Darline Graham 特朗普总统在他死后 亲自挑选了他哥哥的位子（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-04T07:32:02Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-0a02afb05cabbf5abc3cce35",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-0a02afb05cabbf5abc3cce35",
+        "title": "佛罗里达共和党抵制民主党 州选举第一任黑人州长",
+        "originalTitle": "Florida Republicans fend off Democrats as state elects first black governor",
+        "summary": "共和党的拜伦・唐纳德斯 得到总统唐纳德・特朗普的支持 将成为佛罗里达州第一位黑人州长（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-04T07:12:21Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-57cbc14d8bc311c33bfb6fa4",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-57cbc14d8bc311c33bfb6fa4",
+        "title": "Aukus是澳大利亚有史以来最糟糕、最危险、最昂贵的国防决定,",
+        "originalTitle": "Aukus is ‘worst, riskiest and most costly’ Australian defence decision ever, public inquiry into submarine deal says",
+        "summary": "Peter Garrett和前国防部长Adm Chris Barrie的报导说, 协议应该中止, 并要求皇家委员会,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-04T07:02:44Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/04/aukus-worst-australian-defence-decision-ever-public-inquiry"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-c711712980208eec8a17737f",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-c711712980208eec8a17737f",
+        "title": "在“非常有力”的评断之后,第一批10首澳大利亚歌曲被引入《国家歌曲手册》",
+        "originalTitle": "First 10 Australian songs inducted into the National Songbook after ‘very robust’ judging",
+        "summary": "Yothu Yindi的《午夜油床燃烧》和Helen Reddy的《I am Women》是每年将增高的新名单上首首首歌。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-04T07:00:28Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/music/2026/nov/04/first-10-australian-songs-inducted-into-national-songbook"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-a57e01296f1d3283b069f8c6",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-a57e01296f1d3283b069f8c6",
+        "title": "Anthony Zurcher:在历史性的夜晚,民主党人深入特朗普心脏地带",
+        "originalTitle": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
+        "summary": "一年前的两场参议院赛事 都被认为是民主党的战场（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-04T06:53:56Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-f21df90c3b26b6a8453d0011",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-f21df90c3b26b6a8453d0011",
+        "title": "Kate McClymont在Alan Jones的审讯中,",
+        "originalTitle": "Kate McClymont questioned over ‘nail in the coffin’ and poo emoji texts at Alan Jones trial",
+        "summary": "获奖的调查记者说,她`可能'给据称受害人的母亲发短信说,`我希望事情对他有利 ' ,法庭听取我们的突发新闻电子邮件、免费应用程序或每日新闻播客、调查记者Kate McClymont告诉悉尼法庭说,她所说的新信息是“棺材中绝对钉子”的录音没有提到“k”。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-04T06:23:40Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/04/alan-jones-trial-kate-mcclymont-nail-in-coffin-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-644d6479773719fbb61784f5",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-644d6479773719fbb61784f5",
+        "title": "自1988年以来,詹姆斯·塔拉里科成为第一个赢得得克萨斯参议院席位的民主党人。",
+        "originalTitle": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+        "summary": "一位专家告诉英国广播公司, 民主党在得克萨斯州赢得了历史性胜利。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-04T05:39:36Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-ed5d10bf28490ab47249c3b7",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-ed5d10bf28490ab47249c3b7",
+        "title": "联合王国向乌克兰儿童难民道歉,他们被要求学习俄语。",
+        "originalTitle": "UK apologises to Ukrainian child refugees who were told to study Russian",
+        "summary": "独家学校:学校部长推出了新的乌克兰GCSE,并说她很遗憾学生们被迫在不在家的情况下学习俄语。 当乌克兰儿童难民被要求在英语学校学习俄语时,英国向他们道歉。 乌克兰儿童们在2022年弗拉基米尔·普京入侵后被迫在英国寻求避难。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-04T05:00:25Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/education/2026/nov/04/ukrainian-gcse-uk-apologises-child-refugees"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-73cea4e0606f375e90032d84",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-73cea4e0606f375e90032d84",
+        "title": "印度的EloElo nabs 80M元来自NBCUniversal,",
+        "originalTitle": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
+        "summary": "根据Sensor Tower的数字,StoryTV每月有超过3 300万活跃用户（机器翻译；尚未完成正文核查。）",
+        "category": "商业 / 宏观",
+        "publishedAt": "2026-11-04T04:45:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-8c4ec9300281deb557aa1a2e",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-8c4ec9300281deb557aa1a2e",
+        "title": "南非人民在地方选举中投票时,",
+        "originalTitle": "ANC faces anger over poor services as South Africans vote in local elections",
+        "summary": "人民党在对缺水和停电感到沮丧的情况下,预期会得到不到三分之一的选票。 非洲人国民大会在周三的南非地方选举中,因为选民在对缺水、停电和基础设施崩溃的强烈不满中去投票,因此,南非的地方选举产生了一场惨痛的结果。 纳尔逊·曼德拉在1994年赢得了权力的前解放运动(Nelson Mandela ) 。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-04T04:00:23Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-c99cf4f2df7ba7e97e71e9cd",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-c99cf4f2df7ba7e97e71e9cd",
+        "title": "武器还是酒瓶?",
+        "originalTitle": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+        "summary": "巴布亚新几内亚警方先前曾否认这32公斤物体“只是个假人”的猜测。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-04T03:46:10Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-dd26cd2f1a9b139ef41fec70",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-dd26cd2f1a9b139ef41fec70",
+        "title": "逃出田纳西监狱的凶手在被追捕一周后被抓获",
+        "originalTitle": "Killer who escaped Tennessee prison captured after week-long manhunt",
+        "summary": "Jacob Allen Morley因谋杀罪被判无期徒刑,然后越狱越狱。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-04T02:11:40Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-04f335e35da90b5f46258b5b",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-04f335e35da90b5f46258b5b",
+        "title": "加拿大加入联盟 拒绝在乌克兰战争中 与俄罗斯打冰球",
+        "originalTitle": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
+        "summary": "越来越多的国家抵制俄罗斯重新加入国际曲棍球赛,因为一个体育法庭取消了对竞争的禁令。 加拿大加入了拒绝参加俄罗斯冰球队的国家联盟。 总理卡尼(Mark Carney)说,由于乌克兰战争,俄罗斯滑冰运动员下个月将无法参加世界初级锦标赛。 “尽管俄罗斯是俄罗斯。 ”（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-04T01:31:46Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-45b1b0bb0686ebc9a6a45242",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-45b1b0bb0686ebc9a6a45242",
+        "title": "为什么金·卡戴珊又回到了\"史上最糟糕的电视剧\"",
+        "originalTitle": "Why Kim Kardashian came back to 'the worst TV drama ever'",
+        "summary": "媒体人物和女商人说, 她的工作是她的演艺 系列二的All's Fair。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-04T00:52:19Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cxvgd4drmevro?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-747b1f6bb38fc3aba959970c",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-747b1f6bb38fc3aba959970c",
+        "title": "移植的斯考特在新西兰 以他为荣",
+        "originalTitle": "The transplanted Scot doing famous father proud in New Zealand",
+        "summary": "Clark Laidlaw, 超级橄榄球冠军飓风的首席教练, 在新西兰产生了巨大影响,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-03T17:50:16Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6ewerp0w5lvo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
+    },
+    {
+      "eventId": "rss-6c391467ae45ec1bcb327890",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "data": {
+        "id": "rss-6c391467ae45ec1bcb327890",
+        "title": "体育赛事如何受到中东冲突的影响",
+        "originalTitle": "How sporting events are being affected by Middle East conflict",
+        "summary": "BBC Sport公司审视中东持续不断的冲突如何影响沙特阿拉伯、卡塔尔、巴林和广大地区的体育活动。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-03T16:01:24Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-04T12:41:30.015887Z",
+        "updatedAt": "2026-11-04T12:41:30.015887Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-04T12:41:30.015887Z",
+      "at": "2026-11-04T12:41:30.015887Z",
+      "kind": "GitHub Actions 采集",
+      "count": 30,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 16}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 0}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 12}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 2}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-04T00:29:25.090523Z",
       "at": "2026-11-04T00:29:25.090523Z",
