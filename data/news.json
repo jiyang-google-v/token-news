@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-05T12:47:40.184573Z",
+  "updatedAt": "2026-11-06T00:33:24.083283Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -43846,6 +43846,1792 @@
       "tokens": [],
       "firstSeen": "2026-11-05T12:47:40.184573Z",
       "updatedAt": "2026-11-05T12:47:40.184573Z"
+    },
+    {
+      "id": "rss-9e7d1c8dc3b08b4097ea05ea",
+      "title": "Beau Lamarre-Condon 审判现场最新消息:前警官继续重复谋杀审判的证据",
+      "originalTitle": "Beau Lamarre-Condon trial live updates: former police officer continues evidence in double murder trial",
+      "summary": "Lamarre-Condon在第二天回到证人席上作证。 他被指控于2024年在悉尼枪杀了Jesse Baird和Luke Davies夫妇。 获得我们的突发新闻电子邮件、免费应用程序或每日新闻播客Lamarre-Condon“有想法 ” , 装扮成UberEats骑手Lamarre-Condon告诉法庭,他看到了他以为是某人送来的摩托车:我一看到一个想法,他就告诉了法庭:（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-06T00:18:21Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-2a2dee1e1f0d522c44b4064d",
+      "title": "《纽约时报》据说以3.3亿美元买下信箱",
+      "originalTitle": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+      "summary": "信箱,一个在线的电影爱好者平台,近年来急剧增长。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-06T00:07:18Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-3880731809dbbf5e7ad5887f",
+      "title": "与宇宙定律对抗的引擎部件",
+      "originalTitle": "The engine parts that 'fight the laws of the universe'",
+      "summary": "投资激增到喷气涡轮机叶片的制造上,这是一个极其困难的组成部分。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-06T00:06:06Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-7f806f4d6ebc196f3a39fdee",
+      "title": "随着美国期中产品增加对AI减速的担心,主要技术库存猛跌",
+      "originalTitle": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "summary": "美国期中期后,市场对数据中心建设和人工智能行业可能进行更严格的审查作出了反应。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-06T00:05:05Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-c3be5729c60de2770991d0de",
+      "title": "教皇在肺癌手术几周后 开始长途跋涉到拉丁美洲",
+      "originalTitle": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+      "summary": "Pope Leo上个月被肺部切除,他将访问乌拉圭、阿根廷和秘鲁。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-06T00:02:57Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-d7ab8a34c701ae8d133258d6",
+      "title": "Meta, Google, 和 TikTok 控告加利福尼亚州AG 违反青少年社会媒体法",
+      "originalTitle": "Meta, Google, and TikTok sue California AG over teen social media law",
+      "summary": "如果明年生效,加利福尼亚州的法律将限制16岁以下儿童使用社交媒体。（机器翻译；尚未完成正文核查。）",
+      "category": "网络文化",
+      "publishedAt": "2026-11-06T00:01:38Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-2afbe0a37742b380f7246b38",
+      "title": "民主社会主义在洛杉矶市长的竞选中 击败了现任的凯伦·拜斯",
+      "originalTitle": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+      "summary": "结果显示,美国人口最多的两个城市——纽约和洛杉矶——将由民主社会主义者领导。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-05T23:31:35Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-2a46dc0a00e65778f5885b92",
+      "title": "德里有毒的冬季空气又回来了 印度首都是否准备好去污染了?",
+      "originalTitle": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+      "summary": "德里政府宣布了一个为期四个月的冬季行动计划, 但专家说这还不够。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-05T23:16:53Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-ffff2886fc4b1906ffc939db",
+      "title": "加州州长对州548名死囚减刑",
+      "originalTitle": "California governor commutes sentences for state's 548 death row inmates",
+      "summary": "加州历史上是美国死刑犯人数最多的州。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-05T23:09:33Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-77df3d85a9f5763d57479d65",
+      "title": "Parramatta发电站这个周末开张,",
+      "originalTitle": "Powerhouse Parramatta opens this weekend – and it’s dazzling inside and out",
+      "summary": "我们的周末文化和生活方式电子邮件Dubbed“西悉尼奥佩拉之家”, Parramatta的白色拉特斯克勒顿(Powerhouse Parramatta), 由1300块块块和30 000平方米的内地空间组成,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-05T23:00:36Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/culture/ng-interactive/2026/nov/06/powerhouse-parramatta-opening-festival"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-17b57e4655701f14b981722c",
+      "title": "Airbnb说它在2027年上半年发射AI旅行社",
+      "originalTitle": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "summary": "Airbnb说,其即将到来的AI代理 将帮助旅行者计划旅行, 比较选项, 管理预订, 并在他们整个逗留期间得到援助。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-05T22:40:55Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-a8e2722db37803896f7ffa1f",
+      "title": "服务机器人 启动新的业务 成为机器人的AWS",
+      "originalTitle": "Serve Robotics launches new business to become the AWS for robots",
+      "summary": "服务机器人公司宣布其第三季度收入 它将启动一个新的商业线 称为物理AI服务 向客户提供其连接和数据工具。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-05T21:15:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-56898cfb97b9aac836c20a1d",
+      "title": "谁可能背后的骗局炸弹 威胁欧洲航空旅行?",
+      "originalTitle": "Who could be behind hoax bomb threats to European air travel?",
+      "summary": "迄今为止,没有确凿证据表明航空公司的炸弹威胁与俄罗斯、伊朗或任何代理集团有关。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-05T19:58:40Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-ce33817e4026d3a9fdfa52a7",
+      "title": "Meta说,美国用户现在可以和他们的Muse AI Avatar视频聊天了。",
+      "originalTitle": "Meta says US users can now video chat with their Muse AI avatar",
+      "summary": "梅塔的人工智能代理现在可以将电话作为可定制的动画阿凡达, 提前发射一个塔摩戈奇式的穿戴设备, 旨在给缪斯带来生命。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-05T19:48:28Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-cf91e8ba59594a0e1951fa80",
+      "title": "在土耳其西部发生的一系列枪击事件中,八人丧生",
+      "originalTitle": "Eight killed in series of shootings in western Turkey",
+      "summary": "根据当地报告,受害者在几个地方由三辆不同的车辆发现。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-05T19:32:54Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-7d05777f3cb4ebe2dae708ac",
+      "title": "Meta警告说,对数据中心的竞选反弹可能会使AI的扩张更加困难",
+      "originalTitle": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "summary": "Meta警告说,对数据中心日益加剧的政治反对可能会威胁未来的AI投资,因为社区反对大规模的基础设施项目。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-05T19:12:39Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-b5866cfe70f0100a5d2e98e2",
+      "title": "克里斯对克里斯:谁在竞选,",
+      "originalTitle": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
+      "summary": "新西兰人将于11月7日前往投票选举新政府,（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-05T19:08:48Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-0b645ea2a769f770e27e7c7f",
+      "title": "梅拉尼亚·特朗普呼吁在她接待俄罗斯和乌克兰官员时,维持乌克兰的停火。",
+      "originalTitle": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "summary": "美国第一夫人在停火中扮演了重要但未具体说明的角色,因此受到所有人的赞扬。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-05T19:08:08Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-42370702883d2723a98c10c3",
+      "title": "OpenAI发布了一个新的网络安全模型,够了吗?",
+      "originalTitle": "OpenAI released a new cybersecurity model. Is that enough?",
+      "summary": "OpenAI的最新网络安全模式 由AI实验室 来面对他们保护数字基础设施的工作（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-05T19:06:12Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-ab1811832bcda3d1416e5218",
+      "title": "美国政府警告在工业零售和军事冰柜大规模黑客中“持续网络威胁”",
+      "originalTitle": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
+      "summary": "美国政府的联合声明指出, 黑客正在影响食品、交通和医疗行业 之后,全球大规模黑客报告。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-05T18:48:34Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-58baebef2c52a55d41f2cf2d",
+      "title": "巴拉圭总统在银行危机冻结了数百万人的储蓄后辞职",
+      "originalTitle": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+      "summary": "圣地亚哥·佩尼亚右翼政府授权乌埃诺银行在巴拉圭右翼总统圣地亚哥·佩尼亚(Santiago Peña)崩溃前大幅扩张业务,最近几天南美国家银行系统发生政治金融危机后,他于星期四辞职。 危机的中心是乌埃诺银行,在短短几年里,该银行从一个模糊的数字中消失了。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-05T18:48:07Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-76510556b6b86f3e4c291696",
+      "title": "炸弹骗局:信息揭示了空中交通管制是如何传递威胁的",
+      "originalTitle": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
+      "summary": "英国广播公司核查公司一直在分析欧洲各地的航班遭到假炸弹威胁后发出的信息,这是本周发生的第二次此类事件。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-05T18:22:46Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-1e12b483f9faf77606bba4e7",
+      "title": "炸弹威胁破坏至少25次穿越欧洲的飞行,引起混合战争恐惧",
+      "originalTitle": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+      "summary": "在骗局警报影响空中旅行两天后被迫进入紧急降落或转移位置的飞机为何本周有30多个欧洲航班遭到炸弹威胁? 高峰炸弹威胁造成欧洲各地至少25个航班中断,一些航班被迫进入紧急着陆区,因为问题在于显然协调努力给旅行者制造混乱。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-05T18:17:36Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-2a8256897722920e0cf4e9d9",
+      "title": "OpenAI 总裁格雷格·布洛克曼说 公司可以在2027年准备好",
+      "originalTitle": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "summary": "在星期三的华尔街日报技术会议上, 执行官批评公司是如何在企业市场中取得优势的, 在企业市场中,对立的人类学已经取得了成功。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-05T18:02:27Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-b2184d42c47df3c1ba931746",
+      "title": "前安全处特工 翻了黑客 现在又筹到250万元的网络安全基金",
+      "originalTitle": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+      "summary": "Stephen Ward,前特勤局特工和CISO家庭分局,正在为Brightmind Partners准备大约2.5亿美元的第二笔资金。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-05T18:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-b86f7c45dcb3e5423ed2512d",
+      "title": "克劳德现在可以用新的个人金融工具分析你的开支",
+      "originalTitle": "Claude can now analyze your spending with its new Personal Finance tool",
+      "summary": "用户可以通过Plaid连结他们的银行和卡片账户, 询问他们的财务情况。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-05T18:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-af03e88c19417d5523ba4f69",
+      "title": "庄家在扩张为防御后筹集2.4亿美元",
+      "originalTitle": "Harbinger raises $240M after expanding into defense",
+      "summary": "以洛杉矶为基地的开办项目现已筹集到超过6.5亿美元,目前正在为军方建造电动卡车、紧急车辆和无司机平台。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-05T17:52:44Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-e8ecc5bc243f1f9c5ab5bf7c",
+      "title": "巴拉圭总统圣地亚哥·佩尼亚在银行倒闭后辞职",
+      "originalTitle": "Paraguay President Santiago Peña resigns after bank collapse",
+      "summary": "在银行倒闭之后 国会下院投票支持对他进行弹劾审判（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-05T17:40:40Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-d1175aa63bac5e5e3a250dc8",
+      "title": "一周内第二次对欧洲航空公司和机场进行Hax炸弹威胁",
+      "originalTitle": "Hoax bomb threats target European airlines and airports for second time in a week",
+      "summary": "至少21次穿越欧洲的航班受到影响,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-05T17:39:48Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-d9ae7f1c0a070e03a94211a9",
+      "title": "苏塞克斯的女公爵在儿童性虐待调查中疏远的同父异母的兄弟 \" 关心的人 \" 。",
+      "originalTitle": "Duchess of Sussex’s estranged half-brother ‘person of interest’ in child sexual abuse inquiry",
+      "summary": "菲律宾官员说,有`暗示小托马斯·马克勒参与犯罪的迹象 ' ,但他尚未被作为嫌疑人对待。 苏塞克斯的同父异母兄弟小托马斯·马克勒女公爵在菲律宾当局调查儿童性虐待形象指控时被命名为“有关人士”。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-05T17:37:27Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/05/meghan-sussex-thomas-markle-jr-philippines-child-sexual-abuse-inquiry"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-b37c3b9d2dbbedc9f7f91f9e",
+      "title": "请注意“阳光、海洋和外科”整形旅游包,专家建议",
+      "originalTitle": "Beware ‘sun, sea and surgery’ cosmetic tourism packages, experts advise",
+      "summary": "英国美术学院发布清单,作为“在你得到它之前看它”运动的一部分,化妆性旅游经常作为太阳、海洋和外科手术的一揽子产品出售,但专家说,出国接受手术可以结束感染、毁容和死亡。 诺拉·纽金特是一名咨询型整形外科医生,前英国美术造型外科医生协会主席,S。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-05T17:17:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/society/2026/nov/05/beware-cosmetic-surgery-tourism-packages-experts-advise"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-4865b4a63ca26e02b1929b3d",
+      "title": "为IPO探索下一个大咬口时的奇特文件",
+      "originalTitle": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+      "summary": "经过多年的募款、收购和扩张 食品供应启动 奇迹号越来越接近成为 上市的公司。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-05T17:11:48Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-987bf29fcdd669542b91c707",
+      "title": "K-pop Group NewJeans的合同遗漏了“睡眠和自由选择”的权利 — — 报告",
+      "originalTitle": "K-pop group NewJeans’s contract omitted rights to ‘sleep and free choice’ – report",
+      "summary": "新报告发现,唱片标签Ador在童年时剥夺了团体合同对儿童保护的保护。 超级明星K-Pop Group New-Jeans签署了限制性的记录标签合同,放弃了他们 \" 睡觉、休息和自由选择 \" 的权利。 《纽约时报》的一份新报告发现,这些合同是在破纪录女孩团体成员14至17岁时签署的。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-05T17:08:29Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/music/2026/nov/05/k-pop-group-newjeans-contract"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-89a3f71748b51c297d6d66bb",
+      "title": "欧盟要求联合王国保证欧洲学生的大学学费折扣",
+      "originalTitle": "EU presses UK to guarantee discounted university tuition fees for European students",
+      "summary": "在英国学习的欧盟公民如果不能同意降低学费,就应该推迟有价值的食物和饮料交易。 成员们说,英国政治实况是最新消息。 欧盟正在寻求英国政府做出更坚定的承诺,保证欧洲学生在本月举行人们期待已久的峰会之前获得大学学费折扣。 在星期三举行的欧盟高级外交官会议上,至少六位成员。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-05T16:58:54Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-ebef47c413e7a9e7a43039e6",
+      "title": "Axiom Math 想要让人工智能脱离数学",
+      "originalTitle": "Axiom Math wants to keep AI slop out of mathematics",
+      "summary": "人工智能在数学中充斥着未加节制的证据,Axiom Math则以验证为赌注。 启动的人工智能代理刚刚正式验证了斯塔克斯项目 — — 该领域最大的图书馆之一。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-05T16:16:45Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-411331a1e9eef5cebb008b39",
+      "title": "蓝斯基在选举之夜达到高峰",
+      "originalTitle": "Bluesky hit peak usage for the year on election night",
+      "summary": "Bluesky CEO Toni Schneider在星期二美国中期选举期间,（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-05T15:44:58Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-a838070352f315f586826f6a",
+      "title": "Zipline点击 21.5B 值,沃尔玛扩大了对无人机投送的赌注",
+      "originalTitle": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+      "summary": "Zipline筹集了15亿美元,并加强了与沃尔玛的伙伴关系。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-05T15:40:34Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-498a6689034622ac66d9e36b",
+      "title": "TikTok 悄悄地发布一个独立的 TikTok 商店应用程序",
+      "originalTitle": "TikTok quietly launches a stand-alone TikTok Shop app",
+      "summary": "该应用程序将提供个性化的产品建议,通过直播和短式视频进行购物,进行应用程序独家交易,在应用程序中结账,进行订单跟踪,以及客户支持。（机器翻译；尚未完成正文核查。）",
+      "category": "网络文化",
+      "publishedAt": "2026-11-05T15:33:58Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-9c6e67cc65141fc07bcb20be",
+      "title": "投放箱获得底格里斯数据350万美元,以强化其AI基础设施",
+      "originalTitle": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "summary": "预计这项交易将支持开发DBX Agent Cloud,这是一个新的储存平台,旨在开发建立AI模型和代理物的开发者。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-05T15:19:05Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-f2bfe9ab054febe53ae6569c",
+      "title": "Instagram 将编辑带入桌面以获取 CapCut",
+      "originalTitle": "Instagram brings Edits to desktop to take on CapCut",
+      "summary": "这个动作让《编辑》与《ByteDance》的《CapCut》更直接竞争,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-05T15:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-ce67631cbb2fe4cccd8c6281",
+      "title": "11Labs 现在允许用户在声音库上直接发布 AI 生成的音乐",
+      "originalTitle": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+      "summary": "11Labs说,已使用其音乐模型生成了2 500多万条音轨。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-05T15:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-9e1ba5f3444ece5bb996ff14",
+      "title": "对罗纳尔多来说是痛苦的结局 改变葡萄牙的偶像",
+      "originalTitle": "A bitter end for Ronaldo - the icon who transformed Portugal",
+      "summary": "当Cristiano Ronaldo退出国际足球赛时,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-05T14:29:40Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-41a65d83d13d6841cdbfcc99",
+      "title": "一个国家要求捐助方接受「不披露协议」,",
+      "originalTitle": "One Nation asks donors at $3,000-a-head Sydney fundraiser to accept ‘non-disclosure agreement’",
+      "summary": "透明问题专家对计划利用NDA来堵塞参加新南威尔士州大选前的Poline Hanson的活动表示担忧。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-05T14:00:26Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/06/one-nation-sydney-fundraiser-pauline-hanson-nda-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-556d9ead2fd34b7f35c7a677",
+      "title": "澳大利亚人还没有看到人工智能和数据中心的好处 — — 美国中期数据显示,它们可能是政治性的克里普顿石。",
+      "originalTitle": "Australians are yet to see the benefits of AI and datacentres – and US midterms show they could be political kryptonite",
+      "summary": "阿尔巴内斯应该小心翼翼地努力证明新技术将如何造福于普通选民。 得到我们的每日政治电子邮件、免费应用程序或每日新闻播客。 澳大利亚何时能看到人工智能和数据中心繁荣的好处? 到目前为止,我们所看到的只是版权改变的可能性会伤害澳大利亚的创意,关于电力和水的使用的特殊规则,以及这些。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-05T14:00:26Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/06/ai-datacentre-boom-could-be-political-kryptonite-australia"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-621a067940ec3d17502b75c6",
+      "title": "皮特和急诊都相似 法官裁决",
+      "originalTitle": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
+      "summary": "作者Michael Crichton的遗孀认为,Pitt其实是1990年代系列的重开。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-05T11:21:35Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-1016637b7869d8260c2f6cf5",
+      "title": "188年后澳洲最老的百货店大卫・琼斯折叠",
+      "originalTitle": "Australia's oldest department store David Jones folds after 188 years",
+      "summary": "该品牌的38个实物仓库和在线网站将继续运作,接收者将审查其业务。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-05T00:59:22Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-77a694b1d49af6bb32a5b77b",
+      "title": "你会做个测试 看看你的生命是否会被切断吗?",
+      "originalTitle": "Would you take a test to see if your life will be cut short? I did - and it changed me",
+      "summary": "Laura Sides面临一个困境 是否要知道她是否会继承她父亲的病情（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-05T00:32:09Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw62yq9vp7yyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T00:33:24.083283Z",
+      "updatedAt": "2026-11-06T00:33:24.083283Z"
     }
   ],
   "history": [
@@ -92317,9 +94103,1990 @@
         "firstSeen": "2026-11-05T12:47:40.184573Z",
         "updatedAt": "2026-11-05T12:47:40.184573Z"
       }
+    },
+    {
+      "eventId": "rss-9e7d1c8dc3b08b4097ea05ea",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-9e7d1c8dc3b08b4097ea05ea",
+        "title": "Beau Lamarre-Condon 审判现场最新消息:前警官继续重复谋杀审判的证据",
+        "originalTitle": "Beau Lamarre-Condon trial live updates: former police officer continues evidence in double murder trial",
+        "summary": "Lamarre-Condon在第二天回到证人席上作证。 他被指控于2024年在悉尼枪杀了Jesse Baird和Luke Davies夫妇。 获得我们的突发新闻电子邮件、免费应用程序或每日新闻播客Lamarre-Condon“有想法 ” , 装扮成UberEats骑手Lamarre-Condon告诉法庭,他看到了他以为是某人送来的摩托车:我一看到一个想法,他就告诉了法庭:（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-06T00:18:21Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-2a2dee1e1f0d522c44b4064d",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-2a2dee1e1f0d522c44b4064d",
+        "title": "《纽约时报》据说以3.3亿美元买下信箱",
+        "originalTitle": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+        "summary": "信箱,一个在线的电影爱好者平台,近年来急剧增长。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-06T00:07:18Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-3880731809dbbf5e7ad5887f",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-3880731809dbbf5e7ad5887f",
+        "title": "与宇宙定律对抗的引擎部件",
+        "originalTitle": "The engine parts that 'fight the laws of the universe'",
+        "summary": "投资激增到喷气涡轮机叶片的制造上,这是一个极其困难的组成部分。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-06T00:06:06Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-7f806f4d6ebc196f3a39fdee",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-7f806f4d6ebc196f3a39fdee",
+        "title": "随着美国期中产品增加对AI减速的担心,主要技术库存猛跌",
+        "originalTitle": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+        "summary": "美国期中期后,市场对数据中心建设和人工智能行业可能进行更严格的审查作出了反应。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-06T00:05:05Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-c3be5729c60de2770991d0de",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-c3be5729c60de2770991d0de",
+        "title": "教皇在肺癌手术几周后 开始长途跋涉到拉丁美洲",
+        "originalTitle": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+        "summary": "Pope Leo上个月被肺部切除,他将访问乌拉圭、阿根廷和秘鲁。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-06T00:02:57Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-d7ab8a34c701ae8d133258d6",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-d7ab8a34c701ae8d133258d6",
+        "title": "Meta, Google, 和 TikTok 控告加利福尼亚州AG 违反青少年社会媒体法",
+        "originalTitle": "Meta, Google, and TikTok sue California AG over teen social media law",
+        "summary": "如果明年生效,加利福尼亚州的法律将限制16岁以下儿童使用社交媒体。（机器翻译；尚未完成正文核查。）",
+        "category": "网络文化",
+        "publishedAt": "2026-11-06T00:01:38Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-2afbe0a37742b380f7246b38",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-2afbe0a37742b380f7246b38",
+        "title": "民主社会主义在洛杉矶市长的竞选中 击败了现任的凯伦·拜斯",
+        "originalTitle": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+        "summary": "结果显示,美国人口最多的两个城市——纽约和洛杉矶——将由民主社会主义者领导。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-05T23:31:35Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-2a46dc0a00e65778f5885b92",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-2a46dc0a00e65778f5885b92",
+        "title": "德里有毒的冬季空气又回来了 印度首都是否准备好去污染了?",
+        "originalTitle": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+        "summary": "德里政府宣布了一个为期四个月的冬季行动计划, 但专家说这还不够。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-05T23:16:53Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-ffff2886fc4b1906ffc939db",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-ffff2886fc4b1906ffc939db",
+        "title": "加州州长对州548名死囚减刑",
+        "originalTitle": "California governor commutes sentences for state's 548 death row inmates",
+        "summary": "加州历史上是美国死刑犯人数最多的州。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-05T23:09:33Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-77df3d85a9f5763d57479d65",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-77df3d85a9f5763d57479d65",
+        "title": "Parramatta发电站这个周末开张,",
+        "originalTitle": "Powerhouse Parramatta opens this weekend – and it’s dazzling inside and out",
+        "summary": "我们的周末文化和生活方式电子邮件Dubbed“西悉尼奥佩拉之家”, Parramatta的白色拉特斯克勒顿(Powerhouse Parramatta), 由1300块块块和30 000平方米的内地空间组成,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-05T23:00:36Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/culture/ng-interactive/2026/nov/06/powerhouse-parramatta-opening-festival"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-17b57e4655701f14b981722c",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-17b57e4655701f14b981722c",
+        "title": "Airbnb说它在2027年上半年发射AI旅行社",
+        "originalTitle": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+        "summary": "Airbnb说,其即将到来的AI代理 将帮助旅行者计划旅行, 比较选项, 管理预订, 并在他们整个逗留期间得到援助。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-05T22:40:55Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-a8e2722db37803896f7ffa1f",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-a8e2722db37803896f7ffa1f",
+        "title": "服务机器人 启动新的业务 成为机器人的AWS",
+        "originalTitle": "Serve Robotics launches new business to become the AWS for robots",
+        "summary": "服务机器人公司宣布其第三季度收入 它将启动一个新的商业线 称为物理AI服务 向客户提供其连接和数据工具。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-05T21:15:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-56898cfb97b9aac836c20a1d",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-56898cfb97b9aac836c20a1d",
+        "title": "谁可能背后的骗局炸弹 威胁欧洲航空旅行?",
+        "originalTitle": "Who could be behind hoax bomb threats to European air travel?",
+        "summary": "迄今为止,没有确凿证据表明航空公司的炸弹威胁与俄罗斯、伊朗或任何代理集团有关。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-05T19:58:40Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-ce33817e4026d3a9fdfa52a7",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-ce33817e4026d3a9fdfa52a7",
+        "title": "Meta说,美国用户现在可以和他们的Muse AI Avatar视频聊天了。",
+        "originalTitle": "Meta says US users can now video chat with their Muse AI avatar",
+        "summary": "梅塔的人工智能代理现在可以将电话作为可定制的动画阿凡达, 提前发射一个塔摩戈奇式的穿戴设备, 旨在给缪斯带来生命。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-05T19:48:28Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-cf91e8ba59594a0e1951fa80",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-cf91e8ba59594a0e1951fa80",
+        "title": "在土耳其西部发生的一系列枪击事件中,八人丧生",
+        "originalTitle": "Eight killed in series of shootings in western Turkey",
+        "summary": "根据当地报告,受害者在几个地方由三辆不同的车辆发现。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-05T19:32:54Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-7d05777f3cb4ebe2dae708ac",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-7d05777f3cb4ebe2dae708ac",
+        "title": "Meta警告说,对数据中心的竞选反弹可能会使AI的扩张更加困难",
+        "originalTitle": "Meta warns that election backlash against data centers could make AI expansion harder",
+        "summary": "Meta警告说,对数据中心日益加剧的政治反对可能会威胁未来的AI投资,因为社区反对大规模的基础设施项目。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-05T19:12:39Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-b5866cfe70f0100a5d2e98e2",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-b5866cfe70f0100a5d2e98e2",
+        "title": "克里斯对克里斯:谁在竞选,",
+        "originalTitle": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
+        "summary": "新西兰人将于11月7日前往投票选举新政府,（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-05T19:08:48Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-0b645ea2a769f770e27e7c7f",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-0b645ea2a769f770e27e7c7f",
+        "title": "梅拉尼亚·特朗普呼吁在她接待俄罗斯和乌克兰官员时,维持乌克兰的停火。",
+        "originalTitle": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+        "summary": "美国第一夫人在停火中扮演了重要但未具体说明的角色,因此受到所有人的赞扬。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-05T19:08:08Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-42370702883d2723a98c10c3",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-42370702883d2723a98c10c3",
+        "title": "OpenAI发布了一个新的网络安全模型,够了吗?",
+        "originalTitle": "OpenAI released a new cybersecurity model. Is that enough?",
+        "summary": "OpenAI的最新网络安全模式 由AI实验室 来面对他们保护数字基础设施的工作（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-05T19:06:12Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-ab1811832bcda3d1416e5218",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-ab1811832bcda3d1416e5218",
+        "title": "美国政府警告在工业零售和军事冰柜大规模黑客中“持续网络威胁”",
+        "originalTitle": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
+        "summary": "美国政府的联合声明指出, 黑客正在影响食品、交通和医疗行业 之后,全球大规模黑客报告。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-05T18:48:34Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-58baebef2c52a55d41f2cf2d",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-58baebef2c52a55d41f2cf2d",
+        "title": "巴拉圭总统在银行危机冻结了数百万人的储蓄后辞职",
+        "originalTitle": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+        "summary": "圣地亚哥·佩尼亚右翼政府授权乌埃诺银行在巴拉圭右翼总统圣地亚哥·佩尼亚(Santiago Peña)崩溃前大幅扩张业务,最近几天南美国家银行系统发生政治金融危机后,他于星期四辞职。 危机的中心是乌埃诺银行,在短短几年里,该银行从一个模糊的数字中消失了。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-05T18:48:07Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-76510556b6b86f3e4c291696",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-76510556b6b86f3e4c291696",
+        "title": "炸弹骗局:信息揭示了空中交通管制是如何传递威胁的",
+        "originalTitle": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
+        "summary": "英国广播公司核查公司一直在分析欧洲各地的航班遭到假炸弹威胁后发出的信息,这是本周发生的第二次此类事件。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-05T18:22:46Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-1e12b483f9faf77606bba4e7",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-1e12b483f9faf77606bba4e7",
+        "title": "炸弹威胁破坏至少25次穿越欧洲的飞行,引起混合战争恐惧",
+        "originalTitle": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+        "summary": "在骗局警报影响空中旅行两天后被迫进入紧急降落或转移位置的飞机为何本周有30多个欧洲航班遭到炸弹威胁? 高峰炸弹威胁造成欧洲各地至少25个航班中断,一些航班被迫进入紧急着陆区,因为问题在于显然协调努力给旅行者制造混乱。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-05T18:17:36Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-2a8256897722920e0cf4e9d9",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-2a8256897722920e0cf4e9d9",
+        "title": "OpenAI 总裁格雷格·布洛克曼说 公司可以在2027年准备好",
+        "originalTitle": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+        "summary": "在星期三的华尔街日报技术会议上, 执行官批评公司是如何在企业市场中取得优势的, 在企业市场中,对立的人类学已经取得了成功。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-05T18:02:27Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-b2184d42c47df3c1ba931746",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-b2184d42c47df3c1ba931746",
+        "title": "前安全处特工 翻了黑客 现在又筹到250万元的网络安全基金",
+        "originalTitle": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+        "summary": "Stephen Ward,前特勤局特工和CISO家庭分局,正在为Brightmind Partners准备大约2.5亿美元的第二笔资金。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-05T18:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-b86f7c45dcb3e5423ed2512d",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-b86f7c45dcb3e5423ed2512d",
+        "title": "克劳德现在可以用新的个人金融工具分析你的开支",
+        "originalTitle": "Claude can now analyze your spending with its new Personal Finance tool",
+        "summary": "用户可以通过Plaid连结他们的银行和卡片账户, 询问他们的财务情况。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-05T18:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-af03e88c19417d5523ba4f69",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-af03e88c19417d5523ba4f69",
+        "title": "庄家在扩张为防御后筹集2.4亿美元",
+        "originalTitle": "Harbinger raises $240M after expanding into defense",
+        "summary": "以洛杉矶为基地的开办项目现已筹集到超过6.5亿美元,目前正在为军方建造电动卡车、紧急车辆和无司机平台。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-05T17:52:44Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-e8ecc5bc243f1f9c5ab5bf7c",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-e8ecc5bc243f1f9c5ab5bf7c",
+        "title": "巴拉圭总统圣地亚哥·佩尼亚在银行倒闭后辞职",
+        "originalTitle": "Paraguay President Santiago Peña resigns after bank collapse",
+        "summary": "在银行倒闭之后 国会下院投票支持对他进行弹劾审判（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-05T17:40:40Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-d1175aa63bac5e5e3a250dc8",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-d1175aa63bac5e5e3a250dc8",
+        "title": "一周内第二次对欧洲航空公司和机场进行Hax炸弹威胁",
+        "originalTitle": "Hoax bomb threats target European airlines and airports for second time in a week",
+        "summary": "至少21次穿越欧洲的航班受到影响,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-05T17:39:48Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-d9ae7f1c0a070e03a94211a9",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-d9ae7f1c0a070e03a94211a9",
+        "title": "苏塞克斯的女公爵在儿童性虐待调查中疏远的同父异母的兄弟 \" 关心的人 \" 。",
+        "originalTitle": "Duchess of Sussex’s estranged half-brother ‘person of interest’ in child sexual abuse inquiry",
+        "summary": "菲律宾官员说,有`暗示小托马斯·马克勒参与犯罪的迹象 ' ,但他尚未被作为嫌疑人对待。 苏塞克斯的同父异母兄弟小托马斯·马克勒女公爵在菲律宾当局调查儿童性虐待形象指控时被命名为“有关人士”。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-05T17:37:27Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/05/meghan-sussex-thomas-markle-jr-philippines-child-sexual-abuse-inquiry"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-b37c3b9d2dbbedc9f7f91f9e",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-b37c3b9d2dbbedc9f7f91f9e",
+        "title": "请注意“阳光、海洋和外科”整形旅游包,专家建议",
+        "originalTitle": "Beware ‘sun, sea and surgery’ cosmetic tourism packages, experts advise",
+        "summary": "英国美术学院发布清单,作为“在你得到它之前看它”运动的一部分,化妆性旅游经常作为太阳、海洋和外科手术的一揽子产品出售,但专家说,出国接受手术可以结束感染、毁容和死亡。 诺拉·纽金特是一名咨询型整形外科医生,前英国美术造型外科医生协会主席,S。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-05T17:17:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/society/2026/nov/05/beware-cosmetic-surgery-tourism-packages-experts-advise"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-4865b4a63ca26e02b1929b3d",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-4865b4a63ca26e02b1929b3d",
+        "title": "为IPO探索下一个大咬口时的奇特文件",
+        "originalTitle": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+        "summary": "经过多年的募款、收购和扩张 食品供应启动 奇迹号越来越接近成为 上市的公司。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-05T17:11:48Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-987bf29fcdd669542b91c707",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-987bf29fcdd669542b91c707",
+        "title": "K-pop Group NewJeans的合同遗漏了“睡眠和自由选择”的权利 — — 报告",
+        "originalTitle": "K-pop group NewJeans’s contract omitted rights to ‘sleep and free choice’ – report",
+        "summary": "新报告发现,唱片标签Ador在童年时剥夺了团体合同对儿童保护的保护。 超级明星K-Pop Group New-Jeans签署了限制性的记录标签合同,放弃了他们 \" 睡觉、休息和自由选择 \" 的权利。 《纽约时报》的一份新报告发现,这些合同是在破纪录女孩团体成员14至17岁时签署的。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-05T17:08:29Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/music/2026/nov/05/k-pop-group-newjeans-contract"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-89a3f71748b51c297d6d66bb",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-89a3f71748b51c297d6d66bb",
+        "title": "欧盟要求联合王国保证欧洲学生的大学学费折扣",
+        "originalTitle": "EU presses UK to guarantee discounted university tuition fees for European students",
+        "summary": "在英国学习的欧盟公民如果不能同意降低学费,就应该推迟有价值的食物和饮料交易。 成员们说,英国政治实况是最新消息。 欧盟正在寻求英国政府做出更坚定的承诺,保证欧洲学生在本月举行人们期待已久的峰会之前获得大学学费折扣。 在星期三举行的欧盟高级外交官会议上,至少六位成员。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-05T16:58:54Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-ebef47c413e7a9e7a43039e6",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-ebef47c413e7a9e7a43039e6",
+        "title": "Axiom Math 想要让人工智能脱离数学",
+        "originalTitle": "Axiom Math wants to keep AI slop out of mathematics",
+        "summary": "人工智能在数学中充斥着未加节制的证据,Axiom Math则以验证为赌注。 启动的人工智能代理刚刚正式验证了斯塔克斯项目 — — 该领域最大的图书馆之一。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-05T16:16:45Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-411331a1e9eef5cebb008b39",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-411331a1e9eef5cebb008b39",
+        "title": "蓝斯基在选举之夜达到高峰",
+        "originalTitle": "Bluesky hit peak usage for the year on election night",
+        "summary": "Bluesky CEO Toni Schneider在星期二美国中期选举期间,（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-05T15:44:58Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-a838070352f315f586826f6a",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-a838070352f315f586826f6a",
+        "title": "Zipline点击 21.5B 值,沃尔玛扩大了对无人机投送的赌注",
+        "originalTitle": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+        "summary": "Zipline筹集了15亿美元,并加强了与沃尔玛的伙伴关系。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-05T15:40:34Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-498a6689034622ac66d9e36b",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-498a6689034622ac66d9e36b",
+        "title": "TikTok 悄悄地发布一个独立的 TikTok 商店应用程序",
+        "originalTitle": "TikTok quietly launches a stand-alone TikTok Shop app",
+        "summary": "该应用程序将提供个性化的产品建议,通过直播和短式视频进行购物,进行应用程序独家交易,在应用程序中结账,进行订单跟踪,以及客户支持。（机器翻译；尚未完成正文核查。）",
+        "category": "网络文化",
+        "publishedAt": "2026-11-05T15:33:58Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-9c6e67cc65141fc07bcb20be",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-9c6e67cc65141fc07bcb20be",
+        "title": "投放箱获得底格里斯数据350万美元,以强化其AI基础设施",
+        "originalTitle": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+        "summary": "预计这项交易将支持开发DBX Agent Cloud,这是一个新的储存平台,旨在开发建立AI模型和代理物的开发者。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-05T15:19:05Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-f2bfe9ab054febe53ae6569c",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-f2bfe9ab054febe53ae6569c",
+        "title": "Instagram 将编辑带入桌面以获取 CapCut",
+        "originalTitle": "Instagram brings Edits to desktop to take on CapCut",
+        "summary": "这个动作让《编辑》与《ByteDance》的《CapCut》更直接竞争,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-05T15:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-ce67631cbb2fe4cccd8c6281",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-ce67631cbb2fe4cccd8c6281",
+        "title": "11Labs 现在允许用户在声音库上直接发布 AI 生成的音乐",
+        "originalTitle": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+        "summary": "11Labs说,已使用其音乐模型生成了2 500多万条音轨。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-05T15:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-9e1ba5f3444ece5bb996ff14",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-9e1ba5f3444ece5bb996ff14",
+        "title": "对罗纳尔多来说是痛苦的结局 改变葡萄牙的偶像",
+        "originalTitle": "A bitter end for Ronaldo - the icon who transformed Portugal",
+        "summary": "当Cristiano Ronaldo退出国际足球赛时,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-05T14:29:40Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-41a65d83d13d6841cdbfcc99",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-41a65d83d13d6841cdbfcc99",
+        "title": "一个国家要求捐助方接受「不披露协议」,",
+        "originalTitle": "One Nation asks donors at $3,000-a-head Sydney fundraiser to accept ‘non-disclosure agreement’",
+        "summary": "透明问题专家对计划利用NDA来堵塞参加新南威尔士州大选前的Poline Hanson的活动表示担忧。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-05T14:00:26Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/06/one-nation-sydney-fundraiser-pauline-hanson-nda-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-556d9ead2fd34b7f35c7a677",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-556d9ead2fd34b7f35c7a677",
+        "title": "澳大利亚人还没有看到人工智能和数据中心的好处 — — 美国中期数据显示,它们可能是政治性的克里普顿石。",
+        "originalTitle": "Australians are yet to see the benefits of AI and datacentres – and US midterms show they could be political kryptonite",
+        "summary": "阿尔巴内斯应该小心翼翼地努力证明新技术将如何造福于普通选民。 得到我们的每日政治电子邮件、免费应用程序或每日新闻播客。 澳大利亚何时能看到人工智能和数据中心繁荣的好处? 到目前为止,我们所看到的只是版权改变的可能性会伤害澳大利亚的创意,关于电力和水的使用的特殊规则,以及这些。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-05T14:00:26Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/06/ai-datacentre-boom-could-be-political-kryptonite-australia"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-621a067940ec3d17502b75c6",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-621a067940ec3d17502b75c6",
+        "title": "皮特和急诊都相似 法官裁决",
+        "originalTitle": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
+        "summary": "作者Michael Crichton的遗孀认为,Pitt其实是1990年代系列的重开。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-05T11:21:35Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-1016637b7869d8260c2f6cf5",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-1016637b7869d8260c2f6cf5",
+        "title": "188年后澳洲最老的百货店大卫・琼斯折叠",
+        "originalTitle": "Australia's oldest department store David Jones folds after 188 years",
+        "summary": "该品牌的38个实物仓库和在线网站将继续运作,接收者将审查其业务。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-05T00:59:22Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
+    },
+    {
+      "eventId": "rss-77a694b1d49af6bb32a5b77b",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "data": {
+        "id": "rss-77a694b1d49af6bb32a5b77b",
+        "title": "你会做个测试 看看你的生命是否会被切断吗?",
+        "originalTitle": "Would you take a test to see if your life will be cut short? I did - and it changed me",
+        "summary": "Laura Sides面临一个困境 是否要知道她是否会继承她父亲的病情（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-05T00:32:09Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cw62yq9vp7yyo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T00:33:24.083283Z",
+        "updatedAt": "2026-11-06T00:33:24.083283Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-06T00:33:24.083283Z",
+      "at": "2026-11-06T00:33:24.083283Z",
+      "kind": "GitHub Actions 采集",
+      "count": 47,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 16}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 1}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 10}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 20}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-05T12:47:40.184573Z",
       "at": "2026-11-05T12:47:40.184573Z",
