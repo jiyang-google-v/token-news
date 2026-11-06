@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-06T00:33:24.083283Z",
+  "updatedAt": "2026-11-06T12:44:56.571527Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -45632,6 +45632,994 @@
       "tokens": [],
       "firstSeen": "2026-11-06T00:33:24.083283Z",
       "updatedAt": "2026-11-06T00:33:24.083283Z"
+    },
+    {
+      "id": "rss-6628f0dec7a2589ddadd223c",
+      "title": "坦桑尼亚反对派领导人因煽动动乱而被判有罪,但因叛国罪被宣告无罪",
+      "originalTitle": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+      "summary": "自去年4月以来被拘留的58岁青年说,这些指控是出于政治动机。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-06T12:41:44Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T12:44:56.571527Z",
+      "updatedAt": "2026-11-06T12:44:56.571527Z"
+    },
+    {
+      "id": "rss-09fb401084b6939bb71d5e0a",
+      "title": "随着更多的航空公司收到炸弹威胁,欧洲的天空高度戒备 — — 欧洲现场直播",
+      "originalTitle": "European skies on high alert as more airlines receive bomb threats – Europe live",
+      "summary": "霍克斯炸弹威胁本周针对商业航班,导致至少35架飞机在星期五之前被搜查或转道。 告诉我们:你是否受到欧洲航班受到炸弹威胁的影响? 罗马尼亚航空公司塔罗姆从布拉格飞往布加勒斯特的航班被认为是最近受到今天的炸弹威胁的影响。 运行ROT226M号航班的飞机发送了7700-General Emer的标语代码。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-06T12:31:56Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T12:44:56.571527Z",
+      "updatedAt": "2026-11-06T12:44:56.571527Z"
+    },
+    {
+      "id": "rss-017c51e93e0feb22cd085a8d",
+      "title": "多数欧洲人希望采取行动解决气候危机,",
+      "originalTitle": "Most Europeans want action to tackle climate crisis but not at any cost, poll shows",
+      "summary": "YouGov调查发现,人们支持植树和征收排放税,但反对航空旅行和燃料税的欧洲现场直播 — — 最新消息显示,欧洲人相信人为气候变化是真实的,调查表明,只要他们不必为此付出太多代价,就必须尽快采取行动。 6个欧洲国家的YouGov民意调查显示,69%(德国)到8 % 。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-06T12:27:54Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/06/europeans-want-action-climate-crisis-yougov-poll"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T12:44:56.571527Z",
+      "updatedAt": "2026-11-06T12:44:56.571527Z"
+    },
+    {
+      "id": "rss-bf1e47684d2f391cd784ba2c",
+      "title": "官方说,在法国,巴士坠毁后有两个人死亡",
+      "originalTitle": "Two dead after bus crashes in France, officials say",
+      "summary": "地方当局说,一名儿童和一名青年在坠机中丧生,受伤者更多。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-06T12:27:33Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T12:44:56.571527Z",
+      "updatedAt": "2026-11-06T12:44:56.571527Z"
+    },
+    {
+      "id": "rss-efbeca1e8e750597e96fa3bf",
+      "title": "肯尼亚末日邪教领袖因谋杀191人被判无期徒刑",
+      "originalTitle": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "summary": "Paul Mackenzie命令他的追随者 把他们的孩子饿死在森林里 这样他们就可以\"接见耶稣\"了（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-06T12:19:41Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T12:44:56.571527Z",
+      "updatedAt": "2026-11-06T12:44:56.571527Z"
+    },
+    {
+      "id": "rss-3b94791c0d3fad0cc487e681",
+      "title": "特斯拉会在2027年停止制造赛博车",
+      "originalTitle": "Tesla will stop making the Cybertruck in 2027",
+      "summary": "伊隆·穆斯克说公司会利用工厂空间 制造更多的网络摄像头（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-06T11:50:10Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T12:44:56.571527Z",
+      "updatedAt": "2026-11-06T12:44:56.571527Z"
+    },
+    {
+      "id": "rss-12cd5386123ca069ddecffc6",
+      "title": "丹麦在`非西方人 ' 被驱逐后对`平行社会 ' 作出裁决的最高法院",
+      "originalTitle": "Denmark’s top court to rule on ‘parallel societies’ after ‘non-western’ people evicted",
+      "summary": "政府要求驱逐Helsingør住房综合体的前居民,这与他们的族裔无关,丹麦最高法院预计将就丹麦对具有“非西方”背景的居民的分类是否属于种族歧视法的范围作出裁决。 被从哥本哈根北部Helsingør市的Nøjsomhed-Sydvej驱逐的居民提出的上诉可能具有深远的影响。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-06T10:00:49Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/06/denmarks-top-court-to-rule-on-parallel-societies-after-non-western-people-evicted"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T12:44:56.571527Z",
+      "updatedAt": "2026-11-06T12:44:56.571527Z"
+    },
+    {
+      "id": "rss-25cd541ca2207ece4c1d3c09",
+      "title": "伊隆·穆斯克似乎预示着 赛博特拉克路的尽头",
+      "originalTitle": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "summary": "穆斯克说,它要腾出空间 来生产它的网络车厢, 没有司机的自家出租车。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-06T09:57:04Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T12:44:56.571527Z",
+      "updatedAt": "2026-11-06T12:44:56.571527Z"
+    },
+    {
+      "id": "rss-84847d386bb7b82a06dea2de",
+      "title": "美国中西部的低压 给纽约和波士顿带来了不适的热量",
+      "originalTitle": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
+      "summary": "本周更南端,严重的雷暴影响了佛罗里达州、俄克拉荷马州和科罗拉多州的中期投票,尽管北半球迅速滑入秋天,但北美东部部分地区最近几天的夏季味道特别晚。 纽约和波士顿的温度接近23C(73F),比11月初的预期值高出约7-10C。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-06T09:54:12Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T12:44:56.571527Z",
+      "updatedAt": "2026-11-06T12:44:56.571527Z"
+    },
+    {
+      "id": "rss-89b5f6f07cd9652cf3d4b2ce",
+      "title": "特朗普号命令 保护办公室作为国家纪念碑",
+      "originalTitle": "Trump signs order to preserve Oval Office as national monument",
+      "summary": "命令是特朗普对总统办公室的装饰 做出一系列重大改变 并摧毁白宫东翼之后发出的（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-06T09:19:57Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T12:44:56.571527Z",
+      "updatedAt": "2026-11-06T12:44:56.571527Z"
+    },
+    {
+      "id": "rss-20e5ea8a8d5139236251f1e8",
+      "title": "民主党中期胜利后,全球股票在AI公司减速恐惧中暴跌",
+      "originalTitle": "Global stocks plunge amid AI slowdown fears after Democrats’ midterm triumph",
+      "summary": "亚洲和欧洲市场紧随华尔街,随着FTSE公司1.9%的实战率下降 — — 民主党中期胜利引发了对AI行业减速的恐惧后,欧洲最新股票市场随着美国技术股票在大西洋各地的暴跌而急剧下降。 周四华尔街的买卖后,亚洲股票市场在周五的上午急剧下跌。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-06T08:58:22Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T12:44:56.571527Z",
+      "updatedAt": "2026-11-06T12:44:56.571527Z"
+    },
+    {
+      "id": "rss-190a8727d78a0c03c610c51e",
+      "title": "死亡是一个“明显的可能性” 在碰撞运行 和面对面的比赛, 询问听到",
+      "originalTitle": "Death a ‘distinct possibility’ in collision running and face-slapping competitions, inquiry hears",
+      "summary": "神经科医生说, 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客相撞和拍脸比赛, 与胆小鬼的拳头或“King-hit”相类似, 死亡是“明显的可能性 ” , 脑震荡专家告诉了国会调查。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-06T08:23:10Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/06/run-nation-power-slap-combat-sports-safety-inquiry-nsw"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T12:44:56.571527Z",
+      "updatedAt": "2026-11-06T12:44:56.571527Z"
+    },
+    {
+      "id": "rss-350215ce474dce9e3f7d94ba",
+      "title": "索马里最高法院在政治危机中拒绝延长总统任期",
+      "originalTitle": "Somalia's top court rejects president's term extension amid political crisis",
+      "summary": "该国自1969年以来的第一次全国选举将于明年举行,现在时间表令人怀疑。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-06T08:18:10Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T12:44:56.571527Z",
+      "updatedAt": "2026-11-06T12:44:56.571527Z"
+    },
+    {
+      "id": "rss-a4fee0499c3a64e86d9b867f",
+      "title": "伊朗导弹基地附近正在进行重大建设,卫星图像显示",
+      "originalTitle": "Major construction ongoing near Iran missile bases, satellite images suggest",
+      "summary": "卫星图像表明,11月拍摄的卫星图像中可以看到挖掘和新建筑的证据。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-06T07:33:41Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T12:44:56.571527Z",
+      "updatedAt": "2026-11-06T12:44:56.571527Z"
+    },
+    {
+      "id": "rss-a78f69047d91f53cb34426c7",
+      "title": "至少有10个地方政府从夏天开始 撤掉Flock的监控摄像头",
+      "originalTitle": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
+      "summary": "这些关切从隐私到数据共享(和与谁共享),到采购关切,不一而足。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-06T07:18:44Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T12:44:56.571527Z",
+      "updatedAt": "2026-11-06T12:44:56.571527Z"
+    },
+    {
+      "id": "rss-d86ee1e3134a2a129b01540a",
+      "title": "澳门监狱 支持民主的竞选者 在城市的第一个国家安全案件",
+      "originalTitle": "Macau jails pro-democracy campaigner in city's first national security case",
+      "summary": "Au Kam San因“颠覆国家政权”被判处12年零6个月的监禁。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-06T06:46:21Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T12:44:56.571527Z",
+      "updatedAt": "2026-11-06T12:44:56.571527Z"
+    },
+    {
+      "id": "rss-bc289b307cc90ecf5622ac07",
+      "title": "星期五简报:经过一周的干扰后,生活在威胁中是否我们的新常态?",
+      "originalTitle": "Friday briefing: ​After a week of disruption, is living with threats our new normal?",
+      "summary": "在今天的通讯中:从转机到黑冰箱,一连串的破坏性事件暴露了现代生活的脆弱性。 现在和平与冲突之间,灰色地带之间的空间越来越模糊。 早安。 多重恶作剧炸弹威胁分散了跨欧洲的客机飞行。 邪恶的网络攻击袭击了比利时、瑞典、日本的超市冰箱。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-06T06:43:04Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/06/friday-briefing-after-a-week-of-disruption-is-living-with-threats-our-new-normal"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T12:44:56.571527Z",
+      "updatedAt": "2026-11-06T12:44:56.571527Z"
+    },
+    {
+      "id": "rss-c822924fc1f280c7bb5c4ca2",
+      "title": "帕洛阿尔托网络在谈判 购买AI代理 安全启动 Clutch $500M",
+      "originalTitle": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "summary": "据消息来源说,由光速和信号火支持的Clutch最后价值为8 500万美元。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-06T06:28:32Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T12:44:56.571527Z",
+      "updatedAt": "2026-11-06T12:44:56.571527Z"
+    },
+    {
+      "id": "rss-8eb4edf88c7a96e06adf15dc",
+      "title": "Bondi海滩枪击案:90岁的Eva Geller,在大屠杀中被枪杀,在反异教徒攻击一年后死于医院。",
+      "originalTitle": "Bondi beach shooting: Eva Geller, 90, shot during massacre dies in hospital year after antisemitic attack",
+      "summary": "她于2025年12月14日在Hanukah节中被枪杀,自从我们接到突发新闻电子邮件、免费应用程序或每日新闻播客之后,一直进出医院。 一名在Bondi海滩恐怖袭击中被枪杀的妇女,在大屠杀发生近12个月后死于医院。 今年,90岁的Eva Geller因治疗12月14日袭击中受伤而进出医院。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-06T06:26:03Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T12:44:56.571527Z",
+      "updatedAt": "2026-11-06T12:44:56.571527Z"
+    },
+    {
+      "id": "rss-7b014650a0356d3fdc0ac137",
+      "title": "数据中心造反是否影响美国中期选举结果?",
+      "originalTitle": "Did a data centre revolt affect the US midterm election results?",
+      "summary": "英国广播公司核查美国选民是否受到数据中心繁荣的影响,（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-06T06:01:13Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T12:44:56.571527Z",
+      "updatedAt": "2026-11-06T12:44:56.571527Z"
+    },
+    {
+      "id": "rss-e0b609f23f25c3183a35744c",
+      "title": "一场野火在西班牙杀死了亲人 这些英国家庭要求知道为什么",
+      "originalTitle": "A wildfire killed their loved ones in Spain. These British families demand to know why",
+      "summary": "今年夏天,Bédar村发生火灾,造成15人死亡,其中9名英国国民死亡。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-06T06:00:46Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T12:44:56.571527Z",
+      "updatedAt": "2026-11-06T12:44:56.571527Z"
+    },
+    {
+      "id": "rss-667a8dcf183660e0b2bfca0e",
+      "title": "Beau Lamarre-Condon说,对Jesse Baird的肩膀开枪的双重谋杀审判是“正确之举”。",
+      "originalTitle": "Beau Lamarre-Condon tells double murder trial firing first shot at Jesse Baird’s shoulder was ‘the right move’",
+      "summary": "前新南威尔士州警察在2024年初对谋杀Baird和Luke Davies的无罪认罪后第二天提供证据。 新南威尔士州最高法院已经审理了控方开始对被控双重谋杀的被告Beau Lamarre-Condon Beau Lamarre-Condon“支持”他拍摄Jesse Baird的决定,但并未打算杀死他。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-06T05:17:05Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/06/beau-lamarre-condon-trial-witness-box-evidence-case-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T12:44:56.571527Z",
+      "updatedAt": "2026-11-06T12:44:56.571527Z"
+    },
+    {
+      "id": "rss-3b992b58e7e1883170be38cd",
+      "title": "专家说,澳洲在期中 也面临同样的问题 推翻了对美国国会的控制",
+      "originalTitle": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
+      "summary": "Anthony Albanese的政府因伊朗战争而遭到打击, 但选民对生活成本和数据中心的焦虑可能更严重。 我们的每日政治电子邮件、免费应用程序或每日新闻播客。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-06T04:45:24Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/06/us-midterms-warning-for-australia-cost-of-living-fuel-prices"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T12:44:56.571527Z",
+      "updatedAt": "2026-11-06T12:44:56.571527Z"
+    },
+    {
+      "id": "rss-3d1809fe5e7d2a909bf8dbd5",
+      "title": "白宫拒绝赫塞斯和鲁比奥在共和党大选失败后离职",
+      "originalTitle": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "summary": "美国媒体报导有人呼吁取代Pete Hegseth, 他也面临弹劾投票,（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-06T02:08:57Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T12:44:56.571527Z",
+      "updatedAt": "2026-11-06T12:44:56.571527Z"
+    },
+    {
+      "id": "rss-3368c169451a0e50e337e246",
+      "title": "秘鲁机场官员发现了3 000只走私到脏袜子里的",
+      "originalTitle": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
+      "summary": "秘鲁当局说,在前往德国的利马机场扣押了3 000多只塔塔。 蜘蛛藏在由两名德国人和一名波兰公民(国家林业和野生生物局(SERFOR))携带的3个手提箱中的脏袜子里。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-06T01:22:49Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T12:44:56.571527Z",
+      "updatedAt": "2026-11-06T12:44:56.571527Z"
+    },
+    {
+      "id": "rss-1298ab911e646bae166b7dc6",
+      "title": "尼日利亚法院裁定反对派候选人不能参选",
+      "originalTitle": "Nigerian court rules opposition candidate cannot stand in elections",
+      "summary": "高等法院解雇了反对派ADC党领导人,只用了几个月的时间才举行选举。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-05T22:00:33Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-06T12:44:56.571527Z",
+      "updatedAt": "2026-11-06T12:44:56.571527Z"
     }
   ],
   "history": [
@@ -96077,9 +97065,1108 @@
         "firstSeen": "2026-11-06T00:33:24.083283Z",
         "updatedAt": "2026-11-06T00:33:24.083283Z"
       }
+    },
+    {
+      "eventId": "rss-6628f0dec7a2589ddadd223c",
+      "at": "2026-11-06T12:44:56.571527Z",
+      "data": {
+        "id": "rss-6628f0dec7a2589ddadd223c",
+        "title": "坦桑尼亚反对派领导人因煽动动乱而被判有罪,但因叛国罪被宣告无罪",
+        "originalTitle": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+        "summary": "自去年4月以来被拘留的58岁青年说,这些指控是出于政治动机。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-06T12:41:44Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T12:44:56.571527Z",
+        "updatedAt": "2026-11-06T12:44:56.571527Z"
+      }
+    },
+    {
+      "eventId": "rss-09fb401084b6939bb71d5e0a",
+      "at": "2026-11-06T12:44:56.571527Z",
+      "data": {
+        "id": "rss-09fb401084b6939bb71d5e0a",
+        "title": "随着更多的航空公司收到炸弹威胁,欧洲的天空高度戒备 — — 欧洲现场直播",
+        "originalTitle": "European skies on high alert as more airlines receive bomb threats – Europe live",
+        "summary": "霍克斯炸弹威胁本周针对商业航班,导致至少35架飞机在星期五之前被搜查或转道。 告诉我们:你是否受到欧洲航班受到炸弹威胁的影响? 罗马尼亚航空公司塔罗姆从布拉格飞往布加勒斯特的航班被认为是最近受到今天的炸弹威胁的影响。 运行ROT226M号航班的飞机发送了7700-General Emer的标语代码。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-06T12:31:56Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T12:44:56.571527Z",
+        "updatedAt": "2026-11-06T12:44:56.571527Z"
+      }
+    },
+    {
+      "eventId": "rss-017c51e93e0feb22cd085a8d",
+      "at": "2026-11-06T12:44:56.571527Z",
+      "data": {
+        "id": "rss-017c51e93e0feb22cd085a8d",
+        "title": "多数欧洲人希望采取行动解决气候危机,",
+        "originalTitle": "Most Europeans want action to tackle climate crisis but not at any cost, poll shows",
+        "summary": "YouGov调查发现,人们支持植树和征收排放税,但反对航空旅行和燃料税的欧洲现场直播 — — 最新消息显示,欧洲人相信人为气候变化是真实的,调查表明,只要他们不必为此付出太多代价,就必须尽快采取行动。 6个欧洲国家的YouGov民意调查显示,69%(德国)到8 % 。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-06T12:27:54Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/06/europeans-want-action-climate-crisis-yougov-poll"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T12:44:56.571527Z",
+        "updatedAt": "2026-11-06T12:44:56.571527Z"
+      }
+    },
+    {
+      "eventId": "rss-bf1e47684d2f391cd784ba2c",
+      "at": "2026-11-06T12:44:56.571527Z",
+      "data": {
+        "id": "rss-bf1e47684d2f391cd784ba2c",
+        "title": "官方说,在法国,巴士坠毁后有两个人死亡",
+        "originalTitle": "Two dead after bus crashes in France, officials say",
+        "summary": "地方当局说,一名儿童和一名青年在坠机中丧生,受伤者更多。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-06T12:27:33Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T12:44:56.571527Z",
+        "updatedAt": "2026-11-06T12:44:56.571527Z"
+      }
+    },
+    {
+      "eventId": "rss-efbeca1e8e750597e96fa3bf",
+      "at": "2026-11-06T12:44:56.571527Z",
+      "data": {
+        "id": "rss-efbeca1e8e750597e96fa3bf",
+        "title": "肯尼亚末日邪教领袖因谋杀191人被判无期徒刑",
+        "originalTitle": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+        "summary": "Paul Mackenzie命令他的追随者 把他们的孩子饿死在森林里 这样他们就可以\"接见耶稣\"了（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-06T12:19:41Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T12:44:56.571527Z",
+        "updatedAt": "2026-11-06T12:44:56.571527Z"
+      }
+    },
+    {
+      "eventId": "rss-3b94791c0d3fad0cc487e681",
+      "at": "2026-11-06T12:44:56.571527Z",
+      "data": {
+        "id": "rss-3b94791c0d3fad0cc487e681",
+        "title": "特斯拉会在2027年停止制造赛博车",
+        "originalTitle": "Tesla will stop making the Cybertruck in 2027",
+        "summary": "伊隆·穆斯克说公司会利用工厂空间 制造更多的网络摄像头（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-06T11:50:10Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T12:44:56.571527Z",
+        "updatedAt": "2026-11-06T12:44:56.571527Z"
+      }
+    },
+    {
+      "eventId": "rss-12cd5386123ca069ddecffc6",
+      "at": "2026-11-06T12:44:56.571527Z",
+      "data": {
+        "id": "rss-12cd5386123ca069ddecffc6",
+        "title": "丹麦在`非西方人 ' 被驱逐后对`平行社会 ' 作出裁决的最高法院",
+        "originalTitle": "Denmark’s top court to rule on ‘parallel societies’ after ‘non-western’ people evicted",
+        "summary": "政府要求驱逐Helsingør住房综合体的前居民,这与他们的族裔无关,丹麦最高法院预计将就丹麦对具有“非西方”背景的居民的分类是否属于种族歧视法的范围作出裁决。 被从哥本哈根北部Helsingør市的Nøjsomhed-Sydvej驱逐的居民提出的上诉可能具有深远的影响。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-06T10:00:49Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/06/denmarks-top-court-to-rule-on-parallel-societies-after-non-western-people-evicted"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T12:44:56.571527Z",
+        "updatedAt": "2026-11-06T12:44:56.571527Z"
+      }
+    },
+    {
+      "eventId": "rss-25cd541ca2207ece4c1d3c09",
+      "at": "2026-11-06T12:44:56.571527Z",
+      "data": {
+        "id": "rss-25cd541ca2207ece4c1d3c09",
+        "title": "伊隆·穆斯克似乎预示着 赛博特拉克路的尽头",
+        "originalTitle": "Elon Musk appears to signal the end of the road for Cybertruck",
+        "summary": "穆斯克说,它要腾出空间 来生产它的网络车厢, 没有司机的自家出租车。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-06T09:57:04Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T12:44:56.571527Z",
+        "updatedAt": "2026-11-06T12:44:56.571527Z"
+      }
+    },
+    {
+      "eventId": "rss-84847d386bb7b82a06dea2de",
+      "at": "2026-11-06T12:44:56.571527Z",
+      "data": {
+        "id": "rss-84847d386bb7b82a06dea2de",
+        "title": "美国中西部的低压 给纽约和波士顿带来了不适的热量",
+        "originalTitle": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
+        "summary": "本周更南端,严重的雷暴影响了佛罗里达州、俄克拉荷马州和科罗拉多州的中期投票,尽管北半球迅速滑入秋天,但北美东部部分地区最近几天的夏季味道特别晚。 纽约和波士顿的温度接近23C(73F),比11月初的预期值高出约7-10C。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-06T09:54:12Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T12:44:56.571527Z",
+        "updatedAt": "2026-11-06T12:44:56.571527Z"
+      }
+    },
+    {
+      "eventId": "rss-89b5f6f07cd9652cf3d4b2ce",
+      "at": "2026-11-06T12:44:56.571527Z",
+      "data": {
+        "id": "rss-89b5f6f07cd9652cf3d4b2ce",
+        "title": "特朗普号命令 保护办公室作为国家纪念碑",
+        "originalTitle": "Trump signs order to preserve Oval Office as national monument",
+        "summary": "命令是特朗普对总统办公室的装饰 做出一系列重大改变 并摧毁白宫东翼之后发出的（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-06T09:19:57Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T12:44:56.571527Z",
+        "updatedAt": "2026-11-06T12:44:56.571527Z"
+      }
+    },
+    {
+      "eventId": "rss-20e5ea8a8d5139236251f1e8",
+      "at": "2026-11-06T12:44:56.571527Z",
+      "data": {
+        "id": "rss-20e5ea8a8d5139236251f1e8",
+        "title": "民主党中期胜利后,全球股票在AI公司减速恐惧中暴跌",
+        "originalTitle": "Global stocks plunge amid AI slowdown fears after Democrats’ midterm triumph",
+        "summary": "亚洲和欧洲市场紧随华尔街,随着FTSE公司1.9%的实战率下降 — — 民主党中期胜利引发了对AI行业减速的恐惧后,欧洲最新股票市场随着美国技术股票在大西洋各地的暴跌而急剧下降。 周四华尔街的买卖后,亚洲股票市场在周五的上午急剧下跌。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-06T08:58:22Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T12:44:56.571527Z",
+        "updatedAt": "2026-11-06T12:44:56.571527Z"
+      }
+    },
+    {
+      "eventId": "rss-190a8727d78a0c03c610c51e",
+      "at": "2026-11-06T12:44:56.571527Z",
+      "data": {
+        "id": "rss-190a8727d78a0c03c610c51e",
+        "title": "死亡是一个“明显的可能性” 在碰撞运行 和面对面的比赛, 询问听到",
+        "originalTitle": "Death a ‘distinct possibility’ in collision running and face-slapping competitions, inquiry hears",
+        "summary": "神经科医生说, 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客相撞和拍脸比赛, 与胆小鬼的拳头或“King-hit”相类似, 死亡是“明显的可能性 ” , 脑震荡专家告诉了国会调查。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-06T08:23:10Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/06/run-nation-power-slap-combat-sports-safety-inquiry-nsw"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T12:44:56.571527Z",
+        "updatedAt": "2026-11-06T12:44:56.571527Z"
+      }
+    },
+    {
+      "eventId": "rss-350215ce474dce9e3f7d94ba",
+      "at": "2026-11-06T12:44:56.571527Z",
+      "data": {
+        "id": "rss-350215ce474dce9e3f7d94ba",
+        "title": "索马里最高法院在政治危机中拒绝延长总统任期",
+        "originalTitle": "Somalia's top court rejects president's term extension amid political crisis",
+        "summary": "该国自1969年以来的第一次全国选举将于明年举行,现在时间表令人怀疑。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-06T08:18:10Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T12:44:56.571527Z",
+        "updatedAt": "2026-11-06T12:44:56.571527Z"
+      }
+    },
+    {
+      "eventId": "rss-a4fee0499c3a64e86d9b867f",
+      "at": "2026-11-06T12:44:56.571527Z",
+      "data": {
+        "id": "rss-a4fee0499c3a64e86d9b867f",
+        "title": "伊朗导弹基地附近正在进行重大建设,卫星图像显示",
+        "originalTitle": "Major construction ongoing near Iran missile bases, satellite images suggest",
+        "summary": "卫星图像表明,11月拍摄的卫星图像中可以看到挖掘和新建筑的证据。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-06T07:33:41Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T12:44:56.571527Z",
+        "updatedAt": "2026-11-06T12:44:56.571527Z"
+      }
+    },
+    {
+      "eventId": "rss-a78f69047d91f53cb34426c7",
+      "at": "2026-11-06T12:44:56.571527Z",
+      "data": {
+        "id": "rss-a78f69047d91f53cb34426c7",
+        "title": "至少有10个地方政府从夏天开始 撤掉Flock的监控摄像头",
+        "originalTitle": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
+        "summary": "这些关切从隐私到数据共享(和与谁共享),到采购关切,不一而足。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-06T07:18:44Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T12:44:56.571527Z",
+        "updatedAt": "2026-11-06T12:44:56.571527Z"
+      }
+    },
+    {
+      "eventId": "rss-d86ee1e3134a2a129b01540a",
+      "at": "2026-11-06T12:44:56.571527Z",
+      "data": {
+        "id": "rss-d86ee1e3134a2a129b01540a",
+        "title": "澳门监狱 支持民主的竞选者 在城市的第一个国家安全案件",
+        "originalTitle": "Macau jails pro-democracy campaigner in city's first national security case",
+        "summary": "Au Kam San因“颠覆国家政权”被判处12年零6个月的监禁。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-06T06:46:21Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T12:44:56.571527Z",
+        "updatedAt": "2026-11-06T12:44:56.571527Z"
+      }
+    },
+    {
+      "eventId": "rss-bc289b307cc90ecf5622ac07",
+      "at": "2026-11-06T12:44:56.571527Z",
+      "data": {
+        "id": "rss-bc289b307cc90ecf5622ac07",
+        "title": "星期五简报:经过一周的干扰后,生活在威胁中是否我们的新常态?",
+        "originalTitle": "Friday briefing: ​After a week of disruption, is living with threats our new normal?",
+        "summary": "在今天的通讯中:从转机到黑冰箱,一连串的破坏性事件暴露了现代生活的脆弱性。 现在和平与冲突之间,灰色地带之间的空间越来越模糊。 早安。 多重恶作剧炸弹威胁分散了跨欧洲的客机飞行。 邪恶的网络攻击袭击了比利时、瑞典、日本的超市冰箱。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-06T06:43:04Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/06/friday-briefing-after-a-week-of-disruption-is-living-with-threats-our-new-normal"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T12:44:56.571527Z",
+        "updatedAt": "2026-11-06T12:44:56.571527Z"
+      }
+    },
+    {
+      "eventId": "rss-c822924fc1f280c7bb5c4ca2",
+      "at": "2026-11-06T12:44:56.571527Z",
+      "data": {
+        "id": "rss-c822924fc1f280c7bb5c4ca2",
+        "title": "帕洛阿尔托网络在谈判 购买AI代理 安全启动 Clutch $500M",
+        "originalTitle": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+        "summary": "据消息来源说,由光速和信号火支持的Clutch最后价值为8 500万美元。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-06T06:28:32Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T12:44:56.571527Z",
+        "updatedAt": "2026-11-06T12:44:56.571527Z"
+      }
+    },
+    {
+      "eventId": "rss-8eb4edf88c7a96e06adf15dc",
+      "at": "2026-11-06T12:44:56.571527Z",
+      "data": {
+        "id": "rss-8eb4edf88c7a96e06adf15dc",
+        "title": "Bondi海滩枪击案:90岁的Eva Geller,在大屠杀中被枪杀,在反异教徒攻击一年后死于医院。",
+        "originalTitle": "Bondi beach shooting: Eva Geller, 90, shot during massacre dies in hospital year after antisemitic attack",
+        "summary": "她于2025年12月14日在Hanukah节中被枪杀,自从我们接到突发新闻电子邮件、免费应用程序或每日新闻播客之后,一直进出医院。 一名在Bondi海滩恐怖袭击中被枪杀的妇女,在大屠杀发生近12个月后死于医院。 今年,90岁的Eva Geller因治疗12月14日袭击中受伤而进出医院。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-06T06:26:03Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T12:44:56.571527Z",
+        "updatedAt": "2026-11-06T12:44:56.571527Z"
+      }
+    },
+    {
+      "eventId": "rss-7b014650a0356d3fdc0ac137",
+      "at": "2026-11-06T12:44:56.571527Z",
+      "data": {
+        "id": "rss-7b014650a0356d3fdc0ac137",
+        "title": "数据中心造反是否影响美国中期选举结果?",
+        "originalTitle": "Did a data centre revolt affect the US midterm election results?",
+        "summary": "英国广播公司核查美国选民是否受到数据中心繁荣的影响,（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-06T06:01:13Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T12:44:56.571527Z",
+        "updatedAt": "2026-11-06T12:44:56.571527Z"
+      }
+    },
+    {
+      "eventId": "rss-e0b609f23f25c3183a35744c",
+      "at": "2026-11-06T12:44:56.571527Z",
+      "data": {
+        "id": "rss-e0b609f23f25c3183a35744c",
+        "title": "一场野火在西班牙杀死了亲人 这些英国家庭要求知道为什么",
+        "originalTitle": "A wildfire killed their loved ones in Spain. These British families demand to know why",
+        "summary": "今年夏天,Bédar村发生火灾,造成15人死亡,其中9名英国国民死亡。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-06T06:00:46Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T12:44:56.571527Z",
+        "updatedAt": "2026-11-06T12:44:56.571527Z"
+      }
+    },
+    {
+      "eventId": "rss-667a8dcf183660e0b2bfca0e",
+      "at": "2026-11-06T12:44:56.571527Z",
+      "data": {
+        "id": "rss-667a8dcf183660e0b2bfca0e",
+        "title": "Beau Lamarre-Condon说,对Jesse Baird的肩膀开枪的双重谋杀审判是“正确之举”。",
+        "originalTitle": "Beau Lamarre-Condon tells double murder trial firing first shot at Jesse Baird’s shoulder was ‘the right move’",
+        "summary": "前新南威尔士州警察在2024年初对谋杀Baird和Luke Davies的无罪认罪后第二天提供证据。 新南威尔士州最高法院已经审理了控方开始对被控双重谋杀的被告Beau Lamarre-Condon Beau Lamarre-Condon“支持”他拍摄Jesse Baird的决定,但并未打算杀死他。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-06T05:17:05Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/06/beau-lamarre-condon-trial-witness-box-evidence-case-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T12:44:56.571527Z",
+        "updatedAt": "2026-11-06T12:44:56.571527Z"
+      }
+    },
+    {
+      "eventId": "rss-3b992b58e7e1883170be38cd",
+      "at": "2026-11-06T12:44:56.571527Z",
+      "data": {
+        "id": "rss-3b992b58e7e1883170be38cd",
+        "title": "专家说,澳洲在期中 也面临同样的问题 推翻了对美国国会的控制",
+        "originalTitle": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
+        "summary": "Anthony Albanese的政府因伊朗战争而遭到打击, 但选民对生活成本和数据中心的焦虑可能更严重。 我们的每日政治电子邮件、免费应用程序或每日新闻播客。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-06T04:45:24Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/06/us-midterms-warning-for-australia-cost-of-living-fuel-prices"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T12:44:56.571527Z",
+        "updatedAt": "2026-11-06T12:44:56.571527Z"
+      }
+    },
+    {
+      "eventId": "rss-3d1809fe5e7d2a909bf8dbd5",
+      "at": "2026-11-06T12:44:56.571527Z",
+      "data": {
+        "id": "rss-3d1809fe5e7d2a909bf8dbd5",
+        "title": "白宫拒绝赫塞斯和鲁比奥在共和党大选失败后离职",
+        "originalTitle": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+        "summary": "美国媒体报导有人呼吁取代Pete Hegseth, 他也面临弹劾投票,（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-06T02:08:57Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T12:44:56.571527Z",
+        "updatedAt": "2026-11-06T12:44:56.571527Z"
+      }
+    },
+    {
+      "eventId": "rss-3368c169451a0e50e337e246",
+      "at": "2026-11-06T12:44:56.571527Z",
+      "data": {
+        "id": "rss-3368c169451a0e50e337e246",
+        "title": "秘鲁机场官员发现了3 000只走私到脏袜子里的",
+        "originalTitle": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
+        "summary": "秘鲁当局说,在前往德国的利马机场扣押了3 000多只塔塔。 蜘蛛藏在由两名德国人和一名波兰公民(国家林业和野生生物局(SERFOR))携带的3个手提箱中的脏袜子里。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-06T01:22:49Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T12:44:56.571527Z",
+        "updatedAt": "2026-11-06T12:44:56.571527Z"
+      }
+    },
+    {
+      "eventId": "rss-1298ab911e646bae166b7dc6",
+      "at": "2026-11-06T12:44:56.571527Z",
+      "data": {
+        "id": "rss-1298ab911e646bae166b7dc6",
+        "title": "尼日利亚法院裁定反对派候选人不能参选",
+        "originalTitle": "Nigerian court rules opposition candidate cannot stand in elections",
+        "summary": "高等法院解雇了反对派ADC党领导人,只用了几个月的时间才举行选举。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-05T22:00:33Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-06T12:44:56.571527Z",
+        "updatedAt": "2026-11-06T12:44:56.571527Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-06T12:44:56.571527Z",
+      "at": "2026-11-06T12:44:56.571527Z",
+      "kind": "GitHub Actions 采集",
+      "count": 26,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 12}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 0}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 11}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 3}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-06T00:33:24.083283Z",
       "at": "2026-11-06T00:33:24.083283Z",
