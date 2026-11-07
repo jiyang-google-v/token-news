@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-07T00:29:52.015682Z",
+  "updatedAt": "2026-11-07T12:29:16.515485Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -47874,6 +47874,576 @@
       "tokens": [],
       "firstSeen": "2026-11-07T00:29:52.015682Z",
       "updatedAt": "2026-11-07T00:29:52.015682Z"
+    },
+    {
+      "id": "rss-0bd9f34f26827a02db74b700",
+      "title": "新西兰2026年选举的实况结果:国民和劳工党作为次要政党的主宰者的角色。",
+      "originalTitle": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
+      "summary": "民意测验显示,在近代史上最接近的一次选举中,没有联盟可以赢得多数席位。 新西兰的竞选领袖被选为悬崖头,而新西兰的小党则被选为国王。 在新西兰的钟头座上,当地人认为什么是刀锋式的民意测验? 这里的另一次更新是8%的选票。 全国31.2%的选票,劳工28.4%的选票,绿党12.9%的选票,11.2%的选票,新西兰的选票。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-07T12:11:59Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-07T12:29:16.515485Z",
+      "updatedAt": "2026-11-07T12:29:16.515485Z"
+    },
+    {
+      "id": "rss-3664d8585fd4d9636af4f2a6",
+      "title": "内政部在剥夺近1 500名欧盟公民在联合王国生活的权利后提起诉讼",
+      "originalTitle": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
+      "summary": "在欧盟公民被告知预先确定的地位是“错误”之后,该运动团体的300万人在法院提出文件。 内政部在剥夺近1 500名欧盟公民在联合王国生活的全部权利之后,因据称违反《不保证退出协议》而被起诉。 运动团体在几个欧盟公民被授予“自由”后,于星期五向高等法院提交了文件。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-07T09:15:35Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-07T12:29:16.515485Z",
+      "updatedAt": "2026-11-07T12:29:16.515485Z"
+    },
+    {
+      "id": "rss-8bd014409233113582f88270",
+      "title": "巴拉圭总统在银行倒闭后被弹劾和软禁",
+      "originalTitle": "Paraguay's president impeached and under house arrest after bank collapse",
+      "summary": "Santiago Peña因银行危机被赶下台,致使数百万人无法拿到钱。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-07T07:20:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-07T12:29:16.515485Z",
+      "updatedAt": "2026-11-07T12:29:16.515485Z"
+    },
+    {
+      "id": "rss-42531dc9299c2c06d47d845c",
+      "title": "教皇在开始拉丁美洲之旅时 表现“健康极佳”",
+      "originalTitle": "Pope in 'pretty good health' as he starts Latin America tour",
+      "summary": "教皇利奥在肺癌手术三周后前往乌拉圭。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-07T06:59:48Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-07T12:29:16.515485Z",
+      "updatedAt": "2026-11-07T12:29:16.515485Z"
+    },
+    {
+      "id": "rss-3a6b312933ddd1f11445d68d",
+      "title": "塞科亚关闭它的童子军计划 标志着一个时代的终结",
+      "originalTitle": "Sequoia shutting down its Scouts program marks the end of an era",
+      "summary": "塞科尼亚率先采用童子军模式,许多南锥体公司也这样做,但现在似乎正在形成一种共识,即该模式以目前的形式已达到极限。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-07T05:01:54Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-07T12:29:16.515485Z",
+      "updatedAt": "2026-11-07T12:29:16.515485Z"
+    },
+    {
+      "id": "rss-6c4f8ca9625346748494a8bf",
+      "title": "巴黎条约签署十年后,气候谈判是否有所进展?",
+      "originalTitle": "What’s the point? Ten years after the Paris treaty, are climate talks getting anywhere?",
+      "summary": "去年在亚马逊港贝伦(Belém)举行的2025年气候峰会之前,巴西的东道主们把大部分人所认为的问题放在了核心位置:每个国家的具体计划都明确了这一点。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-07T05:00:02Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-07T12:29:16.515485Z",
+      "updatedAt": "2026-11-07T12:29:16.515485Z"
+    },
+    {
+      "id": "rss-e0820bf841f4174fb17a6800",
+      "title": "从前排到热座位——期中考试对大科技意味着什么",
+      "originalTitle": "From the front row to the hot seat — what the midterms mean for Big Tech",
+      "summary": "大科技在与白宫相处了两年后, 突然想和民主党人交朋友, 问题还在于这种形象的改变 能否维持在州、地方社区和市场的目标之上。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-07T04:16:43Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-07T12:29:16.515485Z",
+      "updatedAt": "2026-11-07T12:29:16.515485Z"
+    },
+    {
+      "id": "rss-c5e964702c258c04f94bce6a",
+      "title": "银行危机后,巴拉圭总统被软禁,致使60%的国家无法进入账户",
+      "originalTitle": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+      "summary": "Santiago Peña在被国会弹劾几分钟后被拘留,当时抗议者走上街头,要求回答,因为Ueno银行中止了巴拉圭右翼总统的右翼,他在国会弹劾几分钟后被软禁,而这场严重危机使该国一半以上的人口无法进入他们的银行账户。 Santiago Peña是贝伊人。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-07T01:55:11Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-07T12:29:16.515485Z",
+      "updatedAt": "2026-11-07T12:29:16.515485Z"
+    },
+    {
+      "id": "rss-ec2480d446f6212cddc53432",
+      "title": "克鲁索向谷歌出售麻烦的怀俄明数据中心项目",
+      "originalTitle": "Crusoe sells troubled Wyoming data center project to Google",
+      "summary": "该交易突出了发展大规模AI数据中心的挑战。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-07T01:40:28Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-07T12:29:16.515485Z",
+      "updatedAt": "2026-11-07T12:29:16.515485Z"
+    },
+    {
+      "id": "rss-1d2074db1a3e5ae0a3fa8b1b",
+      "title": "这个人拒绝救生治疗 因为他的宗教 几天后,规则改变了",
+      "originalTitle": "This man refused life-saving treatment because of his religion - days later the rules changed",
+      "summary": "耶和华见证会领导人放宽了严格的输血规定,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-07T01:27:47Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-07T12:29:16.515485Z",
+      "updatedAt": "2026-11-07T12:29:16.515485Z"
+    },
+    {
+      "id": "rss-0fde867bcd6db49393c4d79e",
+      "title": "年轻的索马里妇女改变了世界对摩加迪沙的看法",
+      "originalTitle": "The young Somali woman changing how the world sees Mogadishu",
+      "summary": "对一些游客来说,索马里的声誉和他们在当地的经历之间的对比是惊人的。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-07T01:19:49Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-07T12:29:16.515485Z",
+      "updatedAt": "2026-11-07T12:29:16.515485Z"
+    },
+    {
+      "id": "rss-6ab2b81b876b396f2d61308c",
+      "title": "Ben Roberts-Smith与影响力人物经营的健身房合作,出售“战争犯罪”前补习品",
+      "originalTitle": "Ben Roberts-Smith collaborates with gym business run by influencer that sold ‘war crimes’ pre-workout supplement",
+      "summary": "“零限制”补贴由右翼播客和健身教练Chris Katelaris(又名“Big Chocky”)共同拥有, 获得我们的突发新闻电子邮件、免费应用程序或每日新闻播客Ben Roberts-Smith与一家由右翼影响者经营的健身补充公司合作,该公司最近出售了一个叫作“战争犯罪”的预修产品。 Roberts-Smith是澳大利亚最受美化的生活索尔之一。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-07T00:58:11Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/07/ben-roberts-smith-collaborates-gym-business-influencer-war-crimes-pre-workout-supplement-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-07T12:29:16.515485Z",
+      "updatedAt": "2026-11-07T12:29:16.515485Z"
+    },
+    {
+      "id": "rss-fecc53ded7de64af17ae80e2",
+      "title": "康奈尔教职员工对领导处理简·多伊的指控投了不信任票",
+      "originalTitle": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+      "summary": "学术界人士在周五的决议在很大程度上是象征性的,因为他们无权罢免大学的负责人。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-06T23:46:08Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-07T12:29:16.515485Z",
+      "updatedAt": "2026-11-07T12:29:16.515485Z"
+    },
+    {
+      "id": "rss-6918e8874575f88f916b75ea",
+      "title": "史蒂芬·米勒选手 特朗普为一场战斗准备",
+      "originalTitle": "With Stephen Miller pick, Trump readies for a battle",
+      "summary": "美国总统对米勒的晋升, 一个忠诚的党派 消防品牌 成为他的新参谋长 设置可能 与国会冲突。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-06T23:24:15Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-07T12:29:16.515485Z",
+      "updatedAt": "2026-11-07T12:29:16.515485Z"
+    },
+    {
+      "id": "rss-f57c987d75e562c8bcbc232a",
+      "title": "炸弹威胁对航空业构成严重挑战",
+      "originalTitle": "Spate of bomb threats poses serious challenge to airline industry",
+      "summary": "在经过一周的中断之后,航空公司既面临安全问题,也面临财政问题。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-06T16:18:44Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-07T12:29:16.515485Z",
+      "updatedAt": "2026-11-07T12:29:16.515485Z"
     }
   ],
   "history": [
@@ -100797,9 +101367,646 @@
         "firstSeen": "2026-11-07T00:29:52.015682Z",
         "updatedAt": "2026-11-07T00:29:52.015682Z"
       }
+    },
+    {
+      "eventId": "rss-0bd9f34f26827a02db74b700",
+      "at": "2026-11-07T12:29:16.515485Z",
+      "data": {
+        "id": "rss-0bd9f34f26827a02db74b700",
+        "title": "新西兰2026年选举的实况结果:国民和劳工党作为次要政党的主宰者的角色。",
+        "originalTitle": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
+        "summary": "民意测验显示,在近代史上最接近的一次选举中,没有联盟可以赢得多数席位。 新西兰的竞选领袖被选为悬崖头,而新西兰的小党则被选为国王。 在新西兰的钟头座上,当地人认为什么是刀锋式的民意测验? 这里的另一次更新是8%的选票。 全国31.2%的选票,劳工28.4%的选票,绿党12.9%的选票,11.2%的选票,新西兰的选票。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-07T12:11:59Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-07T12:29:16.515485Z",
+        "updatedAt": "2026-11-07T12:29:16.515485Z"
+      }
+    },
+    {
+      "eventId": "rss-3664d8585fd4d9636af4f2a6",
+      "at": "2026-11-07T12:29:16.515485Z",
+      "data": {
+        "id": "rss-3664d8585fd4d9636af4f2a6",
+        "title": "内政部在剥夺近1 500名欧盟公民在联合王国生活的权利后提起诉讼",
+        "originalTitle": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
+        "summary": "在欧盟公民被告知预先确定的地位是“错误”之后,该运动团体的300万人在法院提出文件。 内政部在剥夺近1 500名欧盟公民在联合王国生活的全部权利之后,因据称违反《不保证退出协议》而被起诉。 运动团体在几个欧盟公民被授予“自由”后,于星期五向高等法院提交了文件。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-07T09:15:35Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-07T12:29:16.515485Z",
+        "updatedAt": "2026-11-07T12:29:16.515485Z"
+      }
+    },
+    {
+      "eventId": "rss-8bd014409233113582f88270",
+      "at": "2026-11-07T12:29:16.515485Z",
+      "data": {
+        "id": "rss-8bd014409233113582f88270",
+        "title": "巴拉圭总统在银行倒闭后被弹劾和软禁",
+        "originalTitle": "Paraguay's president impeached and under house arrest after bank collapse",
+        "summary": "Santiago Peña因银行危机被赶下台,致使数百万人无法拿到钱。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-07T07:20:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-07T12:29:16.515485Z",
+        "updatedAt": "2026-11-07T12:29:16.515485Z"
+      }
+    },
+    {
+      "eventId": "rss-42531dc9299c2c06d47d845c",
+      "at": "2026-11-07T12:29:16.515485Z",
+      "data": {
+        "id": "rss-42531dc9299c2c06d47d845c",
+        "title": "教皇在开始拉丁美洲之旅时 表现“健康极佳”",
+        "originalTitle": "Pope in 'pretty good health' as he starts Latin America tour",
+        "summary": "教皇利奥在肺癌手术三周后前往乌拉圭。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-07T06:59:48Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-07T12:29:16.515485Z",
+        "updatedAt": "2026-11-07T12:29:16.515485Z"
+      }
+    },
+    {
+      "eventId": "rss-3a6b312933ddd1f11445d68d",
+      "at": "2026-11-07T12:29:16.515485Z",
+      "data": {
+        "id": "rss-3a6b312933ddd1f11445d68d",
+        "title": "塞科亚关闭它的童子军计划 标志着一个时代的终结",
+        "originalTitle": "Sequoia shutting down its Scouts program marks the end of an era",
+        "summary": "塞科尼亚率先采用童子军模式,许多南锥体公司也这样做,但现在似乎正在形成一种共识,即该模式以目前的形式已达到极限。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-07T05:01:54Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-07T12:29:16.515485Z",
+        "updatedAt": "2026-11-07T12:29:16.515485Z"
+      }
+    },
+    {
+      "eventId": "rss-6c4f8ca9625346748494a8bf",
+      "at": "2026-11-07T12:29:16.515485Z",
+      "data": {
+        "id": "rss-6c4f8ca9625346748494a8bf",
+        "title": "巴黎条约签署十年后,气候谈判是否有所进展?",
+        "originalTitle": "What’s the point? Ten years after the Paris treaty, are climate talks getting anywhere?",
+        "summary": "去年在亚马逊港贝伦(Belém)举行的2025年气候峰会之前,巴西的东道主们把大部分人所认为的问题放在了核心位置:每个国家的具体计划都明确了这一点。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-07T05:00:02Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-07T12:29:16.515485Z",
+        "updatedAt": "2026-11-07T12:29:16.515485Z"
+      }
+    },
+    {
+      "eventId": "rss-e0820bf841f4174fb17a6800",
+      "at": "2026-11-07T12:29:16.515485Z",
+      "data": {
+        "id": "rss-e0820bf841f4174fb17a6800",
+        "title": "从前排到热座位——期中考试对大科技意味着什么",
+        "originalTitle": "From the front row to the hot seat — what the midterms mean for Big Tech",
+        "summary": "大科技在与白宫相处了两年后, 突然想和民主党人交朋友, 问题还在于这种形象的改变 能否维持在州、地方社区和市场的目标之上。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-07T04:16:43Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-07T12:29:16.515485Z",
+        "updatedAt": "2026-11-07T12:29:16.515485Z"
+      }
+    },
+    {
+      "eventId": "rss-c5e964702c258c04f94bce6a",
+      "at": "2026-11-07T12:29:16.515485Z",
+      "data": {
+        "id": "rss-c5e964702c258c04f94bce6a",
+        "title": "银行危机后,巴拉圭总统被软禁,致使60%的国家无法进入账户",
+        "originalTitle": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+        "summary": "Santiago Peña在被国会弹劾几分钟后被拘留,当时抗议者走上街头,要求回答,因为Ueno银行中止了巴拉圭右翼总统的右翼,他在国会弹劾几分钟后被软禁,而这场严重危机使该国一半以上的人口无法进入他们的银行账户。 Santiago Peña是贝伊人。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-07T01:55:11Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-07T12:29:16.515485Z",
+        "updatedAt": "2026-11-07T12:29:16.515485Z"
+      }
+    },
+    {
+      "eventId": "rss-ec2480d446f6212cddc53432",
+      "at": "2026-11-07T12:29:16.515485Z",
+      "data": {
+        "id": "rss-ec2480d446f6212cddc53432",
+        "title": "克鲁索向谷歌出售麻烦的怀俄明数据中心项目",
+        "originalTitle": "Crusoe sells troubled Wyoming data center project to Google",
+        "summary": "该交易突出了发展大规模AI数据中心的挑战。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-07T01:40:28Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-07T12:29:16.515485Z",
+        "updatedAt": "2026-11-07T12:29:16.515485Z"
+      }
+    },
+    {
+      "eventId": "rss-1d2074db1a3e5ae0a3fa8b1b",
+      "at": "2026-11-07T12:29:16.515485Z",
+      "data": {
+        "id": "rss-1d2074db1a3e5ae0a3fa8b1b",
+        "title": "这个人拒绝救生治疗 因为他的宗教 几天后,规则改变了",
+        "originalTitle": "This man refused life-saving treatment because of his religion - days later the rules changed",
+        "summary": "耶和华见证会领导人放宽了严格的输血规定,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-07T01:27:47Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-07T12:29:16.515485Z",
+        "updatedAt": "2026-11-07T12:29:16.515485Z"
+      }
+    },
+    {
+      "eventId": "rss-0fde867bcd6db49393c4d79e",
+      "at": "2026-11-07T12:29:16.515485Z",
+      "data": {
+        "id": "rss-0fde867bcd6db49393c4d79e",
+        "title": "年轻的索马里妇女改变了世界对摩加迪沙的看法",
+        "originalTitle": "The young Somali woman changing how the world sees Mogadishu",
+        "summary": "对一些游客来说,索马里的声誉和他们在当地的经历之间的对比是惊人的。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-07T01:19:49Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-07T12:29:16.515485Z",
+        "updatedAt": "2026-11-07T12:29:16.515485Z"
+      }
+    },
+    {
+      "eventId": "rss-6ab2b81b876b396f2d61308c",
+      "at": "2026-11-07T12:29:16.515485Z",
+      "data": {
+        "id": "rss-6ab2b81b876b396f2d61308c",
+        "title": "Ben Roberts-Smith与影响力人物经营的健身房合作,出售“战争犯罪”前补习品",
+        "originalTitle": "Ben Roberts-Smith collaborates with gym business run by influencer that sold ‘war crimes’ pre-workout supplement",
+        "summary": "“零限制”补贴由右翼播客和健身教练Chris Katelaris(又名“Big Chocky”)共同拥有, 获得我们的突发新闻电子邮件、免费应用程序或每日新闻播客Ben Roberts-Smith与一家由右翼影响者经营的健身补充公司合作,该公司最近出售了一个叫作“战争犯罪”的预修产品。 Roberts-Smith是澳大利亚最受美化的生活索尔之一。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-07T00:58:11Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/07/ben-roberts-smith-collaborates-gym-business-influencer-war-crimes-pre-workout-supplement-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-07T12:29:16.515485Z",
+        "updatedAt": "2026-11-07T12:29:16.515485Z"
+      }
+    },
+    {
+      "eventId": "rss-fecc53ded7de64af17ae80e2",
+      "at": "2026-11-07T12:29:16.515485Z",
+      "data": {
+        "id": "rss-fecc53ded7de64af17ae80e2",
+        "title": "康奈尔教职员工对领导处理简·多伊的指控投了不信任票",
+        "originalTitle": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+        "summary": "学术界人士在周五的决议在很大程度上是象征性的,因为他们无权罢免大学的负责人。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-06T23:46:08Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-07T12:29:16.515485Z",
+        "updatedAt": "2026-11-07T12:29:16.515485Z"
+      }
+    },
+    {
+      "eventId": "rss-6918e8874575f88f916b75ea",
+      "at": "2026-11-07T12:29:16.515485Z",
+      "data": {
+        "id": "rss-6918e8874575f88f916b75ea",
+        "title": "史蒂芬·米勒选手 特朗普为一场战斗准备",
+        "originalTitle": "With Stephen Miller pick, Trump readies for a battle",
+        "summary": "美国总统对米勒的晋升, 一个忠诚的党派 消防品牌 成为他的新参谋长 设置可能 与国会冲突。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-06T23:24:15Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-07T12:29:16.515485Z",
+        "updatedAt": "2026-11-07T12:29:16.515485Z"
+      }
+    },
+    {
+      "eventId": "rss-f57c987d75e562c8bcbc232a",
+      "at": "2026-11-07T12:29:16.515485Z",
+      "data": {
+        "id": "rss-f57c987d75e562c8bcbc232a",
+        "title": "炸弹威胁对航空业构成严重挑战",
+        "originalTitle": "Spate of bomb threats poses serious challenge to airline industry",
+        "summary": "在经过一周的中断之后,航空公司既面临安全问题,也面临财政问题。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-06T16:18:44Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-07T12:29:16.515485Z",
+        "updatedAt": "2026-11-07T12:29:16.515485Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-07T12:29:16.515485Z",
+      "at": "2026-11-07T12:29:16.515485Z",
+      "kind": "GitHub Actions 采集",
+      "count": 15,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 7}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 0}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 5}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 3}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-07T00:29:52.015682Z",
       "at": "2026-11-07T00:29:52.015682Z",
