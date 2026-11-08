@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-08T00:28:12.459037Z",
+  "updatedAt": "2026-11-08T12:28:58.484939Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -49356,6 +49356,690 @@
       "tokens": [],
       "firstSeen": "2026-11-08T00:28:12.459037Z",
       "updatedAt": "2026-11-08T00:28:12.459037Z"
+    },
+    {
+      "id": "rss-d2755ebc4728e1eff9837033",
+      "title": "非洲哲学如何激发了在曼彻斯特举办电影节的新方法",
+      "originalTitle": "How African philosophies inspired a new approach to staging film festivals in Manchester",
+      "summary": "见《我的世界》,一个通过电影、诗歌和舞蹈来突出泛非思想的活动,以当地积极分子和创造性的非洲哲学所激发的势头为基础,包括探讨过去的经验教训如何影响现在和不远的将来,促使一个电影节来到曼彻斯特。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T12:00:39Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T12:28:58.484939Z",
+      "updatedAt": "2026-11-08T12:28:58.484939Z"
+    },
+    {
+      "id": "rss-34430db32ce5c9d8cf4d5328",
+      "title": "波兰检察官对Kraków枪击事件展开恐怖主义调查",
+      "originalTitle": "Polish prosecutors open terrorism investigation into Kraków shooting",
+      "summary": "官方说,嫌疑人持有极右的观点,如果他的父母和姐妹的波兰检察官在Kraków的一个繁忙的市场广场上开枪,打死6人,包括一名英国人,打伤17人,在一次当局说很可能是极右思想激发的袭击中,他家里发现3人死亡。 警方在Sun上证实了这一点。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T11:50:15Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T12:28:58.484939Z",
+      "updatedAt": "2026-11-08T12:28:58.484939Z"
+    },
+    {
+      "id": "rss-ed224a74ead9763ee09b15b3",
+      "title": "谁在Cop31:气候会谈的关键参与者",
+      "originalTitle": "Who’s who at Cop31: key players at the climate talks",
+      "summary": "随着峰会在主办问题上的激烈争论,什么关系和主导利益在起作用? 2021年澳大利亚总理安东尼·阿尔巴内斯(Anthony Albanese)在竞选成功之前曾表示反对,但正常规则意味着国家必须等待其竞价,然后与土耳其在宿主的愤怒斗争中混为一谈。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T11:48:56Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T12:28:58.484939Z",
+      "updatedAt": "2026-11-08T12:28:58.484939Z"
+    },
+    {
+      "id": "rss-1fd2c4b355c27cd812da7476",
+      "title": "政府“认真对待”禁止16岁以下者离开Vinted和eBay",
+      "originalTitle": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "summary": "文化秘书证实,他们可能被列入明年三月将禁止的平台名单。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T11:25:32Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T12:28:58.484939Z",
+      "updatedAt": "2026-11-08T12:28:58.484939Z"
+    },
+    {
+      "id": "rss-c305599c878b22168cd6ee23",
+      "title": "Cop31:联合国气候峰会的利害关系何在?",
+      "originalTitle": "Cop31: what is at stake at the UN climate summit and what can it achieve?",
+      "summary": "来自190多个国家的代表聚集在土耳其进行气候谈判,但美国将缺席,因为地球正面临前所未有的人类造成的全球暖气,政府首脑将在今后两周举行最新一轮的气候谈判。 我们问这为何重要以及可能实现什么。 继续阅读...（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T11:00:38Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T12:28:58.484939Z",
+      "updatedAt": "2026-11-08T12:28:58.484939Z"
+    },
+    {
+      "id": "rss-7ec4875ef1b71dee51b0c3d7",
+      "title": "”这故事如何启发了两本书。",
+      "originalTitle": "How the story of ‘the girl of 100 portraits’ inspired two books",
+      "summary": "Luc Corlouër与Prix Goncourt的获奖者Philippe Jaenada就他关于1949年在巴黎被谋杀的模范Louise Cansot的研究做了“交易 ” 。 近80年来,小说今年赢得法国最著名的文学奖的艺术家模范Louise Cansot一直是巴黎被遗忘的谋杀受害者之一。 在1949年9月在塞纳附近发现她的尸体之后,城市警察已经倒下了。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T11:00:38Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/books/2026/nov/08/louise-cansot-paris-model-prix-goncourt-phillipe-jaenada-luc-corlouer"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T12:28:58.484939Z",
+      "updatedAt": "2026-11-08T12:28:58.484939Z"
+    },
+    {
+      "id": "rss-e85d434e59bbd3897feb7444",
+      "title": "克拉科夫的致命射击是如何展开的",
+      "originalTitle": "How the deadly shooting in Krakow unfolded",
+      "summary": "BBC Vergest的录像显示, Krakow的主要市场广场一有枪声响起。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T09:29:24Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T12:28:58.484939Z",
+      "updatedAt": "2026-11-08T12:28:58.484939Z"
+    },
+    {
+      "id": "rss-ec33d3f2667e6fcc5466eb7b",
+      "title": "教皇访问阿根廷,",
+      "originalTitle": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
+      "summary": "总统在很多问题上都持有相反的观点,而且曾经被称作利奥的前身的“邪恶者之树的代表”被植入花园。 彩色明亮的建筑正在得到另一件涂料。 唱诗班排练。 其他数百名居民 — — 其中一些人使用轮椅 — — 在圣殿外执业。 令人兴奋的是,因为周一9时,他们正在空气中。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T09:00:35Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T12:28:58.484939Z",
+      "updatedAt": "2026-11-08T12:28:58.484939Z"
+    },
+    {
+      "id": "rss-10103709b11a566c6106ad2c",
+      "title": "智囊团发现,在最有可能收取 \" 极端 \" 费用的专家中,精神病学家和儿科医生",
+      "originalTitle": "Psychiatrists and paediatricians among specialists most likely to charge ‘extreme’ fees, thinktank finds",
+      "summary": "Grattan Institute发现一些医生收费高达同龄人的三倍 — — 远远超出商业运行成本所能证明的理由 — — 我们的突发新闻电子邮件、免费应用程序或每日新闻播客超过220万澳大利亚人去年支付了“极端”费用去看专家,其中最有可能不合理地向病人收费的有精神病医生和儿科医生。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T09:00:35Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/08/psychiatrists-paediatricians-extreme-specialist-fees-health-australia"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T12:28:58.484939Z",
+      "updatedAt": "2026-11-08T12:28:58.484939Z"
+    },
+    {
+      "id": "rss-d178aaad6b181270c84aec3e",
+      "title": "重新引入白尾鹰 使海鸟聚居地面临毁灭的危险 专家说",
+      "originalTitle": "Reintroduction of white-tailed eagles puts seabird colonies at risk of wipeout, say experts",
+      "summary": "自然学家们对增加英格兰和威尔士白尾鹰重新引入到英格兰和威尔士的野生猛禽数量的建议的潜在影响存在分歧,它们危及濒危海鸟种群,并有可能清除一些殖民地、生态学家和养护学家的警告。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T08:00:35Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/environment/2026/nov/08/reintroduction-white-tailed-eagles-seabird-colonies-risk-england-wales"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T12:28:58.484939Z",
+      "updatedAt": "2026-11-08T12:28:58.484939Z"
+    },
+    {
+      "id": "rss-987516c0a83f4e363599222f",
+      "title": "拉丁美洲香蕉生产商希望得到更好的报酬,以应对气候危机的影响",
+      "originalTitle": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
+      "summary": "在今年的超级厄尔尼诺事件期间,拉丁美洲的香蕉生产商面临极端天气造成的产量大幅下降,他们要求提高工资,以帮助应对气候危机的影响,因为他们在今年的超级厄尔尼诺事件期间面临极端天气造成的产量大幅下降。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T07:00:34Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T12:28:58.484939Z",
+      "updatedAt": "2026-11-08T12:28:58.484939Z"
+    },
+    {
+      "id": "rss-cb05e4f6a5e7a17671ca3a34",
+      "title": "\" Windrush \" 指控土耳其国民被驱逐出联合王国的人数急剧上升",
+      "originalTitle": "‘Windrush’ accusations over sharp rise in Turkish nationals facing removal from UK",
+      "summary": "在被拒的无限期居留假申请中发现错误后,David Lammy在引起关注的那些人中,有人对由于错误而被驱逐出联合王国的土耳其国民人数突然增加表示关切,这引发了对内政部未能从Windrush丑闻中吸取教训的指控。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T07:00:33Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/politics/2026/nov/08/turkish-nationals-uk-indefinite-leave-to-remain-home-office-windrush"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T12:28:58.484939Z",
+      "updatedAt": "2026-11-08T12:28:58.484939Z"
+    },
+    {
+      "id": "rss-e9f47d95482fd0227ca3f33d",
+      "title": "面对泰国驱逐的维吾尔人说,他们在中国会“像奴隶一样”",
+      "originalTitle": "Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China",
+      "summary": "活动家们说,将另外两名维吾尔人从泰国驱逐到中国将使他们的生命面临严重危险,其中一人说,如果他被送回,他将“像奴隶”。 去年,泰国当局强行驱逐了40名维吾尔人。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T03:00:28Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T12:28:58.484939Z",
+      "updatedAt": "2026-11-08T12:28:58.484939Z"
+    },
+    {
+      "id": "rss-9c52717d8356d9fd41bb8e96",
+      "title": "寒冷的爆炸给高山地区带来了春天的雪,因为澳大利亚东南部的气温暴跌。",
+      "originalTitle": "Cold blast brings springtime snow to alpine regions as temperatures plummet across Australia’s south-east",
+      "summary": "什雷德博、佩里泽和霍汉姆山都记录了瀑布,塔斯马尼亚的库纳尼/穆恩特·惠灵顿也记录了瀑布,而霍巴的库纳尼/穆恩特·威灵顿也记录了雪幕。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T02:34:19Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T12:28:58.484939Z",
+      "updatedAt": "2026-11-08T12:28:58.484939Z"
+    },
+    {
+      "id": "rss-3d868371b5a44de048ac14d0",
+      "title": "共和党人现在该怎么办?",
+      "originalTitle": "The Trump coalition is shattered - what will Republicans do now?",
+      "summary": "英国广播公司驻华盛顿记者Daniel Bush写道: 共和党人可以坚持特朗普主义,（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-08T00:52:39Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T12:28:58.484939Z",
+      "updatedAt": "2026-11-08T12:28:58.484939Z"
+    },
+    {
+      "id": "rss-ff8dac294fc817cb92fae5f0",
+      "title": "德国人与希特勒被摧毁的鹰巢后退作战",
+      "originalTitle": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+      "summary": "虽然有些人认为该场址应部分或全部重建,但另一些人则希望废弃该场址,忘记其纳粹历史的一切记忆。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T00:48:59Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T12:28:58.484939Z",
+      "updatedAt": "2026-11-08T12:28:58.484939Z"
+    },
+    {
+      "id": "rss-e3d6f99e0ff04bc765ea2d85",
+      "title": "泽尔达能重新捕捉原创的魔力吗?",
+      "originalTitle": "Can the Zelda remake capture the magic of the original?",
+      "summary": "任天堂已经发布了它的新版本 被认为是有史以来最好的游戏之一 - 英国广播公司的汤姆·格肯给出了他的判断。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T00:37:45Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T12:28:58.484939Z",
+      "updatedAt": "2026-11-08T12:28:58.484939Z"
+    },
+    {
+      "id": "rss-c4c648932b3d7ff19108f28f",
+      "title": "“Flat”、“tired”、“cynical”:非正常的阴暗基维斯带来了新西兰多年来最紧张的选举。",
+      "originalTitle": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "summary": "国家情绪低落,对政治的信念更低,选民在投票时抛弃了主要政党。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-07T21:36:16Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T12:28:58.484939Z",
+      "updatedAt": "2026-11-08T12:28:58.484939Z"
     }
   ],
   "history": [
@@ -103917,9 +104601,772 @@
         "firstSeen": "2026-11-08T00:28:12.459037Z",
         "updatedAt": "2026-11-08T00:28:12.459037Z"
       }
+    },
+    {
+      "eventId": "rss-d2755ebc4728e1eff9837033",
+      "at": "2026-11-08T12:28:58.484939Z",
+      "data": {
+        "id": "rss-d2755ebc4728e1eff9837033",
+        "title": "非洲哲学如何激发了在曼彻斯特举办电影节的新方法",
+        "originalTitle": "How African philosophies inspired a new approach to staging film festivals in Manchester",
+        "summary": "见《我的世界》,一个通过电影、诗歌和舞蹈来突出泛非思想的活动,以当地积极分子和创造性的非洲哲学所激发的势头为基础,包括探讨过去的经验教训如何影响现在和不远的将来,促使一个电影节来到曼彻斯特。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T12:00:39Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T12:28:58.484939Z",
+        "updatedAt": "2026-11-08T12:28:58.484939Z"
+      }
+    },
+    {
+      "eventId": "rss-34430db32ce5c9d8cf4d5328",
+      "at": "2026-11-08T12:28:58.484939Z",
+      "data": {
+        "id": "rss-34430db32ce5c9d8cf4d5328",
+        "title": "波兰检察官对Kraków枪击事件展开恐怖主义调查",
+        "originalTitle": "Polish prosecutors open terrorism investigation into Kraków shooting",
+        "summary": "官方说,嫌疑人持有极右的观点,如果他的父母和姐妹的波兰检察官在Kraków的一个繁忙的市场广场上开枪,打死6人,包括一名英国人,打伤17人,在一次当局说很可能是极右思想激发的袭击中,他家里发现3人死亡。 警方在Sun上证实了这一点。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T11:50:15Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T12:28:58.484939Z",
+        "updatedAt": "2026-11-08T12:28:58.484939Z"
+      }
+    },
+    {
+      "eventId": "rss-ed224a74ead9763ee09b15b3",
+      "at": "2026-11-08T12:28:58.484939Z",
+      "data": {
+        "id": "rss-ed224a74ead9763ee09b15b3",
+        "title": "谁在Cop31:气候会谈的关键参与者",
+        "originalTitle": "Who’s who at Cop31: key players at the climate talks",
+        "summary": "随着峰会在主办问题上的激烈争论,什么关系和主导利益在起作用? 2021年澳大利亚总理安东尼·阿尔巴内斯(Anthony Albanese)在竞选成功之前曾表示反对,但正常规则意味着国家必须等待其竞价,然后与土耳其在宿主的愤怒斗争中混为一谈。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T11:48:56Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T12:28:58.484939Z",
+        "updatedAt": "2026-11-08T12:28:58.484939Z"
+      }
+    },
+    {
+      "eventId": "rss-1fd2c4b355c27cd812da7476",
+      "at": "2026-11-08T12:28:58.484939Z",
+      "data": {
+        "id": "rss-1fd2c4b355c27cd812da7476",
+        "title": "政府“认真对待”禁止16岁以下者离开Vinted和eBay",
+        "originalTitle": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+        "summary": "文化秘书证实,他们可能被列入明年三月将禁止的平台名单。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T11:25:32Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T12:28:58.484939Z",
+        "updatedAt": "2026-11-08T12:28:58.484939Z"
+      }
+    },
+    {
+      "eventId": "rss-c305599c878b22168cd6ee23",
+      "at": "2026-11-08T12:28:58.484939Z",
+      "data": {
+        "id": "rss-c305599c878b22168cd6ee23",
+        "title": "Cop31:联合国气候峰会的利害关系何在?",
+        "originalTitle": "Cop31: what is at stake at the UN climate summit and what can it achieve?",
+        "summary": "来自190多个国家的代表聚集在土耳其进行气候谈判,但美国将缺席,因为地球正面临前所未有的人类造成的全球暖气,政府首脑将在今后两周举行最新一轮的气候谈判。 我们问这为何重要以及可能实现什么。 继续阅读...（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T11:00:38Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T12:28:58.484939Z",
+        "updatedAt": "2026-11-08T12:28:58.484939Z"
+      }
+    },
+    {
+      "eventId": "rss-7ec4875ef1b71dee51b0c3d7",
+      "at": "2026-11-08T12:28:58.484939Z",
+      "data": {
+        "id": "rss-7ec4875ef1b71dee51b0c3d7",
+        "title": "”这故事如何启发了两本书。",
+        "originalTitle": "How the story of ‘the girl of 100 portraits’ inspired two books",
+        "summary": "Luc Corlouër与Prix Goncourt的获奖者Philippe Jaenada就他关于1949年在巴黎被谋杀的模范Louise Cansot的研究做了“交易 ” 。 近80年来,小说今年赢得法国最著名的文学奖的艺术家模范Louise Cansot一直是巴黎被遗忘的谋杀受害者之一。 在1949年9月在塞纳附近发现她的尸体之后,城市警察已经倒下了。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T11:00:38Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/books/2026/nov/08/louise-cansot-paris-model-prix-goncourt-phillipe-jaenada-luc-corlouer"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T12:28:58.484939Z",
+        "updatedAt": "2026-11-08T12:28:58.484939Z"
+      }
+    },
+    {
+      "eventId": "rss-e85d434e59bbd3897feb7444",
+      "at": "2026-11-08T12:28:58.484939Z",
+      "data": {
+        "id": "rss-e85d434e59bbd3897feb7444",
+        "title": "克拉科夫的致命射击是如何展开的",
+        "originalTitle": "How the deadly shooting in Krakow unfolded",
+        "summary": "BBC Vergest的录像显示, Krakow的主要市场广场一有枪声响起。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T09:29:24Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T12:28:58.484939Z",
+        "updatedAt": "2026-11-08T12:28:58.484939Z"
+      }
+    },
+    {
+      "eventId": "rss-ec33d3f2667e6fcc5466eb7b",
+      "at": "2026-11-08T12:28:58.484939Z",
+      "data": {
+        "id": "rss-ec33d3f2667e6fcc5466eb7b",
+        "title": "教皇访问阿根廷,",
+        "originalTitle": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
+        "summary": "总统在很多问题上都持有相反的观点,而且曾经被称作利奥的前身的“邪恶者之树的代表”被植入花园。 彩色明亮的建筑正在得到另一件涂料。 唱诗班排练。 其他数百名居民 — — 其中一些人使用轮椅 — — 在圣殿外执业。 令人兴奋的是,因为周一9时,他们正在空气中。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T09:00:35Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T12:28:58.484939Z",
+        "updatedAt": "2026-11-08T12:28:58.484939Z"
+      }
+    },
+    {
+      "eventId": "rss-10103709b11a566c6106ad2c",
+      "at": "2026-11-08T12:28:58.484939Z",
+      "data": {
+        "id": "rss-10103709b11a566c6106ad2c",
+        "title": "智囊团发现,在最有可能收取 \" 极端 \" 费用的专家中,精神病学家和儿科医生",
+        "originalTitle": "Psychiatrists and paediatricians among specialists most likely to charge ‘extreme’ fees, thinktank finds",
+        "summary": "Grattan Institute发现一些医生收费高达同龄人的三倍 — — 远远超出商业运行成本所能证明的理由 — — 我们的突发新闻电子邮件、免费应用程序或每日新闻播客超过220万澳大利亚人去年支付了“极端”费用去看专家,其中最有可能不合理地向病人收费的有精神病医生和儿科医生。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T09:00:35Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/08/psychiatrists-paediatricians-extreme-specialist-fees-health-australia"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T12:28:58.484939Z",
+        "updatedAt": "2026-11-08T12:28:58.484939Z"
+      }
+    },
+    {
+      "eventId": "rss-d178aaad6b181270c84aec3e",
+      "at": "2026-11-08T12:28:58.484939Z",
+      "data": {
+        "id": "rss-d178aaad6b181270c84aec3e",
+        "title": "重新引入白尾鹰 使海鸟聚居地面临毁灭的危险 专家说",
+        "originalTitle": "Reintroduction of white-tailed eagles puts seabird colonies at risk of wipeout, say experts",
+        "summary": "自然学家们对增加英格兰和威尔士白尾鹰重新引入到英格兰和威尔士的野生猛禽数量的建议的潜在影响存在分歧,它们危及濒危海鸟种群,并有可能清除一些殖民地、生态学家和养护学家的警告。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T08:00:35Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/environment/2026/nov/08/reintroduction-white-tailed-eagles-seabird-colonies-risk-england-wales"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T12:28:58.484939Z",
+        "updatedAt": "2026-11-08T12:28:58.484939Z"
+      }
+    },
+    {
+      "eventId": "rss-987516c0a83f4e363599222f",
+      "at": "2026-11-08T12:28:58.484939Z",
+      "data": {
+        "id": "rss-987516c0a83f4e363599222f",
+        "title": "拉丁美洲香蕉生产商希望得到更好的报酬,以应对气候危机的影响",
+        "originalTitle": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
+        "summary": "在今年的超级厄尔尼诺事件期间,拉丁美洲的香蕉生产商面临极端天气造成的产量大幅下降,他们要求提高工资,以帮助应对气候危机的影响,因为他们在今年的超级厄尔尼诺事件期间面临极端天气造成的产量大幅下降。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T07:00:34Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T12:28:58.484939Z",
+        "updatedAt": "2026-11-08T12:28:58.484939Z"
+      }
+    },
+    {
+      "eventId": "rss-cb05e4f6a5e7a17671ca3a34",
+      "at": "2026-11-08T12:28:58.484939Z",
+      "data": {
+        "id": "rss-cb05e4f6a5e7a17671ca3a34",
+        "title": "\" Windrush \" 指控土耳其国民被驱逐出联合王国的人数急剧上升",
+        "originalTitle": "‘Windrush’ accusations over sharp rise in Turkish nationals facing removal from UK",
+        "summary": "在被拒的无限期居留假申请中发现错误后,David Lammy在引起关注的那些人中,有人对由于错误而被驱逐出联合王国的土耳其国民人数突然增加表示关切,这引发了对内政部未能从Windrush丑闻中吸取教训的指控。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T07:00:33Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/politics/2026/nov/08/turkish-nationals-uk-indefinite-leave-to-remain-home-office-windrush"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T12:28:58.484939Z",
+        "updatedAt": "2026-11-08T12:28:58.484939Z"
+      }
+    },
+    {
+      "eventId": "rss-e9f47d95482fd0227ca3f33d",
+      "at": "2026-11-08T12:28:58.484939Z",
+      "data": {
+        "id": "rss-e9f47d95482fd0227ca3f33d",
+        "title": "面对泰国驱逐的维吾尔人说,他们在中国会“像奴隶一样”",
+        "originalTitle": "Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China",
+        "summary": "活动家们说,将另外两名维吾尔人从泰国驱逐到中国将使他们的生命面临严重危险,其中一人说,如果他被送回,他将“像奴隶”。 去年,泰国当局强行驱逐了40名维吾尔人。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T03:00:28Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T12:28:58.484939Z",
+        "updatedAt": "2026-11-08T12:28:58.484939Z"
+      }
+    },
+    {
+      "eventId": "rss-9c52717d8356d9fd41bb8e96",
+      "at": "2026-11-08T12:28:58.484939Z",
+      "data": {
+        "id": "rss-9c52717d8356d9fd41bb8e96",
+        "title": "寒冷的爆炸给高山地区带来了春天的雪,因为澳大利亚东南部的气温暴跌。",
+        "originalTitle": "Cold blast brings springtime snow to alpine regions as temperatures plummet across Australia’s south-east",
+        "summary": "什雷德博、佩里泽和霍汉姆山都记录了瀑布,塔斯马尼亚的库纳尼/穆恩特·惠灵顿也记录了瀑布,而霍巴的库纳尼/穆恩特·威灵顿也记录了雪幕。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T02:34:19Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T12:28:58.484939Z",
+        "updatedAt": "2026-11-08T12:28:58.484939Z"
+      }
+    },
+    {
+      "eventId": "rss-3d868371b5a44de048ac14d0",
+      "at": "2026-11-08T12:28:58.484939Z",
+      "data": {
+        "id": "rss-3d868371b5a44de048ac14d0",
+        "title": "共和党人现在该怎么办?",
+        "originalTitle": "The Trump coalition is shattered - what will Republicans do now?",
+        "summary": "英国广播公司驻华盛顿记者Daniel Bush写道: 共和党人可以坚持特朗普主义,（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-08T00:52:39Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T12:28:58.484939Z",
+        "updatedAt": "2026-11-08T12:28:58.484939Z"
+      }
+    },
+    {
+      "eventId": "rss-ff8dac294fc817cb92fae5f0",
+      "at": "2026-11-08T12:28:58.484939Z",
+      "data": {
+        "id": "rss-ff8dac294fc817cb92fae5f0",
+        "title": "德国人与希特勒被摧毁的鹰巢后退作战",
+        "originalTitle": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+        "summary": "虽然有些人认为该场址应部分或全部重建,但另一些人则希望废弃该场址,忘记其纳粹历史的一切记忆。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T00:48:59Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T12:28:58.484939Z",
+        "updatedAt": "2026-11-08T12:28:58.484939Z"
+      }
+    },
+    {
+      "eventId": "rss-e3d6f99e0ff04bc765ea2d85",
+      "at": "2026-11-08T12:28:58.484939Z",
+      "data": {
+        "id": "rss-e3d6f99e0ff04bc765ea2d85",
+        "title": "泽尔达能重新捕捉原创的魔力吗?",
+        "originalTitle": "Can the Zelda remake capture the magic of the original?",
+        "summary": "任天堂已经发布了它的新版本 被认为是有史以来最好的游戏之一 - 英国广播公司的汤姆·格肯给出了他的判断。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T00:37:45Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T12:28:58.484939Z",
+        "updatedAt": "2026-11-08T12:28:58.484939Z"
+      }
+    },
+    {
+      "eventId": "rss-c4c648932b3d7ff19108f28f",
+      "at": "2026-11-08T12:28:58.484939Z",
+      "data": {
+        "id": "rss-c4c648932b3d7ff19108f28f",
+        "title": "“Flat”、“tired”、“cynical”:非正常的阴暗基维斯带来了新西兰多年来最紧张的选举。",
+        "originalTitle": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+        "summary": "国家情绪低落,对政治的信念更低,选民在投票时抛弃了主要政党。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-07T21:36:16Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T12:28:58.484939Z",
+        "updatedAt": "2026-11-08T12:28:58.484939Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-08T12:28:58.484939Z",
+      "at": "2026-11-08T12:28:58.484939Z",
+      "kind": "GitHub Actions 采集",
+      "count": 18,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 4}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 2}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 12}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 0}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-08T00:28:12.459037Z",
       "at": "2026-11-08T00:28:12.459037Z",
