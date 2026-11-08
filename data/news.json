@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-07T12:29:16.515485Z",
+  "updatedAt": "2026-11-08T00:28:12.459037Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -48444,6 +48444,918 @@
       "tokens": [],
       "firstSeen": "2026-11-07T12:29:16.515485Z",
       "updatedAt": "2026-11-07T12:29:16.515485Z"
+    },
+    {
+      "id": "rss-f7ebc1abd2e64897a2554241",
+      "title": "悉尼和墨尔本的维多利亚军营在国防财产被部分出售后仍由公众控制",
+      "originalTitle": "Victoria Barracks in Sydney and Melbourne to remain in public hands after partial backtrack on defence property selloff",
+      "summary": "在退伍军人和前总理的反弹之后,4个列入遗产清单的国防财产将留给社区使用。 在阿尔巴内政府拒绝出售这些财产后,我们每天通过政治电子邮件、免费应用程序或每日新闻播客,包括悉尼的维多利亚军营在内的4个列入遗产清单的国防网站将留在公众手中。 这些网站以及约63个其他网站将留在公众手中。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T00:17:28Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T00:28:12.459037Z",
+      "updatedAt": "2026-11-08T00:28:12.459037Z"
+    },
+    {
+      "id": "rss-d04570c52c8f8b018285176a",
+      "title": "克拉科夫枪袭后我们所知道的",
+      "originalTitle": "What we know so far after Krakow gun attack",
+      "summary": "六人在市中心广场的随机枪击中丧生,后来在家中发现了三具尸体。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-07T22:58:49Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T00:28:12.459037Z",
+      "updatedAt": "2026-11-08T00:28:12.459037Z"
+    },
+    {
+      "id": "rss-b652c1e8eeb105f669e6fdb2",
+      "title": "Kraków拍摄最新消息:六人死亡,十几人受伤,",
+      "originalTitle": "Kraków shooting latest updates: six killed and more than a dozen injured – as it happened",
+      "summary": "波兰总理塔斯克(Donald Tusk)在四位女性和两名男性遇害后前往该市,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-07T22:32:41Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T00:28:12.459037Z",
+      "updatedAt": "2026-11-08T00:28:12.459037Z"
+    },
+    {
+      "id": "rss-79a8ecf18d1460196950eedd",
+      "title": "以色列总统要求反对派领袖艾森科特组建政府",
+      "originalTitle": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "summary": "无论是本雅明·内塔尼亚胡总理的集团,还是他的对手集团,都未能在上星期的选举中获得多数。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-07T22:19:59Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T00:28:12.459037Z",
+      "updatedAt": "2026-11-08T00:28:12.459037Z"
+    },
+    {
+      "id": "rss-757379c07d1179f77b312b84",
+      "title": "期中考试结束后 伊隆·穆斯克和数据中心 情况变得很复杂",
+      "originalTitle": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "summary": "关于公平,我们解开 期中产品对技术行业的意义。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-07T22:07:22Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T00:28:12.459037Z",
+      "updatedAt": "2026-11-08T00:28:12.459037Z"
+    },
+    {
+      "id": "rss-0099b19869517b47b80b2c33",
+      "title": "枪手在Kraków市场广场开火后6人死亡,在嫌犯家中又发现3名受害者",
+      "originalTitle": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
+      "summary": "嫌犯受到极右派意识形态的影响,持有“超民族主义”观点,他说,波兰内政部长六人因一名枪手在克拉科夫一个繁忙的市场广场开火而丧生,16人受伤。 当局说,在波兰国防部长所谓的“恐怖行动”中,这名嫌犯是一名25岁的波兰公民,他用自动编织的装置开火。（机器翻译；尚未完成正文核查。）",
+      "category": "商业 / 宏观",
+      "publishedAt": "2026-11-07T21:19:01Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T00:28:12.459037Z",
+      "updatedAt": "2026-11-08T00:28:12.459037Z"
+    },
+    {
+      "id": "rss-4e392e0aaa878514344f9a0a",
+      "title": "根据美国情报备忘录 超速执行官被招募来监视Nvidia首席执行官",
+      "originalTitle": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "summary": "据报告,今年早些时候散发的一份备忘录声称,中国国家安全部招聘了一名女性技术执行官,对Nvidia的首席执行官进行间谍活动。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-07T21:17:08Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T00:28:12.459037Z",
+      "updatedAt": "2026-11-08T00:28:12.459037Z"
+    },
+    {
+      "id": "rss-47cd986cf4ff25549de09d4e",
+      "title": "当贵国是一个煤炭和天然气的大出口国时,如何协调联合国气候谈判?",
+      "originalTitle": "How do you broker UN climate talks when your own country is a big coal and gas exporter? Chris Bowen is about to find out",
+      "summary": "在Cop31之前, 气候变化部长排除了对澳大利亚作为主要生产国能否让世界远离化石燃料的担忧。 听听播客:Chris Bowen在Cop31上如何达成共识,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-07T19:00:20Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T00:28:12.459037Z",
+      "updatedAt": "2026-11-08T00:28:12.459037Z"
+    },
+    {
+      "id": "rss-e2e4b20054263a02e1cdbe14",
+      "title": "一个大建筑皇家委员会 帮助本·卡罗尔成为首任总统",
+      "originalTitle": "A Big Build royal commission helped Ben Carroll become premier. Will it be his downfall?",
+      "summary": "两周的公开听证会将于星期一上午开始,就在州竞选运动的中间。 获得我们每天的政治电子邮件、免费应用程序或每日新闻播客。 班·卡罗尔总理的承诺最终可能让他在大选中付出代价。 周一上午,就在州竞选运动的中间,维多利亚大大厦的皇家委员会将开始两周的竞选活动。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-07T19:00:19Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/08/big-build-royal-commission-victorian-election-ben-carroll-labor-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T00:28:12.459037Z",
+      "updatedAt": "2026-11-08T00:28:12.459037Z"
+    },
+    {
+      "id": "rss-a7e073009e31fde669abe265",
+      "title": "家长希望孩子们用更安全的电话 这些公司在接电话",
+      "originalTitle": "Parents want safer phones for kids. These companies are answering the call.",
+      "summary": "随着父母寻找不受限制的智能手机的替代品,越来越多的公司正在建造专门为儿童设计的电话,从功能限制的移动设备到最起码的家庭电话。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-07T19:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T00:28:12.459037Z",
+      "updatedAt": "2026-11-08T00:28:12.459037Z"
+    },
+    {
+      "id": "rss-082aa9ac915444e4fc36ccfe",
+      "title": "美国为伊朗核计划的情报提供20万美元的奖励",
+      "originalTitle": "US offers $20m reward for information about Iran's nuclear programme",
+      "summary": "Donald Trump一再提出对伊朗核设施重新发动攻击的探矿活动。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-07T18:14:38Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T00:28:12.459037Z",
+      "updatedAt": "2026-11-08T00:28:12.459037Z"
+    },
+    {
+      "id": "rss-6f87cce88ee43aa9253c17ee",
+      "title": "加沙婚礼节看到250对夫妇同时结婚",
+      "originalTitle": "Gaza wedding festival sees 250 couples married at the same time",
+      "summary": "为巴勒斯坦新娘和新郎举行的大规模婚礼在加沙的废墟街道上举行。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-07T17:58:41Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T00:28:12.459037Z",
+      "updatedAt": "2026-11-08T00:28:12.459037Z"
+    },
+    {
+      "id": "rss-fa2aab729edf0774f24cacc7",
+      "title": "Binance CFO在63亿美元黑客之后,将前往 \" 追求新企业 \" 。",
+      "originalTitle": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+      "summary": "黑客从宾恩斯的用户那里 偷走了63亿的密码货币（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-07T17:24:07Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T00:28:12.459037Z",
+      "updatedAt": "2026-11-08T00:28:12.459037Z"
+    },
+    {
+      "id": "rss-ad634f62bfc0ae82085888fd",
+      "title": "亚马逊的新基本Kindle证明你不需要所有的钟声和哨声",
+      "originalTitle": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+      "summary": "亚马逊重新设计的基本Kindle成本比以前要高, 但是其较轻的建构和改良的显示为跳过更坚固的模型提供了令人信服的理由。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-07T17:18:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T00:28:12.459037Z",
+      "updatedAt": "2026-11-08T00:28:12.459037Z"
+    },
+    {
+      "id": "rss-6d8a06c4630839f617396d08",
+      "title": "胡塞说至少25人在沙特空袭中丧生",
+      "originalTitle": "Houthis say at least 25 killed in Saudi air strike",
+      "summary": "沙特阿拉伯领导着一个在也门与胡塞人战斗的联盟,但并未发表评论。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-07T17:09:24Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T00:28:12.459037Z",
+      "updatedAt": "2026-11-08T00:28:12.459037Z"
+    },
+    {
+      "id": "rss-c6ae51f0f919c58bd700604b",
+      "title": "意大利外交部长说黑客泄露了他的个人资料",
+      "originalTitle": "Italian foreign minister says hackers leaked his personal data",
+      "summary": "总理Giorgia Meloni指责亲俄罗斯的黑客在网上公布细节。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-07T16:50:06Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T00:28:12.459037Z",
+      "updatedAt": "2026-11-08T00:28:12.459037Z"
+    },
+    {
+      "id": "rss-a3a63a91f6daf1ab8843d05a",
+      "title": "新西兰举行紧凑的大选后,没有明显的获胜者",
+      "originalTitle": "No clear winner after tight New Zealand general election",
+      "summary": "在初步结果显示全国议会高度分裂之后,可以举行数周的联盟会谈。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-07T15:56:28Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T00:28:12.459037Z",
+      "updatedAt": "2026-11-08T00:28:12.459037Z"
+    },
+    {
+      "id": "rss-062a70b67af36c2c56d773d8",
+      "title": "英国不能“樱桃选择”欧盟单一市场交易,Barnier告诉英国广播公司",
+      "originalTitle": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "summary": "前布雷克西谈判者说,欧盟国家将拒绝英国试图遵守经济规则的企图。（机器翻译；尚未完成正文核查。）",
+      "category": "商业 / 宏观",
+      "publishedAt": "2026-11-07T15:19:35Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T00:28:12.459037Z",
+      "updatedAt": "2026-11-08T00:28:12.459037Z"
+    },
+    {
+      "id": "rss-f9ce569d6615b2e5a37fe879",
+      "title": "新西兰面临数周的不确定性,",
+      "originalTitle": "New Zealand faces weeks of uncertainty with election ‘too close to call’",
+      "summary": "国民党在议会中将是最大的政党,但下届政府的最终形式在一段时间内不会被解决,新西兰可能面临几个星期的等待,以了解其下届政府的形式,因为这次选举没有给现任右翼联盟或反对派左翼集团带来决定性的胜利。 根据初步结果,由中右翼国家党领导的中右翼国家党将面临一个为期数周的等待。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-07T13:48:18Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T00:28:12.459037Z",
+      "updatedAt": "2026-11-08T00:28:12.459037Z"
+    },
+    {
+      "id": "rss-62f39c82b1348381f08ef6e0",
+      "title": "俄罗斯袭击乌克兰能源网后基辅的停电和缺水情况",
+      "originalTitle": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
+      "summary": "莫斯科在袭击Dnipro Volodymyr Zelenskyy的电站和桥梁时使用了172架无人驾驶飞机和36枚弹道导弹,指责俄罗斯在首都能源基础设施和Dnipro河上一座桥梁一夜之间遭到重大袭击后试图“把基辅和整个国家通向停电”。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-07T13:03:03Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T00:28:12.459037Z",
+      "updatedAt": "2026-11-08T00:28:12.459037Z"
+    },
+    {
+      "id": "rss-9f4c8241a45c83108ed4f97a",
+      "title": "在寻求庇护者绑架案中法院对内政部的规则",
+      "originalTitle": "Court rules against Home Office in asylum seeker kidnapping case",
+      "summary": "上诉庭驳回了内政部关于为勒索赎金而绑架不是剥削贩运受害者的说法。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-07T13:00:11Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T00:28:12.459037Z",
+      "updatedAt": "2026-11-08T00:28:12.459037Z"
+    },
+    {
+      "id": "rss-7bc889d73f785e5930185272",
+      "title": "俄军在会谈前击伤9人,破坏乌克兰的电力网络",
+      "originalTitle": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "summary": "乌克兰和俄罗斯代表团将参加下星期在阿布扎比举行的三边会谈。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-07T12:49:36Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T00:28:12.459037Z",
+      "updatedAt": "2026-11-08T00:28:12.459037Z"
+    },
+    {
+      "id": "rss-7ec4b19be3283c20a693b266",
+      "title": "德州市长指示警方限制与ICE的合作",
+      "originalTitle": "Texas mayor instructs police to limit co-operation with ICE",
+      "summary": "在休斯顿,一个移民和海关执法官员枪杀了一名开车上班的人之后,发生了数月的公众抗议。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-07T08:15:55Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T00:28:12.459037Z",
+      "updatedAt": "2026-11-08T00:28:12.459037Z"
+    },
+    {
+      "id": "rss-55e3db745181cc1d839fa883",
+      "title": "Meghan的父亲Thomas Markle 在儿童性虐待材料指控后被软禁",
+      "originalTitle": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+      "summary": "联邦调查局搜查了他租的两套洛杉矶地区储藏设备后 82岁的孩子出现在佛罗里达的法庭上（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-07T07:27:44Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-08T00:28:12.459037Z",
+      "updatedAt": "2026-11-08T00:28:12.459037Z"
     }
   ],
   "history": [
@@ -101997,9 +102909,1024 @@
         "firstSeen": "2026-11-07T12:29:16.515485Z",
         "updatedAt": "2026-11-07T12:29:16.515485Z"
       }
+    },
+    {
+      "eventId": "rss-f7ebc1abd2e64897a2554241",
+      "at": "2026-11-08T00:28:12.459037Z",
+      "data": {
+        "id": "rss-f7ebc1abd2e64897a2554241",
+        "title": "悉尼和墨尔本的维多利亚军营在国防财产被部分出售后仍由公众控制",
+        "originalTitle": "Victoria Barracks in Sydney and Melbourne to remain in public hands after partial backtrack on defence property selloff",
+        "summary": "在退伍军人和前总理的反弹之后,4个列入遗产清单的国防财产将留给社区使用。 在阿尔巴内政府拒绝出售这些财产后,我们每天通过政治电子邮件、免费应用程序或每日新闻播客,包括悉尼的维多利亚军营在内的4个列入遗产清单的国防网站将留在公众手中。 这些网站以及约63个其他网站将留在公众手中。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T00:17:28Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T00:28:12.459037Z",
+        "updatedAt": "2026-11-08T00:28:12.459037Z"
+      }
+    },
+    {
+      "eventId": "rss-d04570c52c8f8b018285176a",
+      "at": "2026-11-08T00:28:12.459037Z",
+      "data": {
+        "id": "rss-d04570c52c8f8b018285176a",
+        "title": "克拉科夫枪袭后我们所知道的",
+        "originalTitle": "What we know so far after Krakow gun attack",
+        "summary": "六人在市中心广场的随机枪击中丧生,后来在家中发现了三具尸体。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-07T22:58:49Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T00:28:12.459037Z",
+        "updatedAt": "2026-11-08T00:28:12.459037Z"
+      }
+    },
+    {
+      "eventId": "rss-b652c1e8eeb105f669e6fdb2",
+      "at": "2026-11-08T00:28:12.459037Z",
+      "data": {
+        "id": "rss-b652c1e8eeb105f669e6fdb2",
+        "title": "Kraków拍摄最新消息:六人死亡,十几人受伤,",
+        "originalTitle": "Kraków shooting latest updates: six killed and more than a dozen injured – as it happened",
+        "summary": "波兰总理塔斯克(Donald Tusk)在四位女性和两名男性遇害后前往该市,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-07T22:32:41Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T00:28:12.459037Z",
+        "updatedAt": "2026-11-08T00:28:12.459037Z"
+      }
+    },
+    {
+      "eventId": "rss-79a8ecf18d1460196950eedd",
+      "at": "2026-11-08T00:28:12.459037Z",
+      "data": {
+        "id": "rss-79a8ecf18d1460196950eedd",
+        "title": "以色列总统要求反对派领袖艾森科特组建政府",
+        "originalTitle": "Israel's president tasks opposition leader Eisenkot with forming government",
+        "summary": "无论是本雅明·内塔尼亚胡总理的集团,还是他的对手集团,都未能在上星期的选举中获得多数。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-07T22:19:59Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T00:28:12.459037Z",
+        "updatedAt": "2026-11-08T00:28:12.459037Z"
+      }
+    },
+    {
+      "eventId": "rss-757379c07d1179f77b312b84",
+      "at": "2026-11-08T00:28:12.459037Z",
+      "data": {
+        "id": "rss-757379c07d1179f77b312b84",
+        "title": "期中考试结束后 伊隆·穆斯克和数据中心 情况变得很复杂",
+        "originalTitle": "After the midterms, things are looking rocky for Elon Musk and data centers",
+        "summary": "关于公平,我们解开 期中产品对技术行业的意义。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-07T22:07:22Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T00:28:12.459037Z",
+        "updatedAt": "2026-11-08T00:28:12.459037Z"
+      }
+    },
+    {
+      "eventId": "rss-0099b19869517b47b80b2c33",
+      "at": "2026-11-08T00:28:12.459037Z",
+      "data": {
+        "id": "rss-0099b19869517b47b80b2c33",
+        "title": "枪手在Kraków市场广场开火后6人死亡,在嫌犯家中又发现3名受害者",
+        "originalTitle": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
+        "summary": "嫌犯受到极右派意识形态的影响,持有“超民族主义”观点,他说,波兰内政部长六人因一名枪手在克拉科夫一个繁忙的市场广场开火而丧生,16人受伤。 当局说,在波兰国防部长所谓的“恐怖行动”中,这名嫌犯是一名25岁的波兰公民,他用自动编织的装置开火。（机器翻译；尚未完成正文核查。）",
+        "category": "商业 / 宏观",
+        "publishedAt": "2026-11-07T21:19:01Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T00:28:12.459037Z",
+        "updatedAt": "2026-11-08T00:28:12.459037Z"
+      }
+    },
+    {
+      "eventId": "rss-4e392e0aaa878514344f9a0a",
+      "at": "2026-11-08T00:28:12.459037Z",
+      "data": {
+        "id": "rss-4e392e0aaa878514344f9a0a",
+        "title": "根据美国情报备忘录 超速执行官被招募来监视Nvidia首席执行官",
+        "originalTitle": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+        "summary": "据报告,今年早些时候散发的一份备忘录声称,中国国家安全部招聘了一名女性技术执行官,对Nvidia的首席执行官进行间谍活动。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-07T21:17:08Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T00:28:12.459037Z",
+        "updatedAt": "2026-11-08T00:28:12.459037Z"
+      }
+    },
+    {
+      "eventId": "rss-47cd986cf4ff25549de09d4e",
+      "at": "2026-11-08T00:28:12.459037Z",
+      "data": {
+        "id": "rss-47cd986cf4ff25549de09d4e",
+        "title": "当贵国是一个煤炭和天然气的大出口国时,如何协调联合国气候谈判?",
+        "originalTitle": "How do you broker UN climate talks when your own country is a big coal and gas exporter? Chris Bowen is about to find out",
+        "summary": "在Cop31之前, 气候变化部长排除了对澳大利亚作为主要生产国能否让世界远离化石燃料的担忧。 听听播客:Chris Bowen在Cop31上如何达成共识,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-07T19:00:20Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T00:28:12.459037Z",
+        "updatedAt": "2026-11-08T00:28:12.459037Z"
+      }
+    },
+    {
+      "eventId": "rss-e2e4b20054263a02e1cdbe14",
+      "at": "2026-11-08T00:28:12.459037Z",
+      "data": {
+        "id": "rss-e2e4b20054263a02e1cdbe14",
+        "title": "一个大建筑皇家委员会 帮助本·卡罗尔成为首任总统",
+        "originalTitle": "A Big Build royal commission helped Ben Carroll become premier. Will it be his downfall?",
+        "summary": "两周的公开听证会将于星期一上午开始,就在州竞选运动的中间。 获得我们每天的政治电子邮件、免费应用程序或每日新闻播客。 班·卡罗尔总理的承诺最终可能让他在大选中付出代价。 周一上午,就在州竞选运动的中间,维多利亚大大厦的皇家委员会将开始两周的竞选活动。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-07T19:00:19Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/08/big-build-royal-commission-victorian-election-ben-carroll-labor-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T00:28:12.459037Z",
+        "updatedAt": "2026-11-08T00:28:12.459037Z"
+      }
+    },
+    {
+      "eventId": "rss-a7e073009e31fde669abe265",
+      "at": "2026-11-08T00:28:12.459037Z",
+      "data": {
+        "id": "rss-a7e073009e31fde669abe265",
+        "title": "家长希望孩子们用更安全的电话 这些公司在接电话",
+        "originalTitle": "Parents want safer phones for kids. These companies are answering the call.",
+        "summary": "随着父母寻找不受限制的智能手机的替代品,越来越多的公司正在建造专门为儿童设计的电话,从功能限制的移动设备到最起码的家庭电话。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-07T19:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T00:28:12.459037Z",
+        "updatedAt": "2026-11-08T00:28:12.459037Z"
+      }
+    },
+    {
+      "eventId": "rss-082aa9ac915444e4fc36ccfe",
+      "at": "2026-11-08T00:28:12.459037Z",
+      "data": {
+        "id": "rss-082aa9ac915444e4fc36ccfe",
+        "title": "美国为伊朗核计划的情报提供20万美元的奖励",
+        "originalTitle": "US offers $20m reward for information about Iran's nuclear programme",
+        "summary": "Donald Trump一再提出对伊朗核设施重新发动攻击的探矿活动。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-07T18:14:38Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T00:28:12.459037Z",
+        "updatedAt": "2026-11-08T00:28:12.459037Z"
+      }
+    },
+    {
+      "eventId": "rss-6f87cce88ee43aa9253c17ee",
+      "at": "2026-11-08T00:28:12.459037Z",
+      "data": {
+        "id": "rss-6f87cce88ee43aa9253c17ee",
+        "title": "加沙婚礼节看到250对夫妇同时结婚",
+        "originalTitle": "Gaza wedding festival sees 250 couples married at the same time",
+        "summary": "为巴勒斯坦新娘和新郎举行的大规模婚礼在加沙的废墟街道上举行。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-07T17:58:41Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T00:28:12.459037Z",
+        "updatedAt": "2026-11-08T00:28:12.459037Z"
+      }
+    },
+    {
+      "eventId": "rss-fa2aab729edf0774f24cacc7",
+      "at": "2026-11-08T00:28:12.459037Z",
+      "data": {
+        "id": "rss-fa2aab729edf0774f24cacc7",
+        "title": "Binance CFO在63亿美元黑客之后,将前往 \" 追求新企业 \" 。",
+        "originalTitle": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+        "summary": "黑客从宾恩斯的用户那里 偷走了63亿的密码货币（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-07T17:24:07Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T00:28:12.459037Z",
+        "updatedAt": "2026-11-08T00:28:12.459037Z"
+      }
+    },
+    {
+      "eventId": "rss-ad634f62bfc0ae82085888fd",
+      "at": "2026-11-08T00:28:12.459037Z",
+      "data": {
+        "id": "rss-ad634f62bfc0ae82085888fd",
+        "title": "亚马逊的新基本Kindle证明你不需要所有的钟声和哨声",
+        "originalTitle": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+        "summary": "亚马逊重新设计的基本Kindle成本比以前要高, 但是其较轻的建构和改良的显示为跳过更坚固的模型提供了令人信服的理由。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-07T17:18:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T00:28:12.459037Z",
+        "updatedAt": "2026-11-08T00:28:12.459037Z"
+      }
+    },
+    {
+      "eventId": "rss-6d8a06c4630839f617396d08",
+      "at": "2026-11-08T00:28:12.459037Z",
+      "data": {
+        "id": "rss-6d8a06c4630839f617396d08",
+        "title": "胡塞说至少25人在沙特空袭中丧生",
+        "originalTitle": "Houthis say at least 25 killed in Saudi air strike",
+        "summary": "沙特阿拉伯领导着一个在也门与胡塞人战斗的联盟,但并未发表评论。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-07T17:09:24Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T00:28:12.459037Z",
+        "updatedAt": "2026-11-08T00:28:12.459037Z"
+      }
+    },
+    {
+      "eventId": "rss-c6ae51f0f919c58bd700604b",
+      "at": "2026-11-08T00:28:12.459037Z",
+      "data": {
+        "id": "rss-c6ae51f0f919c58bd700604b",
+        "title": "意大利外交部长说黑客泄露了他的个人资料",
+        "originalTitle": "Italian foreign minister says hackers leaked his personal data",
+        "summary": "总理Giorgia Meloni指责亲俄罗斯的黑客在网上公布细节。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-07T16:50:06Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T00:28:12.459037Z",
+        "updatedAt": "2026-11-08T00:28:12.459037Z"
+      }
+    },
+    {
+      "eventId": "rss-a3a63a91f6daf1ab8843d05a",
+      "at": "2026-11-08T00:28:12.459037Z",
+      "data": {
+        "id": "rss-a3a63a91f6daf1ab8843d05a",
+        "title": "新西兰举行紧凑的大选后,没有明显的获胜者",
+        "originalTitle": "No clear winner after tight New Zealand general election",
+        "summary": "在初步结果显示全国议会高度分裂之后,可以举行数周的联盟会谈。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-07T15:56:28Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T00:28:12.459037Z",
+        "updatedAt": "2026-11-08T00:28:12.459037Z"
+      }
+    },
+    {
+      "eventId": "rss-062a70b67af36c2c56d773d8",
+      "at": "2026-11-08T00:28:12.459037Z",
+      "data": {
+        "id": "rss-062a70b67af36c2c56d773d8",
+        "title": "英国不能“樱桃选择”欧盟单一市场交易,Barnier告诉英国广播公司",
+        "originalTitle": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+        "summary": "前布雷克西谈判者说,欧盟国家将拒绝英国试图遵守经济规则的企图。（机器翻译；尚未完成正文核查。）",
+        "category": "商业 / 宏观",
+        "publishedAt": "2026-11-07T15:19:35Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T00:28:12.459037Z",
+        "updatedAt": "2026-11-08T00:28:12.459037Z"
+      }
+    },
+    {
+      "eventId": "rss-f9ce569d6615b2e5a37fe879",
+      "at": "2026-11-08T00:28:12.459037Z",
+      "data": {
+        "id": "rss-f9ce569d6615b2e5a37fe879",
+        "title": "新西兰面临数周的不确定性,",
+        "originalTitle": "New Zealand faces weeks of uncertainty with election ‘too close to call’",
+        "summary": "国民党在议会中将是最大的政党,但下届政府的最终形式在一段时间内不会被解决,新西兰可能面临几个星期的等待,以了解其下届政府的形式,因为这次选举没有给现任右翼联盟或反对派左翼集团带来决定性的胜利。 根据初步结果,由中右翼国家党领导的中右翼国家党将面临一个为期数周的等待。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-07T13:48:18Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T00:28:12.459037Z",
+        "updatedAt": "2026-11-08T00:28:12.459037Z"
+      }
+    },
+    {
+      "eventId": "rss-62f39c82b1348381f08ef6e0",
+      "at": "2026-11-08T00:28:12.459037Z",
+      "data": {
+        "id": "rss-62f39c82b1348381f08ef6e0",
+        "title": "俄罗斯袭击乌克兰能源网后基辅的停电和缺水情况",
+        "originalTitle": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
+        "summary": "莫斯科在袭击Dnipro Volodymyr Zelenskyy的电站和桥梁时使用了172架无人驾驶飞机和36枚弹道导弹,指责俄罗斯在首都能源基础设施和Dnipro河上一座桥梁一夜之间遭到重大袭击后试图“把基辅和整个国家通向停电”。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-07T13:03:03Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T00:28:12.459037Z",
+        "updatedAt": "2026-11-08T00:28:12.459037Z"
+      }
+    },
+    {
+      "eventId": "rss-9f4c8241a45c83108ed4f97a",
+      "at": "2026-11-08T00:28:12.459037Z",
+      "data": {
+        "id": "rss-9f4c8241a45c83108ed4f97a",
+        "title": "在寻求庇护者绑架案中法院对内政部的规则",
+        "originalTitle": "Court rules against Home Office in asylum seeker kidnapping case",
+        "summary": "上诉庭驳回了内政部关于为勒索赎金而绑架不是剥削贩运受害者的说法。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-07T13:00:11Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T00:28:12.459037Z",
+        "updatedAt": "2026-11-08T00:28:12.459037Z"
+      }
+    },
+    {
+      "eventId": "rss-7bc889d73f785e5930185272",
+      "at": "2026-11-08T00:28:12.459037Z",
+      "data": {
+        "id": "rss-7bc889d73f785e5930185272",
+        "title": "俄军在会谈前击伤9人,破坏乌克兰的电力网络",
+        "originalTitle": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+        "summary": "乌克兰和俄罗斯代表团将参加下星期在阿布扎比举行的三边会谈。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-07T12:49:36Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T00:28:12.459037Z",
+        "updatedAt": "2026-11-08T00:28:12.459037Z"
+      }
+    },
+    {
+      "eventId": "rss-7ec4b19be3283c20a693b266",
+      "at": "2026-11-08T00:28:12.459037Z",
+      "data": {
+        "id": "rss-7ec4b19be3283c20a693b266",
+        "title": "德州市长指示警方限制与ICE的合作",
+        "originalTitle": "Texas mayor instructs police to limit co-operation with ICE",
+        "summary": "在休斯顿,一个移民和海关执法官员枪杀了一名开车上班的人之后,发生了数月的公众抗议。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-07T08:15:55Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T00:28:12.459037Z",
+        "updatedAt": "2026-11-08T00:28:12.459037Z"
+      }
+    },
+    {
+      "eventId": "rss-55e3db745181cc1d839fa883",
+      "at": "2026-11-08T00:28:12.459037Z",
+      "data": {
+        "id": "rss-55e3db745181cc1d839fa883",
+        "title": "Meghan的父亲Thomas Markle 在儿童性虐待材料指控后被软禁",
+        "originalTitle": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+        "summary": "联邦调查局搜查了他租的两套洛杉矶地区储藏设备后 82岁的孩子出现在佛罗里达的法庭上（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-07T07:27:44Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-08T00:28:12.459037Z",
+        "updatedAt": "2026-11-08T00:28:12.459037Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-08T00:28:12.459037Z",
+      "at": "2026-11-08T00:28:12.459037Z",
+      "kind": "GitHub Actions 采集",
+      "count": 24,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 11}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 0}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 8}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 5}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-07T12:29:16.515485Z",
       "at": "2026-11-07T12:29:16.515485Z",
