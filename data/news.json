@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-08T12:28:58.484939Z",
+  "updatedAt": "2026-11-09T00:30:38.640236Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -50040,6 +50040,956 @@
       "tokens": [],
       "firstSeen": "2026-11-08T12:28:58.484939Z",
       "updatedAt": "2026-11-08T12:28:58.484939Z"
+    },
+    {
+      "id": "rss-2ee3553086b7f6231367c7cb",
+      "title": "\" 此事发生得很快 \" :Beau Lamarre-Condon在双重谋杀审判中再次向Jesse Baird开枪。",
+      "originalTitle": "‘This happened very quick’: Beau Lamarre-Condon reenacts shooting Jesse Baird during double murder trial",
+      "summary": "前警官对2024年初在Paddington谋杀Jesse Baird和Luke Davies一事不认罪。 我们的突发新闻电子邮件、免费应用程序或每日新闻播客Beau Lamarre-Condon在法庭上展示了他如何声称在悉尼的证人箱中开枪打死Jesse Baird。这位前警官被指控致命地枪杀了Baird及其同伙Luke Davi。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T23:50:17Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T00:30:38.640236Z",
+      "updatedAt": "2026-11-09T00:30:38.640236Z"
+    },
+    {
+      "id": "rss-379d0639d8e7925b48201961",
+      "title": "外科医生在克拉科夫附近吃午饭 开枪救过警官的命 同事说",
+      "originalTitle": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "summary": "有关两名警察因防止一名波兰枪手再杀人而受到赞扬的更多详情。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T23:34:18Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T00:30:38.640236Z",
+      "updatedAt": "2026-11-09T00:30:38.640236Z"
+    },
+    {
+      "id": "rss-154b6124576d3e4c6278e97c",
+      "title": "治疗克拉科夫枪击案受害者的医生 向英国广播公司讲了话",
+      "originalTitle": "Doctor who treated victims of Krakow shooting speaks to the BBC",
+      "summary": "两名医生在市主市场广场附近吃东西 一名枪手开始随意射击（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T22:05:12Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T00:30:38.640236Z",
+      "updatedAt": "2026-11-09T00:30:38.640236Z"
+    },
+    {
+      "id": "rss-a42a744c9ca89355f2b412e9",
+      "title": "被控在墨尔本谋杀 刺杀饥饿熊猫的送货员",
+      "originalTitle": "Man charged with murder over fatal stabbing of HungryPanda delivery rider in Melbourne",
+      "summary": "一名送货员在工作时被刺死后被指控谋杀, 留下家人和城市在哀悼中。 星期五晚上,47岁的HungryPanda送货员Feng Jianming和另一名骑手与一名据称男子对质。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T22:03:59Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T00:30:38.640236Z",
+      "updatedAt": "2026-11-09T00:30:38.640236Z"
+    },
+    {
+      "id": "rss-7978cc85b6b0372d326c6667",
+      "title": "应用来分散你对无休止的末日循环的注意力",
+      "originalTitle": "Apps to distract you from the endless cycle of doomscrolling",
+      "summary": "很难打破末日的循环, 但有很多应用程序可以帮助您花更多时间在内容上,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T22:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T00:30:38.640236Z",
+      "updatedAt": "2026-11-09T00:30:38.640236Z"
+    },
+    {
+      "id": "rss-f6a555d4b54618fb905cfa15",
+      "title": "Aramco Tower袭击了沙特首都的心脏 当Houthis发动新的打击时",
+      "originalTitle": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "summary": "英国广播公司验证的脚注显示,首都中央金融区的大楼受损。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T21:37:36Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T00:30:38.640236Z",
+      "updatedAt": "2026-11-09T00:30:38.640236Z"
+    },
+    {
+      "id": "rss-892996f722c40901c62cd584",
+      "title": "两名警察因与Kraków枪手对峙而成为英雄",
+      "originalTitle": "Two police officers hailed as heroes for confronting Kraków gunman",
+      "summary": "贾库布·库利克(Jakub Kulik)受重伤,阿图尔·莫兰斯基(Artur Morański)在采取“防止进一步伤亡”的行动后受伤。 两名波兰警察在星期六追逐和拘留克拉科夫的枪手时受伤,被誉为英雄。 其中一人是前伞兵和志愿消防员贾库布·库利克(Jakub Kulik),他在与卡拉科夫的近距离交火中受重伤。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T21:11:40Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T00:30:38.640236Z",
+      "updatedAt": "2026-11-09T00:30:38.640236Z"
+    },
+    {
+      "id": "rss-75eee0dcbc87b091d46a1879",
+      "title": "Nvidia在报告后开始调查 首席执行官Jensen Huang是外国情报的目标",
+      "originalTitle": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+      "summary": "据报导CEO与一位中国女商人有密切关系, 她向Keben Nvidia提供消息, 周日表示「鉴于最近报导, 创始人和首席执行官黄詹森成为外国情报工作的目标,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T21:00:58Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T00:30:38.640236Z",
+      "updatedAt": "2026-11-09T00:30:38.640236Z"
+    },
+    {
+      "id": "rss-ab3c0090fa33621fad652428",
+      "title": "Nvidia将调查首席执行官Jensen Huang 与可能的中国间谍的关系",
+      "originalTitle": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "summary": "黄四郎在给公司的一份备忘录中 承认他有外遇（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T21:00:11Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T00:30:38.640236Z",
+      "updatedAt": "2026-11-09T00:30:38.640236Z"
+    },
+    {
+      "id": "rss-173bdbed7479e7643659f14b",
+      "title": "如果Snap的斯佩克斯仍然非常昂贵,它们也比过去更舒适。",
+      "originalTitle": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+      "summary": "斯帕特的斯佩克斯(Spets)已经开发多年了,将于今年秋天投放市场。 用户会喜欢它们吗?（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T21:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T00:30:38.640236Z",
+      "updatedAt": "2026-11-09T00:30:38.640236Z"
+    },
+    {
+      "id": "rss-abc33a0fbba42e3ee1dd6d0d",
+      "title": "协调的干扰环绕着全世界的网络。 这就是研究人员如何解开谜团的。",
+      "originalTitle": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+      "summary": "神秘的解决:协调的电力滴落 一直困扰着全世界的电网, 但德国的一组研究人员发现了罪犯。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T20:30:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T00:30:38.640236Z",
+      "updatedAt": "2026-11-09T00:30:38.640236Z"
+    },
+    {
+      "id": "rss-07141ad7abea75515a89fb1d",
+      "title": "埃及火车撞死7人死亡,超过100人受伤",
+      "originalTitle": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "summary": "几辆马车在两辆火车向同一方向行驶后脱轨,在吉萨市外坠毁。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T19:58:02Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T00:30:38.640236Z",
+      "updatedAt": "2026-11-09T00:30:38.640236Z"
+    },
+    {
+      "id": "rss-e14606d865d4d621bb5c7ce3",
+      "title": "据报道,当Roelof Bosta加入SpaceX董事会时,Sequia的合伙人是盲目的。",
+      "originalTitle": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+      "summary": "一份新报告声称,Sequia最近的变化推翻了该公司前管家的遗产。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T19:51:30Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T00:30:38.640236Z",
+      "updatedAt": "2026-11-09T00:30:38.640236Z"
+    },
+    {
+      "id": "rss-cddd52a41816fee678782944",
+      "title": "Lisa Nandy对重新加入欧盟的“激烈争论”持谨慎态度",
+      "originalTitle": "Lisa Nandy wary of ‘circular arguments’ about rejoining EU",
+      "summary": "文化秘书反对重新讨论布雷希特,但说更紧密的联系会履行全民公决的承诺。 Andy Burnham的内阁部长之一表示,她希望避免关于英国是否应该重新加入欧盟的“激烈争论 ” , 强调政府高层的分歧,而不是重新讨论布雷希特。 文化秘书Lisa Nandy似乎表示她不赞成。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T18:20:06Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T00:30:38.640236Z",
+      "updatedAt": "2026-11-09T00:30:38.640236Z"
+    },
+    {
+      "id": "rss-6924233f3e83d09de08a7513",
+      "title": "SNL对Elon Musk有了新的印象,",
+      "originalTitle": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+      "summary": "SNL似乎有刀 出技术高管。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T18:00:04Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T00:30:38.640236Z",
+      "updatedAt": "2026-11-09T00:30:38.640236Z"
+    },
+    {
+      "id": "rss-dfb7c585a47464e2b612e893",
+      "title": "埃及两列火车撞车至少造成七人死亡",
+      "originalTitle": "Collision of two trains in Egypt kills at least seven",
+      "summary": "总统下令立即进行调查,因为星期天埃及首都开罗以南有两列火车相撞,7人丧生,至少125人受伤。 坠机发生在吉萨省Al-Ayyat区,开罗以南约50公里(30英里),当时前往法尤姆省的一列火车坠毁。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T17:51:17Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T00:30:38.640236Z",
+      "updatedAt": "2026-11-09T00:30:38.640236Z"
+    },
+    {
+      "id": "rss-2f1c02ddf8130da3cb52aea7",
+      "title": "他逮捕了一名黑客,然后花了18个月清理自己的名字。 现在他成了网络安全越共。",
+      "originalTitle": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+      "summary": "Stephen Ward,前特勤局特工和CISO家庭分局,正在为Brightmind Partners准备大约2.5亿美元的第二笔资金。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T17:30:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T00:30:38.640236Z",
+      "updatedAt": "2026-11-09T00:30:38.640236Z"
+    },
+    {
+      "id": "rss-3af53f8572641d8a87f7ed86",
+      "title": "TechCrunch 移动: 网络车实验结束",
+      "originalTitle": "TechCrunch Mobility: The Cybertruck experiment is over",
+      "summary": "欢迎回到TechCrunch行动中心 未来的交通枢纽 现在 AI比以往更在其中扮演的角色（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-08T17:02:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T00:30:38.640236Z",
+      "updatedAt": "2026-11-09T00:30:38.640236Z"
+    },
+    {
+      "id": "rss-e234be1478cf3d5ec7916b27",
+      "title": "BYD在荷兰的中国汽车制造商办公室在JLR的 \" 复印车 \" 索赔中遭到袭击",
+      "originalTitle": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
+      "summary": "据报道,首席文官在法庭审理关于Land Rover案违反知识产权指控的案件时没收了数字记录,为Jaguar Land Rover案辩护的首席文官本周就“Defender克隆人”是否侵犯知识产权问题合法摊牌前,袭击了一名中国“影印人”竞争对手的荷兰办事处。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T16:50:58Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T00:30:38.640236Z",
+      "updatedAt": "2026-11-09T00:30:38.640236Z"
+    },
+    {
+      "id": "rss-f386653fd1a3aece8b3aa1d9",
+      "title": "脚印显示埃及火车坠毁后 车厢出轨",
+      "originalTitle": "Footage shows derailed carriages after fatal train crash in Egypt",
+      "summary": "至少有7人死于两列火车碰撞,导致几辆马车脱轨并坠落到堤堤下。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T16:05:57Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T00:30:38.640236Z",
+      "updatedAt": "2026-11-09T00:30:38.640236Z"
+    },
+    {
+      "id": "rss-a653dab5f63627d9b5d45e93",
+      "title": "Ninja的《自动芭蕾舞者》非常多才多艺,但有一个特点对我来说是一个突破。",
+      "originalTitle": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+      "summary": "AutoBarista的“Grind iQ”技术使机器能够分析你的咖啡豆, 了解它如何拉出一杯咖啡。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T15:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T00:30:38.640236Z",
+      "updatedAt": "2026-11-09T00:30:38.640236Z"
+    },
+    {
+      "id": "rss-4e0e57590300e582bc8357b2",
+      "title": "弱化的AI版权法将拼写“灾难为创造力”,全球音乐机构警告Albanese",
+      "originalTitle": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese",
+      "summary": "专栏:IFPI负责人说允许AI公司访问网络内容将是一个“重大错误”并损害澳大利亚的声誉。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-08T14:00:43Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T00:30:38.640236Z",
+      "updatedAt": "2026-11-09T00:30:38.640236Z"
+    },
+    {
+      "id": "rss-659206a1382c32348f656fa9",
+      "title": "伊朗在一月抗争后因“武装动乱”处决了三人。",
+      "originalTitle": "Iran executes three men for 'armed unrest' after January protests",
+      "summary": "据称,Hassan Dioband、Hamid Kazemi和Reza Zanganeh是今年早些时候反政府抗议活动的一部分。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T13:37:50Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T00:30:38.640236Z",
+      "updatedAt": "2026-11-09T00:30:38.640236Z"
+    },
+    {
+      "id": "rss-a2c35f3bff1e1ac2a3a5581d",
+      "title": "联合王国在僵尸Brexit边境检查站花费了1亿英镑",
+      "originalTitle": "UK spent £100m on zombie Brexit border inspection posts",
+      "summary": "英格兰和威尔士的7个设施中有5个从未进入运行阶段,因为托里斯在检查货物的计划上犹豫不决。 英国浪费了至少1亿英镑的纳税人的钱来建立从未使用的僵尸布雷西特边境检查站。 去年,国家审计局估计Brexit的总成本为4.7亿英镑,但这包括长达数年的时间。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T13:32:58Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/politics/2026/nov/08/uk-zombie-brexit-border-inspection-posts-check-goods"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T00:30:38.640236Z",
+      "updatedAt": "2026-11-09T00:30:38.640236Z"
+    },
+    {
+      "id": "rss-9add0c107628fa5e0377d078",
+      "title": "Cop31必须带来气候进步 人们可以看到是真实的,主机说",
+      "originalTitle": "Cop31 must deliver climate progress that people can see is real, host says",
+      "summary": "由190个国家参加的高级别会谈于星期一开始,当时世界正忙于对付厄尔尼诺现象,而化石燃料却压倒世界。 Cop31峰会必须产生进步,“人们可以看到......一个实实在在的结果......是真实的”,其东道主说,有数十位世界领导人和来自近190个国家的代表聚集在土耳其参加联合国气候会谈。 高级别会议于星期一开始,各国开始。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-08T13:24:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-climate-summit-deliver-progress-real-host-says"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T00:30:38.640236Z",
+      "updatedAt": "2026-11-09T00:30:38.640236Z"
     }
   ],
   "history": [
@@ -105357,9 +106307,1066 @@
         "firstSeen": "2026-11-08T12:28:58.484939Z",
         "updatedAt": "2026-11-08T12:28:58.484939Z"
       }
+    },
+    {
+      "eventId": "rss-2ee3553086b7f6231367c7cb",
+      "at": "2026-11-09T00:30:38.640236Z",
+      "data": {
+        "id": "rss-2ee3553086b7f6231367c7cb",
+        "title": "\" 此事发生得很快 \" :Beau Lamarre-Condon在双重谋杀审判中再次向Jesse Baird开枪。",
+        "originalTitle": "‘This happened very quick’: Beau Lamarre-Condon reenacts shooting Jesse Baird during double murder trial",
+        "summary": "前警官对2024年初在Paddington谋杀Jesse Baird和Luke Davies一事不认罪。 我们的突发新闻电子邮件、免费应用程序或每日新闻播客Beau Lamarre-Condon在法庭上展示了他如何声称在悉尼的证人箱中开枪打死Jesse Baird。这位前警官被指控致命地枪杀了Baird及其同伙Luke Davi。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T23:50:17Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T00:30:38.640236Z",
+        "updatedAt": "2026-11-09T00:30:38.640236Z"
+      }
+    },
+    {
+      "eventId": "rss-379d0639d8e7925b48201961",
+      "at": "2026-11-09T00:30:38.640236Z",
+      "data": {
+        "id": "rss-379d0639d8e7925b48201961",
+        "title": "外科医生在克拉科夫附近吃午饭 开枪救过警官的命 同事说",
+        "originalTitle": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+        "summary": "有关两名警察因防止一名波兰枪手再杀人而受到赞扬的更多详情。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T23:34:18Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T00:30:38.640236Z",
+        "updatedAt": "2026-11-09T00:30:38.640236Z"
+      }
+    },
+    {
+      "eventId": "rss-154b6124576d3e4c6278e97c",
+      "at": "2026-11-09T00:30:38.640236Z",
+      "data": {
+        "id": "rss-154b6124576d3e4c6278e97c",
+        "title": "治疗克拉科夫枪击案受害者的医生 向英国广播公司讲了话",
+        "originalTitle": "Doctor who treated victims of Krakow shooting speaks to the BBC",
+        "summary": "两名医生在市主市场广场附近吃东西 一名枪手开始随意射击（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T22:05:12Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T00:30:38.640236Z",
+        "updatedAt": "2026-11-09T00:30:38.640236Z"
+      }
+    },
+    {
+      "eventId": "rss-a42a744c9ca89355f2b412e9",
+      "at": "2026-11-09T00:30:38.640236Z",
+      "data": {
+        "id": "rss-a42a744c9ca89355f2b412e9",
+        "title": "被控在墨尔本谋杀 刺杀饥饿熊猫的送货员",
+        "originalTitle": "Man charged with murder over fatal stabbing of HungryPanda delivery rider in Melbourne",
+        "summary": "一名送货员在工作时被刺死后被指控谋杀, 留下家人和城市在哀悼中。 星期五晚上,47岁的HungryPanda送货员Feng Jianming和另一名骑手与一名据称男子对质。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T22:03:59Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T00:30:38.640236Z",
+        "updatedAt": "2026-11-09T00:30:38.640236Z"
+      }
+    },
+    {
+      "eventId": "rss-7978cc85b6b0372d326c6667",
+      "at": "2026-11-09T00:30:38.640236Z",
+      "data": {
+        "id": "rss-7978cc85b6b0372d326c6667",
+        "title": "应用来分散你对无休止的末日循环的注意力",
+        "originalTitle": "Apps to distract you from the endless cycle of doomscrolling",
+        "summary": "很难打破末日的循环, 但有很多应用程序可以帮助您花更多时间在内容上,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T22:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T00:30:38.640236Z",
+        "updatedAt": "2026-11-09T00:30:38.640236Z"
+      }
+    },
+    {
+      "eventId": "rss-f6a555d4b54618fb905cfa15",
+      "at": "2026-11-09T00:30:38.640236Z",
+      "data": {
+        "id": "rss-f6a555d4b54618fb905cfa15",
+        "title": "Aramco Tower袭击了沙特首都的心脏 当Houthis发动新的打击时",
+        "originalTitle": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+        "summary": "英国广播公司验证的脚注显示,首都中央金融区的大楼受损。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T21:37:36Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T00:30:38.640236Z",
+        "updatedAt": "2026-11-09T00:30:38.640236Z"
+      }
+    },
+    {
+      "eventId": "rss-892996f722c40901c62cd584",
+      "at": "2026-11-09T00:30:38.640236Z",
+      "data": {
+        "id": "rss-892996f722c40901c62cd584",
+        "title": "两名警察因与Kraków枪手对峙而成为英雄",
+        "originalTitle": "Two police officers hailed as heroes for confronting Kraków gunman",
+        "summary": "贾库布·库利克(Jakub Kulik)受重伤,阿图尔·莫兰斯基(Artur Morański)在采取“防止进一步伤亡”的行动后受伤。 两名波兰警察在星期六追逐和拘留克拉科夫的枪手时受伤,被誉为英雄。 其中一人是前伞兵和志愿消防员贾库布·库利克(Jakub Kulik),他在与卡拉科夫的近距离交火中受重伤。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T21:11:40Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T00:30:38.640236Z",
+        "updatedAt": "2026-11-09T00:30:38.640236Z"
+      }
+    },
+    {
+      "eventId": "rss-75eee0dcbc87b091d46a1879",
+      "at": "2026-11-09T00:30:38.640236Z",
+      "data": {
+        "id": "rss-75eee0dcbc87b091d46a1879",
+        "title": "Nvidia在报告后开始调查 首席执行官Jensen Huang是外国情报的目标",
+        "originalTitle": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+        "summary": "据报导CEO与一位中国女商人有密切关系, 她向Keben Nvidia提供消息, 周日表示「鉴于最近报导, 创始人和首席执行官黄詹森成为外国情报工作的目标,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T21:00:58Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T00:30:38.640236Z",
+        "updatedAt": "2026-11-09T00:30:38.640236Z"
+      }
+    },
+    {
+      "eventId": "rss-ab3c0090fa33621fad652428",
+      "at": "2026-11-09T00:30:38.640236Z",
+      "data": {
+        "id": "rss-ab3c0090fa33621fad652428",
+        "title": "Nvidia将调查首席执行官Jensen Huang 与可能的中国间谍的关系",
+        "originalTitle": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+        "summary": "黄四郎在给公司的一份备忘录中 承认他有外遇（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T21:00:11Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T00:30:38.640236Z",
+        "updatedAt": "2026-11-09T00:30:38.640236Z"
+      }
+    },
+    {
+      "eventId": "rss-173bdbed7479e7643659f14b",
+      "at": "2026-11-09T00:30:38.640236Z",
+      "data": {
+        "id": "rss-173bdbed7479e7643659f14b",
+        "title": "如果Snap的斯佩克斯仍然非常昂贵,它们也比过去更舒适。",
+        "originalTitle": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+        "summary": "斯帕特的斯佩克斯(Spets)已经开发多年了,将于今年秋天投放市场。 用户会喜欢它们吗?（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T21:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T00:30:38.640236Z",
+        "updatedAt": "2026-11-09T00:30:38.640236Z"
+      }
+    },
+    {
+      "eventId": "rss-abc33a0fbba42e3ee1dd6d0d",
+      "at": "2026-11-09T00:30:38.640236Z",
+      "data": {
+        "id": "rss-abc33a0fbba42e3ee1dd6d0d",
+        "title": "协调的干扰环绕着全世界的网络。 这就是研究人员如何解开谜团的。",
+        "originalTitle": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+        "summary": "神秘的解决:协调的电力滴落 一直困扰着全世界的电网, 但德国的一组研究人员发现了罪犯。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T20:30:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T00:30:38.640236Z",
+        "updatedAt": "2026-11-09T00:30:38.640236Z"
+      }
+    },
+    {
+      "eventId": "rss-07141ad7abea75515a89fb1d",
+      "at": "2026-11-09T00:30:38.640236Z",
+      "data": {
+        "id": "rss-07141ad7abea75515a89fb1d",
+        "title": "埃及火车撞死7人死亡,超过100人受伤",
+        "originalTitle": "Seven dead and more than 100 injured after trains collide in Egypt",
+        "summary": "几辆马车在两辆火车向同一方向行驶后脱轨,在吉萨市外坠毁。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T19:58:02Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T00:30:38.640236Z",
+        "updatedAt": "2026-11-09T00:30:38.640236Z"
+      }
+    },
+    {
+      "eventId": "rss-e14606d865d4d621bb5c7ce3",
+      "at": "2026-11-09T00:30:38.640236Z",
+      "data": {
+        "id": "rss-e14606d865d4d621bb5c7ce3",
+        "title": "据报道,当Roelof Bosta加入SpaceX董事会时,Sequia的合伙人是盲目的。",
+        "originalTitle": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+        "summary": "一份新报告声称,Sequia最近的变化推翻了该公司前管家的遗产。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T19:51:30Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T00:30:38.640236Z",
+        "updatedAt": "2026-11-09T00:30:38.640236Z"
+      }
+    },
+    {
+      "eventId": "rss-cddd52a41816fee678782944",
+      "at": "2026-11-09T00:30:38.640236Z",
+      "data": {
+        "id": "rss-cddd52a41816fee678782944",
+        "title": "Lisa Nandy对重新加入欧盟的“激烈争论”持谨慎态度",
+        "originalTitle": "Lisa Nandy wary of ‘circular arguments’ about rejoining EU",
+        "summary": "文化秘书反对重新讨论布雷希特,但说更紧密的联系会履行全民公决的承诺。 Andy Burnham的内阁部长之一表示,她希望避免关于英国是否应该重新加入欧盟的“激烈争论 ” , 强调政府高层的分歧,而不是重新讨论布雷希特。 文化秘书Lisa Nandy似乎表示她不赞成。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T18:20:06Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T00:30:38.640236Z",
+        "updatedAt": "2026-11-09T00:30:38.640236Z"
+      }
+    },
+    {
+      "eventId": "rss-6924233f3e83d09de08a7513",
+      "at": "2026-11-09T00:30:38.640236Z",
+      "data": {
+        "id": "rss-6924233f3e83d09de08a7513",
+        "title": "SNL对Elon Musk有了新的印象,",
+        "originalTitle": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+        "summary": "SNL似乎有刀 出技术高管。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T18:00:04Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T00:30:38.640236Z",
+        "updatedAt": "2026-11-09T00:30:38.640236Z"
+      }
+    },
+    {
+      "eventId": "rss-dfb7c585a47464e2b612e893",
+      "at": "2026-11-09T00:30:38.640236Z",
+      "data": {
+        "id": "rss-dfb7c585a47464e2b612e893",
+        "title": "埃及两列火车撞车至少造成七人死亡",
+        "originalTitle": "Collision of two trains in Egypt kills at least seven",
+        "summary": "总统下令立即进行调查,因为星期天埃及首都开罗以南有两列火车相撞,7人丧生,至少125人受伤。 坠机发生在吉萨省Al-Ayyat区,开罗以南约50公里(30英里),当时前往法尤姆省的一列火车坠毁。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T17:51:17Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T00:30:38.640236Z",
+        "updatedAt": "2026-11-09T00:30:38.640236Z"
+      }
+    },
+    {
+      "eventId": "rss-2f1c02ddf8130da3cb52aea7",
+      "at": "2026-11-09T00:30:38.640236Z",
+      "data": {
+        "id": "rss-2f1c02ddf8130da3cb52aea7",
+        "title": "他逮捕了一名黑客,然后花了18个月清理自己的名字。 现在他成了网络安全越共。",
+        "originalTitle": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+        "summary": "Stephen Ward,前特勤局特工和CISO家庭分局,正在为Brightmind Partners准备大约2.5亿美元的第二笔资金。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T17:30:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T00:30:38.640236Z",
+        "updatedAt": "2026-11-09T00:30:38.640236Z"
+      }
+    },
+    {
+      "eventId": "rss-3af53f8572641d8a87f7ed86",
+      "at": "2026-11-09T00:30:38.640236Z",
+      "data": {
+        "id": "rss-3af53f8572641d8a87f7ed86",
+        "title": "TechCrunch 移动: 网络车实验结束",
+        "originalTitle": "TechCrunch Mobility: The Cybertruck experiment is over",
+        "summary": "欢迎回到TechCrunch行动中心 未来的交通枢纽 现在 AI比以往更在其中扮演的角色（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-08T17:02:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T00:30:38.640236Z",
+        "updatedAt": "2026-11-09T00:30:38.640236Z"
+      }
+    },
+    {
+      "eventId": "rss-e234be1478cf3d5ec7916b27",
+      "at": "2026-11-09T00:30:38.640236Z",
+      "data": {
+        "id": "rss-e234be1478cf3d5ec7916b27",
+        "title": "BYD在荷兰的中国汽车制造商办公室在JLR的 \" 复印车 \" 索赔中遭到袭击",
+        "originalTitle": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
+        "summary": "据报道,首席文官在法庭审理关于Land Rover案违反知识产权指控的案件时没收了数字记录,为Jaguar Land Rover案辩护的首席文官本周就“Defender克隆人”是否侵犯知识产权问题合法摊牌前,袭击了一名中国“影印人”竞争对手的荷兰办事处。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T16:50:58Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T00:30:38.640236Z",
+        "updatedAt": "2026-11-09T00:30:38.640236Z"
+      }
+    },
+    {
+      "eventId": "rss-f386653fd1a3aece8b3aa1d9",
+      "at": "2026-11-09T00:30:38.640236Z",
+      "data": {
+        "id": "rss-f386653fd1a3aece8b3aa1d9",
+        "title": "脚印显示埃及火车坠毁后 车厢出轨",
+        "originalTitle": "Footage shows derailed carriages after fatal train crash in Egypt",
+        "summary": "至少有7人死于两列火车碰撞,导致几辆马车脱轨并坠落到堤堤下。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T16:05:57Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T00:30:38.640236Z",
+        "updatedAt": "2026-11-09T00:30:38.640236Z"
+      }
+    },
+    {
+      "eventId": "rss-a653dab5f63627d9b5d45e93",
+      "at": "2026-11-09T00:30:38.640236Z",
+      "data": {
+        "id": "rss-a653dab5f63627d9b5d45e93",
+        "title": "Ninja的《自动芭蕾舞者》非常多才多艺,但有一个特点对我来说是一个突破。",
+        "originalTitle": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+        "summary": "AutoBarista的“Grind iQ”技术使机器能够分析你的咖啡豆, 了解它如何拉出一杯咖啡。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T15:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T00:30:38.640236Z",
+        "updatedAt": "2026-11-09T00:30:38.640236Z"
+      }
+    },
+    {
+      "eventId": "rss-4e0e57590300e582bc8357b2",
+      "at": "2026-11-09T00:30:38.640236Z",
+      "data": {
+        "id": "rss-4e0e57590300e582bc8357b2",
+        "title": "弱化的AI版权法将拼写“灾难为创造力”,全球音乐机构警告Albanese",
+        "originalTitle": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese",
+        "summary": "专栏:IFPI负责人说允许AI公司访问网络内容将是一个“重大错误”并损害澳大利亚的声誉。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-08T14:00:43Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T00:30:38.640236Z",
+        "updatedAt": "2026-11-09T00:30:38.640236Z"
+      }
+    },
+    {
+      "eventId": "rss-659206a1382c32348f656fa9",
+      "at": "2026-11-09T00:30:38.640236Z",
+      "data": {
+        "id": "rss-659206a1382c32348f656fa9",
+        "title": "伊朗在一月抗争后因“武装动乱”处决了三人。",
+        "originalTitle": "Iran executes three men for 'armed unrest' after January protests",
+        "summary": "据称,Hassan Dioband、Hamid Kazemi和Reza Zanganeh是今年早些时候反政府抗议活动的一部分。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T13:37:50Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T00:30:38.640236Z",
+        "updatedAt": "2026-11-09T00:30:38.640236Z"
+      }
+    },
+    {
+      "eventId": "rss-a2c35f3bff1e1ac2a3a5581d",
+      "at": "2026-11-09T00:30:38.640236Z",
+      "data": {
+        "id": "rss-a2c35f3bff1e1ac2a3a5581d",
+        "title": "联合王国在僵尸Brexit边境检查站花费了1亿英镑",
+        "originalTitle": "UK spent £100m on zombie Brexit border inspection posts",
+        "summary": "英格兰和威尔士的7个设施中有5个从未进入运行阶段,因为托里斯在检查货物的计划上犹豫不决。 英国浪费了至少1亿英镑的纳税人的钱来建立从未使用的僵尸布雷西特边境检查站。 去年,国家审计局估计Brexit的总成本为4.7亿英镑,但这包括长达数年的时间。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T13:32:58Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/politics/2026/nov/08/uk-zombie-brexit-border-inspection-posts-check-goods"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T00:30:38.640236Z",
+        "updatedAt": "2026-11-09T00:30:38.640236Z"
+      }
+    },
+    {
+      "eventId": "rss-9add0c107628fa5e0377d078",
+      "at": "2026-11-09T00:30:38.640236Z",
+      "data": {
+        "id": "rss-9add0c107628fa5e0377d078",
+        "title": "Cop31必须带来气候进步 人们可以看到是真实的,主机说",
+        "originalTitle": "Cop31 must deliver climate progress that people can see is real, host says",
+        "summary": "由190个国家参加的高级别会谈于星期一开始,当时世界正忙于对付厄尔尼诺现象,而化石燃料却压倒世界。 Cop31峰会必须产生进步,“人们可以看到......一个实实在在的结果......是真实的”,其东道主说,有数十位世界领导人和来自近190个国家的代表聚集在土耳其参加联合国气候会谈。 高级别会议于星期一开始,各国开始。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-08T13:24:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-climate-summit-deliver-progress-real-host-says"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T00:30:38.640236Z",
+        "updatedAt": "2026-11-09T00:30:38.640236Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-09T00:30:38.640236Z",
+      "at": "2026-11-09T00:30:38.640236Z",
+      "kind": "GitHub Actions 采集",
+      "count": 25,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 6}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 0}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 10}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 9}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-08T12:28:58.484939Z",
       "at": "2026-11-08T12:28:58.484939Z",
