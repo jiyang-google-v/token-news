@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-09T00:30:38.640236Z",
+  "updatedAt": "2026-11-09T12:47:57.803525Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -50990,6 +50990,918 @@
       "tokens": [],
       "firstSeen": "2026-11-09T00:30:38.640236Z",
       "updatedAt": "2026-11-09T00:30:38.640236Z"
+    },
+    {
+      "id": "rss-4a6aece1109d26349b68c75e",
+      "title": "有9名外国人被捕,据称他们试图离开南非在乌克兰作战。",
+      "originalTitle": "Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine",
+      "summary": "警方拒绝透露他们的国籍,但表示他们中没有一人居住在南非。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-09T12:33:24Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T12:47:57.803525Z",
+      "updatedAt": "2026-11-09T12:47:57.803525Z"
+    },
+    {
+      "id": "rss-34ac4a1f64169d13b7a7cd2a",
+      "title": "波兰司法部长说,调查Kraków枪击案的目的是确定24岁者是否独自行动 — — 欧洲活着。",
+      "originalTitle": "Poland’s justice minister says investigation into Kraków shooting will aim to establish if the 24-year-old acted alone – Europe live",
+      "summary": "攻击者在加拿大市场广场开火后,对恐怖主义进行了调查,加拿大正在扩大与俄罗斯有关的制裁,以针对其他38个实体和24个个人,包括参与弹道导弹技术发展和网络活动的行为者,路透社报告,欧盟已经对IBM和其他两家参与其麻烦的边境管理的公司提起诉讼。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-09T12:25:26Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/live/2026/nov/09/polands-krakow-attack-ukraine-russia-france-germany-europe-latest-news"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T12:47:57.803525Z",
+      "updatedAt": "2026-11-09T12:47:57.803525Z"
+    },
+    {
+      "id": "rss-33f8c47084864e07e5f08aac",
+      "title": "警方说克拉科夫枪击嫌犯死在医院",
+      "originalTitle": "Krakow shooting suspect has died in hospital, police say",
+      "summary": "6人在枪击中丧生,在嫌疑人家中发现了3具嫌疑人家庭成员的尸体。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-09T11:56:25Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T12:47:57.803525Z",
+      "updatedAt": "2026-11-09T12:47:57.803525Z"
+    },
+    {
+      "id": "rss-771b715509f05cfda22b5b8e",
+      "title": "特斯拉将机器人服务扩展至圣安东尼奥",
+      "originalTitle": "Tesla expands robotaxi service to San Antonio",
+      "summary": "这将是第四个德州城市 特斯拉将在那里发射机器人轴。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-09T11:30:24Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T12:47:57.803525Z",
+      "updatedAt": "2026-11-09T12:47:57.803525Z"
+    },
+    {
+      "id": "rss-e573ed3951e8163c36487c88",
+      "title": "至少有34人死亡,",
+      "originalTitle": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
+      "summary": "大西洋过境前往西班牙加那利群岛对寻求更美好生活的移民来说仍然很危险（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-09T10:59:26Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T12:47:57.803525Z",
+      "updatedAt": "2026-11-09T12:47:57.803525Z"
+    },
+    {
+      "id": "rss-d3abc207a940269ba0633b74",
+      "title": "随着雷暴横扫整个区域,伊拉克遭受了致命的洪水袭击",
+      "originalTitle": "Deadly floods hit Iraq as thunderstorms sweep across region",
+      "summary": "暴风雨在伊拉克北部和伊朗部分地区肆虐,而葡萄牙则面临强风和日本的支架,以备进一步降雪。 周六,在伊拉克北部,包括邻近的伊朗,暴风雨席卷了该地区,暴风雨肆虐。 伊拉克的埃尔比勒市尤其惨遭袭击,房屋和企业受到广泛破坏。 街道因暴雨而淹没。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-09T10:59:06Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T12:47:57.803525Z",
+      "updatedAt": "2026-11-09T12:47:57.803525Z"
+    },
+    {
+      "id": "rss-6c6c0994abfb9401c8e50626",
+      "title": "欧盟起诉IBM和两家欧洲公司为麻烦的出入境系统",
+      "originalTitle": "EU sues IBM and two European firms over troubled entry/exit border system",
+      "summary": "去年针对IBM、Atos和Leonardo的法律诉讼是在对被指责为该系统的乘客的拖延之后提起的,第一次在FT中报告。 欧盟已经对IBM和其他两家参与其麻烦的边境管理系统的公司提起了诉讼,一份内部文件揭示了这一点。 集团的IT机构EU-Lisa去年对IBM、法国IT公司Atos和意大利国防合同提起了诉讼。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-09T10:49:23Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/09/eu-lawsuit-ibm-atos-leonardo-entry-exit-border-system"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T12:47:57.803525Z",
+      "updatedAt": "2026-11-09T12:47:57.803525Z"
+    },
+    {
+      "id": "rss-aa3a8317433b5331bc5d5d1e",
+      "title": "卫生部表示, 沙堤倒塌后, 4人在加沙丧生。",
+      "originalTitle": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
+      "summary": "据报在大雨淹没了加沙各地数万顶帐篷后一天发生的事件中,有三名儿童丧生。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-09T10:41:57Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T12:47:57.803525Z",
+      "updatedAt": "2026-11-09T12:47:57.803525Z"
+    },
+    {
+      "id": "rss-2da5a0cf66f3f3d06519bfc6",
+      "title": "法国警察因殴打黑人而面临审判,他们指控他们没有戴Covid面罩。",
+      "originalTitle": "French police officers face trial over beating of black man they accused of not wearing Covid face mask",
+      "summary": "2020年对Michel Zecler的袭击是罕见的警察暴行案件,当紧张局势加剧时,三名法国警官将因殴打一名黑人音乐制作人而受审,据说此人在Covid大流行期间没有戴面罩,这是一次罕见的警察暴行案件。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-09T10:24:40Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/09/french-police-officers-face-trial-over-beating-of-black-man-not-wearing-mask-during-covid"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T12:47:57.803525Z",
+      "updatedAt": "2026-11-09T12:47:57.803525Z"
+    },
+    {
+      "id": "rss-8e12051599e78b96983c869a",
+      "title": "波兰警方说,杀死6人的Kraków嫌疑人已死亡",
+      "originalTitle": "Kraków shooting suspect who killed six has died, Polish police say",
+      "summary": "波兰警方说,24岁者在市场广场开火后,恐怖主义调查仍在继续,导致16名受伤的欧洲人活着 — — 最新消息是,一名枪手涉嫌杀害6人,包括一名英国男子,在克拉科夫一个繁忙的市场广场上一起罕见的大规模枪击事件中,16人受伤。 波兰警方说,这名24岁的波兰国民在医院中死亡,但还没有正式被点名。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-09T10:22:54Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T12:47:57.803525Z",
+      "updatedAt": "2026-11-09T12:47:57.803525Z"
+    },
+    {
+      "id": "rss-7c67e426ffe21dd12b52d23c",
+      "title": "特朗普说他在和Dana White新闻秘书说\"开玩笑\"",
+      "originalTitle": "Trump says he was 'kidding' about Dana White press secretary offer",
+      "summary": "总统告诉终极拳击冠军老板 周六在真相社会报上\"请接这份工作\"（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-09T08:49:17Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T12:47:57.803525Z",
+      "updatedAt": "2026-11-09T12:47:57.803525Z"
+    },
+    {
+      "id": "rss-d3c67c63a8812a668ead09a7",
+      "title": "“全球政治觉醒”:Gen Z抗议如何席卷世界",
+      "originalTitle": "‘A global political awakening’: how gen Z protests are sweeping the world",
+      "summary": "从塞尔维亚到孟加拉国和印度到法国,年轻人正在向专制主义和重塑政治格局的退缩。 在巴西,他们通过数以百万计的人在网上团结起来,分享视频和传播迷因。 在塞尔维亚,他们横跨欧洲,运行超马拉松,让自己的声音被听到。 上个月,当他们成为中央杜林时,这两个运动都爆发到了国际公众的视野中。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-09T08:04:44Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/06/gen-z-protests-sweeping-the-world"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T12:47:57.803525Z",
+      "updatedAt": "2026-11-09T12:47:57.803525Z"
+    },
+    {
+      "id": "rss-7e2c736f396f80e8bd386ee3",
+      "title": "关于Nvidia首席执行官与一名中国间谍的外遇,我们了解多少?",
+      "originalTitle": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+      "summary": "美国科技巨人的首席执行官黄詹被贴上“詹森”的标签,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-09T07:10:11Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T12:47:57.803525Z",
+      "updatedAt": "2026-11-09T12:47:57.803525Z"
+    },
+    {
+      "id": "rss-e869dd4c2eff543382104bf7",
+      "title": "Jensen Huang:为什么一个个人丑闻 引发了国家安全恐慌?",
+      "originalTitle": "Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare",
+      "summary": "黄四郎曾被誉为\"技术高手\" 黄四郎在与一名中国间谍私通后 陷入丑闻之中（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-09T06:01:52Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T12:47:57.803525Z",
+      "updatedAt": "2026-11-09T12:47:57.803525Z"
+    },
+    {
+      "id": "rss-90b23b1d03a122e8cb9aa5c9",
+      "title": "在法国的贩毒团伙里 招募儿童去杀人",
+      "originalTitle": "Inside the French drug gangs recruiting children to kill",
+      "summary": "英国广播公司进入了马赛危险的黑社会 年轻人被困在那里 被残酷对待和剥削（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-09T06:00:26Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T12:47:57.803525Z",
+      "updatedAt": "2026-11-09T12:47:57.803525Z"
+    },
+    {
+      "id": "rss-febc01e826ceb3dea903ad89",
+      "title": "停止破坏吉姆・查默斯,环境部长敦促劳动党同事",
+      "originalTitle": "Stop undermining Jim Chalmers, environment minister urges Labor colleagues",
+      "summary": "Murray Watt指出, 预算储蓄会议后, 便会收到突发新闻电子邮件、免费应用程序或每日新闻播客。 环境部长Murray Watt敦促各位部长停止破坏司库Jim Chalmers,（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-09T05:47:49Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/09/stop-undermining-treasurer-jim-chalmers-environment-minister-urges-colleagues"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T12:47:57.803525Z",
+      "updatedAt": "2026-11-09T12:47:57.803525Z"
+    },
+    {
+      "id": "rss-81f22044c23e4a55da567b37",
+      "title": "教皇为米莉的紧缩措施 蒙上阴影",
+      "originalTitle": "Pope delivers veiled rebuke of Milei's austerity measures",
+      "summary": "Pope Leo在拉丁美洲之旅的第二段抵达阿根廷时发表了评论。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-09T05:30:37Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T12:47:57.803525Z",
+      "updatedAt": "2026-11-09T12:47:57.803525Z"
+    },
+    {
+      "id": "rss-e120b878a12761b045e28a52",
+      "title": "Jensen Huang 的工作是否在线上? 耶鲁的杰弗里·索恩菲尔德估计是“50-50岁左右 ” 。",
+      "originalTitle": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "summary": "Nvidia的董事会正在调查Jensen Huang与一名中国间谍的关系,耶鲁的Jeffrey Sonnenfeld认为,黄先生是否继续担任首席执行官大概是一个硬币。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-09T05:26:29Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T12:47:57.803525Z",
+      "updatedAt": "2026-11-09T12:47:57.803525Z"
+    },
+    {
+      "id": "rss-cbad17aa8c69c46abe348d8d",
+      "title": "2026年维多利亚选举:劳工议员对新民调的担忧和怀疑,",
+      "originalTitle": "Victorian election 2026: Concern and scepticism among Labor MPs as new poll shows party trailing One Nation",
+      "summary": "Ben Carroll拒绝参与最新民意调查, 该民意调查显示劳工党在历史上仅次于18%,（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-09T04:55:15Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/09/victoria-election-2026-labor-mps-new-opinion-poll-one-nation-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T12:47:57.803525Z",
+      "updatedAt": "2026-11-09T12:47:57.803525Z"
+    },
+    {
+      "id": "rss-9efd09657c3ef5909889d67a",
+      "title": "CFMEU `欣然接受维多利亚州政府的巨大影响力 ' ,",
+      "originalTitle": "CFMEU ‘enjoy a significant level of influence’ over Victorian government, Big Build royal commission hears",
+      "summary": "对腐败指控的调查 开始举行听证会 重点是2022年级的跨边界清除项目 获取我们的突发新闻邮件 免费应用程序或每日新闻播客 皇家委员会对维多利亚州大建筑项目腐败的指控 听说一家大型建筑公司担心 建筑、林业和海事雇员联盟(CFMEU) 被排挤到一边（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-09T04:34:08Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/09/big-build-royal-commission-hears-cfmeu-enjoy-a-significant-level-of-influence-over-victorian-government-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T12:47:57.803525Z",
+      "updatedAt": "2026-11-09T12:47:57.803525Z"
+    },
+    {
+      "id": "rss-3b7db9204f6a5fa53ef3b794",
+      "title": "」:总理回应新南威尔士州一民族候选人关于澳洲人正在被“人口取代”的说法。",
+      "originalTitle": "‘Outrageous and racist’: premier responds to NSW One Nation candidate’s claim Australians are being ‘demographically replaced’",
+      "summary": "Chris Minns和种族歧视专员Stuart Bonds(领导新南威尔士党的上院票)的评论: 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客新南威尔士总理和澳大利亚人权委员会批评新南威尔士州上院票的领头人的评论,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-09T03:33:14Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/09/one-nation-stuart-bonds-slammed-immigration-comments-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T12:47:57.803525Z",
+      "updatedAt": "2026-11-09T12:47:57.803525Z"
+    },
+    {
+      "id": "rss-4688c3e49b475ee5430a585c",
+      "title": "游轮钢琴家在太平洋9小时后从海上获救",
+      "originalTitle": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "summary": "两名美国渔民说,他们发现这个人在加利福尼亚海岸外约20英里处(32公里)打水。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-09T02:50:13Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T12:47:57.803525Z",
+      "updatedAt": "2026-11-09T12:47:57.803525Z"
+    },
+    {
+      "id": "rss-afda19fa17aea4d9161d944e",
+      "title": "教皇里欧在阿根廷访问期间,",
+      "originalTitle": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+      "summary": "庞蒂夫告诉阿根廷总统,在12天的拉丁美洲之旅第二站,经济必须让所有人受益。 教皇利奥十四世对阿根廷总统米利(Javier Milii)的严厉紧缩措施发表了尖锐的批评,坚持增长必须让所有人都受益。 布宜诺斯艾利斯的演讲得到了热烈的掌声。 “经济必须为人民服务,而不是为人民服务。 ”（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-09T02:11:25Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T12:47:57.803525Z",
+      "updatedAt": "2026-11-09T12:47:57.803525Z"
+    },
+    {
+      "id": "rss-4d1a123096976dccde4e7db3",
+      "title": "“逃避信息”因为ANC记录了南非大选有史以来最糟糕的结果",
+      "originalTitle": "'Devastating message' as ANC records worst-ever result in South Africa election",
+      "summary": "西里尔·拉马福萨总统说,必须尊重判决,而该党的秘书长则称结果为“灾难性”。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-08T17:51:03Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-09T12:47:57.803525Z",
+      "updatedAt": "2026-11-09T12:47:57.803525Z"
     }
   ],
   "history": [
@@ -107357,9 +108269,1024 @@
         "firstSeen": "2026-11-09T00:30:38.640236Z",
         "updatedAt": "2026-11-09T00:30:38.640236Z"
       }
+    },
+    {
+      "eventId": "rss-4a6aece1109d26349b68c75e",
+      "at": "2026-11-09T12:47:57.803525Z",
+      "data": {
+        "id": "rss-4a6aece1109d26349b68c75e",
+        "title": "有9名外国人被捕,据称他们试图离开南非在乌克兰作战。",
+        "originalTitle": "Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine",
+        "summary": "警方拒绝透露他们的国籍,但表示他们中没有一人居住在南非。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-09T12:33:24Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T12:47:57.803525Z",
+        "updatedAt": "2026-11-09T12:47:57.803525Z"
+      }
+    },
+    {
+      "eventId": "rss-34ac4a1f64169d13b7a7cd2a",
+      "at": "2026-11-09T12:47:57.803525Z",
+      "data": {
+        "id": "rss-34ac4a1f64169d13b7a7cd2a",
+        "title": "波兰司法部长说,调查Kraków枪击案的目的是确定24岁者是否独自行动 — — 欧洲活着。",
+        "originalTitle": "Poland’s justice minister says investigation into Kraków shooting will aim to establish if the 24-year-old acted alone – Europe live",
+        "summary": "攻击者在加拿大市场广场开火后,对恐怖主义进行了调查,加拿大正在扩大与俄罗斯有关的制裁,以针对其他38个实体和24个个人,包括参与弹道导弹技术发展和网络活动的行为者,路透社报告,欧盟已经对IBM和其他两家参与其麻烦的边境管理的公司提起诉讼。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-09T12:25:26Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/live/2026/nov/09/polands-krakow-attack-ukraine-russia-france-germany-europe-latest-news"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T12:47:57.803525Z",
+        "updatedAt": "2026-11-09T12:47:57.803525Z"
+      }
+    },
+    {
+      "eventId": "rss-33f8c47084864e07e5f08aac",
+      "at": "2026-11-09T12:47:57.803525Z",
+      "data": {
+        "id": "rss-33f8c47084864e07e5f08aac",
+        "title": "警方说克拉科夫枪击嫌犯死在医院",
+        "originalTitle": "Krakow shooting suspect has died in hospital, police say",
+        "summary": "6人在枪击中丧生,在嫌疑人家中发现了3具嫌疑人家庭成员的尸体。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-09T11:56:25Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T12:47:57.803525Z",
+        "updatedAt": "2026-11-09T12:47:57.803525Z"
+      }
+    },
+    {
+      "eventId": "rss-771b715509f05cfda22b5b8e",
+      "at": "2026-11-09T12:47:57.803525Z",
+      "data": {
+        "id": "rss-771b715509f05cfda22b5b8e",
+        "title": "特斯拉将机器人服务扩展至圣安东尼奥",
+        "originalTitle": "Tesla expands robotaxi service to San Antonio",
+        "summary": "这将是第四个德州城市 特斯拉将在那里发射机器人轴。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-09T11:30:24Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T12:47:57.803525Z",
+        "updatedAt": "2026-11-09T12:47:57.803525Z"
+      }
+    },
+    {
+      "eventId": "rss-e573ed3951e8163c36487c88",
+      "at": "2026-11-09T12:47:57.803525Z",
+      "data": {
+        "id": "rss-e573ed3951e8163c36487c88",
+        "title": "至少有34人死亡,",
+        "originalTitle": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
+        "summary": "大西洋过境前往西班牙加那利群岛对寻求更美好生活的移民来说仍然很危险（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-09T10:59:26Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T12:47:57.803525Z",
+        "updatedAt": "2026-11-09T12:47:57.803525Z"
+      }
+    },
+    {
+      "eventId": "rss-d3abc207a940269ba0633b74",
+      "at": "2026-11-09T12:47:57.803525Z",
+      "data": {
+        "id": "rss-d3abc207a940269ba0633b74",
+        "title": "随着雷暴横扫整个区域,伊拉克遭受了致命的洪水袭击",
+        "originalTitle": "Deadly floods hit Iraq as thunderstorms sweep across region",
+        "summary": "暴风雨在伊拉克北部和伊朗部分地区肆虐,而葡萄牙则面临强风和日本的支架,以备进一步降雪。 周六,在伊拉克北部,包括邻近的伊朗,暴风雨席卷了该地区,暴风雨肆虐。 伊拉克的埃尔比勒市尤其惨遭袭击,房屋和企业受到广泛破坏。 街道因暴雨而淹没。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-09T10:59:06Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T12:47:57.803525Z",
+        "updatedAt": "2026-11-09T12:47:57.803525Z"
+      }
+    },
+    {
+      "eventId": "rss-6c6c0994abfb9401c8e50626",
+      "at": "2026-11-09T12:47:57.803525Z",
+      "data": {
+        "id": "rss-6c6c0994abfb9401c8e50626",
+        "title": "欧盟起诉IBM和两家欧洲公司为麻烦的出入境系统",
+        "originalTitle": "EU sues IBM and two European firms over troubled entry/exit border system",
+        "summary": "去年针对IBM、Atos和Leonardo的法律诉讼是在对被指责为该系统的乘客的拖延之后提起的,第一次在FT中报告。 欧盟已经对IBM和其他两家参与其麻烦的边境管理系统的公司提起了诉讼,一份内部文件揭示了这一点。 集团的IT机构EU-Lisa去年对IBM、法国IT公司Atos和意大利国防合同提起了诉讼。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-09T10:49:23Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/09/eu-lawsuit-ibm-atos-leonardo-entry-exit-border-system"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T12:47:57.803525Z",
+        "updatedAt": "2026-11-09T12:47:57.803525Z"
+      }
+    },
+    {
+      "eventId": "rss-aa3a8317433b5331bc5d5d1e",
+      "at": "2026-11-09T12:47:57.803525Z",
+      "data": {
+        "id": "rss-aa3a8317433b5331bc5d5d1e",
+        "title": "卫生部表示, 沙堤倒塌后, 4人在加沙丧生。",
+        "originalTitle": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
+        "summary": "据报在大雨淹没了加沙各地数万顶帐篷后一天发生的事件中,有三名儿童丧生。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-09T10:41:57Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T12:47:57.803525Z",
+        "updatedAt": "2026-11-09T12:47:57.803525Z"
+      }
+    },
+    {
+      "eventId": "rss-2da5a0cf66f3f3d06519bfc6",
+      "at": "2026-11-09T12:47:57.803525Z",
+      "data": {
+        "id": "rss-2da5a0cf66f3f3d06519bfc6",
+        "title": "法国警察因殴打黑人而面临审判,他们指控他们没有戴Covid面罩。",
+        "originalTitle": "French police officers face trial over beating of black man they accused of not wearing Covid face mask",
+        "summary": "2020年对Michel Zecler的袭击是罕见的警察暴行案件,当紧张局势加剧时,三名法国警官将因殴打一名黑人音乐制作人而受审,据说此人在Covid大流行期间没有戴面罩,这是一次罕见的警察暴行案件。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-09T10:24:40Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/09/french-police-officers-face-trial-over-beating-of-black-man-not-wearing-mask-during-covid"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T12:47:57.803525Z",
+        "updatedAt": "2026-11-09T12:47:57.803525Z"
+      }
+    },
+    {
+      "eventId": "rss-8e12051599e78b96983c869a",
+      "at": "2026-11-09T12:47:57.803525Z",
+      "data": {
+        "id": "rss-8e12051599e78b96983c869a",
+        "title": "波兰警方说,杀死6人的Kraków嫌疑人已死亡",
+        "originalTitle": "Kraków shooting suspect who killed six has died, Polish police say",
+        "summary": "波兰警方说,24岁者在市场广场开火后,恐怖主义调查仍在继续,导致16名受伤的欧洲人活着 — — 最新消息是,一名枪手涉嫌杀害6人,包括一名英国男子,在克拉科夫一个繁忙的市场广场上一起罕见的大规模枪击事件中,16人受伤。 波兰警方说,这名24岁的波兰国民在医院中死亡,但还没有正式被点名。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-09T10:22:54Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T12:47:57.803525Z",
+        "updatedAt": "2026-11-09T12:47:57.803525Z"
+      }
+    },
+    {
+      "eventId": "rss-7c67e426ffe21dd12b52d23c",
+      "at": "2026-11-09T12:47:57.803525Z",
+      "data": {
+        "id": "rss-7c67e426ffe21dd12b52d23c",
+        "title": "特朗普说他在和Dana White新闻秘书说\"开玩笑\"",
+        "originalTitle": "Trump says he was 'kidding' about Dana White press secretary offer",
+        "summary": "总统告诉终极拳击冠军老板 周六在真相社会报上\"请接这份工作\"（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-09T08:49:17Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T12:47:57.803525Z",
+        "updatedAt": "2026-11-09T12:47:57.803525Z"
+      }
+    },
+    {
+      "eventId": "rss-d3c67c63a8812a668ead09a7",
+      "at": "2026-11-09T12:47:57.803525Z",
+      "data": {
+        "id": "rss-d3c67c63a8812a668ead09a7",
+        "title": "“全球政治觉醒”:Gen Z抗议如何席卷世界",
+        "originalTitle": "‘A global political awakening’: how gen Z protests are sweeping the world",
+        "summary": "从塞尔维亚到孟加拉国和印度到法国,年轻人正在向专制主义和重塑政治格局的退缩。 在巴西,他们通过数以百万计的人在网上团结起来,分享视频和传播迷因。 在塞尔维亚,他们横跨欧洲,运行超马拉松,让自己的声音被听到。 上个月,当他们成为中央杜林时,这两个运动都爆发到了国际公众的视野中。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-09T08:04:44Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/06/gen-z-protests-sweeping-the-world"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T12:47:57.803525Z",
+        "updatedAt": "2026-11-09T12:47:57.803525Z"
+      }
+    },
+    {
+      "eventId": "rss-7e2c736f396f80e8bd386ee3",
+      "at": "2026-11-09T12:47:57.803525Z",
+      "data": {
+        "id": "rss-7e2c736f396f80e8bd386ee3",
+        "title": "关于Nvidia首席执行官与一名中国间谍的外遇,我们了解多少?",
+        "originalTitle": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+        "summary": "美国科技巨人的首席执行官黄詹被贴上“詹森”的标签,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-09T07:10:11Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T12:47:57.803525Z",
+        "updatedAt": "2026-11-09T12:47:57.803525Z"
+      }
+    },
+    {
+      "eventId": "rss-e869dd4c2eff543382104bf7",
+      "at": "2026-11-09T12:47:57.803525Z",
+      "data": {
+        "id": "rss-e869dd4c2eff543382104bf7",
+        "title": "Jensen Huang:为什么一个个人丑闻 引发了国家安全恐慌?",
+        "originalTitle": "Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare",
+        "summary": "黄四郎曾被誉为\"技术高手\" 黄四郎在与一名中国间谍私通后 陷入丑闻之中（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-09T06:01:52Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T12:47:57.803525Z",
+        "updatedAt": "2026-11-09T12:47:57.803525Z"
+      }
+    },
+    {
+      "eventId": "rss-90b23b1d03a122e8cb9aa5c9",
+      "at": "2026-11-09T12:47:57.803525Z",
+      "data": {
+        "id": "rss-90b23b1d03a122e8cb9aa5c9",
+        "title": "在法国的贩毒团伙里 招募儿童去杀人",
+        "originalTitle": "Inside the French drug gangs recruiting children to kill",
+        "summary": "英国广播公司进入了马赛危险的黑社会 年轻人被困在那里 被残酷对待和剥削（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-09T06:00:26Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T12:47:57.803525Z",
+        "updatedAt": "2026-11-09T12:47:57.803525Z"
+      }
+    },
+    {
+      "eventId": "rss-febc01e826ceb3dea903ad89",
+      "at": "2026-11-09T12:47:57.803525Z",
+      "data": {
+        "id": "rss-febc01e826ceb3dea903ad89",
+        "title": "停止破坏吉姆・查默斯,环境部长敦促劳动党同事",
+        "originalTitle": "Stop undermining Jim Chalmers, environment minister urges Labor colleagues",
+        "summary": "Murray Watt指出, 预算储蓄会议后, 便会收到突发新闻电子邮件、免费应用程序或每日新闻播客。 环境部长Murray Watt敦促各位部长停止破坏司库Jim Chalmers,（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-09T05:47:49Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/uk-news/2026/nov/09/stop-undermining-treasurer-jim-chalmers-environment-minister-urges-colleagues"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T12:47:57.803525Z",
+        "updatedAt": "2026-11-09T12:47:57.803525Z"
+      }
+    },
+    {
+      "eventId": "rss-81f22044c23e4a55da567b37",
+      "at": "2026-11-09T12:47:57.803525Z",
+      "data": {
+        "id": "rss-81f22044c23e4a55da567b37",
+        "title": "教皇为米莉的紧缩措施 蒙上阴影",
+        "originalTitle": "Pope delivers veiled rebuke of Milei's austerity measures",
+        "summary": "Pope Leo在拉丁美洲之旅的第二段抵达阿根廷时发表了评论。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-09T05:30:37Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T12:47:57.803525Z",
+        "updatedAt": "2026-11-09T12:47:57.803525Z"
+      }
+    },
+    {
+      "eventId": "rss-e120b878a12761b045e28a52",
+      "at": "2026-11-09T12:47:57.803525Z",
+      "data": {
+        "id": "rss-e120b878a12761b045e28a52",
+        "title": "Jensen Huang 的工作是否在线上? 耶鲁的杰弗里·索恩菲尔德估计是“50-50岁左右 ” 。",
+        "originalTitle": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+        "summary": "Nvidia的董事会正在调查Jensen Huang与一名中国间谍的关系,耶鲁的Jeffrey Sonnenfeld认为,黄先生是否继续担任首席执行官大概是一个硬币。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-09T05:26:29Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T12:47:57.803525Z",
+        "updatedAt": "2026-11-09T12:47:57.803525Z"
+      }
+    },
+    {
+      "eventId": "rss-cbad17aa8c69c46abe348d8d",
+      "at": "2026-11-09T12:47:57.803525Z",
+      "data": {
+        "id": "rss-cbad17aa8c69c46abe348d8d",
+        "title": "2026年维多利亚选举:劳工议员对新民调的担忧和怀疑,",
+        "originalTitle": "Victorian election 2026: Concern and scepticism among Labor MPs as new poll shows party trailing One Nation",
+        "summary": "Ben Carroll拒绝参与最新民意调查, 该民意调查显示劳工党在历史上仅次于18%,（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-09T04:55:15Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/09/victoria-election-2026-labor-mps-new-opinion-poll-one-nation-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T12:47:57.803525Z",
+        "updatedAt": "2026-11-09T12:47:57.803525Z"
+      }
+    },
+    {
+      "eventId": "rss-9efd09657c3ef5909889d67a",
+      "at": "2026-11-09T12:47:57.803525Z",
+      "data": {
+        "id": "rss-9efd09657c3ef5909889d67a",
+        "title": "CFMEU `欣然接受维多利亚州政府的巨大影响力 ' ,",
+        "originalTitle": "CFMEU ‘enjoy a significant level of influence’ over Victorian government, Big Build royal commission hears",
+        "summary": "对腐败指控的调查 开始举行听证会 重点是2022年级的跨边界清除项目 获取我们的突发新闻邮件 免费应用程序或每日新闻播客 皇家委员会对维多利亚州大建筑项目腐败的指控 听说一家大型建筑公司担心 建筑、林业和海事雇员联盟(CFMEU) 被排挤到一边（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-09T04:34:08Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/09/big-build-royal-commission-hears-cfmeu-enjoy-a-significant-level-of-influence-over-victorian-government-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T12:47:57.803525Z",
+        "updatedAt": "2026-11-09T12:47:57.803525Z"
+      }
+    },
+    {
+      "eventId": "rss-3b7db9204f6a5fa53ef3b794",
+      "at": "2026-11-09T12:47:57.803525Z",
+      "data": {
+        "id": "rss-3b7db9204f6a5fa53ef3b794",
+        "title": "」:总理回应新南威尔士州一民族候选人关于澳洲人正在被“人口取代”的说法。",
+        "originalTitle": "‘Outrageous and racist’: premier responds to NSW One Nation candidate’s claim Australians are being ‘demographically replaced’",
+        "summary": "Chris Minns和种族歧视专员Stuart Bonds(领导新南威尔士党的上院票)的评论: 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客新南威尔士总理和澳大利亚人权委员会批评新南威尔士州上院票的领头人的评论,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-09T03:33:14Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/09/one-nation-stuart-bonds-slammed-immigration-comments-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T12:47:57.803525Z",
+        "updatedAt": "2026-11-09T12:47:57.803525Z"
+      }
+    },
+    {
+      "eventId": "rss-4688c3e49b475ee5430a585c",
+      "at": "2026-11-09T12:47:57.803525Z",
+      "data": {
+        "id": "rss-4688c3e49b475ee5430a585c",
+        "title": "游轮钢琴家在太平洋9小时后从海上获救",
+        "originalTitle": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+        "summary": "两名美国渔民说,他们发现这个人在加利福尼亚海岸外约20英里处(32公里)打水。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-09T02:50:13Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T12:47:57.803525Z",
+        "updatedAt": "2026-11-09T12:47:57.803525Z"
+      }
+    },
+    {
+      "eventId": "rss-afda19fa17aea4d9161d944e",
+      "at": "2026-11-09T12:47:57.803525Z",
+      "data": {
+        "id": "rss-afda19fa17aea4d9161d944e",
+        "title": "教皇里欧在阿根廷访问期间,",
+        "originalTitle": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+        "summary": "庞蒂夫告诉阿根廷总统,在12天的拉丁美洲之旅第二站,经济必须让所有人受益。 教皇利奥十四世对阿根廷总统米利(Javier Milii)的严厉紧缩措施发表了尖锐的批评,坚持增长必须让所有人都受益。 布宜诺斯艾利斯的演讲得到了热烈的掌声。 “经济必须为人民服务,而不是为人民服务。 ”（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-09T02:11:25Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T12:47:57.803525Z",
+        "updatedAt": "2026-11-09T12:47:57.803525Z"
+      }
+    },
+    {
+      "eventId": "rss-4d1a123096976dccde4e7db3",
+      "at": "2026-11-09T12:47:57.803525Z",
+      "data": {
+        "id": "rss-4d1a123096976dccde4e7db3",
+        "title": "“逃避信息”因为ANC记录了南非大选有史以来最糟糕的结果",
+        "originalTitle": "'Devastating message' as ANC records worst-ever result in South Africa election",
+        "summary": "西里尔·拉马福萨总统说,必须尊重判决,而该党的秘书长则称结果为“灾难性”。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-08T17:51:03Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-09T12:47:57.803525Z",
+        "updatedAt": "2026-11-09T12:47:57.803525Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-09T12:47:57.803525Z",
+      "at": "2026-11-09T12:47:57.803525Z",
+      "kind": "GitHub Actions 采集",
+      "count": 24,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 10}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 1}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 11}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 2}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-09T00:30:38.640236Z",
       "at": "2026-11-09T00:30:38.640236Z",
