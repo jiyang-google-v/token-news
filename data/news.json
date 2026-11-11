@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-10T12:44:21.045336Z",
+  "updatedAt": "2026-11-11T00:31:44.741024Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -54638,6 +54638,1678 @@
       "tokens": [],
       "firstSeen": "2026-11-10T12:44:21.045336Z",
       "updatedAt": "2026-11-10T12:44:21.045336Z"
+    },
+    {
+      "id": "rss-b2f23fe60f3a3e036ba4c8c4",
+      "title": "机器人船承担猎雷的危险工作",
+      "originalTitle": "Robot vessels take on the dangerous work of mine hunting",
+      "summary": "海湾的冲突是美国测试其自主的探雷系统的一个机会。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-11T00:19:13Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-edffa78622022dce63811c5c",
+      "title": "肯尼亚人对厄尔尼诺现象的恐惧与洪水预言,",
+      "originalTitle": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "summary": "预报员警告说,今年的厄尔尼诺现象可能是有记录以来最严重的现象之一,在肯尼亚暴雨和洪水肆虐。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-11T00:18:07Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-9435eb24521189adedd5f074",
+      "title": "Nvidia雇用美国大律师事务所调查中国间谍事件",
+      "originalTitle": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+      "summary": "约会是在Jensen Huang 和一位被认为是中国间谍的女人发生外遇之后作出的（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-10T22:52:15Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-d0e1cc1440dbbaefd8b632ec",
+      "title": "Meghan的父亲Thomas Markle 在据称摘掉脚踝监视器后 被联邦拘留",
+      "originalTitle": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+      "summary": "这名82岁的孩子上周被指控持有性虐待儿童的材料后,被软禁在佛罗里达州。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-10T22:17:45Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-612bc333be177914040d78b9",
+      "title": "OpenAI 获得Odessia, 由 Sonder 创建者创建的旅行启动",
+      "originalTitle": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "summary": "开放旅游协会尚未说明其未来旅行的计划。 但Sonder创始人Francis Davidson是旅游业中一位著名人物。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-10T21:08:52Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-636bec9b1738d1053c35ef6f",
+      "title": "纽约的人工智能安全法生效时,人类面临新的监督",
+      "originalTitle": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "summary": "纽约正准备执行其全面的人工智能安全法,要求OpenAI和人类学等主要开发商登记、披露安全做法,并报告重大事件或面临罚款。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-10T20:52:13Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-fb396cc9ce5546d1b3f4ccc1",
+      "title": "预产期风险公司筹集首期基金,支持创业企业,使AI公司参与药物开发",
+      "originalTitle": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+      "summary": "前信号火投资者Sahir Raoof筹集了2 750万美元,用于针对制药行业的AI的新基金。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-10T20:47:05Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-78377496e414ed1cbcbc55ab",
+      "title": "西班牙国王和王后参加铁路事故受害者追悼会",
+      "originalTitle": "Spain's king and queen attend memorial service for rail crash victims",
+      "summary": "两周前托莱多附近发生碰撞,69人死亡,28人仍在医院。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-10T20:46:40Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-a74ea9bf7a9e749bfa1c7736",
+      "title": "X能源获得绿色光来建造其第一个小型组合式核反应堆",
+      "originalTitle": "X-energy gets green light to build its first small modular nuclear reactors",
+      "summary": "X能源公司获得美国核管制委员会颁发的建造许可证,在得克萨斯州建造四个反应堆。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-10T20:43:55Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-c20c2bdeabaf12137c65b68c",
+      "title": "美国联邦当局本可以阻止 Epstein 犯罪,报告发现",
+      "originalTitle": "US federal authorities could have prevented Epstein crimes, report finds",
+      "summary": "由共和党领导的国会委员会的报告是继15个月调查后编写的。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-10T20:36:58Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-9798c5d5f4ba159b29c6aaca",
+      "title": "技术生命",
+      "originalTitle": "Tech Life",
+      "summary": "加上美国选举技术的副作用。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-10T20:30:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyv?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-6a4da90b755cb8d42d7f3dbf",
+      "title": "法国警察在Mohamed Al Fayed的Ritz旅馆进行性虐待调查",
+      "originalTitle": "French police raid Ritz hotel in Mohamed Al Fayed sexual abuse investigation",
+      "summary": "在对已故商人法国警察的调查中搜查了3处房产后,逮捕了3处房产,包括巴黎的Ritz旅馆,调查了Mohamed Al Fayed的性虐待和贩运。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-10T20:00:43Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/10/french-police-raid-ritz-hotel-in-mohamed-al-fayed-sexual-abuse-investigation"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-fc8637108efa1d8182340393",
+      "title": "所有7个人类创始人 都会在IPO各出250万元",
+      "originalTitle": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "summary": "七个共同创始人中的每一个都计划出售与投资促进办事处相同数目的股份,这将使他们每人在价格幅度的中点带来大约2.5亿美元的现金,同时让集团控制公司。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-10T19:57:52Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-43b41d6003dac1cbf84242cb",
+      "title": "在孟加拉国爆发暴力事件,",
+      "originalTitle": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+      "summary": "Sheikh Hasina的支持者希望她从流亡印度返回。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-10T19:26:42Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-1f23ddb43e5f7ed1bc5ad34c",
+      "title": "获得AI-National初级保健启动费625万澳元的Ourea",
+      "originalTitle": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "summary": "这一交易是在Ourea无限期地推迟到其22亿美元的IPO之后几个星期才达成的,理由是“IPO市场的不确定性”。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-10T19:23:34Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-39a6d410c88cee38a21aab83",
+      "title": "PSI正试图通过人工智能驱动的科学发现 来做一个生意",
+      "originalTitle": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "summary": "PSI使用未释放的人类模型 来回答一个基本的问题 关于量子计算 科学家已经追求了近20年。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-10T19:03:52Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-c650b02fc655d4a0b19c4e6a",
+      "title": "如果阿根廷封锁石油项目, 福克兰群岛居民将面临“破坏性后果”,",
+      "originalTitle": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK",
+      "summary": "由于汉堡法庭有可能加深主权争端,各国因海狮项目而发生冲突。 如果阿根廷成功地阻止其近海油田的发展,英格兰和威尔士总检察长就告诉国际法庭,福克兰群岛人民将面临“破坏性后果”。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-10T19:01:33Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-583dee252be92f18cc571241",
+      "title": "OpenAI 推出新的业务简介, 使聊天GPT 略为像Google(谷歌)",
+      "originalTitle": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "summary": "OpenAI正试图让ChatGPT成为更强大的消费者发现引擎,（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-10T18:49:52Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-5ad2c7415bc60bf1f145ad89",
+      "title": "谷歌对苹果AirTag的30美元Anderoid即时回应,",
+      "originalTitle": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+      "summary": "Google的像素标记 让你用你的安卓装置追踪丢失的项目 类似于苹果的AirTag（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-10T18:49:19Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-c0413d783d37fb55406b5901",
+      "title": "订购GLP-1药物以添加关于可导致失明的罕见眼睛状况的警告",
+      "originalTitle": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
+      "summary": "美国食品和药品管理局说,Ozempic,Wegovy, 和其他重量损失药物 必须有有关该病症的标签, 被称为NAION。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-10T18:43:04Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-b812a27808c73cb4c28ac17c",
+      "title": "马来西亚前总理在侵吞数百万人后,",
+      "originalTitle": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "summary": "纳吉布·拉扎克因在涉及1MDB主权财富基金的10亿美元丑闻中扮演的角色而被定罪。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-10T18:33:51Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-6dd43c8324543e897ebe0795",
+      "title": "美国前总统拜登访问后被捕",
+      "originalTitle": "Arrests made after visit from former US President Biden",
+      "summary": "Joe Biden在都柏林看他儿子Hunter 获奖金奖章 以表彰他为公众讨论所做的杰出贡献（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-10T18:07:56Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-207a4fa17cf57c0712f3b607",
+      "title": "特立尼达和多巴哥反同性恋法被推翻",
+      "originalTitle": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+      "summary": "裁决结束了 11年的法律斗争 由双重公民杰森・琼斯。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-10T18:04:18Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-c67f8109386fc65fb9706b09",
+      "title": "Claude chatbot 制造器设定为1.3吨股票市场首发,尽管“灾难性”AI警告",
+      "originalTitle": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "summary": "Claude chatbot背后的AI公司将提供70至78美元的股份,低于预期。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-10T17:56:12Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-971efafe5fcbc197b163f4fe",
+      "title": "英国愿意向欧盟付钱 加入电力市场,部长说",
+      "originalTitle": "Britain willing to discuss paying into EU to join electricity market, says minister",
+      "summary": "哈米什·法尔科纳(Hamish Falconer)说,英国“没有接受原则”将电力贸易与“连锁基金”挂钩,但是,根据负责重新谈判双边关系的部长的说法,英国愿意讨论向欧盟较贫困地区基础设施计划付款的问题,以换取进入欧洲电力市场。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-10T17:52:07Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-c0148d18638aab6826519e72",
+      "title": "克洛德会议将工作场所讨论转化为计划和任务",
+      "originalTitle": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "summary": "在与会者发言时,Claude可以起草正在讨论的计划,在白板上绘制时间表,在会议聊天中回答问题,并访问连接的工作应用程序以检索信息,例如去年的数字。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-10T17:30:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-1fddca4e7bcb0d7af6cd5f40",
+      "title": "俄罗斯海军侵略引发了与“啤酒饮料国”的新的防御行动。",
+      "originalTitle": "Russian naval aggression prompts new defensive initiative with ‘beer-drinking nations’",
+      "summary": "与荷兰以及波罗的海和北欧国家结成新的联盟,是因为俄罗斯围绕联合王国周围的俄罗斯海军活动增加了41%。 今年头九个月,英国国防部长说,正如皇家海军宣布计划加强10国海上防御行动一样,俄罗斯海军在联合王国周围的海军活动增加了41%。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-10T17:26:59Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/10/russian-naval-aggression-defensive-initiative-beer-drinking-nations"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-9f7428ee17be8abb85265a7d",
+      "title": "Nvidia CEO Jensen Huang 与所谓中国间谍的外遇:时间表",
+      "originalTitle": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+      "summary": "随着美国和中国竞相发展最先进的AI基础设施,这一事件可能对国家安全产生影响。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-10T17:04:19Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-d9c120dc2ec515edca93ca24",
+      "title": "阳光将你无休止的婴儿照片 变成复述、时间流逝和更多——没有人工智能",
+      "originalTitle": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
+      "summary": "日落是一个新的 iPhone 应用程序, 使用苹果的 AI 设备帮助父母重新发现他们最喜欢的照片, 并在不向云层上传图像的情况下创建保存器 。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-10T16:50:38Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-119606f9f2d23278fac83294",
+      "title": "警方说,在法国的Mohamed Al Fayed探测器中,",
+      "originalTitle": "Arrests made in Mohamed Al Fayed probe in France, police say",
+      "summary": "巴黎的里兹旅馆仍为Al Fayed家族所有,是警察搜查的财产之一。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-10T16:19:48Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-ad975dd0d3cfcff91800d0a4",
+      "title": "在保加利亚大雾中 高速公路堆积之后 12人死亡",
+      "originalTitle": "Twelve dead after motorway pile-ups in Bulgaria fog",
+      "summary": "官员说,在Trakia高速公路一带的堆积中,另有大约50人受伤。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-10T16:07:51Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-56771b101993740fbc0f0741",
+      "title": "苹果电视使手语翻译成为内在无障碍功能",
+      "originalTitle": "Apple TV makes sign language interpretation a built-in accessibility feature",
+      "summary": "Apple TV的新访问功能让观众在支持的标题内打开手语翻译。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-10T16:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-4ea7969a421c523902f6b1f6",
+      "title": "Google用两个新的专用芯片 扩大了其人工智能硬件组合",
+      "originalTitle": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "summary": "Google的新高压处理器(TPUs)将其芯片组合扩大到更多的使用案例:保密模型培训和更多的记忆能力。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-10T15:54:08Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-a3eeb77a80fa3a886344e275",
+      "title": "在研究人员公布数十个零天错误后,N-able将其远程访问服务脱机",
+      "originalTitle": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
+      "summary": "远程访问巨头也敦促自己托管的客户在「危急安全事件」中摧毁自己的服务器, 担心网络攻击的可能性。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-10T15:45:27Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-60980c2cce4189709d0ef57f",
+      "title": "刘易斯·汉密尔顿访问埃及拉法过境点和加沙援助设施",
+      "originalTitle": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
+      "summary": "由埃及红新月会路易斯·汉密尔顿(Lewis Hamilton)经营的七次F1世界冠军巡视边境地区和后勤仓库,参观了埃及与加沙地带的拉法过境点,会见向该领土运送人道主义援助的组织。 七次F1世界冠军大声疾呼该地区冲突和人道主义危机,呼吁和平。 他经常访问该地区。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-10T15:39:26Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-679acb5039d281a572b7d5a5",
+      "title": "Meta的AI代理Muse在苹果监视器和Android 穿上OS上着陆",
+      "originalTitle": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "summary": "用户现在可以通过语音电话、短信或苹果监视器的听音与Meta的AI助理互动。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-10T15:29:30Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-af1eb0f1fbea412d956fc40b",
+      "title": "和平委员会指出,",
+      "originalTitle": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+      "summary": "由特朗普组建的这一团体对以色列提出了罕见的批评,同时指责哈马斯给加沙平民造成了痛苦。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-10T15:21:18Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-f407fadf37dff8762b0bc21d",
+      "title": "Reddit 正在将用户对话变成 AI 动力产品审查",
+      "originalTitle": "Reddit is turning user conversations into AI-powered product reviews",
+      "summary": "Reddit的新AI动力评论总结了用户喜欢和不喜欢的大约一万种产品,（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-10T15:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-c1a6acfce87b1582eebbcba7",
+      "title": "新的HessApp头想让应用程序更容易使用, 给它的AI更多的切片",
+      "originalTitle": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
+      "summary": "Kunal Shah说公司想制作语音笔记、团体、贴纸和视频,（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-10T15:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-5ac8836f0ba144b39fd67983",
+      "title": "Adobe将AI代理和新的创意工具带到Photoshop、Prime和Firefly",
+      "originalTitle": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "summary": "Adobe正在使用Figma 在Firefly的新型建筑工具。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-10T14:05:10Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-1a56c99530ddc4c22fe174a0",
+      "title": "石油总公司价格为每股70至78美元,以达到1.404万亿美元的隐含价值。",
+      "originalTitle": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "summary": "如果公司在价格幅度的顶端的股票清单被完全稀释,公司最终可能价值1 404万亿美元。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-10T14:01:39Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-81728941091b171f05a15dad",
+      "title": "维多利亚劳工局的“不可原谅”偏好决定,",
+      "originalTitle": "Victorian Labor’s ‘unforgivable’ preferences decision risks Liberal-One Nation government, Greens warn",
+      "summary": "埃伦·桑德尔(Ellen Sandell)说,劳动党决定不支持在关键内部席位的进取者,可以在近距离选举中将权力授予右翼联盟。 获得我们的突发新闻电子邮件、免费应用程序或每日新闻播客《维多利亚格林斯》说,劳动党“刻不容缓地”决定不偏向在关键内部席位的次要政党,可以将即将到来的选举交给自由-一个民族联盟。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-10T14:00:55Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/11/labor-decision-greens-preference-one-nation-battleground-seat-prahran-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-fb294595803529a700e0705f",
+      "title": "法国战时抵抗女英雄Solange Alexandre死亡年龄为104岁",
+      "originalTitle": "French wartime resistance heroine Solange Alexandre dies aged 104",
+      "summary": "在她的命令下,她有30名男子组织破坏行动,庇护盟军飞行员,并参加反对占领的德国部队的战斗。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-10T13:23:54Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
+    },
+    {
+      "id": "rss-76510ee2fdbd37d12b97ad79",
+      "title": "加州警方在半马拉松赛事中 27人病倒后进行调查",
+      "originalTitle": "California police investigate after 27 fall ill at half-marathon running event",
+      "summary": "当地医院说跑者在异常热的一天赛车后 得了\"不寻常\"症状（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-10T13:22:12Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq0ldlyd556go?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-11T00:31:44.741024Z",
+      "updatedAt": "2026-11-11T00:31:44.741024Z"
     }
   ],
   "history": [
@@ -115037,9 +116709,1864 @@
         "firstSeen": "2026-11-10T12:44:21.045336Z",
         "updatedAt": "2026-11-10T12:44:21.045336Z"
       }
+    },
+    {
+      "eventId": "rss-b2f23fe60f3a3e036ba4c8c4",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-b2f23fe60f3a3e036ba4c8c4",
+        "title": "机器人船承担猎雷的危险工作",
+        "originalTitle": "Robot vessels take on the dangerous work of mine hunting",
+        "summary": "海湾的冲突是美国测试其自主的探雷系统的一个机会。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-11T00:19:13Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-edffa78622022dce63811c5c",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-edffa78622022dce63811c5c",
+        "title": "肯尼亚人对厄尔尼诺现象的恐惧与洪水预言,",
+        "originalTitle": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+        "summary": "预报员警告说,今年的厄尔尼诺现象可能是有记录以来最严重的现象之一,在肯尼亚暴雨和洪水肆虐。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-11T00:18:07Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-9435eb24521189adedd5f074",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-9435eb24521189adedd5f074",
+        "title": "Nvidia雇用美国大律师事务所调查中国间谍事件",
+        "originalTitle": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+        "summary": "约会是在Jensen Huang 和一位被认为是中国间谍的女人发生外遇之后作出的（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-10T22:52:15Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-d0e1cc1440dbbaefd8b632ec",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-d0e1cc1440dbbaefd8b632ec",
+        "title": "Meghan的父亲Thomas Markle 在据称摘掉脚踝监视器后 被联邦拘留",
+        "originalTitle": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+        "summary": "这名82岁的孩子上周被指控持有性虐待儿童的材料后,被软禁在佛罗里达州。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-10T22:17:45Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-612bc333be177914040d78b9",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-612bc333be177914040d78b9",
+        "title": "OpenAI 获得Odessia, 由 Sonder 创建者创建的旅行启动",
+        "originalTitle": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+        "summary": "开放旅游协会尚未说明其未来旅行的计划。 但Sonder创始人Francis Davidson是旅游业中一位著名人物。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-10T21:08:52Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-636bec9b1738d1053c35ef6f",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-636bec9b1738d1053c35ef6f",
+        "title": "纽约的人工智能安全法生效时,人类面临新的监督",
+        "originalTitle": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+        "summary": "纽约正准备执行其全面的人工智能安全法,要求OpenAI和人类学等主要开发商登记、披露安全做法,并报告重大事件或面临罚款。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-10T20:52:13Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-fb396cc9ce5546d1b3f4ccc1",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-fb396cc9ce5546d1b3f4ccc1",
+        "title": "预产期风险公司筹集首期基金,支持创业企业,使AI公司参与药物开发",
+        "originalTitle": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+        "summary": "前信号火投资者Sahir Raoof筹集了2 750万美元,用于针对制药行业的AI的新基金。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-10T20:47:05Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-78377496e414ed1cbcbc55ab",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-78377496e414ed1cbcbc55ab",
+        "title": "西班牙国王和王后参加铁路事故受害者追悼会",
+        "originalTitle": "Spain's king and queen attend memorial service for rail crash victims",
+        "summary": "两周前托莱多附近发生碰撞,69人死亡,28人仍在医院。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-10T20:46:40Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-a74ea9bf7a9e749bfa1c7736",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-a74ea9bf7a9e749bfa1c7736",
+        "title": "X能源获得绿色光来建造其第一个小型组合式核反应堆",
+        "originalTitle": "X-energy gets green light to build its first small modular nuclear reactors",
+        "summary": "X能源公司获得美国核管制委员会颁发的建造许可证,在得克萨斯州建造四个反应堆。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-10T20:43:55Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-c20c2bdeabaf12137c65b68c",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-c20c2bdeabaf12137c65b68c",
+        "title": "美国联邦当局本可以阻止 Epstein 犯罪,报告发现",
+        "originalTitle": "US federal authorities could have prevented Epstein crimes, report finds",
+        "summary": "由共和党领导的国会委员会的报告是继15个月调查后编写的。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-10T20:36:58Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-9798c5d5f4ba159b29c6aaca",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-9798c5d5f4ba159b29c6aaca",
+        "title": "技术生命",
+        "originalTitle": "Tech Life",
+        "summary": "加上美国选举技术的副作用。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-10T20:30:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyv?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-6a4da90b755cb8d42d7f3dbf",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-6a4da90b755cb8d42d7f3dbf",
+        "title": "法国警察在Mohamed Al Fayed的Ritz旅馆进行性虐待调查",
+        "originalTitle": "French police raid Ritz hotel in Mohamed Al Fayed sexual abuse investigation",
+        "summary": "在对已故商人法国警察的调查中搜查了3处房产后,逮捕了3处房产,包括巴黎的Ritz旅馆,调查了Mohamed Al Fayed的性虐待和贩运。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-10T20:00:43Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/10/french-police-raid-ritz-hotel-in-mohamed-al-fayed-sexual-abuse-investigation"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-fc8637108efa1d8182340393",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-fc8637108efa1d8182340393",
+        "title": "所有7个人类创始人 都会在IPO各出250万元",
+        "originalTitle": "All 7 Anthropic founders will each cash out about $250M in IPO",
+        "summary": "七个共同创始人中的每一个都计划出售与投资促进办事处相同数目的股份,这将使他们每人在价格幅度的中点带来大约2.5亿美元的现金,同时让集团控制公司。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-10T19:57:52Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-43b41d6003dac1cbf84242cb",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-43b41d6003dac1cbf84242cb",
+        "title": "在孟加拉国爆发暴力事件,",
+        "originalTitle": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+        "summary": "Sheikh Hasina的支持者希望她从流亡印度返回。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-10T19:26:42Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-1f23ddb43e5f7ed1bc5ad34c",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-1f23ddb43e5f7ed1bc5ad34c",
+        "title": "获得AI-National初级保健启动费625万澳元的Ourea",
+        "originalTitle": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+        "summary": "这一交易是在Ourea无限期地推迟到其22亿美元的IPO之后几个星期才达成的,理由是“IPO市场的不确定性”。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-10T19:23:34Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-39a6d410c88cee38a21aab83",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-39a6d410c88cee38a21aab83",
+        "title": "PSI正试图通过人工智能驱动的科学发现 来做一个生意",
+        "originalTitle": "PSI is trying to make a business out of AI-driven scientific discovery",
+        "summary": "PSI使用未释放的人类模型 来回答一个基本的问题 关于量子计算 科学家已经追求了近20年。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-10T19:03:52Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-c650b02fc655d4a0b19c4e6a",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-c650b02fc655d4a0b19c4e6a",
+        "title": "如果阿根廷封锁石油项目, 福克兰群岛居民将面临“破坏性后果”,",
+        "originalTitle": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK",
+        "summary": "由于汉堡法庭有可能加深主权争端,各国因海狮项目而发生冲突。 如果阿根廷成功地阻止其近海油田的发展,英格兰和威尔士总检察长就告诉国际法庭,福克兰群岛人民将面临“破坏性后果”。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-10T19:01:33Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-583dee252be92f18cc571241",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-583dee252be92f18cc571241",
+        "title": "OpenAI 推出新的业务简介, 使聊天GPT 略为像Google(谷歌)",
+        "originalTitle": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+        "summary": "OpenAI正试图让ChatGPT成为更强大的消费者发现引擎,（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-10T18:49:52Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-5ad2c7415bc60bf1f145ad89",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-5ad2c7415bc60bf1f145ad89",
+        "title": "谷歌对苹果AirTag的30美元Anderoid即时回应,",
+        "originalTitle": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+        "summary": "Google的像素标记 让你用你的安卓装置追踪丢失的项目 类似于苹果的AirTag（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-10T18:49:19Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-c0413d783d37fb55406b5901",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-c0413d783d37fb55406b5901",
+        "title": "订购GLP-1药物以添加关于可导致失明的罕见眼睛状况的警告",
+        "originalTitle": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
+        "summary": "美国食品和药品管理局说,Ozempic,Wegovy, 和其他重量损失药物 必须有有关该病症的标签, 被称为NAION。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-10T18:43:04Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-b812a27808c73cb4c28ac17c",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-b812a27808c73cb4c28ac17c",
+        "title": "马来西亚前总理在侵吞数百万人后,",
+        "originalTitle": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+        "summary": "纳吉布·拉扎克因在涉及1MDB主权财富基金的10亿美元丑闻中扮演的角色而被定罪。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-10T18:33:51Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-6dd43c8324543e897ebe0795",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-6dd43c8324543e897ebe0795",
+        "title": "美国前总统拜登访问后被捕",
+        "originalTitle": "Arrests made after visit from former US President Biden",
+        "summary": "Joe Biden在都柏林看他儿子Hunter 获奖金奖章 以表彰他为公众讨论所做的杰出贡献（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-10T18:07:56Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-207a4fa17cf57c0712f3b607",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-207a4fa17cf57c0712f3b607",
+        "title": "特立尼达和多巴哥反同性恋法被推翻",
+        "originalTitle": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+        "summary": "裁决结束了 11年的法律斗争 由双重公民杰森・琼斯。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-10T18:04:18Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-c67f8109386fc65fb9706b09",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-c67f8109386fc65fb9706b09",
+        "title": "Claude chatbot 制造器设定为1.3吨股票市场首发,尽管“灾难性”AI警告",
+        "originalTitle": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+        "summary": "Claude chatbot背后的AI公司将提供70至78美元的股份,低于预期。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-10T17:56:12Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-971efafe5fcbc197b163f4fe",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-971efafe5fcbc197b163f4fe",
+        "title": "英国愿意向欧盟付钱 加入电力市场,部长说",
+        "originalTitle": "Britain willing to discuss paying into EU to join electricity market, says minister",
+        "summary": "哈米什·法尔科纳(Hamish Falconer)说,英国“没有接受原则”将电力贸易与“连锁基金”挂钩,但是,根据负责重新谈判双边关系的部长的说法,英国愿意讨论向欧盟较贫困地区基础设施计划付款的问题,以换取进入欧洲电力市场。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-10T17:52:07Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-c0148d18638aab6826519e72",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-c0148d18638aab6826519e72",
+        "title": "克洛德会议将工作场所讨论转化为计划和任务",
+        "originalTitle": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+        "summary": "在与会者发言时,Claude可以起草正在讨论的计划,在白板上绘制时间表,在会议聊天中回答问题,并访问连接的工作应用程序以检索信息,例如去年的数字。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-10T17:30:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-1fddca4e7bcb0d7af6cd5f40",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-1fddca4e7bcb0d7af6cd5f40",
+        "title": "俄罗斯海军侵略引发了与“啤酒饮料国”的新的防御行动。",
+        "originalTitle": "Russian naval aggression prompts new defensive initiative with ‘beer-drinking nations’",
+        "summary": "与荷兰以及波罗的海和北欧国家结成新的联盟,是因为俄罗斯围绕联合王国周围的俄罗斯海军活动增加了41%。 今年头九个月,英国国防部长说,正如皇家海军宣布计划加强10国海上防御行动一样,俄罗斯海军在联合王国周围的海军活动增加了41%。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-10T17:26:59Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/uk-news/2026/nov/10/russian-naval-aggression-defensive-initiative-beer-drinking-nations"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-9f7428ee17be8abb85265a7d",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-9f7428ee17be8abb85265a7d",
+        "title": "Nvidia CEO Jensen Huang 与所谓中国间谍的外遇:时间表",
+        "originalTitle": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+        "summary": "随着美国和中国竞相发展最先进的AI基础设施,这一事件可能对国家安全产生影响。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-10T17:04:19Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-d9c120dc2ec515edca93ca24",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-d9c120dc2ec515edca93ca24",
+        "title": "阳光将你无休止的婴儿照片 变成复述、时间流逝和更多——没有人工智能",
+        "originalTitle": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
+        "summary": "日落是一个新的 iPhone 应用程序, 使用苹果的 AI 设备帮助父母重新发现他们最喜欢的照片, 并在不向云层上传图像的情况下创建保存器 。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-10T16:50:38Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-119606f9f2d23278fac83294",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-119606f9f2d23278fac83294",
+        "title": "警方说,在法国的Mohamed Al Fayed探测器中,",
+        "originalTitle": "Arrests made in Mohamed Al Fayed probe in France, police say",
+        "summary": "巴黎的里兹旅馆仍为Al Fayed家族所有,是警察搜查的财产之一。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-10T16:19:48Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-ad975dd0d3cfcff91800d0a4",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-ad975dd0d3cfcff91800d0a4",
+        "title": "在保加利亚大雾中 高速公路堆积之后 12人死亡",
+        "originalTitle": "Twelve dead after motorway pile-ups in Bulgaria fog",
+        "summary": "官员说,在Trakia高速公路一带的堆积中,另有大约50人受伤。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-10T16:07:51Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-56771b101993740fbc0f0741",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-56771b101993740fbc0f0741",
+        "title": "苹果电视使手语翻译成为内在无障碍功能",
+        "originalTitle": "Apple TV makes sign language interpretation a built-in accessibility feature",
+        "summary": "Apple TV的新访问功能让观众在支持的标题内打开手语翻译。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-10T16:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-4ea7969a421c523902f6b1f6",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-4ea7969a421c523902f6b1f6",
+        "title": "Google用两个新的专用芯片 扩大了其人工智能硬件组合",
+        "originalTitle": "Google broadens its AI hardware portfolio with two new specialized chips",
+        "summary": "Google的新高压处理器(TPUs)将其芯片组合扩大到更多的使用案例:保密模型培训和更多的记忆能力。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-10T15:54:08Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-a3eeb77a80fa3a886344e275",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-a3eeb77a80fa3a886344e275",
+        "title": "在研究人员公布数十个零天错误后,N-able将其远程访问服务脱机",
+        "originalTitle": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
+        "summary": "远程访问巨头也敦促自己托管的客户在「危急安全事件」中摧毁自己的服务器, 担心网络攻击的可能性。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-10T15:45:27Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-60980c2cce4189709d0ef57f",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-60980c2cce4189709d0ef57f",
+        "title": "刘易斯·汉密尔顿访问埃及拉法过境点和加沙援助设施",
+        "originalTitle": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
+        "summary": "由埃及红新月会路易斯·汉密尔顿(Lewis Hamilton)经营的七次F1世界冠军巡视边境地区和后勤仓库,参观了埃及与加沙地带的拉法过境点,会见向该领土运送人道主义援助的组织。 七次F1世界冠军大声疾呼该地区冲突和人道主义危机,呼吁和平。 他经常访问该地区。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-10T15:39:26Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-679acb5039d281a572b7d5a5",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-679acb5039d281a572b7d5a5",
+        "title": "Meta的AI代理Muse在苹果监视器和Android 穿上OS上着陆",
+        "originalTitle": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+        "summary": "用户现在可以通过语音电话、短信或苹果监视器的听音与Meta的AI助理互动。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-10T15:29:30Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-af1eb0f1fbea412d956fc40b",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-af1eb0f1fbea412d956fc40b",
+        "title": "和平委员会指出,",
+        "originalTitle": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+        "summary": "由特朗普组建的这一团体对以色列提出了罕见的批评,同时指责哈马斯给加沙平民造成了痛苦。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-10T15:21:18Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-f407fadf37dff8762b0bc21d",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-f407fadf37dff8762b0bc21d",
+        "title": "Reddit 正在将用户对话变成 AI 动力产品审查",
+        "originalTitle": "Reddit is turning user conversations into AI-powered product reviews",
+        "summary": "Reddit的新AI动力评论总结了用户喜欢和不喜欢的大约一万种产品,（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-10T15:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-c1a6acfce87b1582eebbcba7",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-c1a6acfce87b1582eebbcba7",
+        "title": "新的HessApp头想让应用程序更容易使用, 给它的AI更多的切片",
+        "originalTitle": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
+        "summary": "Kunal Shah说公司想制作语音笔记、团体、贴纸和视频,（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-10T15:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-5ac8836f0ba144b39fd67983",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-5ac8836f0ba144b39fd67983",
+        "title": "Adobe将AI代理和新的创意工具带到Photoshop、Prime和Firefly",
+        "originalTitle": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+        "summary": "Adobe正在使用Figma 在Firefly的新型建筑工具。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-10T14:05:10Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-1a56c99530ddc4c22fe174a0",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-1a56c99530ddc4c22fe174a0",
+        "title": "石油总公司价格为每股70至78美元,以达到1.404万亿美元的隐含价值。",
+        "originalTitle": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+        "summary": "如果公司在价格幅度的顶端的股票清单被完全稀释,公司最终可能价值1 404万亿美元。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-10T14:01:39Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-81728941091b171f05a15dad",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-81728941091b171f05a15dad",
+        "title": "维多利亚劳工局的“不可原谅”偏好决定,",
+        "originalTitle": "Victorian Labor’s ‘unforgivable’ preferences decision risks Liberal-One Nation government, Greens warn",
+        "summary": "埃伦·桑德尔(Ellen Sandell)说,劳动党决定不支持在关键内部席位的进取者,可以在近距离选举中将权力授予右翼联盟。 获得我们的突发新闻电子邮件、免费应用程序或每日新闻播客《维多利亚格林斯》说,劳动党“刻不容缓地”决定不偏向在关键内部席位的次要政党,可以将即将到来的选举交给自由-一个民族联盟。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-10T14:00:55Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/11/labor-decision-greens-preference-one-nation-battleground-seat-prahran-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-fb294595803529a700e0705f",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-fb294595803529a700e0705f",
+        "title": "法国战时抵抗女英雄Solange Alexandre死亡年龄为104岁",
+        "originalTitle": "French wartime resistance heroine Solange Alexandre dies aged 104",
+        "summary": "在她的命令下,她有30名男子组织破坏行动,庇护盟军飞行员,并参加反对占领的德国部队的战斗。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-10T13:23:54Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
+    },
+    {
+      "eventId": "rss-76510ee2fdbd37d12b97ad79",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "data": {
+        "id": "rss-76510ee2fdbd37d12b97ad79",
+        "title": "加州警方在半马拉松赛事中 27人病倒后进行调查",
+        "originalTitle": "California police investigate after 27 fall ill at half-marathon running event",
+        "summary": "当地医院说跑者在异常热的一天赛车后 得了\"不寻常\"症状（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-10T13:22:12Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cq0ldlyd556go?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-11T00:31:44.741024Z",
+        "updatedAt": "2026-11-11T00:31:44.741024Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-11T00:31:44.741024Z",
+      "at": "2026-11-11T00:31:44.741024Z",
+      "kind": "GitHub Actions 采集",
+      "count": 44,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 15}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 3}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 6}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 20}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-10T12:44:21.045336Z",
       "at": "2026-11-10T12:44:21.045336Z",
