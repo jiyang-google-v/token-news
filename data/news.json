@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-12T00:46:12.886509Z",
+  "updatedAt": "2026-11-12T12:48:25.197711Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -59160,6 +59160,766 @@
       "tokens": [],
       "firstSeen": "2026-11-12T00:46:12.886509Z",
       "updatedAt": "2026-11-12T00:46:12.886509Z"
+    },
+    {
+      "id": "rss-29dfd653cd425f06a26fe02f",
+      "title": "Zelenskyy敦促欧洲“关注”与俄罗斯的安全关系,",
+      "originalTitle": "Zelenskyy urges Europe to ‘pay attention’ to security relations with Russia as US envoys meet Putin - Europe live",
+      "summary": "乌克兰总统说,欧洲应该“成为与俄罗斯卢森堡总理卢克·弗里登谈判的常规部分 ” , 在今天的峰会上代表所有三个比荷卢国家是绝对令人沮丧的,因为他的比利时和荷兰同事在面临国内危机时忙于出席。 他说,“今天我有幸代表了3000万公民。 ”（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-12T12:32:27Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-12T12:48:25.197711Z",
+      "updatedAt": "2026-11-12T12:48:25.197711Z"
+    },
+    {
+      "id": "rss-7c670ec87508ee71ac28654e",
+      "title": "以色列攻击加沙医院造成六名巴勒斯坦人死亡,",
+      "originalTitle": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "summary": "目击者说,一枚导弹击中了加沙南部最大的纳赛尔医院内有外科病房和特护单位的建筑物。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T12:26:01Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-12T12:48:25.197711Z",
+      "updatedAt": "2026-11-12T12:48:25.197711Z"
+    },
+    {
+      "id": "rss-d591981f32d42e1768840fc9",
+      "title": "纽约市大楼倒塌 杀了几个人",
+      "originalTitle": "New York City building collapse kills several people",
+      "summary": "周三下午布鲁克林一座三层楼倒塌后,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T12:17:47Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-12T12:48:25.197711Z",
+      "updatedAt": "2026-11-12T12:48:25.197711Z"
+    },
+    {
+      "id": "rss-eabeef9e80729989856fc04a",
+      "title": "乌克兰说,美国特使在莫斯科会见普京时, 军方的Starlink再次中断。",
+      "originalTitle": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+      "summary": "星期四晚些时候,Jared Kushner和Steve Witkoff将前往都柏林会见乌克兰的Volodymyr Zelensky。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-12T12:14:51Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-12T12:48:25.197711Z",
+      "updatedAt": "2026-11-12T12:48:25.197711Z"
+    },
+    {
+      "id": "rss-a603fb20f5ffaf854aad0df8",
+      "title": "谁能代替黄詹森做恩维迪亚的首席执行官?",
+      "originalTitle": "Who could replace Jensen Huang as Nvidia's chief executive?",
+      "summary": "随着对AI芯片巨头的不确定性的波动,一些名字成为潜在的继承者。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T11:21:25Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-12T12:48:25.197711Z",
+      "updatedAt": "2026-11-12T12:48:25.197711Z"
+    },
+    {
+      "id": "rss-9bfee2608e815312eec659f6",
+      "title": "欧洲调查揭示了900米星系 — — 可能还有“黑暗宇宙”的秘密。",
+      "originalTitle": "European survey reveals 900m galaxies – and possibly secrets of ‘dark universe’",
+      "summary": "由欧几里德飞行任务提供的前所未有的宇宙观, 抛出了更多的引力透镜案例。 一个创建宇宙史上最大的3D地图的任务, 揭示了900米以上的星系, 以及大约15,000个可能解开“黑暗宇宙”秘密的现象。 2023年7月发射的欧洲空间阿根号。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T11:08:54Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-12T12:48:25.197711Z",
+      "updatedAt": "2026-11-12T12:48:25.197711Z"
+    },
+    {
+      "id": "rss-3f919f56f64efc0c27472e80",
+      "title": "`像不信上帝的牧师一样 ' :意大利的反阴道医生眼神回到前线执勤",
+      "originalTitle": "‘Like priests who don’t believe in God’: Italy’s anti-vax medics eye return to frontline duty",
+      "summary": "恢复停业医生法案的进展取决于远右翼人物Roberto Vannacci的支持,后者的崛起在2027年选举之前正在影响着政治。 安东尼奥·克雷马斯科在2020年3月6日的晚宴会上与Covid签约。 四天后,意大利成为第一个进入全国禁闭状态的欧洲国家,他正在为生命而战。 “我花了20天的特护时间,随后又安排了一个特护人员。 ”（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T10:20:09Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/12/italy-anti-vax-medics-return-vote-meloni"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-12T12:48:25.197711Z",
+      "updatedAt": "2026-11-12T12:48:25.197711Z"
+    },
+    {
+      "id": "rss-44a008dceb764579bf71fda5",
+      "title": "在大西洋的游轮上失踪的英国女人",
+      "originalTitle": "British woman missing from cruise ship in Atlantic",
+      "summary": "这艘72岁的船在星期一驶往加勒比海时最后一次出现在Tui船上。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T10:13:35Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-12T12:48:25.197711Z",
+      "updatedAt": "2026-11-12T12:48:25.197711Z"
+    },
+    {
+      "id": "rss-7dd6f112247d242ef3fb3171",
+      "title": "\" 他再也不会离开家了 \" :母亲在维多利亚丛林区与失踪的儿子团聚了6天",
+      "originalTitle": "‘He is never leaving the house again’: mother reunites with son missing for six days in Victorian bushland",
+      "summary": "17岁的威廉在离开维多利亚州Gippsland区Walhalla附近的营地后失踪。 我们的突发新闻电子邮件、免费应用程序或每日新闻播客A青少年在死后几乎一周在茂密的灌木林中失踪后,与母亲分享了情感重聚。 警方空军发现了17岁的威廉,他的姓氏没有被分享,在Wa附近的小溪里躺下。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T09:35:44Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-12T12:48:25.197711Z",
+      "updatedAt": "2026-11-12T12:48:25.197711Z"
+    },
+    {
+      "id": "rss-7f4bf4f6c33145401f2965f4",
+      "title": "\" 旅游者憎恨自己 \" ,这就是塔斯马尼亚为什么叫他们离远点的原因。",
+      "originalTitle": "‘Tourists hate themselves’ – which is why Tasmania is telling them to stay away",
+      "summary": "岛国宣布它`不是真正为游客着想 ' — — 但营销策略只是个反面心理学的一面而已。 让我们的突发新闻电子邮件、免费应用程序或每日新闻播客研究显示“旅游者恨自己 ” — —这正是塔斯马尼亚旅游公司的营销广告要他们远离岛国的原因。 其新运动宣布塔斯马尼亚“并非真正恨自己 ” 。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T08:30:57Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/12/tourists-hate-themselves-which-is-why-tasmania-is-telling-people-to-stay-away"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-12T12:48:25.197711Z",
+      "updatedAt": "2026-11-12T12:48:25.197711Z"
+    },
+    {
+      "id": "rss-5df5b13482c35b6591d4ad6e",
+      "title": "“没有光,没有水,没有热”:乌克兰人在俄罗斯进入电网时与停电抗争。",
+      "originalTitle": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+      "summary": "对于乌克兰部分地区的父母来说,每天仅仅用几个小时的权力来过正常的家庭生活,将付出沉重的代价。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T07:59:33Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-12T12:48:25.197711Z",
+      "updatedAt": "2026-11-12T12:48:25.197711Z"
+    },
+    {
+      "id": "rss-b288570e37df8ba3c378e1df",
+      "title": "4名女孩死于怀疑的乌干达学校中毒后,对橙色进行了调查",
+      "originalTitle": "Oranges investigated after four girls die in suspected Uganda school poisoning",
+      "summary": "女孩们在吃一个同学带来的橙子后开始呕吐,警察正前往他们来自的村庄。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T07:45:52Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-12T12:48:25.197711Z",
+      "updatedAt": "2026-11-12T12:48:25.197711Z"
+    },
+    {
+      "id": "rss-b9c79e7a2e9a6ed7ec0c8f3e",
+      "title": "更短的时数和更高的工资 — — 或更多燃烧和监视:雇主被要求准备接受AI",
+      "originalTitle": "Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI",
+      "summary": "工作单位关系部长Amanda Rishworth(Amanda Rishworth)在 Qantas 和 Canva(Canva) 裁员后推出有关AI 收养的最佳做法指南,（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-12T06:55:44Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-12T12:48:25.197711Z",
+      "updatedAt": "2026-11-12T12:48:25.197711Z"
+    },
+    {
+      "id": "rss-ce5e1fa823cbaec20cf97d98",
+      "title": "周四简报:我们对黄爱丽丝和Nvidia事件有何了解?",
+      "originalTitle": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
+      "summary": "在今天的通讯中,据说美国情报部门认为前技术执行官是北京招聘的,这引起了有关AI行业安全和Trump与Nvidia头领Jensen Huang Good 早晨的密切关系的问题。 间谍应该是一个秘密的行业,间谍应该几乎是隐形的。 神秘的上海人Alice Huang的情况并非如此。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T06:43:31Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-12T12:48:25.197711Z",
+      "updatedAt": "2026-11-12T12:48:25.197711Z"
+    },
+    {
+      "id": "rss-b3ba465f6ecf339d9a2c8c7e",
+      "title": "警察说,在悉尼港桥可能“火车冲浪”后,处境危急的青少年",
+      "originalTitle": "Teenager in critical condition after likely ‘train surfing’ on Sydney Harbour Bridge, police say",
+      "summary": "悉尼火车说, 17岁的孩子头部、胸部和骨盆受到多重伤害, 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客, 一名17岁男孩在可能正在训练冲浪时从悉尼港桥的火车外侧坠落,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T06:09:21Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/12/teenager-in-critical-condition-after-likely-train-surfing-on-sydney-harbour-bridge-police-say"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-12T12:48:25.197711Z",
+      "updatedAt": "2026-11-12T12:48:25.197711Z"
+    },
+    {
+      "id": "rss-ccc2ffd18d2431da94cbcf58",
+      "title": "著名的美国党卫军船故意沉没 在佛罗里达海岸成为珊瑚礁",
+      "originalTitle": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
+      "summary": "活动家希望将历史轮船变成一个博物馆,但它反而将成为世界上最大的人工海洋礁。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T04:03:13Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-12T12:48:25.197711Z",
+      "updatedAt": "2026-11-12T12:48:25.197711Z"
+    },
+    {
+      "id": "rss-a552875406bb3160c61364bc",
+      "title": "谁能取代黄詹森?",
+      "originalTitle": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "summary": "Nvidia没有继任计划,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T03:13:10Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-12T12:48:25.197711Z",
+      "updatedAt": "2026-11-12T12:48:25.197711Z"
+    },
+    {
+      "id": "rss-831fcebeb3f81a493d039708",
+      "title": "澳大利亚少年在灌木丛中失踪了六天 被活捉",
+      "originalTitle": "Australian teen missing in bush for six days rescued alive",
+      "summary": "17岁的妈妈开玩笑说 他\"生不如死\" 再也不要离开房子了（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T02:40:18Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-12T12:48:25.197711Z",
+      "updatedAt": "2026-11-12T12:48:25.197711Z"
+    },
+    {
+      "id": "rss-76c32aad363e140cfbdc88ac",
+      "title": "乐高市场在检测到“ 不寻常活动” 后离线 BrickLink",
+      "originalTitle": "Lego marketplace BrickLink offline after 'unusual activity' detected",
+      "summary": "它被称为乐高的eBay, 已经停产三天了,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-11T22:26:18Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-12T12:48:25.197711Z",
+      "updatedAt": "2026-11-12T12:48:25.197711Z"
+    },
+    {
+      "id": "rss-9d9f3ad80701ab8ed72ed70f",
+      "title": "赫格塞斯和顾问 被未知士兵墓穴的卫兵训斥",
+      "originalTitle": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
+      "summary": "在纪念退伍军人日的仪式之后,包括国防部长彼得·赫格塞斯在内的一个团体被大声疾呼,要求保持安静。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-11T21:43:35Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-12T12:48:25.197711Z",
+      "updatedAt": "2026-11-12T12:48:25.197711Z"
     }
   ],
   "history": [
@@ -124557,9 +125317,856 @@
         "firstSeen": "2026-11-12T00:46:12.886509Z",
         "updatedAt": "2026-11-12T00:46:12.886509Z"
       }
+    },
+    {
+      "eventId": "rss-29dfd653cd425f06a26fe02f",
+      "at": "2026-11-12T12:48:25.197711Z",
+      "data": {
+        "id": "rss-29dfd653cd425f06a26fe02f",
+        "title": "Zelenskyy敦促欧洲“关注”与俄罗斯的安全关系,",
+        "originalTitle": "Zelenskyy urges Europe to ‘pay attention’ to security relations with Russia as US envoys meet Putin - Europe live",
+        "summary": "乌克兰总统说,欧洲应该“成为与俄罗斯卢森堡总理卢克·弗里登谈判的常规部分 ” , 在今天的峰会上代表所有三个比荷卢国家是绝对令人沮丧的,因为他的比利时和荷兰同事在面临国内危机时忙于出席。 他说,“今天我有幸代表了3000万公民。 ”（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-12T12:32:27Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-12T12:48:25.197711Z",
+        "updatedAt": "2026-11-12T12:48:25.197711Z"
+      }
+    },
+    {
+      "eventId": "rss-7c670ec87508ee71ac28654e",
+      "at": "2026-11-12T12:48:25.197711Z",
+      "data": {
+        "id": "rss-7c670ec87508ee71ac28654e",
+        "title": "以色列攻击加沙医院造成六名巴勒斯坦人死亡,",
+        "originalTitle": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+        "summary": "目击者说,一枚导弹击中了加沙南部最大的纳赛尔医院内有外科病房和特护单位的建筑物。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T12:26:01Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-12T12:48:25.197711Z",
+        "updatedAt": "2026-11-12T12:48:25.197711Z"
+      }
+    },
+    {
+      "eventId": "rss-d591981f32d42e1768840fc9",
+      "at": "2026-11-12T12:48:25.197711Z",
+      "data": {
+        "id": "rss-d591981f32d42e1768840fc9",
+        "title": "纽约市大楼倒塌 杀了几个人",
+        "originalTitle": "New York City building collapse kills several people",
+        "summary": "周三下午布鲁克林一座三层楼倒塌后,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T12:17:47Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-12T12:48:25.197711Z",
+        "updatedAt": "2026-11-12T12:48:25.197711Z"
+      }
+    },
+    {
+      "eventId": "rss-eabeef9e80729989856fc04a",
+      "at": "2026-11-12T12:48:25.197711Z",
+      "data": {
+        "id": "rss-eabeef9e80729989856fc04a",
+        "title": "乌克兰说,美国特使在莫斯科会见普京时, 军方的Starlink再次中断。",
+        "originalTitle": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+        "summary": "星期四晚些时候,Jared Kushner和Steve Witkoff将前往都柏林会见乌克兰的Volodymyr Zelensky。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-12T12:14:51Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-12T12:48:25.197711Z",
+        "updatedAt": "2026-11-12T12:48:25.197711Z"
+      }
+    },
+    {
+      "eventId": "rss-a603fb20f5ffaf854aad0df8",
+      "at": "2026-11-12T12:48:25.197711Z",
+      "data": {
+        "id": "rss-a603fb20f5ffaf854aad0df8",
+        "title": "谁能代替黄詹森做恩维迪亚的首席执行官?",
+        "originalTitle": "Who could replace Jensen Huang as Nvidia's chief executive?",
+        "summary": "随着对AI芯片巨头的不确定性的波动,一些名字成为潜在的继承者。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T11:21:25Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-12T12:48:25.197711Z",
+        "updatedAt": "2026-11-12T12:48:25.197711Z"
+      }
+    },
+    {
+      "eventId": "rss-9bfee2608e815312eec659f6",
+      "at": "2026-11-12T12:48:25.197711Z",
+      "data": {
+        "id": "rss-9bfee2608e815312eec659f6",
+        "title": "欧洲调查揭示了900米星系 — — 可能还有“黑暗宇宙”的秘密。",
+        "originalTitle": "European survey reveals 900m galaxies – and possibly secrets of ‘dark universe’",
+        "summary": "由欧几里德飞行任务提供的前所未有的宇宙观, 抛出了更多的引力透镜案例。 一个创建宇宙史上最大的3D地图的任务, 揭示了900米以上的星系, 以及大约15,000个可能解开“黑暗宇宙”秘密的现象。 2023年7月发射的欧洲空间阿根号。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T11:08:54Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-12T12:48:25.197711Z",
+        "updatedAt": "2026-11-12T12:48:25.197711Z"
+      }
+    },
+    {
+      "eventId": "rss-3f919f56f64efc0c27472e80",
+      "at": "2026-11-12T12:48:25.197711Z",
+      "data": {
+        "id": "rss-3f919f56f64efc0c27472e80",
+        "title": "`像不信上帝的牧师一样 ' :意大利的反阴道医生眼神回到前线执勤",
+        "originalTitle": "‘Like priests who don’t believe in God’: Italy’s anti-vax medics eye return to frontline duty",
+        "summary": "恢复停业医生法案的进展取决于远右翼人物Roberto Vannacci的支持,后者的崛起在2027年选举之前正在影响着政治。 安东尼奥·克雷马斯科在2020年3月6日的晚宴会上与Covid签约。 四天后,意大利成为第一个进入全国禁闭状态的欧洲国家,他正在为生命而战。 “我花了20天的特护时间,随后又安排了一个特护人员。 ”（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T10:20:09Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/12/italy-anti-vax-medics-return-vote-meloni"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-12T12:48:25.197711Z",
+        "updatedAt": "2026-11-12T12:48:25.197711Z"
+      }
+    },
+    {
+      "eventId": "rss-44a008dceb764579bf71fda5",
+      "at": "2026-11-12T12:48:25.197711Z",
+      "data": {
+        "id": "rss-44a008dceb764579bf71fda5",
+        "title": "在大西洋的游轮上失踪的英国女人",
+        "originalTitle": "British woman missing from cruise ship in Atlantic",
+        "summary": "这艘72岁的船在星期一驶往加勒比海时最后一次出现在Tui船上。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T10:13:35Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-12T12:48:25.197711Z",
+        "updatedAt": "2026-11-12T12:48:25.197711Z"
+      }
+    },
+    {
+      "eventId": "rss-7dd6f112247d242ef3fb3171",
+      "at": "2026-11-12T12:48:25.197711Z",
+      "data": {
+        "id": "rss-7dd6f112247d242ef3fb3171",
+        "title": "\" 他再也不会离开家了 \" :母亲在维多利亚丛林区与失踪的儿子团聚了6天",
+        "originalTitle": "‘He is never leaving the house again’: mother reunites with son missing for six days in Victorian bushland",
+        "summary": "17岁的威廉在离开维多利亚州Gippsland区Walhalla附近的营地后失踪。 我们的突发新闻电子邮件、免费应用程序或每日新闻播客A青少年在死后几乎一周在茂密的灌木林中失踪后,与母亲分享了情感重聚。 警方空军发现了17岁的威廉,他的姓氏没有被分享,在Wa附近的小溪里躺下。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T09:35:44Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-12T12:48:25.197711Z",
+        "updatedAt": "2026-11-12T12:48:25.197711Z"
+      }
+    },
+    {
+      "eventId": "rss-7f4bf4f6c33145401f2965f4",
+      "at": "2026-11-12T12:48:25.197711Z",
+      "data": {
+        "id": "rss-7f4bf4f6c33145401f2965f4",
+        "title": "\" 旅游者憎恨自己 \" ,这就是塔斯马尼亚为什么叫他们离远点的原因。",
+        "originalTitle": "‘Tourists hate themselves’ – which is why Tasmania is telling them to stay away",
+        "summary": "岛国宣布它`不是真正为游客着想 ' — — 但营销策略只是个反面心理学的一面而已。 让我们的突发新闻电子邮件、免费应用程序或每日新闻播客研究显示“旅游者恨自己 ” — —这正是塔斯马尼亚旅游公司的营销广告要他们远离岛国的原因。 其新运动宣布塔斯马尼亚“并非真正恨自己 ” 。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T08:30:57Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/12/tourists-hate-themselves-which-is-why-tasmania-is-telling-people-to-stay-away"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-12T12:48:25.197711Z",
+        "updatedAt": "2026-11-12T12:48:25.197711Z"
+      }
+    },
+    {
+      "eventId": "rss-5df5b13482c35b6591d4ad6e",
+      "at": "2026-11-12T12:48:25.197711Z",
+      "data": {
+        "id": "rss-5df5b13482c35b6591d4ad6e",
+        "title": "“没有光,没有水,没有热”:乌克兰人在俄罗斯进入电网时与停电抗争。",
+        "originalTitle": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+        "summary": "对于乌克兰部分地区的父母来说,每天仅仅用几个小时的权力来过正常的家庭生活,将付出沉重的代价。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T07:59:33Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-12T12:48:25.197711Z",
+        "updatedAt": "2026-11-12T12:48:25.197711Z"
+      }
+    },
+    {
+      "eventId": "rss-b288570e37df8ba3c378e1df",
+      "at": "2026-11-12T12:48:25.197711Z",
+      "data": {
+        "id": "rss-b288570e37df8ba3c378e1df",
+        "title": "4名女孩死于怀疑的乌干达学校中毒后,对橙色进行了调查",
+        "originalTitle": "Oranges investigated after four girls die in suspected Uganda school poisoning",
+        "summary": "女孩们在吃一个同学带来的橙子后开始呕吐,警察正前往他们来自的村庄。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T07:45:52Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-12T12:48:25.197711Z",
+        "updatedAt": "2026-11-12T12:48:25.197711Z"
+      }
+    },
+    {
+      "eventId": "rss-b9c79e7a2e9a6ed7ec0c8f3e",
+      "at": "2026-11-12T12:48:25.197711Z",
+      "data": {
+        "id": "rss-b9c79e7a2e9a6ed7ec0c8f3e",
+        "title": "更短的时数和更高的工资 — — 或更多燃烧和监视:雇主被要求准备接受AI",
+        "originalTitle": "Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI",
+        "summary": "工作单位关系部长Amanda Rishworth(Amanda Rishworth)在 Qantas 和 Canva(Canva) 裁员后推出有关AI 收养的最佳做法指南,（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-12T06:55:44Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-12T12:48:25.197711Z",
+        "updatedAt": "2026-11-12T12:48:25.197711Z"
+      }
+    },
+    {
+      "eventId": "rss-ce5e1fa823cbaec20cf97d98",
+      "at": "2026-11-12T12:48:25.197711Z",
+      "data": {
+        "id": "rss-ce5e1fa823cbaec20cf97d98",
+        "title": "周四简报:我们对黄爱丽丝和Nvidia事件有何了解?",
+        "originalTitle": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
+        "summary": "在今天的通讯中,据说美国情报部门认为前技术执行官是北京招聘的,这引起了有关AI行业安全和Trump与Nvidia头领Jensen Huang Good 早晨的密切关系的问题。 间谍应该是一个秘密的行业,间谍应该几乎是隐形的。 神秘的上海人Alice Huang的情况并非如此。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T06:43:31Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-12T12:48:25.197711Z",
+        "updatedAt": "2026-11-12T12:48:25.197711Z"
+      }
+    },
+    {
+      "eventId": "rss-b3ba465f6ecf339d9a2c8c7e",
+      "at": "2026-11-12T12:48:25.197711Z",
+      "data": {
+        "id": "rss-b3ba465f6ecf339d9a2c8c7e",
+        "title": "警察说,在悉尼港桥可能“火车冲浪”后,处境危急的青少年",
+        "originalTitle": "Teenager in critical condition after likely ‘train surfing’ on Sydney Harbour Bridge, police say",
+        "summary": "悉尼火车说, 17岁的孩子头部、胸部和骨盆受到多重伤害, 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客, 一名17岁男孩在可能正在训练冲浪时从悉尼港桥的火车外侧坠落,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T06:09:21Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/12/teenager-in-critical-condition-after-likely-train-surfing-on-sydney-harbour-bridge-police-say"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-12T12:48:25.197711Z",
+        "updatedAt": "2026-11-12T12:48:25.197711Z"
+      }
+    },
+    {
+      "eventId": "rss-ccc2ffd18d2431da94cbcf58",
+      "at": "2026-11-12T12:48:25.197711Z",
+      "data": {
+        "id": "rss-ccc2ffd18d2431da94cbcf58",
+        "title": "著名的美国党卫军船故意沉没 在佛罗里达海岸成为珊瑚礁",
+        "originalTitle": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
+        "summary": "活动家希望将历史轮船变成一个博物馆,但它反而将成为世界上最大的人工海洋礁。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T04:03:13Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-12T12:48:25.197711Z",
+        "updatedAt": "2026-11-12T12:48:25.197711Z"
+      }
+    },
+    {
+      "eventId": "rss-a552875406bb3160c61364bc",
+      "at": "2026-11-12T12:48:25.197711Z",
+      "data": {
+        "id": "rss-a552875406bb3160c61364bc",
+        "title": "谁能取代黄詹森?",
+        "originalTitle": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+        "summary": "Nvidia没有继任计划,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T03:13:10Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-12T12:48:25.197711Z",
+        "updatedAt": "2026-11-12T12:48:25.197711Z"
+      }
+    },
+    {
+      "eventId": "rss-831fcebeb3f81a493d039708",
+      "at": "2026-11-12T12:48:25.197711Z",
+      "data": {
+        "id": "rss-831fcebeb3f81a493d039708",
+        "title": "澳大利亚少年在灌木丛中失踪了六天 被活捉",
+        "originalTitle": "Australian teen missing in bush for six days rescued alive",
+        "summary": "17岁的妈妈开玩笑说 他\"生不如死\" 再也不要离开房子了（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T02:40:18Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-12T12:48:25.197711Z",
+        "updatedAt": "2026-11-12T12:48:25.197711Z"
+      }
+    },
+    {
+      "eventId": "rss-76c32aad363e140cfbdc88ac",
+      "at": "2026-11-12T12:48:25.197711Z",
+      "data": {
+        "id": "rss-76c32aad363e140cfbdc88ac",
+        "title": "乐高市场在检测到“ 不寻常活动” 后离线 BrickLink",
+        "originalTitle": "Lego marketplace BrickLink offline after 'unusual activity' detected",
+        "summary": "它被称为乐高的eBay, 已经停产三天了,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-11T22:26:18Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-12T12:48:25.197711Z",
+        "updatedAt": "2026-11-12T12:48:25.197711Z"
+      }
+    },
+    {
+      "eventId": "rss-9d9f3ad80701ab8ed72ed70f",
+      "at": "2026-11-12T12:48:25.197711Z",
+      "data": {
+        "id": "rss-9d9f3ad80701ab8ed72ed70f",
+        "title": "赫格塞斯和顾问 被未知士兵墓穴的卫兵训斥",
+        "originalTitle": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
+        "summary": "在纪念退伍军人日的仪式之后,包括国防部长彼得·赫格塞斯在内的一个团体被大声疾呼,要求保持安静。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-11T21:43:35Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-12T12:48:25.197711Z",
+        "updatedAt": "2026-11-12T12:48:25.197711Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-12T12:48:25.197711Z",
+      "at": "2026-11-12T12:48:25.197711Z",
+      "kind": "GitHub Actions 采集",
+      "count": 20,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 10}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 1}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 8}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 1}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-12T00:46:12.886509Z",
       "at": "2026-11-12T00:46:12.886509Z",
