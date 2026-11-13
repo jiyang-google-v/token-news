@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-12T12:48:25.197711Z",
+  "updatedAt": "2026-11-13T03:59:51.762564Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -59920,6 +59920,1792 @@
       "tokens": [],
       "firstSeen": "2026-11-12T12:48:25.197711Z",
       "updatedAt": "2026-11-12T12:48:25.197711Z"
+    },
+    {
+      "id": "rss-607d4d7557c40807b113b56e",
+      "title": "Ousted Nvidia首席执行官Jensen Huang被传唤到国会作证",
+      "originalTitle": "Ousted Nvidia CEO Jensen Huang summoned to testify before Congress",
+      "summary": "美国立法者想问他 他所谓的关系之一 是否与中国间谍。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-13T03:57:01Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-4e367d725cda3b93879fb8b0",
+      "title": "`如果我想策划谋杀 ' :Beau Lamarre-Condon告诉法庭他会做什么",
+      "originalTitle": "‘If I wanted to plan a murder’: Beau Lamarre-Condon tells court what he would have done",
+      "summary": "前警官告诉法庭`这从来不是谋杀任何人的计划 ' ,因为公诉方一再向他建议,他打算杀死Jesse Baird 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客Beau Lamarre-Condon告诉悉尼法庭他从未计划谋杀任何人,如果他这样做,他重申他将使用与他无关的被盗车辆和枪。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-13T03:45:19Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/13/beau-lamarre-condon-trial-sim-card-pseudonym-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-64a8e76d110b6e3ea544ede5",
+      "title": "奇普斯、溪水和带我回家,乡村路:一个澳大利亚青少年在丛林中生存了六个晚上",
+      "originalTitle": "Chips, creek water and Take Me Home, Country Roads: how an Australian teenager survived six nights in the bush",
+      "summary": "17岁的William说,`夜色寒冷 ' ,他`诚实地认为'他活了下来,一个在密集的澳大利亚灌木林中活了近一周的十几岁男孩唱着约翰·丹佛的《带我回家 》 , “ 乡村道路 ” , 因为他希望独自在荒野度过漫长的夜晚获得拯救。 威廉的姓氏被扣留了,他的母亲在周末与他的朋友Victo一起离开营地。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-13T03:25:30Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/13/chips-creek-water-and-take-me-home-country-roads-how-an-australian-teenager-survived-six-nights-in-the-bush"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-e56c4b761af68d918466019a",
+      "title": "警方说 酒店事件后 澳洲足球运动员不会被起诉",
+      "originalTitle": "Australian footballers will not be charged after hotel incident, police say",
+      "summary": "在墨尔本的一场比赛后 四名悉尼史旺球员 受到调查（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-13T03:02:54Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-08e5c2fa6dcf17586fdb35af",
+      "title": "Teen prodigy,Netflix明星,囚犯:香港持不同政见者Joshua Wong的故事——播客",
+      "originalTitle": "Teen prodigy, Netflix star, prisoner: the story of Hong Kong dissident Joshua Wong – podcast",
+      "summary": "支持民主人士Nathan Law 和记者Danny Vincent 将香港著名竞选家Joshua Wong 判处10年监禁。 将你的评论和问题寄给tif. questions@theguardian.com 14岁时他一直在领导抗议活动。 Joshua Wong 一直在《时代》杂志的封面上,这是Netflix纪录片的焦点,也是香港支持民主的偶像。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-13T03:00:06Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/news/audio/2026/nov/13/teen-prodigy-netflix-star-prisoner-the-story-of-hong-kong-dissident-joshua-wong-podcast"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-5ab32b935289d1896d0e6851",
+      "title": "北韩黑客用四百元的假视频通话 联邦调查局说",
+      "originalTitle": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "summary": "据认为,在过去18个月里,有900多名受害者成为 \" 偷脸者 \" 计划的牺牲品。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-13T02:48:29Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-7d226533f769fbf1fe914fb6",
+      "title": "微软正努力恢复服务,因为全球停电影响到展望和团队",
+      "originalTitle": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+      "summary": "微软说,停机的原因是 服务器突然失灵, 使其他系统紧张。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-13T02:38:02Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-a71ac473103ed4faf4e12a16",
+      "title": "在马拉松记者招待会上,",
+      "originalTitle": "Pat Cummins addresses ball-tampering claims in marathon press conference – as it happened",
+      "summary": "这个博客现已关闭, “完成和胡说八道 ” : 澳大利亚船长Pat Cummins在Khawaja'sand Papergate ' Cummins声称,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-13T02:08:37Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/sport/live/2026/nov/13/pat-cummins-press-conference-usman-khawaja-sandpapergate-australia-cricket-captain-statement-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-c4e104b78dbe843c33ecc835",
+      "title": "Zelensky欢迎美国将欧洲带入俄罗斯-乌克兰和谈",
+      "originalTitle": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "summary": "乌克兰总统说,让欧洲领导人参与进来是有道理的,因为乌克兰希望最终加入欧盟。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-13T02:01:35Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-b0795aa5670a940a26bfff60",
+      "title": "Aukus的协议是“活在谎言中 ” : 澳大利亚永远不会从美国得到核潜艇,",
+      "originalTitle": "Aukus deal is ‘living a lie’: Australia will never get nuclear submarines from US and both sides know it, Bob Carr says",
+      "summary": "专辑:前劳工部长说368bn的交易已经降格为外交笑话。 获取我们的每日政治电子邮件、免费应用程序或每日新闻播客。 前劳工外交部长鲍勃·卡尔说,在堪培拉和华盛顿的官员们承认,美国决不会建造和向澳大利亚出售核潜艇,并将368bn Aukus协议描述为两个伯爵府。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-13T02:00:05Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/13/bob-carr-aukus-deal-living-a-lie-australia-us"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-af1bb13de8c34912040d6808",
+      "title": "微软开始恢复服务,因为全球停电影响到展望和团队",
+      "originalTitle": "Microsoft begins restoring services as global outage affects Outlook and Teams",
+      "summary": "公司说,全球近13万用户报告了微软停机问题 — — 微软365、Outlook、Teams和其他应用程序在星期四中断了数千个用户的5个小时以上,微软说,它仍在努力恢复受影响的服务器服务,但看到微软发言人的恢复有限。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-13T01:19:53Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-e31d579ac0149753f237f516",
+      "title": "使用人工智能从增强到误导?",
+      "originalTitle": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "summary": "专家警告说,使用人工智能来提升财产图像可能会走得太远,误导未来的买家。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-13T00:13:35Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-79397d2c51e92e6bf44598d9",
+      "title": "军事墓地的礼仪:赫格塞斯退伍军人日的谴责背后的传统",
+      "originalTitle": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
+      "summary": "英国广播公司的Bernd Debusmann打破了为什么国防部长Hegseth的团体在Arlington国家墓地受到谴责的原因,以及其严格的行为准则背后的历史。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T23:42:52Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-32df4f7d6cd40e27c8a7412b",
+      "title": "民主党发起Nvidia调查,与Trump一起写关于黄氏的`阴谋 ' 的刺杀信",
+      "originalTitle": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "summary": "这次国会调查Nvidia的中国销售情况 以及它与Trump的交易 是至今为止的第二次（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-12T22:42:51Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-01d2fb02d653ebaae5bdeeb4",
+      "title": "普京在美国的谈话中走强硬的路线 正如乌克兰说星林又被打乱了",
+      "originalTitle": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
+      "summary": "俄罗斯总统说,他将瞄准任何派往乌克兰的外国军队,并拒绝软化领土要求。 弗拉基米尔·普京警告美国谈判者,当乌克兰军队再次中断埃隆·穆斯克的星际卫星服务时,俄罗斯将瞄准任何部署在乌克兰的外国军队。 在克里姆林宫与美国的会谈中,普京警告说,俄罗斯将瞄准任何外国军队。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-12T22:26:37Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-ca2f28331a6de25aeb308571",
+      "title": "Muse现在可以给美国企业打电话了 如果你付钱的话",
+      "originalTitle": "Muse can now place calls to US businesses — if you pay",
+      "summary": "Muse的人工智能现在可以给美国企业打外线电话了,但是它不是免费的。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T22:22:28Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-bb8e9a34aa4b0f52e776817b",
+      "title": "Andy Burnham表示,",
+      "originalTitle": "‘Win-win’ deal with EU could be done, Andy Burnham says",
+      "summary": "总理说,重置可能是一种交易,“就像布莱克西人认为他们在2016年投票一样 ” , Andy Burnham说,他认为可以与欧盟达成“双赢”协议,“更像是人们认为他们在2016年投票的布雷克西协议 ” 。 总理正在都柏林的欧洲政治共同体峰会上会见其他领导人,这比一个热切期待的欧盟提前了。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T22:01:39Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/politics/2026/nov/12/win-win-deal-with-eu-could-be-done-andy-burmham-says"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-e1dafa6411005a667a2b3d2a",
+      "title": "中国排除了主办2028年Cop33气候峰会的可能性",
+      "originalTitle": "China rules out hosting Cop33 climate summit in 2028",
+      "summary": "这一决定让希望世界最大的排放国在气候危机上发挥领导作用的专家失望。 中国已经排除了在2028年举行Cop33联合国气候峰会的可能性,让其他亚洲国家可以举行这一峰会。 卫报理解,这一决定将使许多国家和气候专家失望,他们曾经希望世界最大的排放国能够举行这一峰会。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T22:00:15Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-07a62a8bb6b160cd51f5174a",
+      "title": "Jensen Huang的丑闻:时间轴",
+      "originalTitle": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "Jensen Huang在发生了一起事件后辞去Nvidia的职务,这可能会对国家安全产生影响,因为美国和中国竞相发展最先进的AI基础设施。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T21:35:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-9f9ef1f7c9cc007bd12568f5",
+      "title": "尼比乌斯用400亿美元的计划开支 测试新克拉乌德的游戏本",
+      "originalTitle": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "summary": "Nebius计划通过客户预付款和贷款来资助其400亿美元的AI基础设施的扩展,即使微软数据中心的延迟引起了人们对其融资模式的质疑。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T21:27:10Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-8a9ef23d15692a4b5d02aa65",
+      "title": "挪威跟随芬兰禁止俄罗斯运动员为乌克兰战争进入本国",
+      "originalTitle": "Norway follows Finland in barring Russian athletes from entering country over Ukraine war",
+      "summary": "挪威“进一步收紧”在芬兰的俄罗斯人“无事可做”的现行规则。 挪威部长说,在邻近的芬兰宣布类似行动后数小时,挪威政府宣布将阻止俄罗斯和白俄罗斯专业运动员来挪威参加比赛。 政府说,它打算阻止这些国家运动员到挪威参加比赛。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T21:00:12Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-ff447842ecb2519b46767110",
+      "title": "Jensen Huang有第三次外遇 路透社报道",
+      "originalTitle": "Jensen Huang was having a third affair, Reuters reports",
+      "summary": "路透社隐瞒了与黄四郎有关系的新雇员的姓名,但称她是Nvidia的雇员。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T20:26:47Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-88784d92e59c815885c93827",
+      "title": "在芬兰湾遭到乌克兰无人驾驶飞机袭击的俄罗斯军舰",
+      "originalTitle": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "summary": "这次攻击被认为是乌克兰无人机首次在波罗的海的开放海域攻击俄罗斯船只。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T20:09:16Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-76f0f9d265ce6e4d1e1fa545",
+      "title": "Google最新的搜索升级将保证更好地回答你最复杂的问题",
+      "originalTitle": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "summary": "Google的人工智能模式在Gemini 4 Hydlegen的推动下,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T19:27:45Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-7ec49616553583c562ebf6c2",
+      "title": "可疑的炸弹骗局威胁迫使意大利学校重新疏散",
+      "originalTitle": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "summary": "意大利各地的学校连续第二天受到炸弹威胁,引起新的恐慌和疏散。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T19:23:02Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-5e287749a052919098f3627a",
+      "title": "Nectar 推出一个 AI 代理器, 实现创作者发现和品牌拓展的自动化",
+      "originalTitle": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "summary": "帮助品牌发现创作者, 管理外联和伙伴关系, 并追踪竞选结果。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-12T19:11:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-e7a7eed0983e3affd634bad2",
+      "title": "微软的《展望》电子邮件被新停电击中",
+      "originalTitle": "Microsoft’s Outlook email hit by new outage",
+      "summary": "微软尚未给出断电原因,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T19:03:39Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-8b16e71439866d2afac0b01d",
+      "title": "Hegseth奖章颁发给训斥他和集团的战争纪念卫兵",
+      "originalTitle": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "summary": "专家托马斯·伊格莱西亚斯向赫格塞斯的团体大声疾呼,要求保持安静,因为他们可以听到他们谈论和嘲笑未知士兵的墓穴。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T18:47:35Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-bd79903a17a4b8df7ffd328a",
+      "title": "Jensen Huang的退出使Nvidia对开放源码的支持受到质疑",
+      "originalTitle": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "summary": "Jensen Huang的辞呈引起了Nvidia对开放源码AI的承诺问题, 包括Hugging Face的收购、开放体重模式以及反对限制的宣传,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T18:39:23Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-cf8aede2b245e7bec292d7ba",
+      "title": "黄强退出后,抱脸公司总经理发誓 继续争夺开放源码AI",
+      "originalTitle": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "summary": "黄四郎出狱后 抱脸公司的首席执行官承诺 继续争夺开放源码AI 提出了Nvidia获得129亿美元的问题（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-12T17:36:40Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-0544f18fda8e323256631f35",
+      "title": "联合航空公司以网络安全风险为由阻止AI人员预订航班",
+      "originalTitle": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "summary": "航空公司说,它不允许顾客使用AI代理商预订航班和管理预订。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-12T17:17:58Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-00916c7a76a8c68ab29af465",
+      "title": "Jensen Huang的崛起和衰落 技术巨星如何陷入丑闻",
+      "originalTitle": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+      "summary": "黄四郎作为领导全球科技赛事的 不可触摸人物的地位 几天后就崩溃了（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-12T17:11:48Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-0039716ebb4ac156c62a9641",
+      "title": "软银行的10亿美元损失可能给AI的天然气野心设置了上限。",
+      "originalTitle": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "summary": "软银行损失了超过30亿美元 预购天然气涡轮机为AI数据中心供电。这就是损失对电力市场的意义所在。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-12T17:00:52Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-62853baff9e5dea322e4decd",
+      "title": "Phota实验室使用人工智能将日常照片转换成专业照片",
+      "originalTitle": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "summary": "Phota Labs没有给消费者提供另一个图片编辑工具,而是试图利用AI的进步来实现编辑过程的自动化,这样任何人都更容易把日常生活变成更好的照片。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-12T17:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-376d5a6f39d9f86fdb75e702",
+      "title": "高瞻远瞩的艾尔 黄詹森 被自己的错误决定推翻了",
+      "originalTitle": "How AI visionary Jensen Huang was undone by his own bad decisions",
+      "summary": "Zoe Kleinman解释说,从地下建造Nvidia的人在几天内失去了一切。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-12T16:43:36Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-91ca6e198189baadb9c74a3c",
+      "title": "Greta Thunberg告诉Cop31气候高峰会,",
+      "originalTitle": "The planet ‘is being killed’, Greta Thunberg tells Cop31 climate summit",
+      "summary": "瑞典积极分子批评世界各国政府未能防止环境崩溃。 格莱塔·通伯格(Greta Thunberg)在五年来首次出席联合国年度气候会谈时,责怪世界各国政府未能防止环境崩溃。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T16:39:47Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/environment/2026/nov/12/greta-thunberg-cop31-climate-summit"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-548fe94a79cba56aecf856ad",
+      "title": "Jensen Huang同意在国会作证",
+      "originalTitle": "Jensen Huang agrees to testify before Congress",
+      "summary": "黄四郎因涉嫌与一名涉嫌为中国进行间谍活动的妇女发生外遇而被解雇,他同意在星期三作证,因为数名高级立法者威胁要传唤他。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T16:36:37Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-c32c9bb4ff06b22c45346198",
+      "title": "Jensen Huang被从Nvidia驱逐的五种方式可能会损害AI产业。",
+      "originalTitle": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "summary": "Nvidia的首席执行官Jensen Huang的倒台不仅仅是你那可笑的亿万富翁性丑闻。 他利用自己的影响力以某些非常具体的方式推动AI行业。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-12T16:32:33Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-17107c7279fd1016c5b3b0db",
+      "title": "特朗普将苹果主席蒂姆·库克作为黄詹森的继任者",
+      "originalTitle": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+      "summary": "特朗普总统在一篇关于真相社会的文章中说,只有一人能接任Jensen Huang担任Nvidia的负责人:Tim Cook。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-12T16:12:44Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-23cd30b64977508809340ec6",
+      "title": "呼呼刚刚启动了一个社交网络",
+      "originalTitle": "Whoop just launched a social network",
+      "summary": "Whooop正在启动一个社交网络 让会员分享他们的睡眠、康复和锻炼数据, 但更大的赌注是 成为更多的个人健康品牌, 首席执行官威尔·艾哈迈德暗示 收购即将到来。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T16:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-b2e35daf8642042c5639f1c7",
+      "title": "Jensen Huang在Nvidia——谁是Colette Kress,他的临时替补?",
+      "originalTitle": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+      "summary": "Nvidia CFO Colette Kress 正在接管 取代长期的首席执行官Jensen Huang的 临时职位 此人卷入丑闻（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T15:37:29Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-42327152d90ec1f59a066584",
+      "title": "慈善组织说,在病毒传播期间,数百万埃博拉资金因工作人员未付而流失。",
+      "originalTitle": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+      "summary": "医生无国界协会警告说,医务人员没有报酬,缺乏适当的培训,并正在应付基本用品短缺的问题。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T15:18:20Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-7c091be54b73fa0eb62aca80",
+      "title": "Norwest用新的4B基金更深地推向AI",
+      "originalTitle": "Norwest pushes deeper into AI with new $4B fund",
+      "summary": "这是投资公司迄今最大的基金。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-12T15:18:14Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-3d14e9acb8c155627b9d40d0",
+      "title": "AI允许黑客访问用户聊天记录",
+      "originalTitle": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+      "summary": "这是烟花公司几个月来第二次破解数据（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-12T15:02:28Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-c853cc05493bba6898ea72cf",
+      "title": "八人在哥伦比亚空袭中被杀 目标是海湾部族",
+      "originalTitle": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+      "summary": "哥伦比亚总统表示,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T13:58:49Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-758208eaa2780f8645d307ac",
+      "title": "津巴布韦作家Simbarashe Kundizeza已获准使用AI来写获奖故事",
+      "originalTitle": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
+      "summary": "经过长达一个月的调查,人们得出结论,昆迪泽扎的故事“蓝拳手”赢得了1万英镑的金币奖,是“人类写作”的。 津巴布韦作家辛巴拉什·昆迪泽扎(Simbarashe Kundizezza)在著名的非洲作家凯恩奖(Caine奖)得出结论,他在长达1个月的调查之后进入了“人类写作 ” 。 昆迪扎(Kundizezza)的作品是“人类写作 ” 。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-12T13:14:38Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
+    },
+    {
+      "id": "rss-c714eb74d985cd301b6ef484",
+      "title": "在喜马拉雅东部发现了五个新的迷你青蛙物种",
+      "originalTitle": "Five new miniature frog species found in eastern Himalayas",
+      "summary": "科学家们说 青蛙随着喜马拉雅山的兴起 和亚洲季风的形成而进化（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-12T11:07:19Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-13T03:59:51.762564Z",
+      "updatedAt": "2026-11-13T03:59:51.762564Z"
     }
   ],
   "history": [
@@ -126157,9 +127943,1990 @@
         "firstSeen": "2026-11-12T12:48:25.197711Z",
         "updatedAt": "2026-11-12T12:48:25.197711Z"
       }
+    },
+    {
+      "eventId": "rss-607d4d7557c40807b113b56e",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-607d4d7557c40807b113b56e",
+        "title": "Ousted Nvidia首席执行官Jensen Huang被传唤到国会作证",
+        "originalTitle": "Ousted Nvidia CEO Jensen Huang summoned to testify before Congress",
+        "summary": "美国立法者想问他 他所谓的关系之一 是否与中国间谍。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-13T03:57:01Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-4e367d725cda3b93879fb8b0",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-4e367d725cda3b93879fb8b0",
+        "title": "`如果我想策划谋杀 ' :Beau Lamarre-Condon告诉法庭他会做什么",
+        "originalTitle": "‘If I wanted to plan a murder’: Beau Lamarre-Condon tells court what he would have done",
+        "summary": "前警官告诉法庭`这从来不是谋杀任何人的计划 ' ,因为公诉方一再向他建议,他打算杀死Jesse Baird 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客Beau Lamarre-Condon告诉悉尼法庭他从未计划谋杀任何人,如果他这样做,他重申他将使用与他无关的被盗车辆和枪。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-13T03:45:19Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/13/beau-lamarre-condon-trial-sim-card-pseudonym-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-64a8e76d110b6e3ea544ede5",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-64a8e76d110b6e3ea544ede5",
+        "title": "奇普斯、溪水和带我回家,乡村路:一个澳大利亚青少年在丛林中生存了六个晚上",
+        "originalTitle": "Chips, creek water and Take Me Home, Country Roads: how an Australian teenager survived six nights in the bush",
+        "summary": "17岁的William说,`夜色寒冷 ' ,他`诚实地认为'他活了下来,一个在密集的澳大利亚灌木林中活了近一周的十几岁男孩唱着约翰·丹佛的《带我回家 》 , “ 乡村道路 ” , 因为他希望独自在荒野度过漫长的夜晚获得拯救。 威廉的姓氏被扣留了,他的母亲在周末与他的朋友Victo一起离开营地。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-13T03:25:30Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/13/chips-creek-water-and-take-me-home-country-roads-how-an-australian-teenager-survived-six-nights-in-the-bush"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-e56c4b761af68d918466019a",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-e56c4b761af68d918466019a",
+        "title": "警方说 酒店事件后 澳洲足球运动员不会被起诉",
+        "originalTitle": "Australian footballers will not be charged after hotel incident, police say",
+        "summary": "在墨尔本的一场比赛后 四名悉尼史旺球员 受到调查（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-13T03:02:54Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-08e5c2fa6dcf17586fdb35af",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-08e5c2fa6dcf17586fdb35af",
+        "title": "Teen prodigy,Netflix明星,囚犯:香港持不同政见者Joshua Wong的故事——播客",
+        "originalTitle": "Teen prodigy, Netflix star, prisoner: the story of Hong Kong dissident Joshua Wong – podcast",
+        "summary": "支持民主人士Nathan Law 和记者Danny Vincent 将香港著名竞选家Joshua Wong 判处10年监禁。 将你的评论和问题寄给tif. questions@theguardian.com 14岁时他一直在领导抗议活动。 Joshua Wong 一直在《时代》杂志的封面上,这是Netflix纪录片的焦点,也是香港支持民主的偶像。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-13T03:00:06Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/news/audio/2026/nov/13/teen-prodigy-netflix-star-prisoner-the-story-of-hong-kong-dissident-joshua-wong-podcast"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-5ab32b935289d1896d0e6851",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-5ab32b935289d1896d0e6851",
+        "title": "北韩黑客用四百元的假视频通话 联邦调查局说",
+        "originalTitle": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+        "summary": "据认为,在过去18个月里,有900多名受害者成为 \" 偷脸者 \" 计划的牺牲品。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-13T02:48:29Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-7d226533f769fbf1fe914fb6",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-7d226533f769fbf1fe914fb6",
+        "title": "微软正努力恢复服务,因为全球停电影响到展望和团队",
+        "originalTitle": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+        "summary": "微软说,停机的原因是 服务器突然失灵, 使其他系统紧张。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-13T02:38:02Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-a71ac473103ed4faf4e12a16",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-a71ac473103ed4faf4e12a16",
+        "title": "在马拉松记者招待会上,",
+        "originalTitle": "Pat Cummins addresses ball-tampering claims in marathon press conference – as it happened",
+        "summary": "这个博客现已关闭, “完成和胡说八道 ” : 澳大利亚船长Pat Cummins在Khawaja'sand Papergate ' Cummins声称,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-13T02:08:37Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/sport/live/2026/nov/13/pat-cummins-press-conference-usman-khawaja-sandpapergate-australia-cricket-captain-statement-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-c4e104b78dbe843c33ecc835",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-c4e104b78dbe843c33ecc835",
+        "title": "Zelensky欢迎美国将欧洲带入俄罗斯-乌克兰和谈",
+        "originalTitle": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+        "summary": "乌克兰总统说,让欧洲领导人参与进来是有道理的,因为乌克兰希望最终加入欧盟。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-13T02:01:35Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-b0795aa5670a940a26bfff60",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-b0795aa5670a940a26bfff60",
+        "title": "Aukus的协议是“活在谎言中 ” : 澳大利亚永远不会从美国得到核潜艇,",
+        "originalTitle": "Aukus deal is ‘living a lie’: Australia will never get nuclear submarines from US and both sides know it, Bob Carr says",
+        "summary": "专辑:前劳工部长说368bn的交易已经降格为外交笑话。 获取我们的每日政治电子邮件、免费应用程序或每日新闻播客。 前劳工外交部长鲍勃·卡尔说,在堪培拉和华盛顿的官员们承认,美国决不会建造和向澳大利亚出售核潜艇,并将368bn Aukus协议描述为两个伯爵府。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-13T02:00:05Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/13/bob-carr-aukus-deal-living-a-lie-australia-us"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-af1bb13de8c34912040d6808",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-af1bb13de8c34912040d6808",
+        "title": "微软开始恢复服务,因为全球停电影响到展望和团队",
+        "originalTitle": "Microsoft begins restoring services as global outage affects Outlook and Teams",
+        "summary": "公司说,全球近13万用户报告了微软停机问题 — — 微软365、Outlook、Teams和其他应用程序在星期四中断了数千个用户的5个小时以上,微软说,它仍在努力恢复受影响的服务器服务,但看到微软发言人的恢复有限。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-13T01:19:53Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-e31d579ac0149753f237f516",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-e31d579ac0149753f237f516",
+        "title": "使用人工智能从增强到误导?",
+        "originalTitle": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+        "summary": "专家警告说,使用人工智能来提升财产图像可能会走得太远,误导未来的买家。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-13T00:13:35Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-79397d2c51e92e6bf44598d9",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-79397d2c51e92e6bf44598d9",
+        "title": "军事墓地的礼仪:赫格塞斯退伍军人日的谴责背后的传统",
+        "originalTitle": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
+        "summary": "英国广播公司的Bernd Debusmann打破了为什么国防部长Hegseth的团体在Arlington国家墓地受到谴责的原因,以及其严格的行为准则背后的历史。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T23:42:52Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-32df4f7d6cd40e27c8a7412b",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-32df4f7d6cd40e27c8a7412b",
+        "title": "民主党发起Nvidia调查,与Trump一起写关于黄氏的`阴谋 ' 的刺杀信",
+        "originalTitle": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+        "summary": "这次国会调查Nvidia的中国销售情况 以及它与Trump的交易 是至今为止的第二次（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-12T22:42:51Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-01d2fb02d653ebaae5bdeeb4",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-01d2fb02d653ebaae5bdeeb4",
+        "title": "普京在美国的谈话中走强硬的路线 正如乌克兰说星林又被打乱了",
+        "originalTitle": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
+        "summary": "俄罗斯总统说,他将瞄准任何派往乌克兰的外国军队,并拒绝软化领土要求。 弗拉基米尔·普京警告美国谈判者,当乌克兰军队再次中断埃隆·穆斯克的星际卫星服务时,俄罗斯将瞄准任何部署在乌克兰的外国军队。 在克里姆林宫与美国的会谈中,普京警告说,俄罗斯将瞄准任何外国军队。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-12T22:26:37Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-ca2f28331a6de25aeb308571",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-ca2f28331a6de25aeb308571",
+        "title": "Muse现在可以给美国企业打电话了 如果你付钱的话",
+        "originalTitle": "Muse can now place calls to US businesses — if you pay",
+        "summary": "Muse的人工智能现在可以给美国企业打外线电话了,但是它不是免费的。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T22:22:28Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-bb8e9a34aa4b0f52e776817b",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-bb8e9a34aa4b0f52e776817b",
+        "title": "Andy Burnham表示,",
+        "originalTitle": "‘Win-win’ deal with EU could be done, Andy Burnham says",
+        "summary": "总理说,重置可能是一种交易,“就像布莱克西人认为他们在2016年投票一样 ” , Andy Burnham说,他认为可以与欧盟达成“双赢”协议,“更像是人们认为他们在2016年投票的布雷克西协议 ” 。 总理正在都柏林的欧洲政治共同体峰会上会见其他领导人,这比一个热切期待的欧盟提前了。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T22:01:39Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/politics/2026/nov/12/win-win-deal-with-eu-could-be-done-andy-burmham-says"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-e1dafa6411005a667a2b3d2a",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-e1dafa6411005a667a2b3d2a",
+        "title": "中国排除了主办2028年Cop33气候峰会的可能性",
+        "originalTitle": "China rules out hosting Cop33 climate summit in 2028",
+        "summary": "这一决定让希望世界最大的排放国在气候危机上发挥领导作用的专家失望。 中国已经排除了在2028年举行Cop33联合国气候峰会的可能性,让其他亚洲国家可以举行这一峰会。 卫报理解,这一决定将使许多国家和气候专家失望,他们曾经希望世界最大的排放国能够举行这一峰会。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T22:00:15Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-07a62a8bb6b160cd51f5174a",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-07a62a8bb6b160cd51f5174a",
+        "title": "Jensen Huang的丑闻:时间轴",
+        "originalTitle": "The unfolding Jensen Huang scandal: a timeline",
+        "summary": "Jensen Huang在发生了一起事件后辞去Nvidia的职务,这可能会对国家安全产生影响,因为美国和中国竞相发展最先进的AI基础设施。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T21:35:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-9f9ef1f7c9cc007bd12568f5",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-9f9ef1f7c9cc007bd12568f5",
+        "title": "尼比乌斯用400亿美元的计划开支 测试新克拉乌德的游戏本",
+        "originalTitle": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+        "summary": "Nebius计划通过客户预付款和贷款来资助其400亿美元的AI基础设施的扩展,即使微软数据中心的延迟引起了人们对其融资模式的质疑。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T21:27:10Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-8a9ef23d15692a4b5d02aa65",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-8a9ef23d15692a4b5d02aa65",
+        "title": "挪威跟随芬兰禁止俄罗斯运动员为乌克兰战争进入本国",
+        "originalTitle": "Norway follows Finland in barring Russian athletes from entering country over Ukraine war",
+        "summary": "挪威“进一步收紧”在芬兰的俄罗斯人“无事可做”的现行规则。 挪威部长说,在邻近的芬兰宣布类似行动后数小时,挪威政府宣布将阻止俄罗斯和白俄罗斯专业运动员来挪威参加比赛。 政府说,它打算阻止这些国家运动员到挪威参加比赛。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T21:00:12Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-ff447842ecb2519b46767110",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-ff447842ecb2519b46767110",
+        "title": "Jensen Huang有第三次外遇 路透社报道",
+        "originalTitle": "Jensen Huang was having a third affair, Reuters reports",
+        "summary": "路透社隐瞒了与黄四郎有关系的新雇员的姓名,但称她是Nvidia的雇员。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T20:26:47Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-88784d92e59c815885c93827",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-88784d92e59c815885c93827",
+        "title": "在芬兰湾遭到乌克兰无人驾驶飞机袭击的俄罗斯军舰",
+        "originalTitle": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+        "summary": "这次攻击被认为是乌克兰无人机首次在波罗的海的开放海域攻击俄罗斯船只。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T20:09:16Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-76f0f9d265ce6e4d1e1fa545",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-76f0f9d265ce6e4d1e1fa545",
+        "title": "Google最新的搜索升级将保证更好地回答你最复杂的问题",
+        "originalTitle": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+        "summary": "Google的人工智能模式在Gemini 4 Hydlegen的推动下,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T19:27:45Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-7ec49616553583c562ebf6c2",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-7ec49616553583c562ebf6c2",
+        "title": "可疑的炸弹骗局威胁迫使意大利学校重新疏散",
+        "originalTitle": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+        "summary": "意大利各地的学校连续第二天受到炸弹威胁,引起新的恐慌和疏散。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T19:23:02Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-5e287749a052919098f3627a",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-5e287749a052919098f3627a",
+        "title": "Nectar 推出一个 AI 代理器, 实现创作者发现和品牌拓展的自动化",
+        "originalTitle": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+        "summary": "帮助品牌发现创作者, 管理外联和伙伴关系, 并追踪竞选结果。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-12T19:11:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-e7a7eed0983e3affd634bad2",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-e7a7eed0983e3affd634bad2",
+        "title": "微软的《展望》电子邮件被新停电击中",
+        "originalTitle": "Microsoft’s Outlook email hit by new outage",
+        "summary": "微软尚未给出断电原因,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T19:03:39Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-8b16e71439866d2afac0b01d",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-8b16e71439866d2afac0b01d",
+        "title": "Hegseth奖章颁发给训斥他和集团的战争纪念卫兵",
+        "originalTitle": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+        "summary": "专家托马斯·伊格莱西亚斯向赫格塞斯的团体大声疾呼,要求保持安静,因为他们可以听到他们谈论和嘲笑未知士兵的墓穴。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T18:47:35Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-bd79903a17a4b8df7ffd328a",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-bd79903a17a4b8df7ffd328a",
+        "title": "Jensen Huang的退出使Nvidia对开放源码的支持受到质疑",
+        "originalTitle": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+        "summary": "Jensen Huang的辞呈引起了Nvidia对开放源码AI的承诺问题, 包括Hugging Face的收购、开放体重模式以及反对限制的宣传,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T18:39:23Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-cf8aede2b245e7bec292d7ba",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-cf8aede2b245e7bec292d7ba",
+        "title": "黄强退出后,抱脸公司总经理发誓 继续争夺开放源码AI",
+        "originalTitle": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+        "summary": "黄四郎出狱后 抱脸公司的首席执行官承诺 继续争夺开放源码AI 提出了Nvidia获得129亿美元的问题（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-12T17:36:40Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-0544f18fda8e323256631f35",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-0544f18fda8e323256631f35",
+        "title": "联合航空公司以网络安全风险为由阻止AI人员预订航班",
+        "originalTitle": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+        "summary": "航空公司说,它不允许顾客使用AI代理商预订航班和管理预订。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-12T17:17:58Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-00916c7a76a8c68ab29af465",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-00916c7a76a8c68ab29af465",
+        "title": "Jensen Huang的崛起和衰落 技术巨星如何陷入丑闻",
+        "originalTitle": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+        "summary": "黄四郎作为领导全球科技赛事的 不可触摸人物的地位 几天后就崩溃了（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-12T17:11:48Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-0039716ebb4ac156c62a9641",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-0039716ebb4ac156c62a9641",
+        "title": "软银行的10亿美元损失可能给AI的天然气野心设置了上限。",
+        "originalTitle": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+        "summary": "软银行损失了超过30亿美元 预购天然气涡轮机为AI数据中心供电。这就是损失对电力市场的意义所在。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-12T17:00:52Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-62853baff9e5dea322e4decd",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-62853baff9e5dea322e4decd",
+        "title": "Phota实验室使用人工智能将日常照片转换成专业照片",
+        "originalTitle": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+        "summary": "Phota Labs没有给消费者提供另一个图片编辑工具,而是试图利用AI的进步来实现编辑过程的自动化,这样任何人都更容易把日常生活变成更好的照片。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-12T17:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-376d5a6f39d9f86fdb75e702",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-376d5a6f39d9f86fdb75e702",
+        "title": "高瞻远瞩的艾尔 黄詹森 被自己的错误决定推翻了",
+        "originalTitle": "How AI visionary Jensen Huang was undone by his own bad decisions",
+        "summary": "Zoe Kleinman解释说,从地下建造Nvidia的人在几天内失去了一切。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-12T16:43:36Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-91ca6e198189baadb9c74a3c",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-91ca6e198189baadb9c74a3c",
+        "title": "Greta Thunberg告诉Cop31气候高峰会,",
+        "originalTitle": "The planet ‘is being killed’, Greta Thunberg tells Cop31 climate summit",
+        "summary": "瑞典积极分子批评世界各国政府未能防止环境崩溃。 格莱塔·通伯格(Greta Thunberg)在五年来首次出席联合国年度气候会谈时,责怪世界各国政府未能防止环境崩溃。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T16:39:47Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/environment/2026/nov/12/greta-thunberg-cop31-climate-summit"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-548fe94a79cba56aecf856ad",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-548fe94a79cba56aecf856ad",
+        "title": "Jensen Huang同意在国会作证",
+        "originalTitle": "Jensen Huang agrees to testify before Congress",
+        "summary": "黄四郎因涉嫌与一名涉嫌为中国进行间谍活动的妇女发生外遇而被解雇,他同意在星期三作证,因为数名高级立法者威胁要传唤他。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T16:36:37Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-c32c9bb4ff06b22c45346198",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-c32c9bb4ff06b22c45346198",
+        "title": "Jensen Huang被从Nvidia驱逐的五种方式可能会损害AI产业。",
+        "originalTitle": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+        "summary": "Nvidia的首席执行官Jensen Huang的倒台不仅仅是你那可笑的亿万富翁性丑闻。 他利用自己的影响力以某些非常具体的方式推动AI行业。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-12T16:32:33Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-17107c7279fd1016c5b3b0db",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-17107c7279fd1016c5b3b0db",
+        "title": "特朗普将苹果主席蒂姆·库克作为黄詹森的继任者",
+        "originalTitle": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+        "summary": "特朗普总统在一篇关于真相社会的文章中说,只有一人能接任Jensen Huang担任Nvidia的负责人:Tim Cook。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-12T16:12:44Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-23cd30b64977508809340ec6",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-23cd30b64977508809340ec6",
+        "title": "呼呼刚刚启动了一个社交网络",
+        "originalTitle": "Whoop just launched a social network",
+        "summary": "Whooop正在启动一个社交网络 让会员分享他们的睡眠、康复和锻炼数据, 但更大的赌注是 成为更多的个人健康品牌, 首席执行官威尔·艾哈迈德暗示 收购即将到来。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T16:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-b2e35daf8642042c5639f1c7",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-b2e35daf8642042c5639f1c7",
+        "title": "Jensen Huang在Nvidia——谁是Colette Kress,他的临时替补?",
+        "originalTitle": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+        "summary": "Nvidia CFO Colette Kress 正在接管 取代长期的首席执行官Jensen Huang的 临时职位 此人卷入丑闻（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T15:37:29Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-42327152d90ec1f59a066584",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-42327152d90ec1f59a066584",
+        "title": "慈善组织说,在病毒传播期间,数百万埃博拉资金因工作人员未付而流失。",
+        "originalTitle": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+        "summary": "医生无国界协会警告说,医务人员没有报酬,缺乏适当的培训,并正在应付基本用品短缺的问题。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T15:18:20Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-7c091be54b73fa0eb62aca80",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-7c091be54b73fa0eb62aca80",
+        "title": "Norwest用新的4B基金更深地推向AI",
+        "originalTitle": "Norwest pushes deeper into AI with new $4B fund",
+        "summary": "这是投资公司迄今最大的基金。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-12T15:18:14Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-3d14e9acb8c155627b9d40d0",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-3d14e9acb8c155627b9d40d0",
+        "title": "AI允许黑客访问用户聊天记录",
+        "originalTitle": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+        "summary": "这是烟花公司几个月来第二次破解数据（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-12T15:02:28Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-c853cc05493bba6898ea72cf",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-c853cc05493bba6898ea72cf",
+        "title": "八人在哥伦比亚空袭中被杀 目标是海湾部族",
+        "originalTitle": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+        "summary": "哥伦比亚总统表示,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T13:58:49Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-758208eaa2780f8645d307ac",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-758208eaa2780f8645d307ac",
+        "title": "津巴布韦作家Simbarashe Kundizeza已获准使用AI来写获奖故事",
+        "originalTitle": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
+        "summary": "经过长达一个月的调查,人们得出结论,昆迪泽扎的故事“蓝拳手”赢得了1万英镑的金币奖,是“人类写作”的。 津巴布韦作家辛巴拉什·昆迪泽扎(Simbarashe Kundizezza)在著名的非洲作家凯恩奖(Caine奖)得出结论,他在长达1个月的调查之后进入了“人类写作 ” 。 昆迪扎(Kundizezza)的作品是“人类写作 ” 。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-12T13:14:38Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
+    },
+    {
+      "eventId": "rss-c714eb74d985cd301b6ef484",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "data": {
+        "id": "rss-c714eb74d985cd301b6ef484",
+        "title": "在喜马拉雅东部发现了五个新的迷你青蛙物种",
+        "originalTitle": "Five new miniature frog species found in eastern Himalayas",
+        "summary": "科学家们说 青蛙随着喜马拉雅山的兴起 和亚洲季风的形成而进化（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-12T11:07:19Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-13T03:59:51.762564Z",
+        "updatedAt": "2026-11-13T03:59:51.762564Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-13T03:59:51.762564Z",
+      "at": "2026-11-13T03:59:51.762564Z",
+      "kind": "GitHub Actions 采集",
+      "count": 47,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 11}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 4}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 12}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 20}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-12T12:48:25.197711Z",
       "at": "2026-11-12T12:48:25.197711Z",
