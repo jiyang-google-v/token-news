@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-14T03:57:32.159611Z",
+  "updatedAt": "2026-11-14T17:27:55.220146Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -64252,6 +64252,500 @@
       "tokens": [],
       "firstSeen": "2026-11-14T03:57:32.159611Z",
       "updatedAt": "2026-11-14T03:57:32.159611Z"
+    },
+    {
+      "id": "rss-8097820885cc543d9fc0a69a",
+      "title": "亚洲政府对Nvidia CEO Jensen Huang退出的反应",
+      "originalTitle": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "summary": "一些政府着手确认对芯片供应的承诺,而另一些政府则在监测对当地项目的影响或处理正在进行的调查。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-14T16:34:15Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T17:27:55.220146Z",
+      "updatedAt": "2026-11-14T17:27:55.220146Z"
+    },
+    {
+      "id": "rss-d66099d92304cf4e8e478edd",
+      "title": "意大利罚款 用于访问用户照片的805万欧元",
+      "originalTitle": "Italy fines Meta €805m over accessing users' photos",
+      "summary": "社会媒体巨头被指控没有告知 大约2000万用户, 它可以访问他们的照片。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-14T16:29:48Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T17:27:55.220146Z",
+      "updatedAt": "2026-11-14T17:27:55.220146Z"
+    },
+    {
+      "id": "rss-c680cb902e27912f7d6a61fe",
+      "title": "特朗普、普京和习近平计划 下周在中国举行历史性的联席会议 白宫说",
+      "originalTitle": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "summary": "一位发言人说,特朗普将在前所未有的会谈中讨论“削减核武器”。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-14T15:53:55Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T17:27:55.220146Z",
+      "updatedAt": "2026-11-14T17:27:55.220146Z"
+    },
+    {
+      "id": "rss-43f46995ee098a26a06ad16f",
+      "title": "尼日利亚告诫不要因海拔高而经过埃塞俄比亚的主要机场",
+      "originalTitle": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+      "summary": "在阿布贾的外交部说,今年有6名有潜在健康问题的尼日利亚人在途经亚的斯亚贝巴时死亡。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-14T15:42:54Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T17:27:55.220146Z",
+      "updatedAt": "2026-11-14T17:27:55.220146Z"
+    },
+    {
+      "id": "rss-4d3f357daa8cc28fb3231d73",
+      "title": "Zelensky表示,",
+      "originalTitle": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "乌克兰总统说,美国特使把交换作为结束与俄罗斯战争的努力的一部分。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-14T15:15:57Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T17:27:55.220146Z",
+      "updatedAt": "2026-11-14T17:27:55.220146Z"
+    },
+    {
+      "id": "rss-a0eb1628b1c2dff7537a0a84",
+      "title": "美国对哈马斯指控的引渡 如何让一位富有的激进分子 出庭受审",
+      "originalTitle": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
+      "summary": "Cox企业继承人James `Fergie' Chambers在西班牙高等法院就富左翼积极分子和慈善家James \" Fergie \" Chambers的美国引渡请求举行了为期两小时的听证会。 商会的辩护用大部分时间来询问美国公民,并详细介绍了Trum的违规之处。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-14T15:00:47Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T17:27:55.220146Z",
+      "updatedAt": "2026-11-14T17:27:55.220146Z"
+    },
+    {
+      "id": "rss-530533c1157d7fd4c17984f9",
+      "title": "我们所知道的地面站 以及如果你受到影响怎么办",
+      "originalTitle": "What we know about the ground stop and what to do if you're affected",
+      "summary": "美国官员说,破坏是由旧设备超载而不是网络攻击造成的。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-14T14:20:57Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T17:27:55.220146Z",
+      "updatedAt": "2026-11-14T17:27:55.220146Z"
+    },
+    {
+      "id": "rss-41459215a567a84fd125037a",
+      "title": "扑灭大火、致命的热量和毁灭性的洪水:2026年在极端天气中",
+      "originalTitle": "Choking fires, deadly heat and devastating floods: 2026 in extreme weather",
+      "summary": "全世界人民都以前所未有的天气事件及其由气候灾难造成的致命影响而争论。 自1850年记录以来,世界最热的夏天开始,2026年极端天气造成的死亡人数已经高达数万人。 这是一个保守的估计,肯定会上升得更高。 随着Cop31的继续和科学家们的警告,气候 b 已经到了顶点。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-14T13:00:44Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T17:27:55.220146Z",
+      "updatedAt": "2026-11-14T17:27:55.220146Z"
+    },
+    {
+      "id": "rss-4a394efa21306d3224cba009",
+      "title": "匈牙利当局在Orbán-时代部长的探查中发现2 000万美元",
+      "originalTitle": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+      "summary": "总理佩特尔·马加亚尔承诺在4月推翻奥班后,将开展一场彻底的反腐败运动。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-14T10:42:20Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T17:27:55.220146Z",
+      "updatedAt": "2026-11-14T17:27:55.220146Z"
+    },
+    {
+      "id": "rss-7b4d7913fd00b870fd282383",
+      "title": "英国-欧盟的突破将允许机场式的欧洲隧道检查,",
+      "originalTitle": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
+      "summary": "欧洲隧道所有人Gettlink希望在Folkestone和Calais复制 \" 机场经验 \" ,而不会使人们走出汽车,机场式护照和指纹检查将在欧洲隧道实行,以防止在Folkestone和Calais出现“短期和长期混乱 ” 。 作为旅行者的突破,欧盟委员会已经同意建立一个“eag”的新系统。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-14T07:00:38Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T17:27:55.220146Z",
+      "updatedAt": "2026-11-14T17:27:55.220146Z"
+    },
+    {
+      "id": "rss-3430d6796949695b60ae4f7c",
+      "title": "被Orbán追赶出匈牙利的大学 向新政府伸出援手",
+      "originalTitle": "University hounded out of Hungary by Orbán reaches out to new government",
+      "summary": "中欧大学可能部分返回布达佩斯,这表明对匈牙利未来的一个大学抱有信心,Viktor Orbán试图将匈牙利赶出匈牙利,以示对该国民主未来的信心。 中欧大学临时校长兼校长Carsten Q Schneider说,他很有兴趣加入匈牙利。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-14T05:00:35Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/14/university-hungary-orban-soros-ceu"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T17:27:55.220146Z",
+      "updatedAt": "2026-11-14T17:27:55.220146Z"
+    },
+    {
+      "id": "rss-5b6d6629cd9f5d7a53a30ee2",
+      "title": "欧洲电视台终于来到亚洲 迎来了准备登台的星星",
+      "originalTitle": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
+      "summary": "在周六, 最大且持续时间最长的国际歌曲比赛 将跃进到未知的领域。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-13T19:01:36Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T17:27:55.220146Z",
+      "updatedAt": "2026-11-14T17:27:55.220146Z"
+    },
+    {
+      "id": "rss-2bbb0f47b100bd147e862108",
+      "title": "爱沙尼亚禁止俄罗斯运动员的反弹加剧",
+      "originalTitle": "Estonia bans Russian athletes as backlash intensifies",
+      "summary": "爱沙尼亚是最后一个说它不会允许俄罗斯或白俄罗斯运动员由于乌克兰目前的战争而在其领土上竞争的国家。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-13T17:54:33Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T17:27:55.220146Z",
+      "updatedAt": "2026-11-14T17:27:55.220146Z"
     }
   ],
   "history": [
@@ -135277,9 +135771,562 @@
         "firstSeen": "2026-11-14T03:57:32.159611Z",
         "updatedAt": "2026-11-14T03:57:32.159611Z"
       }
+    },
+    {
+      "eventId": "rss-8097820885cc543d9fc0a69a",
+      "at": "2026-11-14T17:27:55.220146Z",
+      "data": {
+        "id": "rss-8097820885cc543d9fc0a69a",
+        "title": "亚洲政府对Nvidia CEO Jensen Huang退出的反应",
+        "originalTitle": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+        "summary": "一些政府着手确认对芯片供应的承诺,而另一些政府则在监测对当地项目的影响或处理正在进行的调查。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-14T16:34:15Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T17:27:55.220146Z",
+        "updatedAt": "2026-11-14T17:27:55.220146Z"
+      }
+    },
+    {
+      "eventId": "rss-d66099d92304cf4e8e478edd",
+      "at": "2026-11-14T17:27:55.220146Z",
+      "data": {
+        "id": "rss-d66099d92304cf4e8e478edd",
+        "title": "意大利罚款 用于访问用户照片的805万欧元",
+        "originalTitle": "Italy fines Meta €805m over accessing users' photos",
+        "summary": "社会媒体巨头被指控没有告知 大约2000万用户, 它可以访问他们的照片。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-14T16:29:48Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T17:27:55.220146Z",
+        "updatedAt": "2026-11-14T17:27:55.220146Z"
+      }
+    },
+    {
+      "eventId": "rss-c680cb902e27912f7d6a61fe",
+      "at": "2026-11-14T17:27:55.220146Z",
+      "data": {
+        "id": "rss-c680cb902e27912f7d6a61fe",
+        "title": "特朗普、普京和习近平计划 下周在中国举行历史性的联席会议 白宫说",
+        "originalTitle": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+        "summary": "一位发言人说,特朗普将在前所未有的会谈中讨论“削减核武器”。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-14T15:53:55Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T17:27:55.220146Z",
+        "updatedAt": "2026-11-14T17:27:55.220146Z"
+      }
+    },
+    {
+      "eventId": "rss-43f46995ee098a26a06ad16f",
+      "at": "2026-11-14T17:27:55.220146Z",
+      "data": {
+        "id": "rss-43f46995ee098a26a06ad16f",
+        "title": "尼日利亚告诫不要因海拔高而经过埃塞俄比亚的主要机场",
+        "originalTitle": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+        "summary": "在阿布贾的外交部说,今年有6名有潜在健康问题的尼日利亚人在途经亚的斯亚贝巴时死亡。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-14T15:42:54Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T17:27:55.220146Z",
+        "updatedAt": "2026-11-14T17:27:55.220146Z"
+      }
+    },
+    {
+      "eventId": "rss-4d3f357daa8cc28fb3231d73",
+      "at": "2026-11-14T17:27:55.220146Z",
+      "data": {
+        "id": "rss-4d3f357daa8cc28fb3231d73",
+        "title": "Zelensky表示,",
+        "originalTitle": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+        "summary": "乌克兰总统说,美国特使把交换作为结束与俄罗斯战争的努力的一部分。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-14T15:15:57Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T17:27:55.220146Z",
+        "updatedAt": "2026-11-14T17:27:55.220146Z"
+      }
+    },
+    {
+      "eventId": "rss-a0eb1628b1c2dff7537a0a84",
+      "at": "2026-11-14T17:27:55.220146Z",
+      "data": {
+        "id": "rss-a0eb1628b1c2dff7537a0a84",
+        "title": "美国对哈马斯指控的引渡 如何让一位富有的激进分子 出庭受审",
+        "originalTitle": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
+        "summary": "Cox企业继承人James `Fergie' Chambers在西班牙高等法院就富左翼积极分子和慈善家James \" Fergie \" Chambers的美国引渡请求举行了为期两小时的听证会。 商会的辩护用大部分时间来询问美国公民,并详细介绍了Trum的违规之处。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-14T15:00:47Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T17:27:55.220146Z",
+        "updatedAt": "2026-11-14T17:27:55.220146Z"
+      }
+    },
+    {
+      "eventId": "rss-530533c1157d7fd4c17984f9",
+      "at": "2026-11-14T17:27:55.220146Z",
+      "data": {
+        "id": "rss-530533c1157d7fd4c17984f9",
+        "title": "我们所知道的地面站 以及如果你受到影响怎么办",
+        "originalTitle": "What we know about the ground stop and what to do if you're affected",
+        "summary": "美国官员说,破坏是由旧设备超载而不是网络攻击造成的。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-14T14:20:57Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T17:27:55.220146Z",
+        "updatedAt": "2026-11-14T17:27:55.220146Z"
+      }
+    },
+    {
+      "eventId": "rss-41459215a567a84fd125037a",
+      "at": "2026-11-14T17:27:55.220146Z",
+      "data": {
+        "id": "rss-41459215a567a84fd125037a",
+        "title": "扑灭大火、致命的热量和毁灭性的洪水:2026年在极端天气中",
+        "originalTitle": "Choking fires, deadly heat and devastating floods: 2026 in extreme weather",
+        "summary": "全世界人民都以前所未有的天气事件及其由气候灾难造成的致命影响而争论。 自1850年记录以来,世界最热的夏天开始,2026年极端天气造成的死亡人数已经高达数万人。 这是一个保守的估计,肯定会上升得更高。 随着Cop31的继续和科学家们的警告,气候 b 已经到了顶点。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-14T13:00:44Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T17:27:55.220146Z",
+        "updatedAt": "2026-11-14T17:27:55.220146Z"
+      }
+    },
+    {
+      "eventId": "rss-4a394efa21306d3224cba009",
+      "at": "2026-11-14T17:27:55.220146Z",
+      "data": {
+        "id": "rss-4a394efa21306d3224cba009",
+        "title": "匈牙利当局在Orbán-时代部长的探查中发现2 000万美元",
+        "originalTitle": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+        "summary": "总理佩特尔·马加亚尔承诺在4月推翻奥班后,将开展一场彻底的反腐败运动。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-14T10:42:20Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T17:27:55.220146Z",
+        "updatedAt": "2026-11-14T17:27:55.220146Z"
+      }
+    },
+    {
+      "eventId": "rss-7b4d7913fd00b870fd282383",
+      "at": "2026-11-14T17:27:55.220146Z",
+      "data": {
+        "id": "rss-7b4d7913fd00b870fd282383",
+        "title": "英国-欧盟的突破将允许机场式的欧洲隧道检查,",
+        "originalTitle": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
+        "summary": "欧洲隧道所有人Gettlink希望在Folkestone和Calais复制 \" 机场经验 \" ,而不会使人们走出汽车,机场式护照和指纹检查将在欧洲隧道实行,以防止在Folkestone和Calais出现“短期和长期混乱 ” 。 作为旅行者的突破,欧盟委员会已经同意建立一个“eag”的新系统。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-14T07:00:38Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T17:27:55.220146Z",
+        "updatedAt": "2026-11-14T17:27:55.220146Z"
+      }
+    },
+    {
+      "eventId": "rss-3430d6796949695b60ae4f7c",
+      "at": "2026-11-14T17:27:55.220146Z",
+      "data": {
+        "id": "rss-3430d6796949695b60ae4f7c",
+        "title": "被Orbán追赶出匈牙利的大学 向新政府伸出援手",
+        "originalTitle": "University hounded out of Hungary by Orbán reaches out to new government",
+        "summary": "中欧大学可能部分返回布达佩斯,这表明对匈牙利未来的一个大学抱有信心,Viktor Orbán试图将匈牙利赶出匈牙利,以示对该国民主未来的信心。 中欧大学临时校长兼校长Carsten Q Schneider说,他很有兴趣加入匈牙利。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-14T05:00:35Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/14/university-hungary-orban-soros-ceu"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T17:27:55.220146Z",
+        "updatedAt": "2026-11-14T17:27:55.220146Z"
+      }
+    },
+    {
+      "eventId": "rss-5b6d6629cd9f5d7a53a30ee2",
+      "at": "2026-11-14T17:27:55.220146Z",
+      "data": {
+        "id": "rss-5b6d6629cd9f5d7a53a30ee2",
+        "title": "欧洲电视台终于来到亚洲 迎来了准备登台的星星",
+        "originalTitle": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
+        "summary": "在周六, 最大且持续时间最长的国际歌曲比赛 将跃进到未知的领域。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-13T19:01:36Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T17:27:55.220146Z",
+        "updatedAt": "2026-11-14T17:27:55.220146Z"
+      }
+    },
+    {
+      "eventId": "rss-2bbb0f47b100bd147e862108",
+      "at": "2026-11-14T17:27:55.220146Z",
+      "data": {
+        "id": "rss-2bbb0f47b100bd147e862108",
+        "title": "爱沙尼亚禁止俄罗斯运动员的反弹加剧",
+        "originalTitle": "Estonia bans Russian athletes as backlash intensifies",
+        "summary": "爱沙尼亚是最后一个说它不会允许俄罗斯或白俄罗斯运动员由于乌克兰目前的战争而在其领土上竞争的国家。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-13T17:54:33Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T17:27:55.220146Z",
+        "updatedAt": "2026-11-14T17:27:55.220146Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-14T17:27:55.220146Z",
+      "at": "2026-11-14T17:27:55.220146Z",
+      "kind": "GitHub Actions 采集",
+      "count": 13,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 8}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 0}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 4}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 1}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-14T03:57:32.159611Z",
       "at": "2026-11-14T03:57:32.159611Z",
