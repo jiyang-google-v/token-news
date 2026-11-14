@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-13T18:56:20.389470Z",
+  "updatedAt": "2026-11-14T03:57:32.159611Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -63416,6 +63416,842 @@
       "tokens": [],
       "firstSeen": "2026-11-13T18:56:20.389470Z",
       "updatedAt": "2026-11-13T18:56:20.389470Z"
+    },
+    {
+      "id": "rss-dc03a868a1fd93dce5579ce6",
+      "title": "美国飞机停飞后,从澳大利亚起飞的航班推迟",
+      "originalTitle": "US-bound flights out of Australia delayed after telecommunications outage grounded American planes",
+      "summary": "悉尼机场和墨尔本机场说,美国航班停飞后禁止航班离开美国航班的禁令对航班产生了影响。 我们的突发新闻邮件、免费应用程序或每日新闻播客。 美国当局停止起飞和推迟降落后,悉尼机场的一些飞往美国的航班在星期六被禁飞或推迟。 从墨尔本机场起飞的航班也受到影响。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-14T03:08:34Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T03:57:32.159611Z",
+      "updatedAt": "2026-11-14T03:57:32.159611Z"
+    },
+    {
+      "id": "rss-79f1de58c4924ea574b75ba7",
+      "title": "\"我们有一天会回家\" - 美国旅行者受到全国地面站的影响",
+      "originalTitle": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+      "summary": "全国乘客受到联邦航空管理局称之为“安全和通信问题”的影响。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-14T01:47:36Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T03:57:32.159611Z",
+      "updatedAt": "2026-11-14T03:57:32.159611Z"
+    },
+    {
+      "id": "rss-de3c137903859ae96f4395f3",
+      "title": "Stuart Bonds发表了“种族主义”和“分裂”的评论。 但“一个民族”并没有显示出任何抛弃新南威尔士州候选人的迹象。",
+      "originalTitle": "Stuart Bonds made ‘racist’ and ‘divisive’ comments. But One Nation is showing no sign of dumping the NSW candidate",
+      "summary": "前煤矿工声称澳洲人正在“被人口取代”, 引起广泛的批评, 但他的政党没有显示任何抛弃他的迹象。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-14T01:00:30Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/14/one-nation-nsw-candidate-stuart-bonds-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T03:57:32.159611Z",
+      "updatedAt": "2026-11-14T03:57:32.159611Z"
+    },
+    {
+      "id": "rss-332f7fa7e6f224cf35dcc253",
+      "title": "现在技术",
+      "originalTitle": "Tech Now",
+      "summary": "Yasmin Morgan-Grifffiths遵循一个小组测试AI的山崩预警系统。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-14T01:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T03:57:32.159611Z",
+      "updatedAt": "2026-11-14T03:57:32.159611Z"
+    },
+    {
+      "id": "rss-44454294e0b6a22b5baceb9e",
+      "title": "微软“深为遗憾”全球混乱可能给澳大利亚带来十亿美元的影响",
+      "originalTitle": "Microsoft ‘deeply sorry’ for global disruption that could have billion-dollar impact on Australia",
+      "summary": "专家说,断电暴露了“澳大利亚对外国技术的依赖 ” , 正如软件巨头所说,服务正在恢复。 获得我们的突发新闻电子邮件、免费应用程序或每日新闻播客。 微软断电可能给澳大利亚经济带来灾难,迫使一些小企业关闭,成本预计会高达数十亿美元。 美国软件公司已经警告说,这对澳大利亚经济来说是一场灾难。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-14T00:52:48Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T03:57:32.159611Z",
+      "updatedAt": "2026-11-14T03:57:32.159611Z"
+    },
+    {
+      "id": "rss-f42c8666591c38b9d43f122e",
+      "title": "连Grand Theft Auto的原始创作者 都无法玩 GTA 6",
+      "originalTitle": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+      "summary": "该系列的下一个标题预计将是有史以来最大的电子游戏发布。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-14T00:37:01Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T03:57:32.159611Z",
+      "updatedAt": "2026-11-14T03:57:32.159611Z"
+    },
+    {
+      "id": "rss-6caf8a684ef5c09a15d41484",
+      "title": "猩猩乔乔独自度过了一生 他终于能找到伴侣了吗?",
+      "originalTitle": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+      "summary": "Jojo在婴儿时被偷猎,在被囚禁中长大。他的监护人希望他找到一个朋友,但这不是直截了当的。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-14T00:03:56Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T03:57:32.159611Z",
+      "updatedAt": "2026-11-14T03:57:32.159611Z"
+    },
+    {
+      "id": "rss-d3ad8c146b04ab1db660b4af",
+      "title": "被捕的将军和一位受威胁的副总统:总统的儿子助长了乌干达的继任热。",
+      "originalTitle": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "summary": "52岁的将军的挑衅性哨所和军事威胁助长了传闻,称王朝接班。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-14T00:03:52Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T03:57:32.159611Z",
+      "updatedAt": "2026-11-14T03:57:32.159611Z"
+    },
+    {
+      "id": "rss-8573d9e8e576a4ad47319dd7",
+      "title": "SpaceX 星舰火箭双重捕获试验的后退",
+      "originalTitle": "Setback for SpaceX Starship rocket's double-catch test",
+      "summary": "Elon Musk的公司中止了火箭助推器的捕获,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-14T00:01:01Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T03:57:32.159611Z",
+      "updatedAt": "2026-11-14T03:57:32.159611Z"
+    },
+    {
+      "id": "rss-2eafa4b1bb39d8eb3ba1db55",
+      "title": "\"密西西比岛奇迹\" 新奥尔良游轮碰撞后救出的所有乘客",
+      "originalTitle": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "summary": "相撞导致32人住院,伤势不重,但没有人下落不明。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-13T23:40:45Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T03:57:32.159611Z",
+      "updatedAt": "2026-11-14T03:57:32.159611Z"
+    },
+    {
+      "id": "rss-27ac71ecb4e41ddaac828a31",
+      "title": "夏季胜利后,印度的左翼抗议者面临一个不确定的冬天",
+      "originalTitle": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+      "summary": "新一波的青年异议在今年夏天席卷了印度,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-13T23:11:51Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T03:57:32.159611Z",
+      "updatedAt": "2026-11-14T03:57:32.159611Z"
+    },
+    {
+      "id": "rss-59d35bd98e0729bd173c9d2e",
+      "title": "Jensen Huang 丑闻如何给商业友好型新加坡造成头痛",
+      "originalTitle": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "summary": "这个丑闻凸显了新加坡作为芯片中心的成功,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-13T23:00:31Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T03:57:32.159611Z",
+      "updatedAt": "2026-11-14T03:57:32.159611Z"
+    },
+    {
+      "id": "rss-41bbca50b49f80388d7fa240",
+      "title": "亚马逊的新Kindle Colorsoft 是一个高价电子阅读器",
+      "originalTitle": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "summary": "最新模型比其前身更轻、更细,并带有边对边的显示功能。 但如果你已经拥有第一代Coloroft, 没有什么理由升级。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-13T23:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T03:57:32.159611Z",
+      "updatedAt": "2026-11-14T03:57:32.159611Z"
+    },
+    {
+      "id": "rss-a53b6d6797d1d8cee9d094bf",
+      "title": "Jensen Huang的离开在AI的启动资金中大打出洞, VCs 和创始人说",
+      "originalTitle": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "summary": "Nvidia在黄线下向AI公司新开办企业投入了数百亿。 没有他的掌舵,创始人和VC公司正在争取较小的检查和较低的估价。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-13T22:43:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T03:57:32.159611Z",
+      "updatedAt": "2026-11-14T03:57:32.159611Z"
+    },
+    {
+      "id": "rss-e7b299eff0f699e4093db943",
+      "title": "匈牙利没收了1 950万美元现金,这些现金在盗窃案调查中被埋在森林里",
+      "originalTitle": "Hungary seizes $19.5m in cash found buried in forests amid graft inquiry",
+      "summary": "作为调查Orbán时代被指控收受贿赂的匈牙利反腐败机构部长的一部分,反腐败机构进行了搜查,称星期五在调查前民族主义领袖Viktor Orbán内阁的一名前部长时,缴获了埋在森林和其他地方价值1 950万英镑(1 480万英镑)的现金。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-13T22:12:54Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T03:57:32.159611Z",
+      "updatedAt": "2026-11-14T03:57:32.159611Z"
+    },
+    {
+      "id": "rss-e97658f08944406778852a3a",
+      "title": "美国政府“由于特殊情况”将所有航班停飞美国",
+      "originalTitle": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+      "summary": "FAA的发言人告诉TechCrunch, 它发布了地面停机坪“跟踪影响多个空中交通控制中心的通信问题”,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-13T21:44:38Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T03:57:32.159611Z",
+      "updatedAt": "2026-11-14T03:57:32.159611Z"
+    },
+    {
+      "id": "rss-101d44ffbb4da315c86742dd",
+      "title": "观察:在新奥尔良与货船碰撞后看到游轮沉没",
+      "originalTitle": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+      "summary": "所有乘客都是在一艘货船与一艘停靠的游轮相撞后查明身份的。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-13T21:15:24Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T03:57:32.159611Z",
+      "updatedAt": "2026-11-14T03:57:32.159611Z"
+    },
+    {
+      "id": "rss-334ebcca23065263348a0865",
+      "title": "微软“深深抱歉”全球停电,因为它报告广泛恢复",
+      "originalTitle": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+      "summary": "专家说,这次活动是“史塔克提醒”世界如何严重依赖一小群大型技术供应商。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-13T21:14:22Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T03:57:32.159611Z",
+      "updatedAt": "2026-11-14T03:57:32.159611Z"
+    },
+    {
+      "id": "rss-89879a69c60f85e7c82ab448",
+      "title": "俄国在乌克兰的会谈中“设陷阱”,",
+      "originalTitle": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
+      "summary": "Kaja Kallas说,莫斯科试图通过提出欧洲安全问题来转移人们对其侵略的注意力。 欧盟外交政策负责人警告不要“踏入俄罗斯正在设置的陷阱 ” , 她说莫斯科正试图发起一场关于欧洲安全的辩论,以转移人们对其侵略的注意力。 “我们有一个侵略者,一个受害者,而侵略者却不伸出援手。 ”（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-13T20:38:25Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T03:57:32.159611Z",
+      "updatedAt": "2026-11-14T03:57:32.159611Z"
+    },
+    {
+      "id": "rss-6352232812b3ea4a981969b9",
+      "title": "这个年轻的启动者想用海洋的热量 给浮动数据中心提供动力 投资者已经上船了",
+      "originalTitle": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+      "summary": "德鲁格正在从海洋中收集热量,到浮船上的动力数据中心。 第一个原型应该在不到两年的时间内在海洋周围摇晃,摇晃。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-13T20:07:24Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T03:57:32.159611Z",
+      "updatedAt": "2026-11-14T03:57:32.159611Z"
+    },
+    {
+      "id": "rss-b96c8f1ce3eaba55d8f9d7ee",
+      "title": "AI 代理启动 Lang Chain 点击 3B 值",
+      "originalTitle": "AI agent startup LangChain hits $3B valuation",
+      "summary": "Lang Chain现在要求7000名客户使用其模型和平台不可知物剂管理工具LangSmith。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-13T19:37:57Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T03:57:32.159611Z",
+      "updatedAt": "2026-11-14T03:57:32.159611Z"
+    },
+    {
+      "id": "rss-1383d3f72891184d86c0cedc",
+      "title": "协助在逃的乌克兰前民兵在莫斯科汽车爆炸中受伤",
+      "originalTitle": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+      "summary": "Sergei Zavorotny现为记者兼评论员, 曾任乌克兰前总理Mykola Azarov的顾问。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-13T13:11:23Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-14T03:57:32.159611Z",
+      "updatedAt": "2026-11-14T03:57:32.159611Z"
     }
   ],
   "history": [
@@ -133517,9 +134353,940 @@
         "firstSeen": "2026-11-13T18:56:20.389470Z",
         "updatedAt": "2026-11-13T18:56:20.389470Z"
       }
+    },
+    {
+      "eventId": "rss-dc03a868a1fd93dce5579ce6",
+      "at": "2026-11-14T03:57:32.159611Z",
+      "data": {
+        "id": "rss-dc03a868a1fd93dce5579ce6",
+        "title": "美国飞机停飞后,从澳大利亚起飞的航班推迟",
+        "originalTitle": "US-bound flights out of Australia delayed after telecommunications outage grounded American planes",
+        "summary": "悉尼机场和墨尔本机场说,美国航班停飞后禁止航班离开美国航班的禁令对航班产生了影响。 我们的突发新闻邮件、免费应用程序或每日新闻播客。 美国当局停止起飞和推迟降落后,悉尼机场的一些飞往美国的航班在星期六被禁飞或推迟。 从墨尔本机场起飞的航班也受到影响。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-14T03:08:34Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T03:57:32.159611Z",
+        "updatedAt": "2026-11-14T03:57:32.159611Z"
+      }
+    },
+    {
+      "eventId": "rss-79f1de58c4924ea574b75ba7",
+      "at": "2026-11-14T03:57:32.159611Z",
+      "data": {
+        "id": "rss-79f1de58c4924ea574b75ba7",
+        "title": "\"我们有一天会回家\" - 美国旅行者受到全国地面站的影响",
+        "originalTitle": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+        "summary": "全国乘客受到联邦航空管理局称之为“安全和通信问题”的影响。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-14T01:47:36Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T03:57:32.159611Z",
+        "updatedAt": "2026-11-14T03:57:32.159611Z"
+      }
+    },
+    {
+      "eventId": "rss-de3c137903859ae96f4395f3",
+      "at": "2026-11-14T03:57:32.159611Z",
+      "data": {
+        "id": "rss-de3c137903859ae96f4395f3",
+        "title": "Stuart Bonds发表了“种族主义”和“分裂”的评论。 但“一个民族”并没有显示出任何抛弃新南威尔士州候选人的迹象。",
+        "originalTitle": "Stuart Bonds made ‘racist’ and ‘divisive’ comments. But One Nation is showing no sign of dumping the NSW candidate",
+        "summary": "前煤矿工声称澳洲人正在“被人口取代”, 引起广泛的批评, 但他的政党没有显示任何抛弃他的迹象。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-14T01:00:30Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/14/one-nation-nsw-candidate-stuart-bonds-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T03:57:32.159611Z",
+        "updatedAt": "2026-11-14T03:57:32.159611Z"
+      }
+    },
+    {
+      "eventId": "rss-332f7fa7e6f224cf35dcc253",
+      "at": "2026-11-14T03:57:32.159611Z",
+      "data": {
+        "id": "rss-332f7fa7e6f224cf35dcc253",
+        "title": "现在技术",
+        "originalTitle": "Tech Now",
+        "summary": "Yasmin Morgan-Grifffiths遵循一个小组测试AI的山崩预警系统。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-14T01:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T03:57:32.159611Z",
+        "updatedAt": "2026-11-14T03:57:32.159611Z"
+      }
+    },
+    {
+      "eventId": "rss-44454294e0b6a22b5baceb9e",
+      "at": "2026-11-14T03:57:32.159611Z",
+      "data": {
+        "id": "rss-44454294e0b6a22b5baceb9e",
+        "title": "微软“深为遗憾”全球混乱可能给澳大利亚带来十亿美元的影响",
+        "originalTitle": "Microsoft ‘deeply sorry’ for global disruption that could have billion-dollar impact on Australia",
+        "summary": "专家说,断电暴露了“澳大利亚对外国技术的依赖 ” , 正如软件巨头所说,服务正在恢复。 获得我们的突发新闻电子邮件、免费应用程序或每日新闻播客。 微软断电可能给澳大利亚经济带来灾难,迫使一些小企业关闭,成本预计会高达数十亿美元。 美国软件公司已经警告说,这对澳大利亚经济来说是一场灾难。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-14T00:52:48Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T03:57:32.159611Z",
+        "updatedAt": "2026-11-14T03:57:32.159611Z"
+      }
+    },
+    {
+      "eventId": "rss-f42c8666591c38b9d43f122e",
+      "at": "2026-11-14T03:57:32.159611Z",
+      "data": {
+        "id": "rss-f42c8666591c38b9d43f122e",
+        "title": "连Grand Theft Auto的原始创作者 都无法玩 GTA 6",
+        "originalTitle": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+        "summary": "该系列的下一个标题预计将是有史以来最大的电子游戏发布。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-14T00:37:01Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T03:57:32.159611Z",
+        "updatedAt": "2026-11-14T03:57:32.159611Z"
+      }
+    },
+    {
+      "eventId": "rss-6caf8a684ef5c09a15d41484",
+      "at": "2026-11-14T03:57:32.159611Z",
+      "data": {
+        "id": "rss-6caf8a684ef5c09a15d41484",
+        "title": "猩猩乔乔独自度过了一生 他终于能找到伴侣了吗?",
+        "originalTitle": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+        "summary": "Jojo在婴儿时被偷猎,在被囚禁中长大。他的监护人希望他找到一个朋友,但这不是直截了当的。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-14T00:03:56Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T03:57:32.159611Z",
+        "updatedAt": "2026-11-14T03:57:32.159611Z"
+      }
+    },
+    {
+      "eventId": "rss-d3ad8c146b04ab1db660b4af",
+      "at": "2026-11-14T03:57:32.159611Z",
+      "data": {
+        "id": "rss-d3ad8c146b04ab1db660b4af",
+        "title": "被捕的将军和一位受威胁的副总统:总统的儿子助长了乌干达的继任热。",
+        "originalTitle": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+        "summary": "52岁的将军的挑衅性哨所和军事威胁助长了传闻,称王朝接班。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-14T00:03:52Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T03:57:32.159611Z",
+        "updatedAt": "2026-11-14T03:57:32.159611Z"
+      }
+    },
+    {
+      "eventId": "rss-8573d9e8e576a4ad47319dd7",
+      "at": "2026-11-14T03:57:32.159611Z",
+      "data": {
+        "id": "rss-8573d9e8e576a4ad47319dd7",
+        "title": "SpaceX 星舰火箭双重捕获试验的后退",
+        "originalTitle": "Setback for SpaceX Starship rocket's double-catch test",
+        "summary": "Elon Musk的公司中止了火箭助推器的捕获,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-14T00:01:01Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T03:57:32.159611Z",
+        "updatedAt": "2026-11-14T03:57:32.159611Z"
+      }
+    },
+    {
+      "eventId": "rss-2eafa4b1bb39d8eb3ba1db55",
+      "at": "2026-11-14T03:57:32.159611Z",
+      "data": {
+        "id": "rss-2eafa4b1bb39d8eb3ba1db55",
+        "title": "\"密西西比岛奇迹\" 新奥尔良游轮碰撞后救出的所有乘客",
+        "originalTitle": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+        "summary": "相撞导致32人住院,伤势不重,但没有人下落不明。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-13T23:40:45Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T03:57:32.159611Z",
+        "updatedAt": "2026-11-14T03:57:32.159611Z"
+      }
+    },
+    {
+      "eventId": "rss-27ac71ecb4e41ddaac828a31",
+      "at": "2026-11-14T03:57:32.159611Z",
+      "data": {
+        "id": "rss-27ac71ecb4e41ddaac828a31",
+        "title": "夏季胜利后,印度的左翼抗议者面临一个不确定的冬天",
+        "originalTitle": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+        "summary": "新一波的青年异议在今年夏天席卷了印度,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-13T23:11:51Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T03:57:32.159611Z",
+        "updatedAt": "2026-11-14T03:57:32.159611Z"
+      }
+    },
+    {
+      "eventId": "rss-59d35bd98e0729bd173c9d2e",
+      "at": "2026-11-14T03:57:32.159611Z",
+      "data": {
+        "id": "rss-59d35bd98e0729bd173c9d2e",
+        "title": "Jensen Huang 丑闻如何给商业友好型新加坡造成头痛",
+        "originalTitle": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+        "summary": "这个丑闻凸显了新加坡作为芯片中心的成功,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-13T23:00:31Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T03:57:32.159611Z",
+        "updatedAt": "2026-11-14T03:57:32.159611Z"
+      }
+    },
+    {
+      "eventId": "rss-41bbca50b49f80388d7fa240",
+      "at": "2026-11-14T03:57:32.159611Z",
+      "data": {
+        "id": "rss-41bbca50b49f80388d7fa240",
+        "title": "亚马逊的新Kindle Colorsoft 是一个高价电子阅读器",
+        "originalTitle": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+        "summary": "最新模型比其前身更轻、更细,并带有边对边的显示功能。 但如果你已经拥有第一代Coloroft, 没有什么理由升级。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-13T23:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T03:57:32.159611Z",
+        "updatedAt": "2026-11-14T03:57:32.159611Z"
+      }
+    },
+    {
+      "eventId": "rss-a53b6d6797d1d8cee9d094bf",
+      "at": "2026-11-14T03:57:32.159611Z",
+      "data": {
+        "id": "rss-a53b6d6797d1d8cee9d094bf",
+        "title": "Jensen Huang的离开在AI的启动资金中大打出洞, VCs 和创始人说",
+        "originalTitle": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+        "summary": "Nvidia在黄线下向AI公司新开办企业投入了数百亿。 没有他的掌舵,创始人和VC公司正在争取较小的检查和较低的估价。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-13T22:43:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T03:57:32.159611Z",
+        "updatedAt": "2026-11-14T03:57:32.159611Z"
+      }
+    },
+    {
+      "eventId": "rss-e7b299eff0f699e4093db943",
+      "at": "2026-11-14T03:57:32.159611Z",
+      "data": {
+        "id": "rss-e7b299eff0f699e4093db943",
+        "title": "匈牙利没收了1 950万美元现金,这些现金在盗窃案调查中被埋在森林里",
+        "originalTitle": "Hungary seizes $19.5m in cash found buried in forests amid graft inquiry",
+        "summary": "作为调查Orbán时代被指控收受贿赂的匈牙利反腐败机构部长的一部分,反腐败机构进行了搜查,称星期五在调查前民族主义领袖Viktor Orbán内阁的一名前部长时,缴获了埋在森林和其他地方价值1 950万英镑(1 480万英镑)的现金。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-13T22:12:54Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T03:57:32.159611Z",
+        "updatedAt": "2026-11-14T03:57:32.159611Z"
+      }
+    },
+    {
+      "eventId": "rss-e97658f08944406778852a3a",
+      "at": "2026-11-14T03:57:32.159611Z",
+      "data": {
+        "id": "rss-e97658f08944406778852a3a",
+        "title": "美国政府“由于特殊情况”将所有航班停飞美国",
+        "originalTitle": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+        "summary": "FAA的发言人告诉TechCrunch, 它发布了地面停机坪“跟踪影响多个空中交通控制中心的通信问题”,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-13T21:44:38Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T03:57:32.159611Z",
+        "updatedAt": "2026-11-14T03:57:32.159611Z"
+      }
+    },
+    {
+      "eventId": "rss-101d44ffbb4da315c86742dd",
+      "at": "2026-11-14T03:57:32.159611Z",
+      "data": {
+        "id": "rss-101d44ffbb4da315c86742dd",
+        "title": "观察:在新奥尔良与货船碰撞后看到游轮沉没",
+        "originalTitle": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+        "summary": "所有乘客都是在一艘货船与一艘停靠的游轮相撞后查明身份的。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-13T21:15:24Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T03:57:32.159611Z",
+        "updatedAt": "2026-11-14T03:57:32.159611Z"
+      }
+    },
+    {
+      "eventId": "rss-334ebcca23065263348a0865",
+      "at": "2026-11-14T03:57:32.159611Z",
+      "data": {
+        "id": "rss-334ebcca23065263348a0865",
+        "title": "微软“深深抱歉”全球停电,因为它报告广泛恢复",
+        "originalTitle": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+        "summary": "专家说,这次活动是“史塔克提醒”世界如何严重依赖一小群大型技术供应商。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-13T21:14:22Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T03:57:32.159611Z",
+        "updatedAt": "2026-11-14T03:57:32.159611Z"
+      }
+    },
+    {
+      "eventId": "rss-89879a69c60f85e7c82ab448",
+      "at": "2026-11-14T03:57:32.159611Z",
+      "data": {
+        "id": "rss-89879a69c60f85e7c82ab448",
+        "title": "俄国在乌克兰的会谈中“设陷阱”,",
+        "originalTitle": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
+        "summary": "Kaja Kallas说,莫斯科试图通过提出欧洲安全问题来转移人们对其侵略的注意力。 欧盟外交政策负责人警告不要“踏入俄罗斯正在设置的陷阱 ” , 她说莫斯科正试图发起一场关于欧洲安全的辩论,以转移人们对其侵略的注意力。 “我们有一个侵略者,一个受害者,而侵略者却不伸出援手。 ”（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-13T20:38:25Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T03:57:32.159611Z",
+        "updatedAt": "2026-11-14T03:57:32.159611Z"
+      }
+    },
+    {
+      "eventId": "rss-6352232812b3ea4a981969b9",
+      "at": "2026-11-14T03:57:32.159611Z",
+      "data": {
+        "id": "rss-6352232812b3ea4a981969b9",
+        "title": "这个年轻的启动者想用海洋的热量 给浮动数据中心提供动力 投资者已经上船了",
+        "originalTitle": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+        "summary": "德鲁格正在从海洋中收集热量,到浮船上的动力数据中心。 第一个原型应该在不到两年的时间内在海洋周围摇晃,摇晃。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-13T20:07:24Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T03:57:32.159611Z",
+        "updatedAt": "2026-11-14T03:57:32.159611Z"
+      }
+    },
+    {
+      "eventId": "rss-b96c8f1ce3eaba55d8f9d7ee",
+      "at": "2026-11-14T03:57:32.159611Z",
+      "data": {
+        "id": "rss-b96c8f1ce3eaba55d8f9d7ee",
+        "title": "AI 代理启动 Lang Chain 点击 3B 值",
+        "originalTitle": "AI agent startup LangChain hits $3B valuation",
+        "summary": "Lang Chain现在要求7000名客户使用其模型和平台不可知物剂管理工具LangSmith。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-13T19:37:57Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T03:57:32.159611Z",
+        "updatedAt": "2026-11-14T03:57:32.159611Z"
+      }
+    },
+    {
+      "eventId": "rss-1383d3f72891184d86c0cedc",
+      "at": "2026-11-14T03:57:32.159611Z",
+      "data": {
+        "id": "rss-1383d3f72891184d86c0cedc",
+        "title": "协助在逃的乌克兰前民兵在莫斯科汽车爆炸中受伤",
+        "originalTitle": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+        "summary": "Sergei Zavorotny现为记者兼评论员, 曾任乌克兰前总理Mykola Azarov的顾问。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-13T13:11:23Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-14T03:57:32.159611Z",
+        "updatedAt": "2026-11-14T03:57:32.159611Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-14T03:57:32.159611Z",
+      "at": "2026-11-14T03:57:32.159611Z",
+      "kind": "GitHub Actions 采集",
+      "count": 22,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 10}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 2}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 5}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 5}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-13T18:56:20.389470Z",
       "at": "2026-11-13T18:56:20.389470Z",
