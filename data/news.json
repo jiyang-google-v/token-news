@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-14T17:27:55.220146Z",
+  "updatedAt": "2026-11-15T03:41:40.234808Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -64746,6 +64746,766 @@
       "tokens": [],
       "firstSeen": "2026-11-14T17:27:55.220146Z",
       "updatedAt": "2026-11-14T17:27:55.220146Z"
+    },
+    {
+      "id": "rss-3ec5f05a65866a7ca487c14a",
+      "title": "法官暂时阻止特朗普关闭华盛顿高尔夫球场翻修",
+      "originalTitle": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "summary": "这是总统对东波托马克高尔夫连线计划长达数月的挑战的最新发展。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-15T03:21:04Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T03:41:40.234808Z",
+      "updatedAt": "2026-11-15T03:41:40.234808Z"
+    },
+    {
+      "id": "rss-c718f0631c936bbe5dfaab71",
+      "title": "Pope Leo在访问边远的安第斯镇时谈到社区“受苦受难”。",
+      "originalTitle": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "summary": "Santa Cruz de Succhabamba是Chiclayo教区的一部分,教皇从2015年至2023年担任主教。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-15T02:49:45Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T03:41:40.234808Z",
+      "updatedAt": "2026-11-15T03:41:40.234808Z"
+    },
+    {
+      "id": "rss-4b28d2675e6fa5a060347c78",
+      "title": "四个新南威尔士州上院候选人中的凯瑟琳·德弗斯",
+      "originalTitle": "Katherine Deves among four NSW upper house candidates revealed by One Nation",
+      "summary": "新南威尔士党领袖纽曼(Mike Newman)说,竞争者是“真实世界的人 ” , 而不是“职业政治家 ” 。 获得我们的突发新闻电子邮件、免费应用程序或每日新闻播客。 失败的联邦自由派候选人凯瑟琳·德韦斯(Katherine Deves)在明年的新南威尔士州选举中竞选“一个民族 ” 。 德韦斯是新南威尔士州四个立法委员会之一。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-15T02:13:20Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/15/katherine-deves-among-four-nsw-upper-house-candidates-revealed-by-one-nation-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T03:41:40.234808Z",
+      "updatedAt": "2026-11-15T03:41:40.234808Z"
+    },
+    {
+      "id": "rss-b35f6f3df58264a8525eaeea",
+      "title": "雷暴、巨大的冰雹和强风预报新南威尔士州,因为野生天气袭击东海岸",
+      "originalTitle": "Thunderstorms, giant hail and powerful winds forecast for NSW as wild weather hits east coast",
+      "summary": "周六暴风雨过后, 一名20多岁的男子在新南威尔士州中央海岸游泳时被闪电击中, 获得我们的突发新闻电子邮件、免费应用程序或每日新闻播客,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-15T01:52:37Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/15/australia-weather-east-coast-thunderstorms-giant-hail-and-powerful-winds-ettalong-beach-swimmer-lightning-strike"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T03:41:40.234808Z",
+      "updatedAt": "2026-11-15T03:41:40.234808Z"
+    },
+    {
+      "id": "rss-a8381ccf0f4a6c2675938f91",
+      "title": "Nvidia的保安队在哪里?",
+      "originalTitle": "Where was Nvidia’s security team?",
+      "summary": "Nvidia的安全负责人在8月悄悄离开,而现在CEOJENNSENE Huang已经放弃了他的关系,包括一名涉嫌向中国输送芯片的公司经理,一位前情报官员说,这是日常谈话的漏水,大多数公司保安团队都很难抓住。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-15T00:08:07Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T03:41:40.234808Z",
+      "updatedAt": "2026-11-15T03:41:40.234808Z"
+    },
+    {
+      "id": "rss-a62b82539253fb0ea7234c2f",
+      "title": "我母亲告诉我,如果我寻求埃博拉的治疗,我会死。 我证明你能够生存下去。",
+      "originalTitle": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+      "summary": "刚果(DR)爆发埃博拉疫情时,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-15T00:06:55Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T03:41:40.234808Z",
+      "updatedAt": "2026-11-15T03:41:40.234808Z"
+    },
+    {
+      "id": "rss-9c404fd939f59376d73f8506",
+      "title": "柔道冠军以出乎意料的候选资格 动摇了法国总统竞选",
+      "originalTitle": "Judo champion shakes up French presidential race with surprise candidacy",
+      "summary": "Teddy Rinner是现代法国最受欢迎的人物之一 五分之一的选民说他们可以支持他（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-15T00:06:51Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T03:41:40.234808Z",
+      "updatedAt": "2026-11-15T03:41:40.234808Z"
+    },
+    {
+      "id": "rss-b002785aec9c8c59cdc4fa43",
+      "title": "大卫·琼斯的未来看起来很暗淡。 迈勒是下一个吗 ?",
+      "originalTitle": "David Jones’ future looks grim. Is Myer next?",
+      "summary": "随着Myer的利润率暴跌和股价下跌,DJs进入政府时提出了一个令人不自在的问题:当零售商的门被打开时,顾客们被一排被砍掉的价格标签、疯狂的贴现以及一家百货公司关闭的所有其他标志所欢迎。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-14T23:00:01Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/business/2026/nov/15/myer-david-jones-stores-closures-administration"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T03:41:40.234808Z",
+      "updatedAt": "2026-11-15T03:41:40.234808Z"
+    },
+    {
+      "id": "rss-22f849a8a999828818dbbfcd",
+      "title": "\"你能相信吗?\" \"太空号在返回地球时 捕捉到部分星际飞船火箭\"",
+      "originalTitle": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "summary": "SpaceX使用机械式武器 绰号为\"棍棒\" 来进行历史性的捕捉（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-14T22:09:40Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T03:41:40.234808Z",
+      "updatedAt": "2026-11-15T03:41:40.234808Z"
+    },
+    {
+      "id": "rss-e86112d5f8734949cf99172c",
+      "title": "伊隆・穆斯克,其他技术专家 签署请愿书,呼吁恩维迪亚 恢复黄詹森",
+      "originalTitle": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "summary": "从星期六下午起,请愿书吸引了超过115,000人签名。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-14T21:41:22Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T03:41:40.234808Z",
+      "updatedAt": "2026-11-15T03:41:40.234808Z"
+    },
+    {
+      "id": "rss-9e314a8f744ef711f0fd5889",
+      "title": "Tesla开通了网络卡预购单, \" 供个人使用 \" ,有地理限制,每月收费299美元",
+      "originalTitle": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "summary": "连伊隆·穆斯克都说月费太高了（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-14T20:04:44Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T03:41:40.234808Z",
+      "updatedAt": "2026-11-15T03:41:40.234808Z"
+    },
+    {
+      "id": "rss-1e4c1fc5abc49ad27fd21bc1",
+      "title": "美国运输部长说,铜线升级导致全国飞行暂停",
+      "originalTitle": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "summary": "美国政府正试图找出混乱是“无能”还是设备故障造成的。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-14T19:12:25Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T03:41:40.234808Z",
+      "updatedAt": "2026-11-15T03:41:40.234808Z"
+    },
+    {
+      "id": "rss-c629975f6df709bb083666b8",
+      "title": "菲律宾卡梅尔在亚洲首次赢得欧洲电视比赛",
+      "originalTitle": "Philippines’ Carmelle wins first Eurovision contest in Asia",
+      "summary": "菲律宾入场、流行和饶舌歌曲索布拉(Sobra-Sobra),用19岁的人在曼谷的决赛中获胜。 卡梅尔·科拉多(Carmelle Collado)赢得了第一次欧洲电视歌曲竞赛亚洲冠军,菲律宾入场的索布拉-索布拉(Sobra-Sobra)于星期六晚上在曼谷的首届区域竞赛中获胜。 11个国家在曼谷市中心的“一个曼谷论坛”上竞争,还有11个国家在曼谷市中心举行的“一个曼谷论坛 ” ( One B曼谷论坛 ) 。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-14T19:01:32Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T03:41:40.234808Z",
+      "updatedAt": "2026-11-15T03:41:40.234808Z"
+    },
+    {
+      "id": "rss-1a37efa5da7cb845637e1dde",
+      "title": "连劳工议员也因为维多利亚州总理的青少年罪犯计划而蒙受损失。",
+      "originalTitle": "Even Labor MPs are at a loss over the Victorian premier’s ‘tough love’ plan for youth offenders",
+      "summary": "议员们跨越派系对法律专家所说的“将监禁儿童作为治疗手段”的政策有共同的担忧。 在去年12月之前,Meena Singh是我们每天的政治电子邮件、免费的应用程序或每日新闻播客。 Meena Singh是维多利亚州土著儿童和青年专员,她在这个角色中为州内一些最脆弱的儿童宣传。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-14T19:00:53Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/15/victoria-premier-ben-caroll-youth-crime-offenders-plan-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T03:41:40.234808Z",
+      "updatedAt": "2026-11-15T03:41:40.234808Z"
+    },
+    {
+      "id": "rss-c40b1f8c279a4e208f375ae3",
+      "title": "自由党参议员说,",
+      "originalTitle": "Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages",
+      "summary": "Andrew McLachlan说,他选择“真正的森林而不是虚拟森林”,因为他敦促劳工局政府考虑大赦国际对艺术家和环境的影响。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-14T19:00:52Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T03:41:40.234808Z",
+      "updatedAt": "2026-11-15T03:41:40.234808Z"
+    },
+    {
+      "id": "rss-76599d9076d2b2fa35bd9db8",
+      "title": "菲律宾首次赢得欧洲电视歌曲亚洲比赛",
+      "originalTitle": "Philippines wins first Eurovision Song Contest Asia",
+      "summary": "前锋卡蜜儿赢得了胜利 她的女权增权扩能 国歌索布拉 -索布拉（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-14T18:17:58Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T03:41:40.234808Z",
+      "updatedAt": "2026-11-15T03:41:40.234808Z"
+    },
+    {
+      "id": "rss-d644feeef9f24e33e9adfdd5",
+      "title": "Sotheby拍卖了1800万美元 Van Gogh 声称它是\"在胁迫下出售\"",
+      "originalTitle": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "summary": "Sotheby说,它会工作 与家族的继承人 谁以前拥有的艺术作品 试图并达成解决方案。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-14T18:00:10Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T03:41:40.234808Z",
+      "updatedAt": "2026-11-15T03:41:40.234808Z"
+    },
+    {
+      "id": "rss-85e3933679b695fd54f9aa4a",
+      "title": "有iPhone Duo吗?",
+      "originalTitle": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "summary": "从触摸识别快捷键到更聪明的音量按钮和摄像把戏 这些微调使苹果的可折叠iPhone 每天更容易使用。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-14T18:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T03:41:40.234808Z",
+      "updatedAt": "2026-11-15T03:41:40.234808Z"
+    },
+    {
+      "id": "rss-fcddece06a43c8c9909dff42",
+      "title": "运输秘书指责全国停飞的 \" 常规 \" 设备升级",
+      "originalTitle": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "summary": "FAA管理员Bryan Bedford 也说\"没有任何证据 与AI有关\"（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-14T17:45:04Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T03:41:40.234808Z",
+      "updatedAt": "2026-11-15T03:41:40.234808Z"
+    },
+    {
+      "id": "rss-0dac5bc8bd77a78df1260cd1",
+      "title": "AI墓地:一个运行中的项目和新创企业清单,没有成功",
+      "originalTitle": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "从苹果公司一再推迟Siri AI到OpenAI的混乱的“超级应用程序”的启动,（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-14T17:30:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T03:41:40.234808Z",
+      "updatedAt": "2026-11-15T03:41:40.234808Z"
     }
   ],
   "history": [
@@ -136317,9 +137077,856 @@
         "firstSeen": "2026-11-14T17:27:55.220146Z",
         "updatedAt": "2026-11-14T17:27:55.220146Z"
       }
+    },
+    {
+      "eventId": "rss-3ec5f05a65866a7ca487c14a",
+      "at": "2026-11-15T03:41:40.234808Z",
+      "data": {
+        "id": "rss-3ec5f05a65866a7ca487c14a",
+        "title": "法官暂时阻止特朗普关闭华盛顿高尔夫球场翻修",
+        "originalTitle": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+        "summary": "这是总统对东波托马克高尔夫连线计划长达数月的挑战的最新发展。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-15T03:21:04Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T03:41:40.234808Z",
+        "updatedAt": "2026-11-15T03:41:40.234808Z"
+      }
+    },
+    {
+      "eventId": "rss-c718f0631c936bbe5dfaab71",
+      "at": "2026-11-15T03:41:40.234808Z",
+      "data": {
+        "id": "rss-c718f0631c936bbe5dfaab71",
+        "title": "Pope Leo在访问边远的安第斯镇时谈到社区“受苦受难”。",
+        "originalTitle": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+        "summary": "Santa Cruz de Succhabamba是Chiclayo教区的一部分,教皇从2015年至2023年担任主教。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-15T02:49:45Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T03:41:40.234808Z",
+        "updatedAt": "2026-11-15T03:41:40.234808Z"
+      }
+    },
+    {
+      "eventId": "rss-4b28d2675e6fa5a060347c78",
+      "at": "2026-11-15T03:41:40.234808Z",
+      "data": {
+        "id": "rss-4b28d2675e6fa5a060347c78",
+        "title": "四个新南威尔士州上院候选人中的凯瑟琳·德弗斯",
+        "originalTitle": "Katherine Deves among four NSW upper house candidates revealed by One Nation",
+        "summary": "新南威尔士党领袖纽曼(Mike Newman)说,竞争者是“真实世界的人 ” , 而不是“职业政治家 ” 。 获得我们的突发新闻电子邮件、免费应用程序或每日新闻播客。 失败的联邦自由派候选人凯瑟琳·德韦斯(Katherine Deves)在明年的新南威尔士州选举中竞选“一个民族 ” 。 德韦斯是新南威尔士州四个立法委员会之一。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-15T02:13:20Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/15/katherine-deves-among-four-nsw-upper-house-candidates-revealed-by-one-nation-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T03:41:40.234808Z",
+        "updatedAt": "2026-11-15T03:41:40.234808Z"
+      }
+    },
+    {
+      "eventId": "rss-b35f6f3df58264a8525eaeea",
+      "at": "2026-11-15T03:41:40.234808Z",
+      "data": {
+        "id": "rss-b35f6f3df58264a8525eaeea",
+        "title": "雷暴、巨大的冰雹和强风预报新南威尔士州,因为野生天气袭击东海岸",
+        "originalTitle": "Thunderstorms, giant hail and powerful winds forecast for NSW as wild weather hits east coast",
+        "summary": "周六暴风雨过后, 一名20多岁的男子在新南威尔士州中央海岸游泳时被闪电击中, 获得我们的突发新闻电子邮件、免费应用程序或每日新闻播客,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-15T01:52:37Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/15/australia-weather-east-coast-thunderstorms-giant-hail-and-powerful-winds-ettalong-beach-swimmer-lightning-strike"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T03:41:40.234808Z",
+        "updatedAt": "2026-11-15T03:41:40.234808Z"
+      }
+    },
+    {
+      "eventId": "rss-a8381ccf0f4a6c2675938f91",
+      "at": "2026-11-15T03:41:40.234808Z",
+      "data": {
+        "id": "rss-a8381ccf0f4a6c2675938f91",
+        "title": "Nvidia的保安队在哪里?",
+        "originalTitle": "Where was Nvidia’s security team?",
+        "summary": "Nvidia的安全负责人在8月悄悄离开,而现在CEOJENNSENE Huang已经放弃了他的关系,包括一名涉嫌向中国输送芯片的公司经理,一位前情报官员说,这是日常谈话的漏水,大多数公司保安团队都很难抓住。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-15T00:08:07Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T03:41:40.234808Z",
+        "updatedAt": "2026-11-15T03:41:40.234808Z"
+      }
+    },
+    {
+      "eventId": "rss-a62b82539253fb0ea7234c2f",
+      "at": "2026-11-15T03:41:40.234808Z",
+      "data": {
+        "id": "rss-a62b82539253fb0ea7234c2f",
+        "title": "我母亲告诉我,如果我寻求埃博拉的治疗,我会死。 我证明你能够生存下去。",
+        "originalTitle": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+        "summary": "刚果(DR)爆发埃博拉疫情时,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-15T00:06:55Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T03:41:40.234808Z",
+        "updatedAt": "2026-11-15T03:41:40.234808Z"
+      }
+    },
+    {
+      "eventId": "rss-9c404fd939f59376d73f8506",
+      "at": "2026-11-15T03:41:40.234808Z",
+      "data": {
+        "id": "rss-9c404fd939f59376d73f8506",
+        "title": "柔道冠军以出乎意料的候选资格 动摇了法国总统竞选",
+        "originalTitle": "Judo champion shakes up French presidential race with surprise candidacy",
+        "summary": "Teddy Rinner是现代法国最受欢迎的人物之一 五分之一的选民说他们可以支持他（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-15T00:06:51Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T03:41:40.234808Z",
+        "updatedAt": "2026-11-15T03:41:40.234808Z"
+      }
+    },
+    {
+      "eventId": "rss-b002785aec9c8c59cdc4fa43",
+      "at": "2026-11-15T03:41:40.234808Z",
+      "data": {
+        "id": "rss-b002785aec9c8c59cdc4fa43",
+        "title": "大卫·琼斯的未来看起来很暗淡。 迈勒是下一个吗 ?",
+        "originalTitle": "David Jones’ future looks grim. Is Myer next?",
+        "summary": "随着Myer的利润率暴跌和股价下跌,DJs进入政府时提出了一个令人不自在的问题:当零售商的门被打开时,顾客们被一排被砍掉的价格标签、疯狂的贴现以及一家百货公司关闭的所有其他标志所欢迎。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-14T23:00:01Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/business/2026/nov/15/myer-david-jones-stores-closures-administration"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T03:41:40.234808Z",
+        "updatedAt": "2026-11-15T03:41:40.234808Z"
+      }
+    },
+    {
+      "eventId": "rss-22f849a8a999828818dbbfcd",
+      "at": "2026-11-15T03:41:40.234808Z",
+      "data": {
+        "id": "rss-22f849a8a999828818dbbfcd",
+        "title": "\"你能相信吗?\" \"太空号在返回地球时 捕捉到部分星际飞船火箭\"",
+        "originalTitle": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+        "summary": "SpaceX使用机械式武器 绰号为\"棍棒\" 来进行历史性的捕捉（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-14T22:09:40Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T03:41:40.234808Z",
+        "updatedAt": "2026-11-15T03:41:40.234808Z"
+      }
+    },
+    {
+      "eventId": "rss-e86112d5f8734949cf99172c",
+      "at": "2026-11-15T03:41:40.234808Z",
+      "data": {
+        "id": "rss-e86112d5f8734949cf99172c",
+        "title": "伊隆・穆斯克,其他技术专家 签署请愿书,呼吁恩维迪亚 恢复黄詹森",
+        "originalTitle": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+        "summary": "从星期六下午起,请愿书吸引了超过115,000人签名。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-14T21:41:22Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T03:41:40.234808Z",
+        "updatedAt": "2026-11-15T03:41:40.234808Z"
+      }
+    },
+    {
+      "eventId": "rss-9e314a8f744ef711f0fd5889",
+      "at": "2026-11-15T03:41:40.234808Z",
+      "data": {
+        "id": "rss-9e314a8f744ef711f0fd5889",
+        "title": "Tesla开通了网络卡预购单, \" 供个人使用 \" ,有地理限制,每月收费299美元",
+        "originalTitle": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+        "summary": "连伊隆·穆斯克都说月费太高了（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-14T20:04:44Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T03:41:40.234808Z",
+        "updatedAt": "2026-11-15T03:41:40.234808Z"
+      }
+    },
+    {
+      "eventId": "rss-1e4c1fc5abc49ad27fd21bc1",
+      "at": "2026-11-15T03:41:40.234808Z",
+      "data": {
+        "id": "rss-1e4c1fc5abc49ad27fd21bc1",
+        "title": "美国运输部长说,铜线升级导致全国飞行暂停",
+        "originalTitle": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+        "summary": "美国政府正试图找出混乱是“无能”还是设备故障造成的。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-14T19:12:25Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T03:41:40.234808Z",
+        "updatedAt": "2026-11-15T03:41:40.234808Z"
+      }
+    },
+    {
+      "eventId": "rss-c629975f6df709bb083666b8",
+      "at": "2026-11-15T03:41:40.234808Z",
+      "data": {
+        "id": "rss-c629975f6df709bb083666b8",
+        "title": "菲律宾卡梅尔在亚洲首次赢得欧洲电视比赛",
+        "originalTitle": "Philippines’ Carmelle wins first Eurovision contest in Asia",
+        "summary": "菲律宾入场、流行和饶舌歌曲索布拉(Sobra-Sobra),用19岁的人在曼谷的决赛中获胜。 卡梅尔·科拉多(Carmelle Collado)赢得了第一次欧洲电视歌曲竞赛亚洲冠军,菲律宾入场的索布拉-索布拉(Sobra-Sobra)于星期六晚上在曼谷的首届区域竞赛中获胜。 11个国家在曼谷市中心的“一个曼谷论坛”上竞争,还有11个国家在曼谷市中心举行的“一个曼谷论坛 ” ( One B曼谷论坛 ) 。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-14T19:01:32Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T03:41:40.234808Z",
+        "updatedAt": "2026-11-15T03:41:40.234808Z"
+      }
+    },
+    {
+      "eventId": "rss-1a37efa5da7cb845637e1dde",
+      "at": "2026-11-15T03:41:40.234808Z",
+      "data": {
+        "id": "rss-1a37efa5da7cb845637e1dde",
+        "title": "连劳工议员也因为维多利亚州总理的青少年罪犯计划而蒙受损失。",
+        "originalTitle": "Even Labor MPs are at a loss over the Victorian premier’s ‘tough love’ plan for youth offenders",
+        "summary": "议员们跨越派系对法律专家所说的“将监禁儿童作为治疗手段”的政策有共同的担忧。 在去年12月之前,Meena Singh是我们每天的政治电子邮件、免费的应用程序或每日新闻播客。 Meena Singh是维多利亚州土著儿童和青年专员,她在这个角色中为州内一些最脆弱的儿童宣传。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-14T19:00:53Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/15/victoria-premier-ben-caroll-youth-crime-offenders-plan-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T03:41:40.234808Z",
+        "updatedAt": "2026-11-15T03:41:40.234808Z"
+      }
+    },
+    {
+      "eventId": "rss-c40b1f8c279a4e208f375ae3",
+      "at": "2026-11-15T03:41:40.234808Z",
+      "data": {
+        "id": "rss-c40b1f8c279a4e208f375ae3",
+        "title": "自由党参议员说,",
+        "originalTitle": "Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages",
+        "summary": "Andrew McLachlan说,他选择“真正的森林而不是虚拟森林”,因为他敦促劳工局政府考虑大赦国际对艺术家和环境的影响。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-14T19:00:52Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T03:41:40.234808Z",
+        "updatedAt": "2026-11-15T03:41:40.234808Z"
+      }
+    },
+    {
+      "eventId": "rss-76599d9076d2b2fa35bd9db8",
+      "at": "2026-11-15T03:41:40.234808Z",
+      "data": {
+        "id": "rss-76599d9076d2b2fa35bd9db8",
+        "title": "菲律宾首次赢得欧洲电视歌曲亚洲比赛",
+        "originalTitle": "Philippines wins first Eurovision Song Contest Asia",
+        "summary": "前锋卡蜜儿赢得了胜利 她的女权增权扩能 国歌索布拉 -索布拉（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-14T18:17:58Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T03:41:40.234808Z",
+        "updatedAt": "2026-11-15T03:41:40.234808Z"
+      }
+    },
+    {
+      "eventId": "rss-d644feeef9f24e33e9adfdd5",
+      "at": "2026-11-15T03:41:40.234808Z",
+      "data": {
+        "id": "rss-d644feeef9f24e33e9adfdd5",
+        "title": "Sotheby拍卖了1800万美元 Van Gogh 声称它是\"在胁迫下出售\"",
+        "originalTitle": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+        "summary": "Sotheby说,它会工作 与家族的继承人 谁以前拥有的艺术作品 试图并达成解决方案。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-14T18:00:10Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T03:41:40.234808Z",
+        "updatedAt": "2026-11-15T03:41:40.234808Z"
+      }
+    },
+    {
+      "eventId": "rss-85e3933679b695fd54f9aa4a",
+      "at": "2026-11-15T03:41:40.234808Z",
+      "data": {
+        "id": "rss-85e3933679b695fd54f9aa4a",
+        "title": "有iPhone Duo吗?",
+        "originalTitle": "Got an iPhone Duo? These 9 settings make it easier to use",
+        "summary": "从触摸识别快捷键到更聪明的音量按钮和摄像把戏 这些微调使苹果的可折叠iPhone 每天更容易使用。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-14T18:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T03:41:40.234808Z",
+        "updatedAt": "2026-11-15T03:41:40.234808Z"
+      }
+    },
+    {
+      "eventId": "rss-fcddece06a43c8c9909dff42",
+      "at": "2026-11-15T03:41:40.234808Z",
+      "data": {
+        "id": "rss-fcddece06a43c8c9909dff42",
+        "title": "运输秘书指责全国停飞的 \" 常规 \" 设备升级",
+        "originalTitle": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+        "summary": "FAA管理员Bryan Bedford 也说\"没有任何证据 与AI有关\"（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-14T17:45:04Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T03:41:40.234808Z",
+        "updatedAt": "2026-11-15T03:41:40.234808Z"
+      }
+    },
+    {
+      "eventId": "rss-0dac5bc8bd77a78df1260cd1",
+      "at": "2026-11-15T03:41:40.234808Z",
+      "data": {
+        "id": "rss-0dac5bc8bd77a78df1260cd1",
+        "title": "AI墓地:一个运行中的项目和新创企业清单,没有成功",
+        "originalTitle": "The AI graveyard: a running list of projects and startups that didn’t make it",
+        "summary": "从苹果公司一再推迟Siri AI到OpenAI的混乱的“超级应用程序”的启动,（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-14T17:30:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T03:41:40.234808Z",
+        "updatedAt": "2026-11-15T03:41:40.234808Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-15T03:41:40.234808Z",
+      "at": "2026-11-15T03:41:40.234808Z",
+      "kind": "GitHub Actions 采集",
+      "count": 20,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 8}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 0}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 6}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 6}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-14T17:27:55.220146Z",
       "at": "2026-11-14T17:27:55.220146Z",
