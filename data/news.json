@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-15T03:41:40.234808Z",
+  "updatedAt": "2026-11-15T18:09:35.853697Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -65506,6 +65506,652 @@
       "tokens": [],
       "firstSeen": "2026-11-15T03:41:40.234808Z",
       "updatedAt": "2026-11-15T03:41:40.234808Z"
+    },
+    {
+      "id": "rss-7c7b29f5e4c81914defe9800",
+      "title": "Zelensky敦促美国和Musk取消星际关系限制,",
+      "originalTitle": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "summary": "乌克兰总统说,限制措施仍在实行,使俄罗斯导弹难以停止。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-15T18:08:20Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T18:09:35.853697Z",
+      "updatedAt": "2026-11-15T18:09:35.853697Z"
+    },
+    {
+      "id": "rss-d3a2c471fef7377be207c92c",
+      "title": "捷克人反对改变公共媒体筹资的计划",
+      "originalTitle": "Czechs rally against plan to switch funding of public media",
+      "summary": "抗议者认为此举会扼杀媒体自由,（机器翻译；尚未完成正文核查。）",
+      "category": "商业 / 宏观",
+      "publishedAt": "2026-11-15T17:23:40Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T18:09:35.853697Z",
+      "updatedAt": "2026-11-15T18:09:35.853697Z"
+    },
+    {
+      "id": "rss-7da8a1038905f9ee953817b8",
+      "title": "TechCrunch 流动性:Nvidia中国自驾车业的后备计划",
+      "originalTitle": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+      "summary": "欢迎回到TechCrunch行动中心 未来的交通枢纽 现在 AI比以往更在其中扮演的角色（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-15T17:05:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T18:09:35.853697Z",
+      "updatedAt": "2026-11-15T18:09:35.853697Z"
+    },
+    {
+      "id": "rss-bc033adbd8215c3fdcbca976",
+      "title": "数以十万计的捷克人在布拉格抗议媒体自由",
+      "originalTitle": "Hundreds of thousands of Czechs protest in Prague over media freedom",
+      "summary": "估计有35万人聚集在布拉格抗议政府试图扼杀媒体自由。 周日为节省资助捷克公共广播公司的强制许可费而举行的集会,可能是该国历史上最大的一次。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-15T16:40:04Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T18:09:35.853697Z",
+      "updatedAt": "2026-11-15T18:09:35.853697Z"
+    },
+    {
+      "id": "rss-4b16e9824721905afe0d28d9",
+      "title": "我们热情推荐的这个节日科技产品",
+      "originalTitle": "The tech products we enthusiastically recommend this holiday season",
+      "summary": "我们今年在TechCrunch 检查了一大堆新工具, 我们有一些明确的最爱 分享你的黑色星期五购物和以后。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-15T16:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T18:09:35.853697Z",
+      "updatedAt": "2026-11-15T18:09:35.853697Z"
+    },
+    {
+      "id": "rss-56dedeeec32c3b29b8bb1150",
+      "title": "与Nvidia在2025年离开的前老板有牵连的中国间谍,",
+      "originalTitle": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "summary": "Nvidia丑闻引发了问题,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-15T14:56:21Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T18:09:35.853697Z",
+      "updatedAt": "2026-11-15T18:09:35.853697Z"
+    },
+    {
+      "id": "rss-2a7d344b49180c070f2700da",
+      "title": "新奥尔良港为\"密西西比号油轮碰撞的奇迹\"提出100万美元的诉讼",
+      "originalTitle": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+      "summary": "新奥尔良官员提出的诉讼还要求扣押与游轮碰撞有关的油轮并出售以支付损失。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-15T14:33:59Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T18:09:35.853697Z",
+      "updatedAt": "2026-11-15T18:09:35.853697Z"
+    },
+    {
+      "id": "rss-b1136cd3ff75b143a082b713",
+      "title": "尽管Aukus交易,但澳大利亚的海军陆战队水手仍被禁止进入美国潜艇。",
+      "originalTitle": "Gender-diverse Australian sailors barred from US submarines despite Aukus deal, documents reveal",
+      "summary": "根据信息自由法发布的国防简报显示,在训练中,澳大利亚国防军遵守美国指令。 获得我们的突发新闻电子邮件、免费应用程序或每日新闻播客Aukus实际上迫使澳大利亚海军遵守美国对军队中变性人的禁令,因为海军中存在性别歧视的新兵无法在核潜艇中就职,因为他们不会在核潜艇中服役。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-15T14:00:19Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/16/gender-diverse-australian-sailors-barred-from-us-submarines-despite-aukus-deal-documents-reveal-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T18:09:35.853697Z",
+      "updatedAt": "2026-11-15T18:09:35.853697Z"
+    },
+    {
+      "id": "rss-aa8e6247d001d1219b1b4395",
+      "title": "伊朗用无人机攻击美国在巴林的军事基地",
+      "originalTitle": "Iran targets US military base in Bahrain with drone attack",
+      "summary": "它标志着三天后第二次袭击美国, 并且随着美国和伊朗在霍尔木兹海峡的对峙而来。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-15T13:42:58Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T18:09:35.853697Z",
+      "updatedAt": "2026-11-15T18:09:35.853697Z"
+    },
+    {
+      "id": "rss-9a149bdd0ac60957348e1e92",
+      "title": "韩国税务会计考试的顶尖得分者承认有作弊行为",
+      "originalTitle": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "summary": "Han Won-sook, 34岁, 供认使用隐藏的相机 和AI 在重大测试上获得近乎完美的标记。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-15T13:37:45Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T18:09:35.853697Z",
+      "updatedAt": "2026-11-15T18:09:35.853697Z"
+    },
+    {
+      "id": "rss-c397a88bd18fc3c070dfe549",
+      "title": "三名男子在约旦因致命的教堂大规模枪击被判死刑",
+      "originalTitle": "Three men sentenced to death in Jordan over fatal church mass shooting",
+      "summary": "上个月对希腊东正教教堂葬礼的袭击造成9人死亡,34人受伤。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-15T11:06:32Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T18:09:35.853697Z",
+      "updatedAt": "2026-11-15T18:09:35.853697Z"
+    },
+    {
+      "id": "rss-725edb5f53ee4146ca548ee0",
+      "title": "第五名加拿大士兵死于军事基地大火造成的伤势",
+      "originalTitle": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+      "summary": "Pte William Douglas Dal Bianco在星期五死于伤势,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-15T09:26:37Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T18:09:35.853697Z",
+      "updatedAt": "2026-11-15T18:09:35.853697Z"
+    },
+    {
+      "id": "rss-32b37ac6f0f1162d352a81a2",
+      "title": "160个问题,只有一个错误:韩国税务考试的顶尖得分者承认AI作弊",
+      "originalTitle": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+      "summary": "对下星期全国大学入学考试的恐惧是作为考试者承认向AI工具发送了问题的照片。 韩国顶尖得分者Zon今年国家税务会计考试的成绩似乎太好,无法证实。 在星期天,当他承认使用基因化AI作弊时,怀疑论是正确的。 丑闻是在他得分后数月的猜测之后发生的。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-15T08:56:11Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T18:09:35.853697Z",
+      "updatedAt": "2026-11-15T18:09:35.853697Z"
+    },
+    {
+      "id": "rss-6b2e3c144cb16d988b0ee6d1",
+      "title": "以色列杀害哈马斯指挥官,袭击加沙难民营,官员说",
+      "originalTitle": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "summary": "哈马斯和以色列国防军官员均证实拉法旅指挥官Samir Abu Younis死亡。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-15T08:17:41Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T18:09:35.853697Z",
+      "updatedAt": "2026-11-15T18:09:35.853697Z"
+    },
+    {
+      "id": "rss-5cebf74d8c3e6f27c3ea080b",
+      "title": "Anthony Albanese欢迎Trump-Xi-Putin峰会, 即使欧洲领导人表示保留,",
+      "originalTitle": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
+      "summary": "“我们认为对话是件好事, ”澳大利亚总理在德国总理敦促美国与欧洲合作在乌克兰实现和平之后说,澳大利亚已经批准了本周在中国举行的唐纳德·川普、习近平和弗拉基米尔·普京之间的历史性峰会,尽管欧洲领导人警告说美国总统决不能对乌克兰的战争做出重大让步。 三方峰会计划采取平局行动。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-15T06:22:32Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T18:09:35.853697Z",
+      "updatedAt": "2026-11-15T18:09:35.853697Z"
+    },
+    {
+      "id": "rss-48c060ca9d409921abfa750d",
+      "title": "世界领导人前往亚洲参加背靠背的外交首脑会议",
+      "originalTitle": "World leaders head to Asia for back-to-back diplomatic summits",
+      "summary": "作为贸易、技术和区域安全的影响力在中国、菲律宾和柬埔寨占据中心位置,本周,世界领导人将前往亚洲参加背靠背的高级别首脑会议,这是在超级大国中国和美国之间争夺影响力的背景下举行的。 当北京欢迎唐纳德·特朗普来到其南部技术枢纽沈茨时,北京将拥有优势。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-15T04:00:02Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T18:09:35.853697Z",
+      "updatedAt": "2026-11-15T18:09:35.853697Z"
+    },
+    {
+      "id": "rss-9b4a6bfe0f1a01c749bffc95",
+      "title": "Anthony Albanese在联盟批评「锁房谈话」后,",
+      "originalTitle": "Anthony Albanese apologises for hot-mic gaffe after Coalition criticises ‘locker-room talk’",
+      "summary": "总理说,他和克里斯·鲍恩在讨论他们的手机存放在哪里时,他们有`轻心的骗局'。 我们的每日政治电子邮件、免费应用程序或每日新闻播客安东尼·阿尔巴内斯在土耳其的联合国气候会谈中为一个热门口号道歉,他说,他很遗憾在坦率的谈话中听到有人在讨论移动电话辐射和“dicks”时。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-15T03:49:21Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-apologises-for-hot-mic-gaffe-after-coalition-criticises-locker-room-talk"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-15T18:09:35.853697Z",
+      "updatedAt": "2026-11-15T18:09:35.853697Z"
     }
   ],
   "history": [
@@ -137917,9 +138563,730 @@
         "firstSeen": "2026-11-15T03:41:40.234808Z",
         "updatedAt": "2026-11-15T03:41:40.234808Z"
       }
+    },
+    {
+      "eventId": "rss-7c7b29f5e4c81914defe9800",
+      "at": "2026-11-15T18:09:35.853697Z",
+      "data": {
+        "id": "rss-7c7b29f5e4c81914defe9800",
+        "title": "Zelensky敦促美国和Musk取消星际关系限制,",
+        "originalTitle": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+        "summary": "乌克兰总统说,限制措施仍在实行,使俄罗斯导弹难以停止。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-15T18:08:20Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T18:09:35.853697Z",
+        "updatedAt": "2026-11-15T18:09:35.853697Z"
+      }
+    },
+    {
+      "eventId": "rss-d3a2c471fef7377be207c92c",
+      "at": "2026-11-15T18:09:35.853697Z",
+      "data": {
+        "id": "rss-d3a2c471fef7377be207c92c",
+        "title": "捷克人反对改变公共媒体筹资的计划",
+        "originalTitle": "Czechs rally against plan to switch funding of public media",
+        "summary": "抗议者认为此举会扼杀媒体自由,（机器翻译；尚未完成正文核查。）",
+        "category": "商业 / 宏观",
+        "publishedAt": "2026-11-15T17:23:40Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T18:09:35.853697Z",
+        "updatedAt": "2026-11-15T18:09:35.853697Z"
+      }
+    },
+    {
+      "eventId": "rss-7da8a1038905f9ee953817b8",
+      "at": "2026-11-15T18:09:35.853697Z",
+      "data": {
+        "id": "rss-7da8a1038905f9ee953817b8",
+        "title": "TechCrunch 流动性:Nvidia中国自驾车业的后备计划",
+        "originalTitle": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+        "summary": "欢迎回到TechCrunch行动中心 未来的交通枢纽 现在 AI比以往更在其中扮演的角色（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-15T17:05:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T18:09:35.853697Z",
+        "updatedAt": "2026-11-15T18:09:35.853697Z"
+      }
+    },
+    {
+      "eventId": "rss-bc033adbd8215c3fdcbca976",
+      "at": "2026-11-15T18:09:35.853697Z",
+      "data": {
+        "id": "rss-bc033adbd8215c3fdcbca976",
+        "title": "数以十万计的捷克人在布拉格抗议媒体自由",
+        "originalTitle": "Hundreds of thousands of Czechs protest in Prague over media freedom",
+        "summary": "估计有35万人聚集在布拉格抗议政府试图扼杀媒体自由。 周日为节省资助捷克公共广播公司的强制许可费而举行的集会,可能是该国历史上最大的一次。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-15T16:40:04Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T18:09:35.853697Z",
+        "updatedAt": "2026-11-15T18:09:35.853697Z"
+      }
+    },
+    {
+      "eventId": "rss-4b16e9824721905afe0d28d9",
+      "at": "2026-11-15T18:09:35.853697Z",
+      "data": {
+        "id": "rss-4b16e9824721905afe0d28d9",
+        "title": "我们热情推荐的这个节日科技产品",
+        "originalTitle": "The tech products we enthusiastically recommend this holiday season",
+        "summary": "我们今年在TechCrunch 检查了一大堆新工具, 我们有一些明确的最爱 分享你的黑色星期五购物和以后。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-15T16:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T18:09:35.853697Z",
+        "updatedAt": "2026-11-15T18:09:35.853697Z"
+      }
+    },
+    {
+      "eventId": "rss-56dedeeec32c3b29b8bb1150",
+      "at": "2026-11-15T18:09:35.853697Z",
+      "data": {
+        "id": "rss-56dedeeec32c3b29b8bb1150",
+        "title": "与Nvidia在2025年离开的前老板有牵连的中国间谍,",
+        "originalTitle": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+        "summary": "Nvidia丑闻引发了问题,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-15T14:56:21Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T18:09:35.853697Z",
+        "updatedAt": "2026-11-15T18:09:35.853697Z"
+      }
+    },
+    {
+      "eventId": "rss-2a7d344b49180c070f2700da",
+      "at": "2026-11-15T18:09:35.853697Z",
+      "data": {
+        "id": "rss-2a7d344b49180c070f2700da",
+        "title": "新奥尔良港为\"密西西比号油轮碰撞的奇迹\"提出100万美元的诉讼",
+        "originalTitle": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+        "summary": "新奥尔良官员提出的诉讼还要求扣押与游轮碰撞有关的油轮并出售以支付损失。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-15T14:33:59Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T18:09:35.853697Z",
+        "updatedAt": "2026-11-15T18:09:35.853697Z"
+      }
+    },
+    {
+      "eventId": "rss-b1136cd3ff75b143a082b713",
+      "at": "2026-11-15T18:09:35.853697Z",
+      "data": {
+        "id": "rss-b1136cd3ff75b143a082b713",
+        "title": "尽管Aukus交易,但澳大利亚的海军陆战队水手仍被禁止进入美国潜艇。",
+        "originalTitle": "Gender-diverse Australian sailors barred from US submarines despite Aukus deal, documents reveal",
+        "summary": "根据信息自由法发布的国防简报显示,在训练中,澳大利亚国防军遵守美国指令。 获得我们的突发新闻电子邮件、免费应用程序或每日新闻播客Aukus实际上迫使澳大利亚海军遵守美国对军队中变性人的禁令,因为海军中存在性别歧视的新兵无法在核潜艇中就职,因为他们不会在核潜艇中服役。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-15T14:00:19Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/16/gender-diverse-australian-sailors-barred-from-us-submarines-despite-aukus-deal-documents-reveal-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T18:09:35.853697Z",
+        "updatedAt": "2026-11-15T18:09:35.853697Z"
+      }
+    },
+    {
+      "eventId": "rss-aa8e6247d001d1219b1b4395",
+      "at": "2026-11-15T18:09:35.853697Z",
+      "data": {
+        "id": "rss-aa8e6247d001d1219b1b4395",
+        "title": "伊朗用无人机攻击美国在巴林的军事基地",
+        "originalTitle": "Iran targets US military base in Bahrain with drone attack",
+        "summary": "它标志着三天后第二次袭击美国, 并且随着美国和伊朗在霍尔木兹海峡的对峙而来。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-15T13:42:58Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T18:09:35.853697Z",
+        "updatedAt": "2026-11-15T18:09:35.853697Z"
+      }
+    },
+    {
+      "eventId": "rss-9a149bdd0ac60957348e1e92",
+      "at": "2026-11-15T18:09:35.853697Z",
+      "data": {
+        "id": "rss-9a149bdd0ac60957348e1e92",
+        "title": "韩国税务会计考试的顶尖得分者承认有作弊行为",
+        "originalTitle": "South Korea's top scorer in tax accountancy exam admits cheating",
+        "summary": "Han Won-sook, 34岁, 供认使用隐藏的相机 和AI 在重大测试上获得近乎完美的标记。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-15T13:37:45Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T18:09:35.853697Z",
+        "updatedAt": "2026-11-15T18:09:35.853697Z"
+      }
+    },
+    {
+      "eventId": "rss-c397a88bd18fc3c070dfe549",
+      "at": "2026-11-15T18:09:35.853697Z",
+      "data": {
+        "id": "rss-c397a88bd18fc3c070dfe549",
+        "title": "三名男子在约旦因致命的教堂大规模枪击被判死刑",
+        "originalTitle": "Three men sentenced to death in Jordan over fatal church mass shooting",
+        "summary": "上个月对希腊东正教教堂葬礼的袭击造成9人死亡,34人受伤。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-15T11:06:32Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T18:09:35.853697Z",
+        "updatedAt": "2026-11-15T18:09:35.853697Z"
+      }
+    },
+    {
+      "eventId": "rss-725edb5f53ee4146ca548ee0",
+      "at": "2026-11-15T18:09:35.853697Z",
+      "data": {
+        "id": "rss-725edb5f53ee4146ca548ee0",
+        "title": "第五名加拿大士兵死于军事基地大火造成的伤势",
+        "originalTitle": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+        "summary": "Pte William Douglas Dal Bianco在星期五死于伤势,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-15T09:26:37Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T18:09:35.853697Z",
+        "updatedAt": "2026-11-15T18:09:35.853697Z"
+      }
+    },
+    {
+      "eventId": "rss-32b37ac6f0f1162d352a81a2",
+      "at": "2026-11-15T18:09:35.853697Z",
+      "data": {
+        "id": "rss-32b37ac6f0f1162d352a81a2",
+        "title": "160个问题,只有一个错误:韩国税务考试的顶尖得分者承认AI作弊",
+        "originalTitle": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+        "summary": "对下星期全国大学入学考试的恐惧是作为考试者承认向AI工具发送了问题的照片。 韩国顶尖得分者Zon今年国家税务会计考试的成绩似乎太好,无法证实。 在星期天,当他承认使用基因化AI作弊时,怀疑论是正确的。 丑闻是在他得分后数月的猜测之后发生的。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-15T08:56:11Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T18:09:35.853697Z",
+        "updatedAt": "2026-11-15T18:09:35.853697Z"
+      }
+    },
+    {
+      "eventId": "rss-6b2e3c144cb16d988b0ee6d1",
+      "at": "2026-11-15T18:09:35.853697Z",
+      "data": {
+        "id": "rss-6b2e3c144cb16d988b0ee6d1",
+        "title": "以色列杀害哈马斯指挥官,袭击加沙难民营,官员说",
+        "originalTitle": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+        "summary": "哈马斯和以色列国防军官员均证实拉法旅指挥官Samir Abu Younis死亡。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-15T08:17:41Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T18:09:35.853697Z",
+        "updatedAt": "2026-11-15T18:09:35.853697Z"
+      }
+    },
+    {
+      "eventId": "rss-5cebf74d8c3e6f27c3ea080b",
+      "at": "2026-11-15T18:09:35.853697Z",
+      "data": {
+        "id": "rss-5cebf74d8c3e6f27c3ea080b",
+        "title": "Anthony Albanese欢迎Trump-Xi-Putin峰会, 即使欧洲领导人表示保留,",
+        "originalTitle": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
+        "summary": "“我们认为对话是件好事, ”澳大利亚总理在德国总理敦促美国与欧洲合作在乌克兰实现和平之后说,澳大利亚已经批准了本周在中国举行的唐纳德·川普、习近平和弗拉基米尔·普京之间的历史性峰会,尽管欧洲领导人警告说美国总统决不能对乌克兰的战争做出重大让步。 三方峰会计划采取平局行动。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-15T06:22:32Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T18:09:35.853697Z",
+        "updatedAt": "2026-11-15T18:09:35.853697Z"
+      }
+    },
+    {
+      "eventId": "rss-48c060ca9d409921abfa750d",
+      "at": "2026-11-15T18:09:35.853697Z",
+      "data": {
+        "id": "rss-48c060ca9d409921abfa750d",
+        "title": "世界领导人前往亚洲参加背靠背的外交首脑会议",
+        "originalTitle": "World leaders head to Asia for back-to-back diplomatic summits",
+        "summary": "作为贸易、技术和区域安全的影响力在中国、菲律宾和柬埔寨占据中心位置,本周,世界领导人将前往亚洲参加背靠背的高级别首脑会议,这是在超级大国中国和美国之间争夺影响力的背景下举行的。 当北京欢迎唐纳德·特朗普来到其南部技术枢纽沈茨时,北京将拥有优势。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-15T04:00:02Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T18:09:35.853697Z",
+        "updatedAt": "2026-11-15T18:09:35.853697Z"
+      }
+    },
+    {
+      "eventId": "rss-9b4a6bfe0f1a01c749bffc95",
+      "at": "2026-11-15T18:09:35.853697Z",
+      "data": {
+        "id": "rss-9b4a6bfe0f1a01c749bffc95",
+        "title": "Anthony Albanese在联盟批评「锁房谈话」后,",
+        "originalTitle": "Anthony Albanese apologises for hot-mic gaffe after Coalition criticises ‘locker-room talk’",
+        "summary": "总理说,他和克里斯·鲍恩在讨论他们的手机存放在哪里时,他们有`轻心的骗局'。 我们的每日政治电子邮件、免费应用程序或每日新闻播客安东尼·阿尔巴内斯在土耳其的联合国气候会谈中为一个热门口号道歉,他说,他很遗憾在坦率的谈话中听到有人在讨论移动电话辐射和“dicks”时。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-15T03:49:21Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-apologises-for-hot-mic-gaffe-after-coalition-criticises-locker-room-talk"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-15T18:09:35.853697Z",
+        "updatedAt": "2026-11-15T18:09:35.853697Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-15T18:09:35.853697Z",
+      "at": "2026-11-15T18:09:35.853697Z",
+      "kind": "GitHub Actions 采集",
+      "count": 17,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 9}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 0}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 6}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 2}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-15T03:41:40.234808Z",
       "at": "2026-11-15T03:41:40.234808Z",
