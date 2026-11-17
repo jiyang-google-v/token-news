@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-16T21:25:59.268651Z",
+  "updatedAt": "2026-11-17T05:38:27.583233Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -68470,6 +68470,576 @@
       "tokens": [],
       "firstSeen": "2026-11-16T21:25:59.268651Z",
       "updatedAt": "2026-11-16T21:25:59.268651Z"
+    },
+    {
+      "id": "rss-04d894ef9a3b5a30a6dea514",
+      "title": "俄罗斯、沙特阿拉伯和澳大利亚被命名为历史上最大的CO2出口国",
+      "originalTitle": "Russia, Saudi Arabia and Australia named as biggest CO2 exporters in history",
+      "summary": "1850年以来的化石燃料出口分析与大多数评估不同 — — 根据1850年以来对化石燃料的分析,俄罗斯、沙特阿拉伯和澳大利亚是历史上最大的三个二氧化碳出口国。 俄罗斯名列化石燃料全球出口国名单之首,其煤炭、石油和天然气储量巨大。 对CO2的核算是CO2生产的。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-17T05:00:06Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/environment/2026/nov/17/russia-saudi-arabia-and-australia-named-as-biggest-co2-exporters-in-history"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-17T05:38:27.583233Z",
+      "updatedAt": "2026-11-17T05:38:27.583233Z"
+    },
+    {
+      "id": "rss-5c667d5b9b33b3b4a8c4079d",
+      "title": "寻求庇护者在最后的“一进一出”英国-法国航班上感到他们正在被“惩罚”",
+      "originalTitle": "Asylum seekers on final ‘one in, one out’ UK-France flight feel they are being ‘punished’",
+      "summary": "许多在船上的人在逃离法国偷运者的威胁后第二次被驱逐。 许多在星期二最后的“一进一出”驱逐航班上寻求庇护的人是在他们被强行遣返法国后返回联合王国逃离偷运者威胁的人。 据认为,几百名被送回法国的寻求庇护者已经返回了法国。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-17T05:00:06Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/17/asylum-seekers-one-in-one-out-uk-france-smugglers"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-17T05:38:27.583233Z",
+      "updatedAt": "2026-11-17T05:38:27.583233Z"
+    },
+    {
+      "id": "rss-4206522a06967a5709c9def6",
+      "title": "塞尔维亚学生名单候选人在大选胜利后宣誓就任议员",
+      "originalTitle": "Serbia’s Student List candidates to be sworn in as MPs after election triumph",
+      "summary": "议会成立典礼是当被推翻的民粹主义者阿列克桑达尔·武契奇(Aleksandar Vučić)威胁着他自己的塞尔维亚学生名单候选人的大规模抗议。 上个月在民粹主义者领袖阿列克桑达尔·武契奇(Aleksandar Vučić)的党选举中赢得了巨大胜利的政治外行基层运动在他们开始组建政府的过程中将宣誓就职。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-17T05:00:05Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/17/serbia-student-list-mps-sworn-in-election-triumph"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-17T05:38:27.583233Z",
+      "updatedAt": "2026-11-17T05:38:27.583233Z"
+    },
+    {
+      "id": "rss-3fbfaaf4424cc666f3fb39d6",
+      "title": "反对提高利率的非洲区域局董事会成员警告说,“经济下滑幅度要大得多”。",
+      "originalTitle": "RBA board members who voted against rate hike warned of ‘materially sharper downturn’",
+      "summary": "我们的突发新闻电子邮件、免费应用程序或每日新闻播客储备银行董事会成员投票反对本月官方利率上升,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-17T04:05:04Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/17/myefo-mid-year-budget-update-australia-treasurer-jim-chalmers"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-17T05:38:27.583233Z",
+      "updatedAt": "2026-11-17T05:38:27.583233Z"
+    },
+    {
+      "id": "rss-3dd3997f6ac64a0a0fe1cc36",
+      "title": "CFMEU 推动让臭名昭著的Bandidos成员 受雇于建筑项目, 大建筑皇家委员会听到",
+      "originalTitle": "CFMEU pushed to get notorious Bandidos member hired on construction project, Big Build royal commission hears",
+      "summary": "Bikie Joel Leavitt有犯罪史, 包括暴动、暴动和袭击警察, 他向警方询问,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-17T03:51:23Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/17/cfmeu-bandidos-bikie-joel-leavitt-big-build-royal-commission-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-17T05:38:27.583233Z",
+      "updatedAt": "2026-11-17T05:38:27.583233Z"
+    },
+    {
+      "id": "rss-d2be8e5c91bfef66e4110fad",
+      "title": "\" 让我和Snez谈谈 \" :法庭听到Sam Wood的录音说,妻子Snezana可以反驳家庭暴力指控",
+      "originalTitle": "‘Let me talk to Snez’: court hears recording of Sam Wood saying wife Snezana could recant domestic violence allegations",
+      "summary": "昆士兰法庭曾播放过前学士明星Sam Wood的监狱录音, 因为他告诉父亲他需要和妻子Sne谈谈。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-17T03:27:05Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/17/sam-wood-snezana-bail-domestic-violence-allegations-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-17T05:38:27.583233Z",
+      "updatedAt": "2026-11-17T05:38:27.583233Z"
+    },
+    {
+      "id": "rss-64753fba297cf7c7b9279249",
+      "title": "David Jones的债务总额超过4亿美元, 包括欠员工的数百万美元,",
+      "originalTitle": "David Jones’ total debt is over $400m including millions owed to staff, administrators confirm",
+      "summary": "债权人会议听到高市零售商欠员工1 100万美元,并记录了去年财政年度净损失228万美元。 抓住我们的突发新闻电子邮件、免费应用程序或每日新闻播客,本月早些时候,由于经济损失加剧,名誉受损威胁到其在圣诞节的货架库存能力,致使股市零售商David Jones在本月早些时候倒闭,造成4亿多美元的损失。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-17T02:11:43Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/business/2026/nov/17/david-jones-creditors-meeting-debt-administrators"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-17T05:38:27.583233Z",
+      "updatedAt": "2026-11-17T05:38:27.583233Z"
+    },
+    {
+      "id": "rss-ef579e332aa23dc0dc266961",
+      "title": "Rio Tinto同意支付2.5亿美元,以开始修复Panguna矿井留下的 \" 蒸发站 \" 。",
+      "originalTitle": "Rio Tinto agrees to pay US$250m to begin repairing ‘devastation’ left by Panguna mine",
+      "summary": "社区领袖说,基金给了我们机会找到解决“我们自采矿活动以来所经历的重大问题”的办法。 英澳矿工Rio Tinto同意支付25亿美元,以开始清理三十多年前放弃的有毒潘古纳矿场。 潘古纳曾经是世界上利润最高的金铜矿之一,但后来却被关闭。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-17T02:02:30Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/17/rio-tinto-250m-panguna-mine-clean-up-bougainville-png"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-17T05:38:27.583233Z",
+      "updatedAt": "2026-11-17T05:38:27.583233Z"
+    },
+    {
+      "id": "rss-55ee5feb0ebc0de1f0be6eea",
+      "title": "新西兰的花招和年假 -- -- 参加GTA 6的球迷们要参加的时间",
+      "originalTitle": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+      "summary": "传感器塔估计游戏已经从 PlayStation 和 Xbox 的预购中提取了 1. 18 bn 。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-17T01:04:45Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-17T05:38:27.583233Z",
+      "updatedAt": "2026-11-17T05:38:27.583233Z"
+    },
+    {
+      "id": "rss-24baf68da2c147d6568a9bc4",
+      "title": "网络安全 AI 启动 Corma 在大约三个月内达到1B的估价",
+      "originalTitle": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "summary": "自推出其产品三个月后,AI网络安全启动公司以NEA为首的10亿美元价值筹集了1.25亿美元A系列。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-16T23:32:32Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-17T05:38:27.583233Z",
+      "updatedAt": "2026-11-17T05:38:27.583233Z"
+    },
+    {
+      "id": "rss-32ba01daa8e41ea7b4d000df",
+      "title": "人工智能的创业者 修复印度的破烂道路 和乱七八糟的土地记录",
+      "originalTitle": "The AI start-ups fixing India's broken roads and messy land records",
+      "summary": "从法律技术到医疗, 几十个印度AI创业者 正在解决印度独有的挑战。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-16T23:25:53Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-17T05:38:27.583233Z",
+      "updatedAt": "2026-11-17T05:38:27.583233Z"
+    },
+    {
+      "id": "rss-56c2cb6720edfceee1fb9713",
+      "title": "加利福尼亚州起诉OpenAI 罪名是抓人的脸部攻击",
+      "originalTitle": "California sues OpenAI over Hugging Face attack",
+      "summary": "Rob Bonta总检察长指控OpenAI误导并危害公众（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-16T23:12:24Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-17T05:38:27.583233Z",
+      "updatedAt": "2026-11-17T05:38:27.583233Z"
+    },
+    {
+      "id": "rss-2eb40b35936970671ffcf0ea",
+      "title": "网络巨头Infoblox在黑客访问“公司信息”后确认安全事件。",
+      "originalTitle": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+      "summary": "网络安全与自动化巨头说 与外部调查员合作 了解破解的规模（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-16T22:12:31Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-17T05:38:27.583233Z",
+      "updatedAt": "2026-11-17T05:38:27.583233Z"
+    },
+    {
+      "id": "rss-4f20b6480ffff64be135936d",
+      "title": "Nvidia在周二应该回答的所有问题,",
+      "originalTitle": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "summary": "Nvidia临时首席执行官和CFO Colette Kress将在星期二有她职业生涯中最大的一天,当该公司报告其第三季度的结果时。 鉴于Nvidia处于动荡状态,Nvidia应该回答一些问题。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-16T22:03:02Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-17T05:38:27.583233Z",
+      "updatedAt": "2026-11-17T05:38:27.583233Z"
+    },
+    {
+      "id": "rss-74dca108d80eb27cbdb79445",
+      "title": "胡塞叛军在也门的进军可能会进一步破坏全球经济的稳定",
+      "originalTitle": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "summary": "伊朗支持的Houthis正在获得支持, 他们的进步可能会带来危险的后果,（机器翻译；尚未完成正文核查。）",
+      "category": "商业 / 宏观",
+      "publishedAt": "2026-11-16T21:40:07Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-17T05:38:27.583233Z",
+      "updatedAt": "2026-11-17T05:38:27.583233Z"
     }
   ],
   "history": [
@@ -144157,9 +144727,646 @@
         "firstSeen": "2026-11-16T21:25:59.268651Z",
         "updatedAt": "2026-11-16T21:25:59.268651Z"
       }
+    },
+    {
+      "eventId": "rss-04d894ef9a3b5a30a6dea514",
+      "at": "2026-11-17T05:38:27.583233Z",
+      "data": {
+        "id": "rss-04d894ef9a3b5a30a6dea514",
+        "title": "俄罗斯、沙特阿拉伯和澳大利亚被命名为历史上最大的CO2出口国",
+        "originalTitle": "Russia, Saudi Arabia and Australia named as biggest CO2 exporters in history",
+        "summary": "1850年以来的化石燃料出口分析与大多数评估不同 — — 根据1850年以来对化石燃料的分析,俄罗斯、沙特阿拉伯和澳大利亚是历史上最大的三个二氧化碳出口国。 俄罗斯名列化石燃料全球出口国名单之首,其煤炭、石油和天然气储量巨大。 对CO2的核算是CO2生产的。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-17T05:00:06Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/environment/2026/nov/17/russia-saudi-arabia-and-australia-named-as-biggest-co2-exporters-in-history"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-17T05:38:27.583233Z",
+        "updatedAt": "2026-11-17T05:38:27.583233Z"
+      }
+    },
+    {
+      "eventId": "rss-5c667d5b9b33b3b4a8c4079d",
+      "at": "2026-11-17T05:38:27.583233Z",
+      "data": {
+        "id": "rss-5c667d5b9b33b3b4a8c4079d",
+        "title": "寻求庇护者在最后的“一进一出”英国-法国航班上感到他们正在被“惩罚”",
+        "originalTitle": "Asylum seekers on final ‘one in, one out’ UK-France flight feel they are being ‘punished’",
+        "summary": "许多在船上的人在逃离法国偷运者的威胁后第二次被驱逐。 许多在星期二最后的“一进一出”驱逐航班上寻求庇护的人是在他们被强行遣返法国后返回联合王国逃离偷运者威胁的人。 据认为,几百名被送回法国的寻求庇护者已经返回了法国。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-17T05:00:06Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/uk-news/2026/nov/17/asylum-seekers-one-in-one-out-uk-france-smugglers"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-17T05:38:27.583233Z",
+        "updatedAt": "2026-11-17T05:38:27.583233Z"
+      }
+    },
+    {
+      "eventId": "rss-4206522a06967a5709c9def6",
+      "at": "2026-11-17T05:38:27.583233Z",
+      "data": {
+        "id": "rss-4206522a06967a5709c9def6",
+        "title": "塞尔维亚学生名单候选人在大选胜利后宣誓就任议员",
+        "originalTitle": "Serbia’s Student List candidates to be sworn in as MPs after election triumph",
+        "summary": "议会成立典礼是当被推翻的民粹主义者阿列克桑达尔·武契奇(Aleksandar Vučić)威胁着他自己的塞尔维亚学生名单候选人的大规模抗议。 上个月在民粹主义者领袖阿列克桑达尔·武契奇(Aleksandar Vučić)的党选举中赢得了巨大胜利的政治外行基层运动在他们开始组建政府的过程中将宣誓就职。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-17T05:00:05Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/17/serbia-student-list-mps-sworn-in-election-triumph"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-17T05:38:27.583233Z",
+        "updatedAt": "2026-11-17T05:38:27.583233Z"
+      }
+    },
+    {
+      "eventId": "rss-3fbfaaf4424cc666f3fb39d6",
+      "at": "2026-11-17T05:38:27.583233Z",
+      "data": {
+        "id": "rss-3fbfaaf4424cc666f3fb39d6",
+        "title": "反对提高利率的非洲区域局董事会成员警告说,“经济下滑幅度要大得多”。",
+        "originalTitle": "RBA board members who voted against rate hike warned of ‘materially sharper downturn’",
+        "summary": "我们的突发新闻电子邮件、免费应用程序或每日新闻播客储备银行董事会成员投票反对本月官方利率上升,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-17T04:05:04Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/17/myefo-mid-year-budget-update-australia-treasurer-jim-chalmers"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-17T05:38:27.583233Z",
+        "updatedAt": "2026-11-17T05:38:27.583233Z"
+      }
+    },
+    {
+      "eventId": "rss-3dd3997f6ac64a0a0fe1cc36",
+      "at": "2026-11-17T05:38:27.583233Z",
+      "data": {
+        "id": "rss-3dd3997f6ac64a0a0fe1cc36",
+        "title": "CFMEU 推动让臭名昭著的Bandidos成员 受雇于建筑项目, 大建筑皇家委员会听到",
+        "originalTitle": "CFMEU pushed to get notorious Bandidos member hired on construction project, Big Build royal commission hears",
+        "summary": "Bikie Joel Leavitt有犯罪史, 包括暴动、暴动和袭击警察, 他向警方询问,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-17T03:51:23Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/17/cfmeu-bandidos-bikie-joel-leavitt-big-build-royal-commission-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-17T05:38:27.583233Z",
+        "updatedAt": "2026-11-17T05:38:27.583233Z"
+      }
+    },
+    {
+      "eventId": "rss-d2be8e5c91bfef66e4110fad",
+      "at": "2026-11-17T05:38:27.583233Z",
+      "data": {
+        "id": "rss-d2be8e5c91bfef66e4110fad",
+        "title": "\" 让我和Snez谈谈 \" :法庭听到Sam Wood的录音说,妻子Snezana可以反驳家庭暴力指控",
+        "originalTitle": "‘Let me talk to Snez’: court hears recording of Sam Wood saying wife Snezana could recant domestic violence allegations",
+        "summary": "昆士兰法庭曾播放过前学士明星Sam Wood的监狱录音, 因为他告诉父亲他需要和妻子Sne谈谈。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-17T03:27:05Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/17/sam-wood-snezana-bail-domestic-violence-allegations-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-17T05:38:27.583233Z",
+        "updatedAt": "2026-11-17T05:38:27.583233Z"
+      }
+    },
+    {
+      "eventId": "rss-64753fba297cf7c7b9279249",
+      "at": "2026-11-17T05:38:27.583233Z",
+      "data": {
+        "id": "rss-64753fba297cf7c7b9279249",
+        "title": "David Jones的债务总额超过4亿美元, 包括欠员工的数百万美元,",
+        "originalTitle": "David Jones’ total debt is over $400m including millions owed to staff, administrators confirm",
+        "summary": "债权人会议听到高市零售商欠员工1 100万美元,并记录了去年财政年度净损失228万美元。 抓住我们的突发新闻电子邮件、免费应用程序或每日新闻播客,本月早些时候,由于经济损失加剧,名誉受损威胁到其在圣诞节的货架库存能力,致使股市零售商David Jones在本月早些时候倒闭,造成4亿多美元的损失。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-17T02:11:43Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/business/2026/nov/17/david-jones-creditors-meeting-debt-administrators"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-17T05:38:27.583233Z",
+        "updatedAt": "2026-11-17T05:38:27.583233Z"
+      }
+    },
+    {
+      "eventId": "rss-ef579e332aa23dc0dc266961",
+      "at": "2026-11-17T05:38:27.583233Z",
+      "data": {
+        "id": "rss-ef579e332aa23dc0dc266961",
+        "title": "Rio Tinto同意支付2.5亿美元,以开始修复Panguna矿井留下的 \" 蒸发站 \" 。",
+        "originalTitle": "Rio Tinto agrees to pay US$250m to begin repairing ‘devastation’ left by Panguna mine",
+        "summary": "社区领袖说,基金给了我们机会找到解决“我们自采矿活动以来所经历的重大问题”的办法。 英澳矿工Rio Tinto同意支付25亿美元,以开始清理三十多年前放弃的有毒潘古纳矿场。 潘古纳曾经是世界上利润最高的金铜矿之一,但后来却被关闭。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-17T02:02:30Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/17/rio-tinto-250m-panguna-mine-clean-up-bougainville-png"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-17T05:38:27.583233Z",
+        "updatedAt": "2026-11-17T05:38:27.583233Z"
+      }
+    },
+    {
+      "eventId": "rss-55ee5feb0ebc0de1f0be6eea",
+      "at": "2026-11-17T05:38:27.583233Z",
+      "data": {
+        "id": "rss-55ee5feb0ebc0de1f0be6eea",
+        "title": "新西兰的花招和年假 -- -- 参加GTA 6的球迷们要参加的时间",
+        "originalTitle": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+        "summary": "传感器塔估计游戏已经从 PlayStation 和 Xbox 的预购中提取了 1. 18 bn 。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-17T01:04:45Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-17T05:38:27.583233Z",
+        "updatedAt": "2026-11-17T05:38:27.583233Z"
+      }
+    },
+    {
+      "eventId": "rss-24baf68da2c147d6568a9bc4",
+      "at": "2026-11-17T05:38:27.583233Z",
+      "data": {
+        "id": "rss-24baf68da2c147d6568a9bc4",
+        "title": "网络安全 AI 启动 Corma 在大约三个月内达到1B的估价",
+        "originalTitle": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+        "summary": "自推出其产品三个月后,AI网络安全启动公司以NEA为首的10亿美元价值筹集了1.25亿美元A系列。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-16T23:32:32Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-17T05:38:27.583233Z",
+        "updatedAt": "2026-11-17T05:38:27.583233Z"
+      }
+    },
+    {
+      "eventId": "rss-32ba01daa8e41ea7b4d000df",
+      "at": "2026-11-17T05:38:27.583233Z",
+      "data": {
+        "id": "rss-32ba01daa8e41ea7b4d000df",
+        "title": "人工智能的创业者 修复印度的破烂道路 和乱七八糟的土地记录",
+        "originalTitle": "The AI start-ups fixing India's broken roads and messy land records",
+        "summary": "从法律技术到医疗, 几十个印度AI创业者 正在解决印度独有的挑战。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-16T23:25:53Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-17T05:38:27.583233Z",
+        "updatedAt": "2026-11-17T05:38:27.583233Z"
+      }
+    },
+    {
+      "eventId": "rss-56c2cb6720edfceee1fb9713",
+      "at": "2026-11-17T05:38:27.583233Z",
+      "data": {
+        "id": "rss-56c2cb6720edfceee1fb9713",
+        "title": "加利福尼亚州起诉OpenAI 罪名是抓人的脸部攻击",
+        "originalTitle": "California sues OpenAI over Hugging Face attack",
+        "summary": "Rob Bonta总检察长指控OpenAI误导并危害公众（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-16T23:12:24Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-17T05:38:27.583233Z",
+        "updatedAt": "2026-11-17T05:38:27.583233Z"
+      }
+    },
+    {
+      "eventId": "rss-2eb40b35936970671ffcf0ea",
+      "at": "2026-11-17T05:38:27.583233Z",
+      "data": {
+        "id": "rss-2eb40b35936970671ffcf0ea",
+        "title": "网络巨头Infoblox在黑客访问“公司信息”后确认安全事件。",
+        "originalTitle": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+        "summary": "网络安全与自动化巨头说 与外部调查员合作 了解破解的规模（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-16T22:12:31Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-17T05:38:27.583233Z",
+        "updatedAt": "2026-11-17T05:38:27.583233Z"
+      }
+    },
+    {
+      "eventId": "rss-4f20b6480ffff64be135936d",
+      "at": "2026-11-17T05:38:27.583233Z",
+      "data": {
+        "id": "rss-4f20b6480ffff64be135936d",
+        "title": "Nvidia在周二应该回答的所有问题,",
+        "originalTitle": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+        "summary": "Nvidia临时首席执行官和CFO Colette Kress将在星期二有她职业生涯中最大的一天,当该公司报告其第三季度的结果时。 鉴于Nvidia处于动荡状态,Nvidia应该回答一些问题。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-16T22:03:02Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-17T05:38:27.583233Z",
+        "updatedAt": "2026-11-17T05:38:27.583233Z"
+      }
+    },
+    {
+      "eventId": "rss-74dca108d80eb27cbdb79445",
+      "at": "2026-11-17T05:38:27.583233Z",
+      "data": {
+        "id": "rss-74dca108d80eb27cbdb79445",
+        "title": "胡塞叛军在也门的进军可能会进一步破坏全球经济的稳定",
+        "originalTitle": "Houthi rebel advance in Yemen may further destabilise global economy",
+        "summary": "伊朗支持的Houthis正在获得支持, 他们的进步可能会带来危险的后果,（机器翻译；尚未完成正文核查。）",
+        "category": "商业 / 宏观",
+        "publishedAt": "2026-11-16T21:40:07Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-17T05:38:27.583233Z",
+        "updatedAt": "2026-11-17T05:38:27.583233Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-17T05:38:27.583233Z",
+      "at": "2026-11-17T05:38:27.583233Z",
+      "kind": "GitHub Actions 采集",
+      "count": 15,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 1}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 3}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 8}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 3}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-16T21:25:59.268651Z",
       "at": "2026-11-16T21:25:59.268651Z",
