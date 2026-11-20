@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-19T19:44:39.704029Z",
+  "updatedAt": "2026-11-20T04:47:15.107912Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -76754,6 +76754,880 @@
       "tokens": [],
       "firstSeen": "2026-11-19T19:44:39.704029Z",
       "updatedAt": "2026-11-19T19:44:39.704029Z"
+    },
+    {
+      "id": "rss-0650b0415999f05713dc0622",
+      "title": "在墨尔本发生社区反弹后,",
+      "originalTitle": "NextDC vows to keep future datacentres away from homes after community backlash in Melbourne",
+      "summary": "在AI时代,社区对数据中心的期望发生了变化。 首席执行官Craig Scrogggie(Craig Scroggie)说,社区对墨尔本市内部数据中心扩张的反弹导致NextDC股价下跌40%将改变该公司与社区接触的方式 — — 并说公司将不再在家庭附近寻求新的发展。 该公司举行了其第一次年度大会。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-20T04:37:08Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-20T04:47:15.107912Z",
+      "updatedAt": "2026-11-20T04:47:15.107912Z"
+    },
+    {
+      "id": "rss-5d830a8018231fbe64a05de9",
+      "title": "英国和欧盟同意青年流动计划,英国广播公司理解",
+      "originalTitle": "UK and EU to agree youth mobility scheme, BBC understands",
+      "summary": "预计该计划将在星期五的英国-欧盟首脑会议上获得批准,有关食品贸易和碳排放的新交易也将摆在桌面上。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-20T04:35:51Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-20T04:47:15.107912Z",
+      "updatedAt": "2026-11-20T04:47:15.107912Z"
+    },
+    {
+      "id": "rss-12e8d02e6f8f591f582fd2f6",
+      "title": "`完美武器 ' :糖尿病妇女被判犯有用胰岛素谋杀其94岁父母的罪行",
+      "originalTitle": "‘Perfect weapon’: diabetic woman found guilty of murdering her 94-year-old parents with insulin",
+      "summary": "在南澳大利亚州最高法院经过四个月的审判后,陪审团判定一名糖尿病妇女犯有在马拉松刑事审判后用胰岛素杀死她双亲的罪行。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-20T04:15:16Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/20/diabetic-woman-found-guilty-murdering-94-year-old-parents-with-insulin-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-20T04:47:15.107912Z",
+      "updatedAt": "2026-11-20T04:47:15.107912Z"
+    },
+    {
+      "id": "rss-8df418cc1b024dda916e8c6c",
+      "title": "中国发布富士山警告 以示失踪登山者家属的赏金",
+      "originalTitle": "China issues Mount Fuji warning as family of missing climber offers reward",
+      "summary": "陈洁家提供的七万五千元赏金 引发了对鲁莽攀爬的恐惧（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-20T04:13:22Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-20T04:47:15.107912Z",
+      "updatedAt": "2026-11-20T04:47:15.107912Z"
+    },
+    {
+      "id": "rss-5ef06037f3faa4d55810acc9",
+      "title": "GTA 6间歇记录为销售额最高2.3bn -- -- 行业估计",
+      "originalTitle": "GTA 6 breaks records as sales top $2.3bn - industry estimate",
+      "summary": "摇滚明星运动会结束了13年的等待 预计将是有史以来最大的娱乐活动（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-20T02:54:40Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-20T04:47:15.107912Z",
+      "updatedAt": "2026-11-20T04:47:15.107912Z"
+    },
+    {
+      "id": "rss-8288c457eabd2464774e3857",
+      "title": "苹果公司可能正在开发自己的人工智能代理 管理你的Mac",
+      "originalTitle": "Apple may be developing its own AI agent that runs your Mac",
+      "summary": "iPhone制造商似乎是建筑代理 能够与Meta Muse、Instinct、Claude 和 OpenAI Dots等公司竞争。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-20T00:56:01Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-20T04:47:15.107912Z",
+      "updatedAt": "2026-11-20T04:47:15.107912Z"
+    },
+    {
+      "id": "rss-327354b7a28e2854b8fde8df",
+      "title": "人类的7个创始人 在破纪录的IPO中赚了近2B",
+      "originalTitle": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "summary": "人类七大创始人每人拥有2.8亿美元, 而公司则拥有近1 050亿美元。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-20T00:43:50Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-20T04:47:15.107912Z",
+      "updatedAt": "2026-11-20T04:47:15.107912Z"
+    },
+    {
+      "id": "rss-126a1d2c7faef337fba6a2e0",
+      "title": "人类的对手说,公司可以(大部分)跳过价格高的模型",
+      "originalTitle": "Anthropic rival says companies can (mostly) skip the pricey models",
+      "summary": "在人类活动公开的那一天,国际烟火公司的共同创始人将开放源码模型作为更廉价的替代方法,并处理了损害公司某些客户信任的违约行为。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-20T00:26:03Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-20T04:47:15.107912Z",
+      "updatedAt": "2026-11-20T04:47:15.107912Z"
+    },
+    {
+      "id": "rss-9b88dcdae38198883b66699b",
+      "title": "根据澳大利亚法律, 宗教应该从恐怖主义定义中去除,",
+      "originalTitle": "Religion should be removed from terrorism definition under Australian law as it gives ‘false credibility’, watchdog says",
+      "summary": "独立国家安全立法监测员指出,提及宗教“助长了对宗教少数群体的歧视和暴力 ” , 将我们的突发新闻电子邮件、免费应用程序或每日新闻播客从澳大利亚的恐怖主义定义中删除,而制造炸弹威胁不应导致终身监禁,正如澳大利亚国家安全法监督员所说。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-20T00:19:57Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/law/2026/nov/20/religion-should-removed-from-terrorism-definition-australian-law-gives-false-credibility-watchdog-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-20T04:47:15.107912Z",
+      "updatedAt": "2026-11-20T04:47:15.107912Z"
+    },
+    {
+      "id": "rss-bc4ef92461324ec8ebd29204",
+      "title": "美国警告说,向澳大利亚提供核动力潜艇将减少自己的舰队,“许多年”。",
+      "originalTitle": "US warned supplying nuclear-powered submarines to Australia would diminish its own fleet for ‘many years’",
+      "summary": "国会预算办公室还质疑澳大利亚国旗的船只是否会在奥库斯协议下被迫与中国发生冲突。 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客。 向澳大利亚提供核动力潜艇将减少美国海军自己的舰队“许多年 ” 。 美国国会的一份新报告警告,质疑澳大利亚国旗是否与中国有冲突。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-20T00:16:29Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/20/aukus-defence-us-warned-supplying-nuclear-powered-submarines-to-australia-would-diminish-its-own-fleet-for-many-years"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-20T04:47:15.107912Z",
+      "updatedAt": "2026-11-20T04:47:15.107912Z"
+    },
+    {
+      "id": "rss-923a007fa0f3d1a776a49913",
+      "title": "“我告诉我的儿子这只是烟火”: 被围困的也门城市里的人跟英国广播公司说",
+      "originalTitle": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "summary": "Orla Guerin对被胡塞人困在塔伊兹的七个人说,他们揭示了被围困的生活。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-20T00:13:21Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-20T04:47:15.107912Z",
+      "updatedAt": "2026-11-20T04:47:15.107912Z"
+    },
+    {
+      "id": "rss-4bbafec6b8ea82af1d94f004",
+      "title": "数万个英国冰箱 由黑客秘密操作",
+      "originalTitle": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+      "summary": "超市、仓库、餐馆和体育场都忙着制造安全装置。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-20T00:02:07Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-20T04:47:15.107912Z",
+      "updatedAt": "2026-11-20T04:47:15.107912Z"
+    },
+    {
+      "id": "rss-1f1b3b7bf5bc780151838beb",
+      "title": "特朗普在死后赦免了美国棒球传奇人物皮特·罗斯",
+      "originalTitle": "Trump posthumously pardons US baseball legend Pete Rose",
+      "summary": "2024年去世的萝丝 因赌博被判终身禁赛 但去年又复职了（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-19T23:51:50Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-20T04:47:15.107912Z",
+      "updatedAt": "2026-11-20T04:47:15.107912Z"
+    },
+    {
+      "id": "rss-4a8309431ec4f0870ed87973",
+      "title": "在辛辛那提动物园吞下帽子后 河马菲奥娜死了",
+      "originalTitle": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+      "summary": "Fiona在2017年早产后成为互联网明星,（机器翻译；尚未完成正文核查。）",
+      "category": "动物 / 自然",
+      "publishedAt": "2026-11-19T23:40:29Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-20T04:47:15.107912Z",
+      "updatedAt": "2026-11-20T04:47:15.107912Z"
+    },
+    {
+      "id": "rss-a52aba1fad9e967401f5751a",
+      "title": "Elon Musk说SpaceX有消除手机死亡区的计划",
+      "originalTitle": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+      "summary": "SpaceX CEO Elon Musk说,该公司已完成了小型屋顶手机塔的设计,该塔可以更好地覆盖移动电话,消除死亡区。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-19T23:37:56Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-20T04:47:15.107912Z",
+      "updatedAt": "2026-11-20T04:47:15.107912Z"
+    },
+    {
+      "id": "rss-8febbadd7da71c0fac3b4a13",
+      "title": "人类成为世界上最有价值 的上市公司之一 股市首映",
+      "originalTitle": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "summary": "人类学是第一个公开上市的纯粹的AI公司,对整个行业都产生了一种检验标准。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-19T23:33:51Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-20T04:47:15.107912Z",
+      "updatedAt": "2026-11-20T04:47:15.107912Z"
+    },
+    {
+      "id": "rss-a178720431e75cf71a994bda",
+      "title": "加州目标Nvidia 在中国AI芯片探测器",
+      "originalTitle": "California targets Nvidia in China AI chip probe",
+      "summary": "加州的探险 AI芯片制造者拥有全球总部 跟踪前CEOJENNSON Huang的离任（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-19T23:04:30Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-20T04:47:15.107912Z",
+      "updatedAt": "2026-11-20T04:47:15.107912Z"
+    },
+    {
+      "id": "rss-fbc93b31b43bde95e4a43fff",
+      "title": "法官认为Thomas Markle在精神上适合接受虐待儿童指控的审判",
+      "originalTitle": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+      "summary": "Markle否认拥有儿童性虐待的图像,经法院指定的精神病医生评估后,认为他具有行为能力。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-19T22:48:22Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-20T04:47:15.107912Z",
+      "updatedAt": "2026-11-20T04:47:15.107912Z"
+    },
+    {
+      "id": "rss-255531d94837d2277537ebbd",
+      "title": "想要看到你在 Mac 图标上的 人工智能现场使用吗? 这个聪明的新应用程序让你",
+      "originalTitle": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+      "summary": "图标Swapper 将您的 Mac 应用程序图标带给生活, 包括实时数据、动画和有趣的定制, 让桌面更有趣 。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-19T22:33:26Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-20T04:47:15.107912Z",
+      "updatedAt": "2026-11-20T04:47:15.107912Z"
+    },
+    {
+      "id": "rss-094a4dd2aa9bf45ff9eca9b6",
+      "title": "Meta的新Muse Charm设备可能花费300美元。",
+      "originalTitle": "Meta’s new Muse Charm device may cost $300",
+      "summary": "Meta没有否认消息社的报道,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-19T21:58:06Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-20T04:47:15.107912Z",
+      "updatedAt": "2026-11-20T04:47:15.107912Z"
+    },
+    {
+      "id": "rss-80283102200146719cd0e93f",
+      "title": "这些技术故障 给Y2K,AI代理风格",
+      "originalTitle": "These tech outages are giving Y2K, AI agent style",
+      "summary": "最近航空公司订票系统、银行平台和生产率平台的停电是否真的是一个巧合? 网络安全专家说,实际上可能还有更深层次的事情发生。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-19T21:42:31Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-20T04:47:15.107912Z",
+      "updatedAt": "2026-11-20T04:47:15.107912Z"
+    },
+    {
+      "id": "rss-65a3912905c8aec9f543dd65",
+      "title": "10岁小孩接受Uber测试,司机加薪",
+      "originalTitle": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+      "summary": "Uber正在三个美国城市测试新程序。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-19T21:33:24Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-20T04:47:15.107912Z",
+      "updatedAt": "2026-11-20T04:47:15.107912Z"
+    },
+    {
+      "id": "rss-1fbaae0c3ffb18e8c78aacd8",
+      "title": "Jensen Huang的丑闻:时间轴",
+      "originalTitle": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "Jensen Huang在发生了一起事件后辞去Nvidia的职务,这可能会对国家安全产生影响,因为美国和中国竞相发展最先进的AI基础设施。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-19T20:18:49Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-20T04:47:15.107912Z",
+      "updatedAt": "2026-11-20T04:47:15.107912Z"
     }
   ],
   "history": [
@@ -161597,9 +162471,982 @@
         "firstSeen": "2026-11-19T19:44:39.704029Z",
         "updatedAt": "2026-11-19T19:44:39.704029Z"
       }
+    },
+    {
+      "eventId": "rss-0650b0415999f05713dc0622",
+      "at": "2026-11-20T04:47:15.107912Z",
+      "data": {
+        "id": "rss-0650b0415999f05713dc0622",
+        "title": "在墨尔本发生社区反弹后,",
+        "originalTitle": "NextDC vows to keep future datacentres away from homes after community backlash in Melbourne",
+        "summary": "在AI时代,社区对数据中心的期望发生了变化。 首席执行官Craig Scrogggie(Craig Scroggie)说,社区对墨尔本市内部数据中心扩张的反弹导致NextDC股价下跌40%将改变该公司与社区接触的方式 — — 并说公司将不再在家庭附近寻求新的发展。 该公司举行了其第一次年度大会。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-20T04:37:08Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-20T04:47:15.107912Z",
+        "updatedAt": "2026-11-20T04:47:15.107912Z"
+      }
+    },
+    {
+      "eventId": "rss-5d830a8018231fbe64a05de9",
+      "at": "2026-11-20T04:47:15.107912Z",
+      "data": {
+        "id": "rss-5d830a8018231fbe64a05de9",
+        "title": "英国和欧盟同意青年流动计划,英国广播公司理解",
+        "originalTitle": "UK and EU to agree youth mobility scheme, BBC understands",
+        "summary": "预计该计划将在星期五的英国-欧盟首脑会议上获得批准,有关食品贸易和碳排放的新交易也将摆在桌面上。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-20T04:35:51Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-20T04:47:15.107912Z",
+        "updatedAt": "2026-11-20T04:47:15.107912Z"
+      }
+    },
+    {
+      "eventId": "rss-12e8d02e6f8f591f582fd2f6",
+      "at": "2026-11-20T04:47:15.107912Z",
+      "data": {
+        "id": "rss-12e8d02e6f8f591f582fd2f6",
+        "title": "`完美武器 ' :糖尿病妇女被判犯有用胰岛素谋杀其94岁父母的罪行",
+        "originalTitle": "‘Perfect weapon’: diabetic woman found guilty of murdering her 94-year-old parents with insulin",
+        "summary": "在南澳大利亚州最高法院经过四个月的审判后,陪审团判定一名糖尿病妇女犯有在马拉松刑事审判后用胰岛素杀死她双亲的罪行。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-20T04:15:16Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/20/diabetic-woman-found-guilty-murdering-94-year-old-parents-with-insulin-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-20T04:47:15.107912Z",
+        "updatedAt": "2026-11-20T04:47:15.107912Z"
+      }
+    },
+    {
+      "eventId": "rss-8df418cc1b024dda916e8c6c",
+      "at": "2026-11-20T04:47:15.107912Z",
+      "data": {
+        "id": "rss-8df418cc1b024dda916e8c6c",
+        "title": "中国发布富士山警告 以示失踪登山者家属的赏金",
+        "originalTitle": "China issues Mount Fuji warning as family of missing climber offers reward",
+        "summary": "陈洁家提供的七万五千元赏金 引发了对鲁莽攀爬的恐惧（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-20T04:13:22Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-20T04:47:15.107912Z",
+        "updatedAt": "2026-11-20T04:47:15.107912Z"
+      }
+    },
+    {
+      "eventId": "rss-5ef06037f3faa4d55810acc9",
+      "at": "2026-11-20T04:47:15.107912Z",
+      "data": {
+        "id": "rss-5ef06037f3faa4d55810acc9",
+        "title": "GTA 6间歇记录为销售额最高2.3bn -- -- 行业估计",
+        "originalTitle": "GTA 6 breaks records as sales top $2.3bn - industry estimate",
+        "summary": "摇滚明星运动会结束了13年的等待 预计将是有史以来最大的娱乐活动（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-20T02:54:40Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-20T04:47:15.107912Z",
+        "updatedAt": "2026-11-20T04:47:15.107912Z"
+      }
+    },
+    {
+      "eventId": "rss-8288c457eabd2464774e3857",
+      "at": "2026-11-20T04:47:15.107912Z",
+      "data": {
+        "id": "rss-8288c457eabd2464774e3857",
+        "title": "苹果公司可能正在开发自己的人工智能代理 管理你的Mac",
+        "originalTitle": "Apple may be developing its own AI agent that runs your Mac",
+        "summary": "iPhone制造商似乎是建筑代理 能够与Meta Muse、Instinct、Claude 和 OpenAI Dots等公司竞争。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-20T00:56:01Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-20T04:47:15.107912Z",
+        "updatedAt": "2026-11-20T04:47:15.107912Z"
+      }
+    },
+    {
+      "eventId": "rss-327354b7a28e2854b8fde8df",
+      "at": "2026-11-20T04:47:15.107912Z",
+      "data": {
+        "id": "rss-327354b7a28e2854b8fde8df",
+        "title": "人类的7个创始人 在破纪录的IPO中赚了近2B",
+        "originalTitle": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+        "summary": "人类七大创始人每人拥有2.8亿美元, 而公司则拥有近1 050亿美元。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-20T00:43:50Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-20T04:47:15.107912Z",
+        "updatedAt": "2026-11-20T04:47:15.107912Z"
+      }
+    },
+    {
+      "eventId": "rss-126a1d2c7faef337fba6a2e0",
+      "at": "2026-11-20T04:47:15.107912Z",
+      "data": {
+        "id": "rss-126a1d2c7faef337fba6a2e0",
+        "title": "人类的对手说,公司可以(大部分)跳过价格高的模型",
+        "originalTitle": "Anthropic rival says companies can (mostly) skip the pricey models",
+        "summary": "在人类活动公开的那一天,国际烟火公司的共同创始人将开放源码模型作为更廉价的替代方法,并处理了损害公司某些客户信任的违约行为。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-20T00:26:03Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-20T04:47:15.107912Z",
+        "updatedAt": "2026-11-20T04:47:15.107912Z"
+      }
+    },
+    {
+      "eventId": "rss-9b88dcdae38198883b66699b",
+      "at": "2026-11-20T04:47:15.107912Z",
+      "data": {
+        "id": "rss-9b88dcdae38198883b66699b",
+        "title": "根据澳大利亚法律, 宗教应该从恐怖主义定义中去除,",
+        "originalTitle": "Religion should be removed from terrorism definition under Australian law as it gives ‘false credibility’, watchdog says",
+        "summary": "独立国家安全立法监测员指出,提及宗教“助长了对宗教少数群体的歧视和暴力 ” , 将我们的突发新闻电子邮件、免费应用程序或每日新闻播客从澳大利亚的恐怖主义定义中删除,而制造炸弹威胁不应导致终身监禁,正如澳大利亚国家安全法监督员所说。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-20T00:19:57Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/law/2026/nov/20/religion-should-removed-from-terrorism-definition-australian-law-gives-false-credibility-watchdog-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-20T04:47:15.107912Z",
+        "updatedAt": "2026-11-20T04:47:15.107912Z"
+      }
+    },
+    {
+      "eventId": "rss-bc4ef92461324ec8ebd29204",
+      "at": "2026-11-20T04:47:15.107912Z",
+      "data": {
+        "id": "rss-bc4ef92461324ec8ebd29204",
+        "title": "美国警告说,向澳大利亚提供核动力潜艇将减少自己的舰队,“许多年”。",
+        "originalTitle": "US warned supplying nuclear-powered submarines to Australia would diminish its own fleet for ‘many years’",
+        "summary": "国会预算办公室还质疑澳大利亚国旗的船只是否会在奥库斯协议下被迫与中国发生冲突。 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客。 向澳大利亚提供核动力潜艇将减少美国海军自己的舰队“许多年 ” 。 美国国会的一份新报告警告,质疑澳大利亚国旗是否与中国有冲突。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-20T00:16:29Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/20/aukus-defence-us-warned-supplying-nuclear-powered-submarines-to-australia-would-diminish-its-own-fleet-for-many-years"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-20T04:47:15.107912Z",
+        "updatedAt": "2026-11-20T04:47:15.107912Z"
+      }
+    },
+    {
+      "eventId": "rss-923a007fa0f3d1a776a49913",
+      "at": "2026-11-20T04:47:15.107912Z",
+      "data": {
+        "id": "rss-923a007fa0f3d1a776a49913",
+        "title": "“我告诉我的儿子这只是烟火”: 被围困的也门城市里的人跟英国广播公司说",
+        "originalTitle": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+        "summary": "Orla Guerin对被胡塞人困在塔伊兹的七个人说,他们揭示了被围困的生活。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-20T00:13:21Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-20T04:47:15.107912Z",
+        "updatedAt": "2026-11-20T04:47:15.107912Z"
+      }
+    },
+    {
+      "eventId": "rss-4bbafec6b8ea82af1d94f004",
+      "at": "2026-11-20T04:47:15.107912Z",
+      "data": {
+        "id": "rss-4bbafec6b8ea82af1d94f004",
+        "title": "数万个英国冰箱 由黑客秘密操作",
+        "originalTitle": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+        "summary": "超市、仓库、餐馆和体育场都忙着制造安全装置。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-20T00:02:07Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-20T04:47:15.107912Z",
+        "updatedAt": "2026-11-20T04:47:15.107912Z"
+      }
+    },
+    {
+      "eventId": "rss-1f1b3b7bf5bc780151838beb",
+      "at": "2026-11-20T04:47:15.107912Z",
+      "data": {
+        "id": "rss-1f1b3b7bf5bc780151838beb",
+        "title": "特朗普在死后赦免了美国棒球传奇人物皮特·罗斯",
+        "originalTitle": "Trump posthumously pardons US baseball legend Pete Rose",
+        "summary": "2024年去世的萝丝 因赌博被判终身禁赛 但去年又复职了（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-19T23:51:50Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-20T04:47:15.107912Z",
+        "updatedAt": "2026-11-20T04:47:15.107912Z"
+      }
+    },
+    {
+      "eventId": "rss-4a8309431ec4f0870ed87973",
+      "at": "2026-11-20T04:47:15.107912Z",
+      "data": {
+        "id": "rss-4a8309431ec4f0870ed87973",
+        "title": "在辛辛那提动物园吞下帽子后 河马菲奥娜死了",
+        "originalTitle": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+        "summary": "Fiona在2017年早产后成为互联网明星,（机器翻译；尚未完成正文核查。）",
+        "category": "动物 / 自然",
+        "publishedAt": "2026-11-19T23:40:29Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-20T04:47:15.107912Z",
+        "updatedAt": "2026-11-20T04:47:15.107912Z"
+      }
+    },
+    {
+      "eventId": "rss-a52aba1fad9e967401f5751a",
+      "at": "2026-11-20T04:47:15.107912Z",
+      "data": {
+        "id": "rss-a52aba1fad9e967401f5751a",
+        "title": "Elon Musk说SpaceX有消除手机死亡区的计划",
+        "originalTitle": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+        "summary": "SpaceX CEO Elon Musk说,该公司已完成了小型屋顶手机塔的设计,该塔可以更好地覆盖移动电话,消除死亡区。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-19T23:37:56Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-20T04:47:15.107912Z",
+        "updatedAt": "2026-11-20T04:47:15.107912Z"
+      }
+    },
+    {
+      "eventId": "rss-8febbadd7da71c0fac3b4a13",
+      "at": "2026-11-20T04:47:15.107912Z",
+      "data": {
+        "id": "rss-8febbadd7da71c0fac3b4a13",
+        "title": "人类成为世界上最有价值 的上市公司之一 股市首映",
+        "originalTitle": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+        "summary": "人类学是第一个公开上市的纯粹的AI公司,对整个行业都产生了一种检验标准。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-19T23:33:51Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-20T04:47:15.107912Z",
+        "updatedAt": "2026-11-20T04:47:15.107912Z"
+      }
+    },
+    {
+      "eventId": "rss-a178720431e75cf71a994bda",
+      "at": "2026-11-20T04:47:15.107912Z",
+      "data": {
+        "id": "rss-a178720431e75cf71a994bda",
+        "title": "加州目标Nvidia 在中国AI芯片探测器",
+        "originalTitle": "California targets Nvidia in China AI chip probe",
+        "summary": "加州的探险 AI芯片制造者拥有全球总部 跟踪前CEOJENNSON Huang的离任（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-19T23:04:30Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-20T04:47:15.107912Z",
+        "updatedAt": "2026-11-20T04:47:15.107912Z"
+      }
+    },
+    {
+      "eventId": "rss-fbc93b31b43bde95e4a43fff",
+      "at": "2026-11-20T04:47:15.107912Z",
+      "data": {
+        "id": "rss-fbc93b31b43bde95e4a43fff",
+        "title": "法官认为Thomas Markle在精神上适合接受虐待儿童指控的审判",
+        "originalTitle": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+        "summary": "Markle否认拥有儿童性虐待的图像,经法院指定的精神病医生评估后,认为他具有行为能力。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-19T22:48:22Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-20T04:47:15.107912Z",
+        "updatedAt": "2026-11-20T04:47:15.107912Z"
+      }
+    },
+    {
+      "eventId": "rss-255531d94837d2277537ebbd",
+      "at": "2026-11-20T04:47:15.107912Z",
+      "data": {
+        "id": "rss-255531d94837d2277537ebbd",
+        "title": "想要看到你在 Mac 图标上的 人工智能现场使用吗? 这个聪明的新应用程序让你",
+        "originalTitle": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+        "summary": "图标Swapper 将您的 Mac 应用程序图标带给生活, 包括实时数据、动画和有趣的定制, 让桌面更有趣 。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-19T22:33:26Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-20T04:47:15.107912Z",
+        "updatedAt": "2026-11-20T04:47:15.107912Z"
+      }
+    },
+    {
+      "eventId": "rss-094a4dd2aa9bf45ff9eca9b6",
+      "at": "2026-11-20T04:47:15.107912Z",
+      "data": {
+        "id": "rss-094a4dd2aa9bf45ff9eca9b6",
+        "title": "Meta的新Muse Charm设备可能花费300美元。",
+        "originalTitle": "Meta’s new Muse Charm device may cost $300",
+        "summary": "Meta没有否认消息社的报道,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-19T21:58:06Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-20T04:47:15.107912Z",
+        "updatedAt": "2026-11-20T04:47:15.107912Z"
+      }
+    },
+    {
+      "eventId": "rss-80283102200146719cd0e93f",
+      "at": "2026-11-20T04:47:15.107912Z",
+      "data": {
+        "id": "rss-80283102200146719cd0e93f",
+        "title": "这些技术故障 给Y2K,AI代理风格",
+        "originalTitle": "These tech outages are giving Y2K, AI agent style",
+        "summary": "最近航空公司订票系统、银行平台和生产率平台的停电是否真的是一个巧合? 网络安全专家说,实际上可能还有更深层次的事情发生。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-19T21:42:31Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-20T04:47:15.107912Z",
+        "updatedAt": "2026-11-20T04:47:15.107912Z"
+      }
+    },
+    {
+      "eventId": "rss-65a3912905c8aec9f543dd65",
+      "at": "2026-11-20T04:47:15.107912Z",
+      "data": {
+        "id": "rss-65a3912905c8aec9f543dd65",
+        "title": "10岁小孩接受Uber测试,司机加薪",
+        "originalTitle": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+        "summary": "Uber正在三个美国城市测试新程序。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-19T21:33:24Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-20T04:47:15.107912Z",
+        "updatedAt": "2026-11-20T04:47:15.107912Z"
+      }
+    },
+    {
+      "eventId": "rss-1fbaae0c3ffb18e8c78aacd8",
+      "at": "2026-11-20T04:47:15.107912Z",
+      "data": {
+        "id": "rss-1fbaae0c3ffb18e8c78aacd8",
+        "title": "Jensen Huang的丑闻:时间轴",
+        "originalTitle": "The unfolding Jensen Huang scandal: a timeline",
+        "summary": "Jensen Huang在发生了一起事件后辞去Nvidia的职务,这可能会对国家安全产生影响,因为美国和中国竞相发展最先进的AI基础设施。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-19T20:18:49Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-20T04:47:15.107912Z",
+        "updatedAt": "2026-11-20T04:47:15.107912Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-20T04:47:15.107912Z",
+      "at": "2026-11-20T04:47:15.107912Z",
+      "kind": "GitHub Actions 采集",
+      "count": 23,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 8}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 2}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 4}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 9}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-19T19:44:39.704029Z",
       "at": "2026-11-19T19:44:39.704029Z",
