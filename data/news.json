@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-20T19:24:30.561549Z",
+  "updatedAt": "2026-11-21T04:42:10.077757Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -79300,6 +79300,842 @@
       "tokens": [],
       "firstSeen": "2026-11-20T19:24:30.561549Z",
       "updatedAt": "2026-11-20T19:24:30.561549Z"
+    },
+    {
+      "id": "rss-728117660118c50c2b189fd6",
+      "title": "在印度启动 Apple 使用自控共享联系人功能",
+      "originalTitle": "Startup sues Apple in India over tap-to-share contacts feature",
+      "summary": "美国的一家新企业正在寻求1.62亿美元的损失赔偿和一项禁令,以打击向印度进口的iPhone和苹果观察公司。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-21T04:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T04:42:10.077757Z",
+      "updatedAt": "2026-11-21T04:42:10.077757Z"
+    },
+    {
+      "id": "rss-b6237f630b12f6502d8c9eeb",
+      "title": "他们因为欺骗被拘留的移民而被罚款811万美元,但骗局并没有停止",
+      "originalTitle": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+      "summary": "被定罪的诈骗者如何从被拘留的移民中赚到数百万人,如何逃避关闭其保释业务的努力,如何将移民关进监狱。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-21T01:02:39Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T04:42:10.077757Z",
+      "updatedAt": "2026-11-21T04:42:10.077757Z"
+    },
+    {
+      "id": "rss-eee4866095576938eade2a15",
+      "title": "现在技术",
+      "originalTitle": "Tech Now",
+      "summary": "阿拉斯戴尔·基恩正在那不勒斯 探索技术如何改变美国杯赛（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-21T01:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T04:42:10.077757Z",
+      "updatedAt": "2026-11-21T04:42:10.077757Z"
+    },
+    {
+      "id": "rss-2bf653dff003324e7835cf21",
+      "title": "ANC在选举失败后为控制南非主要城市而奋斗",
+      "originalTitle": "ANC fights to keep control of South Africa's key cities after election setback",
+      "summary": "ANC似乎不愿意在地方一级复制其国家权力分享协议与有利于企业的DA。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-21T00:34:51Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T04:42:10.077757Z",
+      "updatedAt": "2026-11-21T04:42:10.077757Z"
+    },
+    {
+      "id": "rss-916ea719b57b8dc29a5475b8",
+      "title": "Victorian Greens寻求紧急禁令,",
+      "originalTitle": "Victorian Greens seek urgent injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
+      "summary": "独立候选人Tosh-Jake Finnigan的卡片指示人们投票的方式有利于自由党。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-21T00:26:56Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T04:42:10.077757Z",
+      "updatedAt": "2026-11-21T04:42:10.077757Z"
+    },
+    {
+      "id": "rss-47de4a29b250ca717d7b1348",
+      "title": "艾尔真的能帮我们查出黑星期五的交易吗?",
+      "originalTitle": "Can AI really help spot Black Friday deals? We put it to the test",
+      "summary": "我们用四个人工智能模型来测试 看看他们能不能在新电视上省下我们的钱（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-21T00:06:11Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T04:42:10.077757Z",
+      "updatedAt": "2026-11-21T04:42:10.077757Z"
+    },
+    {
+      "id": "rss-8e748445a2262c424cd5ca26",
+      "title": "Mamdani宣布计划在2032年前关闭纽约的Rikers岛监狱",
+      "originalTitle": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "summary": "关闭麻烦设施的计划可追溯到2019年,当时市议会首次投票决定关闭该设施,但是在关押囚犯方面出现了延误。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-21T00:01:39Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T04:42:10.077757Z",
+      "updatedAt": "2026-11-21T04:42:10.077757Z"
+    },
+    {
+      "id": "rss-0466177158dc20d417d160fa",
+      "title": "新尼泊尔,一个老邻居 巴伦德拉・沙阿的第一次访问印度测试",
+      "originalTitle": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
+      "summary": "尼泊尔总理与印度总理会晤时,贸易、连通性和区域合作将居议程首位。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-20T23:28:17Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T04:42:10.077757Z",
+      "updatedAt": "2026-11-21T04:42:10.077757Z"
+    },
+    {
+      "id": "rss-bf4f3af21c1c32eadf50312a",
+      "title": "死去的宠物本该被火化 然后他们的尸体出现在活体上",
+      "originalTitle": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
+      "summary": "悲哀的菲律宾人面对着一个令人痛心的现实:他们的狗和猫可能没有收到他们支付的钱。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-20T23:20:33Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T04:42:10.077757Z",
+      "updatedAt": "2026-11-21T04:42:10.077757Z"
+    },
+    {
+      "id": "rss-2f5717862841a73e47a5dfe5",
+      "title": "美国解密了中东拍摄的更多UFO片段",
+      "originalTitle": "US declassifies more UFO footage filmed in the Middle East",
+      "summary": "五角大楼发布了第八批UFO记录,其中包括在2020年、2023年和2026年记录的三段视频片段。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-20T23:15:20Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T04:42:10.077757Z",
+      "updatedAt": "2026-11-21T04:42:10.077757Z"
+    },
+    {
+      "id": "rss-cb1a14aaa5b6c5a2acfc44dc",
+      "title": "新南威尔士州通过了《芒特普莱森特煤矿法》,因为Greens声称,这一企图改变了“一个民族”的企图。",
+      "originalTitle": "NSW passes Mount Pleasant coalmine law as Greens claim change an attempt to head off One Nation",
+      "summary": "新南威尔士州政府通过了特别立法, 允许杭特谷的煤矿在3月前在国会最后法案中增加32%的产量。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-20T23:09:57Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/21/nsw-passes-hunter-valley-coalmine-law-as-greens-claim-change-an-attempt-to-head-off-one-nation-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T04:42:10.077757Z",
+      "updatedAt": "2026-11-21T04:42:10.077757Z"
+    },
+    {
+      "id": "rss-f1bb42fd1c541aea280d2f54",
+      "title": "在一年的人工智能解决数学问题, 人类可能刚刚解决了最大的",
+      "originalTitle": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "summary": "一位人类学数学家说,他用人工智能来证明著名的Riemann假设,尽管核查需要一些时间。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-20T23:08:57Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T04:42:10.077757Z",
+      "updatedAt": "2026-11-21T04:42:10.077757Z"
+    },
+    {
+      "id": "rss-397265b10097e3d946f7f09f",
+      "title": "法国警察因殴打音乐制作人Michel Zecler而被判刑",
+      "originalTitle": "French police officers sentenced for beating of music producer Michel Zecler",
+      "summary": "法院维持了对黑人音乐制作人2020年的殴打,认为这是种族主义的加重情节。（机器翻译；尚未完成正文核查。）",
+      "category": "网络文化",
+      "publishedAt": "2026-11-20T22:37:09Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T04:42:10.077757Z",
+      "updatedAt": "2026-11-21T04:42:10.077757Z"
+    },
+    {
+      "id": "rss-fbfbcaa4ebc142f3316afeb3",
+      "title": "法国警察被判犯有对黑人音乐制作人进行种族主义攻击罪",
+      "originalTitle": "French police officers found guilty of racist assault on black music producer",
+      "summary": "在2020年殴打Michel Zecler时,警察的暴行引起了愤怒。 三名法国警察殴打了一名黑人音乐制作人,他们说在Covid大流行期间没有戴面罩,他们被认定犯有蓄意的种族主义暴力罪。 目前对Michel Zecler的野蛮袭击是47起,于2020年在他的大楼里被安全摄像头捕获,并被判了三年徒刑。（机器翻译；尚未完成正文核查。）",
+      "category": "网络文化",
+      "publishedAt": "2026-11-20T22:23:53Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T04:42:10.077757Z",
+      "updatedAt": "2026-11-21T04:42:10.077757Z"
+    },
+    {
+      "id": "rss-c520d2a1ddb57e76c867a9ef",
+      "title": "丹麦指控俄罗斯密谋暗杀美俄说唱歌手",
+      "originalTitle": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "summary": "俄罗斯驻丹麦大使馆否认这一指控,导致俄罗斯国防专员被驱逐。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-20T21:57:07Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T04:42:10.077757Z",
+      "updatedAt": "2026-11-21T04:42:10.077757Z"
+    },
+    {
+      "id": "rss-9a38142955443e68a01e928b",
+      "title": "特朗普威胁对在国外建立数据中心的美国技术公司实施 \" 特伦杜斯惩罚 \" 。",
+      "originalTitle": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+      "summary": "总统在白宫举行广泛的新闻发布会,并说,他与普京和习近平·特朗普(Ximing Donald Trump)有“幻想关系 ” , 于周五威胁对在美国境外建立数据中心的美国技术公司实施“严厉惩罚 ” , 尽管他没有提供细节,也没有告诉记者他还没有向自己的官员通报计划。 在惠特的不愉快的记者招待会上,他威胁说要对美国科技公司实施“严厉惩罚 ” 。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-20T21:47:41Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T04:42:10.077757Z",
+      "updatedAt": "2026-11-21T04:42:10.077757Z"
+    },
+    {
+      "id": "rss-fb730324063a16cabaa250d0",
+      "title": "英国-欧盟新协议对未来Brexit后的关系可能意味着什么",
+      "originalTitle": "What the new UK-EU deal could mean for future post-Brexit relations",
+      "summary": "英国广播公司的政治和欧洲编辑分析英国与欧盟之间的新协议。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-20T21:43:22Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T04:42:10.077757Z",
+      "updatedAt": "2026-11-21T04:42:10.077757Z"
+    },
+    {
+      "id": "rss-d9d43296365478917c08e42d",
+      "title": "专家警告:在AI几乎每个人都 容易受蜂蜜陷阱的影响",
+      "originalTitle": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "summary": "科技正在建设能够推进世界各个方面的技术,但他们能保护自己的心脏吗?这就是蜂蜜罐所利用的脆弱性。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-20T20:58:29Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T04:42:10.077757Z",
+      "updatedAt": "2026-11-21T04:42:10.077757Z"
+    },
+    {
+      "id": "rss-d020b8aa67dc21540cb4908c",
+      "title": "特朗普威胁禁止美国公司在海外建立AI数据中心",
+      "originalTitle": "Trump threatens ban on US firms building AI data centres overseas",
+      "summary": "美国总统没有提供多少关于潜在政策的细节, 说其他人在他的团队 第一次听到它。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-20T20:54:12Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T04:42:10.077757Z",
+      "updatedAt": "2026-11-21T04:42:10.077757Z"
+    },
+    {
+      "id": "rss-05d06a2ae37185a1550dd73a",
+      "title": "丹尼尔·埃克支持AI研究人员的核聚变动力启动。 这就是他们正在建设的东西。",
+      "originalTitle": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "summary": "Spotify创始人Daniel Ek正在支持Europa Unsion, 由AI研究者创建的核聚变动力启动系统。这是启动系统正在建设的。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-20T19:53:41Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T04:42:10.077757Z",
+      "updatedAt": "2026-11-21T04:42:10.077757Z"
+    },
+    {
+      "id": "rss-d88d0288efc8318ccde32577",
+      "title": "Gérard Depardieu和法国作者因性指控受到调查",
+      "originalTitle": "Gérard Depardieu and French author investigated over sexual allegations",
+      "summary": "在去年对“性指控”提出投诉后,启动了司法调查。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-20T19:45:20Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T04:42:10.077757Z",
+      "updatedAt": "2026-11-21T04:42:10.077757Z"
+    },
+    {
+      "id": "rss-81e856d23e6ca9408619d451",
+      "title": "大赦国际声称,对167岁的里曼假设的解决办法—— 一个人也这样做了。",
+      "originalTitle": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "summary": "数学家们正在被最新的人工智能驱动的结果所震撼—— 还有一个相互竞争的人类解决方案。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-20T19:32:08Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T04:42:10.077757Z",
+      "updatedAt": "2026-11-21T04:42:10.077757Z"
     }
   ],
   "history": [
@@ -166957,9 +167793,940 @@
         "firstSeen": "2026-11-20T19:24:30.561549Z",
         "updatedAt": "2026-11-20T19:24:30.561549Z"
       }
+    },
+    {
+      "eventId": "rss-728117660118c50c2b189fd6",
+      "at": "2026-11-21T04:42:10.077757Z",
+      "data": {
+        "id": "rss-728117660118c50c2b189fd6",
+        "title": "在印度启动 Apple 使用自控共享联系人功能",
+        "originalTitle": "Startup sues Apple in India over tap-to-share contacts feature",
+        "summary": "美国的一家新企业正在寻求1.62亿美元的损失赔偿和一项禁令,以打击向印度进口的iPhone和苹果观察公司。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-21T04:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T04:42:10.077757Z",
+        "updatedAt": "2026-11-21T04:42:10.077757Z"
+      }
+    },
+    {
+      "eventId": "rss-b6237f630b12f6502d8c9eeb",
+      "at": "2026-11-21T04:42:10.077757Z",
+      "data": {
+        "id": "rss-b6237f630b12f6502d8c9eeb",
+        "title": "他们因为欺骗被拘留的移民而被罚款811万美元,但骗局并没有停止",
+        "originalTitle": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+        "summary": "被定罪的诈骗者如何从被拘留的移民中赚到数百万人,如何逃避关闭其保释业务的努力,如何将移民关进监狱。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-21T01:02:39Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T04:42:10.077757Z",
+        "updatedAt": "2026-11-21T04:42:10.077757Z"
+      }
+    },
+    {
+      "eventId": "rss-eee4866095576938eade2a15",
+      "at": "2026-11-21T04:42:10.077757Z",
+      "data": {
+        "id": "rss-eee4866095576938eade2a15",
+        "title": "现在技术",
+        "originalTitle": "Tech Now",
+        "summary": "阿拉斯戴尔·基恩正在那不勒斯 探索技术如何改变美国杯赛（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-21T01:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T04:42:10.077757Z",
+        "updatedAt": "2026-11-21T04:42:10.077757Z"
+      }
+    },
+    {
+      "eventId": "rss-2bf653dff003324e7835cf21",
+      "at": "2026-11-21T04:42:10.077757Z",
+      "data": {
+        "id": "rss-2bf653dff003324e7835cf21",
+        "title": "ANC在选举失败后为控制南非主要城市而奋斗",
+        "originalTitle": "ANC fights to keep control of South Africa's key cities after election setback",
+        "summary": "ANC似乎不愿意在地方一级复制其国家权力分享协议与有利于企业的DA。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-21T00:34:51Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T04:42:10.077757Z",
+        "updatedAt": "2026-11-21T04:42:10.077757Z"
+      }
+    },
+    {
+      "eventId": "rss-916ea719b57b8dc29a5475b8",
+      "at": "2026-11-21T04:42:10.077757Z",
+      "data": {
+        "id": "rss-916ea719b57b8dc29a5475b8",
+        "title": "Victorian Greens寻求紧急禁令,",
+        "originalTitle": "Victorian Greens seek urgent injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
+        "summary": "独立候选人Tosh-Jake Finnigan的卡片指示人们投票的方式有利于自由党。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-21T00:26:56Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T04:42:10.077757Z",
+        "updatedAt": "2026-11-21T04:42:10.077757Z"
+      }
+    },
+    {
+      "eventId": "rss-47de4a29b250ca717d7b1348",
+      "at": "2026-11-21T04:42:10.077757Z",
+      "data": {
+        "id": "rss-47de4a29b250ca717d7b1348",
+        "title": "艾尔真的能帮我们查出黑星期五的交易吗?",
+        "originalTitle": "Can AI really help spot Black Friday deals? We put it to the test",
+        "summary": "我们用四个人工智能模型来测试 看看他们能不能在新电视上省下我们的钱（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-21T00:06:11Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T04:42:10.077757Z",
+        "updatedAt": "2026-11-21T04:42:10.077757Z"
+      }
+    },
+    {
+      "eventId": "rss-8e748445a2262c424cd5ca26",
+      "at": "2026-11-21T04:42:10.077757Z",
+      "data": {
+        "id": "rss-8e748445a2262c424cd5ca26",
+        "title": "Mamdani宣布计划在2032年前关闭纽约的Rikers岛监狱",
+        "originalTitle": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+        "summary": "关闭麻烦设施的计划可追溯到2019年,当时市议会首次投票决定关闭该设施,但是在关押囚犯方面出现了延误。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-21T00:01:39Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T04:42:10.077757Z",
+        "updatedAt": "2026-11-21T04:42:10.077757Z"
+      }
+    },
+    {
+      "eventId": "rss-0466177158dc20d417d160fa",
+      "at": "2026-11-21T04:42:10.077757Z",
+      "data": {
+        "id": "rss-0466177158dc20d417d160fa",
+        "title": "新尼泊尔,一个老邻居 巴伦德拉・沙阿的第一次访问印度测试",
+        "originalTitle": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
+        "summary": "尼泊尔总理与印度总理会晤时,贸易、连通性和区域合作将居议程首位。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-20T23:28:17Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T04:42:10.077757Z",
+        "updatedAt": "2026-11-21T04:42:10.077757Z"
+      }
+    },
+    {
+      "eventId": "rss-bf4f3af21c1c32eadf50312a",
+      "at": "2026-11-21T04:42:10.077757Z",
+      "data": {
+        "id": "rss-bf4f3af21c1c32eadf50312a",
+        "title": "死去的宠物本该被火化 然后他们的尸体出现在活体上",
+        "originalTitle": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
+        "summary": "悲哀的菲律宾人面对着一个令人痛心的现实:他们的狗和猫可能没有收到他们支付的钱。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-20T23:20:33Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T04:42:10.077757Z",
+        "updatedAt": "2026-11-21T04:42:10.077757Z"
+      }
+    },
+    {
+      "eventId": "rss-2f5717862841a73e47a5dfe5",
+      "at": "2026-11-21T04:42:10.077757Z",
+      "data": {
+        "id": "rss-2f5717862841a73e47a5dfe5",
+        "title": "美国解密了中东拍摄的更多UFO片段",
+        "originalTitle": "US declassifies more UFO footage filmed in the Middle East",
+        "summary": "五角大楼发布了第八批UFO记录,其中包括在2020年、2023年和2026年记录的三段视频片段。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-20T23:15:20Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T04:42:10.077757Z",
+        "updatedAt": "2026-11-21T04:42:10.077757Z"
+      }
+    },
+    {
+      "eventId": "rss-cb1a14aaa5b6c5a2acfc44dc",
+      "at": "2026-11-21T04:42:10.077757Z",
+      "data": {
+        "id": "rss-cb1a14aaa5b6c5a2acfc44dc",
+        "title": "新南威尔士州通过了《芒特普莱森特煤矿法》,因为Greens声称,这一企图改变了“一个民族”的企图。",
+        "originalTitle": "NSW passes Mount Pleasant coalmine law as Greens claim change an attempt to head off One Nation",
+        "summary": "新南威尔士州政府通过了特别立法, 允许杭特谷的煤矿在3月前在国会最后法案中增加32%的产量。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-20T23:09:57Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/21/nsw-passes-hunter-valley-coalmine-law-as-greens-claim-change-an-attempt-to-head-off-one-nation-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T04:42:10.077757Z",
+        "updatedAt": "2026-11-21T04:42:10.077757Z"
+      }
+    },
+    {
+      "eventId": "rss-f1bb42fd1c541aea280d2f54",
+      "at": "2026-11-21T04:42:10.077757Z",
+      "data": {
+        "id": "rss-f1bb42fd1c541aea280d2f54",
+        "title": "在一年的人工智能解决数学问题, 人类可能刚刚解决了最大的",
+        "originalTitle": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+        "summary": "一位人类学数学家说,他用人工智能来证明著名的Riemann假设,尽管核查需要一些时间。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-20T23:08:57Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T04:42:10.077757Z",
+        "updatedAt": "2026-11-21T04:42:10.077757Z"
+      }
+    },
+    {
+      "eventId": "rss-397265b10097e3d946f7f09f",
+      "at": "2026-11-21T04:42:10.077757Z",
+      "data": {
+        "id": "rss-397265b10097e3d946f7f09f",
+        "title": "法国警察因殴打音乐制作人Michel Zecler而被判刑",
+        "originalTitle": "French police officers sentenced for beating of music producer Michel Zecler",
+        "summary": "法院维持了对黑人音乐制作人2020年的殴打,认为这是种族主义的加重情节。（机器翻译；尚未完成正文核查。）",
+        "category": "网络文化",
+        "publishedAt": "2026-11-20T22:37:09Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T04:42:10.077757Z",
+        "updatedAt": "2026-11-21T04:42:10.077757Z"
+      }
+    },
+    {
+      "eventId": "rss-fbfbcaa4ebc142f3316afeb3",
+      "at": "2026-11-21T04:42:10.077757Z",
+      "data": {
+        "id": "rss-fbfbcaa4ebc142f3316afeb3",
+        "title": "法国警察被判犯有对黑人音乐制作人进行种族主义攻击罪",
+        "originalTitle": "French police officers found guilty of racist assault on black music producer",
+        "summary": "在2020年殴打Michel Zecler时,警察的暴行引起了愤怒。 三名法国警察殴打了一名黑人音乐制作人,他们说在Covid大流行期间没有戴面罩,他们被认定犯有蓄意的种族主义暴力罪。 目前对Michel Zecler的野蛮袭击是47起,于2020年在他的大楼里被安全摄像头捕获,并被判了三年徒刑。（机器翻译；尚未完成正文核查。）",
+        "category": "网络文化",
+        "publishedAt": "2026-11-20T22:23:53Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T04:42:10.077757Z",
+        "updatedAt": "2026-11-21T04:42:10.077757Z"
+      }
+    },
+    {
+      "eventId": "rss-c520d2a1ddb57e76c867a9ef",
+      "at": "2026-11-21T04:42:10.077757Z",
+      "data": {
+        "id": "rss-c520d2a1ddb57e76c867a9ef",
+        "title": "丹麦指控俄罗斯密谋暗杀美俄说唱歌手",
+        "originalTitle": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+        "summary": "俄罗斯驻丹麦大使馆否认这一指控,导致俄罗斯国防专员被驱逐。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-20T21:57:07Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T04:42:10.077757Z",
+        "updatedAt": "2026-11-21T04:42:10.077757Z"
+      }
+    },
+    {
+      "eventId": "rss-9a38142955443e68a01e928b",
+      "at": "2026-11-21T04:42:10.077757Z",
+      "data": {
+        "id": "rss-9a38142955443e68a01e928b",
+        "title": "特朗普威胁对在国外建立数据中心的美国技术公司实施 \" 特伦杜斯惩罚 \" 。",
+        "originalTitle": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+        "summary": "总统在白宫举行广泛的新闻发布会,并说,他与普京和习近平·特朗普(Ximing Donald Trump)有“幻想关系 ” , 于周五威胁对在美国境外建立数据中心的美国技术公司实施“严厉惩罚 ” , 尽管他没有提供细节,也没有告诉记者他还没有向自己的官员通报计划。 在惠特的不愉快的记者招待会上,他威胁说要对美国科技公司实施“严厉惩罚 ” 。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-20T21:47:41Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T04:42:10.077757Z",
+        "updatedAt": "2026-11-21T04:42:10.077757Z"
+      }
+    },
+    {
+      "eventId": "rss-fb730324063a16cabaa250d0",
+      "at": "2026-11-21T04:42:10.077757Z",
+      "data": {
+        "id": "rss-fb730324063a16cabaa250d0",
+        "title": "英国-欧盟新协议对未来Brexit后的关系可能意味着什么",
+        "originalTitle": "What the new UK-EU deal could mean for future post-Brexit relations",
+        "summary": "英国广播公司的政治和欧洲编辑分析英国与欧盟之间的新协议。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-20T21:43:22Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T04:42:10.077757Z",
+        "updatedAt": "2026-11-21T04:42:10.077757Z"
+      }
+    },
+    {
+      "eventId": "rss-d9d43296365478917c08e42d",
+      "at": "2026-11-21T04:42:10.077757Z",
+      "data": {
+        "id": "rss-d9d43296365478917c08e42d",
+        "title": "专家警告:在AI几乎每个人都 容易受蜂蜜陷阱的影响",
+        "originalTitle": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+        "summary": "科技正在建设能够推进世界各个方面的技术,但他们能保护自己的心脏吗?这就是蜂蜜罐所利用的脆弱性。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-20T20:58:29Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T04:42:10.077757Z",
+        "updatedAt": "2026-11-21T04:42:10.077757Z"
+      }
+    },
+    {
+      "eventId": "rss-d020b8aa67dc21540cb4908c",
+      "at": "2026-11-21T04:42:10.077757Z",
+      "data": {
+        "id": "rss-d020b8aa67dc21540cb4908c",
+        "title": "特朗普威胁禁止美国公司在海外建立AI数据中心",
+        "originalTitle": "Trump threatens ban on US firms building AI data centres overseas",
+        "summary": "美国总统没有提供多少关于潜在政策的细节, 说其他人在他的团队 第一次听到它。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-20T20:54:12Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T04:42:10.077757Z",
+        "updatedAt": "2026-11-21T04:42:10.077757Z"
+      }
+    },
+    {
+      "eventId": "rss-05d06a2ae37185a1550dd73a",
+      "at": "2026-11-21T04:42:10.077757Z",
+      "data": {
+        "id": "rss-05d06a2ae37185a1550dd73a",
+        "title": "丹尼尔·埃克支持AI研究人员的核聚变动力启动。 这就是他们正在建设的东西。",
+        "originalTitle": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+        "summary": "Spotify创始人Daniel Ek正在支持Europa Unsion, 由AI研究者创建的核聚变动力启动系统。这是启动系统正在建设的。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-20T19:53:41Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T04:42:10.077757Z",
+        "updatedAt": "2026-11-21T04:42:10.077757Z"
+      }
+    },
+    {
+      "eventId": "rss-d88d0288efc8318ccde32577",
+      "at": "2026-11-21T04:42:10.077757Z",
+      "data": {
+        "id": "rss-d88d0288efc8318ccde32577",
+        "title": "Gérard Depardieu和法国作者因性指控受到调查",
+        "originalTitle": "Gérard Depardieu and French author investigated over sexual allegations",
+        "summary": "在去年对“性指控”提出投诉后,启动了司法调查。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-20T19:45:20Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T04:42:10.077757Z",
+        "updatedAt": "2026-11-21T04:42:10.077757Z"
+      }
+    },
+    {
+      "eventId": "rss-81e856d23e6ca9408619d451",
+      "at": "2026-11-21T04:42:10.077757Z",
+      "data": {
+        "id": "rss-81e856d23e6ca9408619d451",
+        "title": "大赦国际声称,对167岁的里曼假设的解决办法—— 一个人也这样做了。",
+        "originalTitle": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+        "summary": "数学家们正在被最新的人工智能驱动的结果所震撼—— 还有一个相互竞争的人类解决方案。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-20T19:32:08Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T04:42:10.077757Z",
+        "updatedAt": "2026-11-21T04:42:10.077757Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-21T04:42:10.077757Z",
+      "at": "2026-11-21T04:42:10.077757Z",
+      "kind": "GitHub Actions 采集",
+      "count": 22,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 12}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 2}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 4}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 4}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-20T19:24:30.561549Z",
       "at": "2026-11-20T19:24:30.561549Z",
