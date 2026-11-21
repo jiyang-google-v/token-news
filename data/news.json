@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-21T04:42:10.077757Z",
+  "updatedAt": "2026-11-21T18:26:58.669550Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -80136,6 +80136,766 @@
       "tokens": [],
       "firstSeen": "2026-11-21T04:42:10.077757Z",
       "updatedAt": "2026-11-21T04:42:10.077757Z"
+    },
+    {
+      "id": "rss-2681b8486e6260f1f09b24c8",
+      "title": "据称墨西哥贩毒集团头目`El Chapo Isidro ' 在特种部队突袭中被捕",
+      "originalTitle": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+      "summary": "福斯托·伊西德罗·梅萨·弗洛雷斯(Fausto Isidro Meza Flores)是联邦调查局最通缉的逃犯之一,并躲避了十多年的抓捕。 墨西哥军方在星期五晚上对墨西哥锡那罗亚州的一次特别部队袭击中抓获了联邦调查局十大通缉犯之一。 福斯托·伊西德罗·梅萨·弗洛雷斯(名为“El Chapo Isidro ” )和其他两名被指控的帮派头目一起在枪战后被捕。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-21T17:46:55Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T18:26:58.669550Z",
+      "updatedAt": "2026-11-21T18:26:58.669550Z"
+    },
+    {
+      "id": "rss-d15566b2aef3b460300ba5fc",
+      "title": "这里是顶尖的AI代理 可以在您的短信中生活",
+      "originalTitle": "Here are the top AI agents that can live in your text messages",
+      "summary": "我们创造了一个名单 最引人注目的AI代理 可以在你的短信中生活, 从一般助理到 为家庭、旅行和工作设计的代理。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-21T17:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T18:26:58.669550Z",
+      "updatedAt": "2026-11-21T18:26:58.669550Z"
+    },
+    {
+      "id": "rss-cac4d486e46aeed2b2c3cb6e",
+      "title": "联合国关于控制自发武器使用问题的国际会谈",
+      "originalTitle": "International UN talks on controlling use of autonomous weapons collapse",
+      "summary": "为期一周的努力未能确立关于AI战争的谈判任务,因为俄罗斯“挫败”了长达一周的努力,以商定一项具有法律约束力的国际条约的谈判任务,以控制自主武器的使用,但就在一夜谈判之后的凌晨5点前,这一努力失败了,未能克服俄罗斯的反对。 尽管绝大多数国家都参加了联合国《关于某些常规武器的公约》。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-21T16:36:11Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T18:26:58.669550Z",
+      "updatedAt": "2026-11-21T18:26:58.669550Z"
+    },
+    {
+      "id": "rss-1c64d44e2f0cbfcc23357977",
+      "title": "据报联邦调查局正在调查其犯罪数据库的明显黑客",
+      "originalTitle": "FBI reportedly investigating apparent hack of its criminal database",
+      "summary": "联邦和地方执法机构利用国家犯罪信息中心数据库分享信息。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-21T16:35:15Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T18:26:58.669550Z",
+      "updatedAt": "2026-11-21T18:26:58.669550Z"
+    },
+    {
+      "id": "rss-53e893a48ca02ab2292951b3",
+      "title": "向好莱坞的开场秀 出售一个人工智能版的你的脸吗?",
+      "originalTitle": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "summary": "一位演员允许他参加一场微型戏剧的启动活动,这一趋势在中国已经很流行。 如果这在好莱坞也成为一种趋势,专家们会质疑长期后果。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-21T16:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T18:26:58.669550Z",
+      "updatedAt": "2026-11-21T18:26:58.669550Z"
+    },
+    {
+      "id": "rss-4759f8bfede4ad55fd526351",
+      "title": "英国人对儿子从塞浦路斯窗戶倒下后死亡感到“绝望”。",
+      "originalTitle": "British man recalls ‘despair’ over son’s death after fall from Cyprus window",
+      "summary": "Joshua Foster告诉大家,当他从一家旅馆的第四层倒下时,他 \" 失去控制 \" 了两岁的孩子。 一位英国父亲在塞浦路斯的一个家庭节日中,他的儿子从四楼窗户倒下,他被法院罚款。 Joshua Foster回忆了“绝望”的回忆,当时他从他手中溜走。 Joshua Foster在认罪后被处以3 000欧元(2 500英镑)的罚款。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-21T15:19:03Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/21/british-man-recalls-despair-over-sons-death-after-fall-from-cyprus-window"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T18:26:58.669550Z",
+      "updatedAt": "2026-11-21T18:26:58.669550Z"
+    },
+    {
+      "id": "rss-7e38a968ec4d4e65c4b7e763",
+      "title": "阿拉斯加,你下一任州长是维基百科书呆子",
+      "originalTitle": "Alaska, your next governor is a Wikipedia nerd",
+      "summary": "Jonathan Kreiss-Tomkins, 阿拉斯加当选州长, 已经做了超过13000 Wikipedia 编辑。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-21T15:18:29Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T18:26:58.669550Z",
+      "updatedAt": "2026-11-21T18:26:58.669550Z"
+    },
+    {
+      "id": "rss-e54ec07f73645f1c57481f59",
+      "title": "争夺化石燃料使COP31气候谈判陷入僵局",
+      "originalTitle": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "summary": "来自近200个国家的国家正陷入僵局,试图达成一项新的全球气候协定。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-21T14:54:24Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T18:26:58.669550Z",
+      "updatedAt": "2026-11-21T18:26:58.669550Z"
+    },
+    {
+      "id": "rss-714dcc77cc1a9fcdd651284d",
+      "title": "Zelensky说克里米亚桥在遇到英国街坊时,",
+      "originalTitle": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "summary": "乌克兰总统说,基辅是在109次俄罗斯对乌克兰桥梁的单独空袭之后采取行动的。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-21T13:17:38Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T18:26:58.669550Z",
+      "updatedAt": "2026-11-21T18:26:58.669550Z"
+    },
+    {
+      "id": "rss-d53e011b61eef9a5dd0ffdc0",
+      "title": "联邦调查局十大通缉犯名单上的墨西哥毒枭 在枪战中被捕",
+      "originalTitle": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "summary": "Fausto Isidro “Chapo Idisro” Meza Flores被控贩卖毒品和施以酷刑,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-21T13:15:21Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T18:26:58.669550Z",
+      "updatedAt": "2026-11-21T18:26:58.669550Z"
+    },
+    {
+      "id": "rss-438962f752c0a47aa622ef2b",
+      "title": "当英国在贸易和年轻人问题上做交易时,重新加入欧盟",
+      "originalTitle": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
+      "summary": "Ed Miliband说,在未来的谈判中,所有选项都可选择,而首相则欢呼“英国和欧洲的好日子 ” 。 英国重新加入欧盟可能会成为安迪·伯纳姆和欧洲领导人在布鲁塞尔的非正式讨论的焦点。 Ed Miliband说,“所有选项”将在总理就贸易和年轻人问题达成协议后,在此过程中得到审查。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-21T11:33:01Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T18:26:58.669550Z",
+      "updatedAt": "2026-11-21T18:26:58.669550Z"
+    },
+    {
+      "id": "rss-bdbb801d5b8cbaebc5123b45",
+      "title": "海地人兴奋但不安,因为萨尔瓦多部队与帮派作战",
+      "originalTitle": "Haitians excited but uneasy as El Salvador troops fight gangs",
+      "summary": "太子港的外国战斗人员在帮派控制多年后受到许多人的欢迎,但一些恐惧可能会加剧动荡局势。 海地罢工家埃马纽埃尔·萨农(Emmanuel Sanon)的弹孔壁画覆盖了太子港主要足球场的外墙。 但自任何体育明星赢得球场以来,两年多过去了。 2024年,周围城市几乎完全被包围了。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-21T11:00:57Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T18:26:58.669550Z",
+      "updatedAt": "2026-11-21T18:26:58.669550Z"
+    },
+    {
+      "id": "rss-f46ca9a79cba57f0c3899c4a",
+      "title": "中国致力于低碳电气化,帮助其他国家改善",
+      "originalTitle": "China commits to low-carbon electrification and help for others to improve",
+      "summary": "独家:在Cop31会议上,各国被敦促承诺在2035年Cop31直播之前从电力中获取35%的能源 — — 中国正在利用低碳能源推动其经济快速电气化的最新消息,并将帮助其他国家这样做。 出席Cop31联合国气候峰会的中国代表团一位高级成员说 : 王仪,一位能源和环境政治教授。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-21T09:47:57Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T18:26:58.669550Z",
+      "updatedAt": "2026-11-21T18:26:58.669550Z"
+    },
+    {
+      "id": "rss-8bd28aa954d3604bf83d4ede",
+      "title": "Miliband说,与不依赖学费协议的欧盟打交道",
+      "originalTitle": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "summary": "布鲁塞尔的消息来源曾建议,在降低英国的欧盟学生的学费之前,集团可能不会适用更广泛的交易。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-21T09:40:55Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T18:26:58.669550Z",
+      "updatedAt": "2026-11-21T18:26:58.669550Z"
+    },
+    {
+      "id": "rss-9bc8a6e38b5a853ede9b2e4d",
+      "title": "Zelensky说,普京是一个“杀手”,特朗普称俄罗斯领导人为朋友。",
+      "originalTitle": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "summary": "本周早些时候,特朗普在中国开会前向普京表示欢迎,并说这对夫妻有着“很好的关系”。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-21T08:10:25Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T18:26:58.669550Z",
+      "updatedAt": "2026-11-21T18:26:58.669550Z"
+    },
+    {
+      "id": "rss-c04736f66c046ddc6f35905c",
+      "title": "特拉法加广场圣诞树在挪威被砍伐",
+      "originalTitle": "Trafalgar Square Christmas tree felled in Norway",
+      "summary": "这棵21米的树是奥斯陆每年对英国在二战期间的支持表示感谢。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-21T08:10:03Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T18:26:58.669550Z",
+      "updatedAt": "2026-11-21T18:26:58.669550Z"
+    },
+    {
+      "id": "rss-e3251cb4a7cb260c4b556ed6",
+      "title": "基辅居民因俄罗斯攻击城市桥梁而解脱,",
+      "originalTitle": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges",
+      "summary": "尽管在停机坪上躲藏眼泪,人们仍对城市的基础设施充满信心 — — 也不会担心没有发生的事情,然而,Mykola预计每天要开他的被撞的蜜蜂小客车20至24次,超过基辅被俄罗斯弹道导弹袭击破坏的北部大桥上的道路孔。 现在只有汽车可以经过。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-21T05:00:50Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T18:26:58.669550Z",
+      "updatedAt": "2026-11-21T18:26:58.669550Z"
+    },
+    {
+      "id": "rss-ef990386d9a8051897e45a92",
+      "title": "据称,在墨尔本招待战争期间,青少年在信号上组织纵火和绑架。",
+      "originalTitle": "Teenager allegedly organised arsons and kidnapping on Signal during Melbourne hospitality wars",
+      "summary": "维多利亚州警方说,17岁的男孩用用户名“百分之一”与罪犯沟通。 得到我们的突发新闻电子邮件、免费应用程序或每日新闻播客维多利亚州警方指控一名17岁的男孩委托他人进行一系列纵火、家庭入侵和错误的身份绑架,导致墨尔本盛情战争期间受害人手指部分断肢。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-21T04:44:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T18:26:58.669550Z",
+      "updatedAt": "2026-11-21T18:26:58.669550Z"
+    },
+    {
+      "id": "rss-81231055e0a0be4281ba98ec",
+      "title": "被判定在洛杉矶 引发Palisades火灾的人",
+      "originalTitle": "Man convicted of starting Palisades fire in Los Angeles",
+      "summary": "这名30岁的LA居民被判犯有纵火罪,导致12人死亡,6 800多座建筑物被毁。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-21T04:34:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T18:26:58.669550Z",
+      "updatedAt": "2026-11-21T18:26:58.669550Z"
+    },
+    {
+      "id": "rss-de2a70e2ff584d1a10bfc168",
+      "title": "迈阿密还是副城?",
+      "originalTitle": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+      "summary": "英国广播公司新闻网(BBC News Mundo)的Rafael Rojas访问迈阿密真实生活,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-20T18:48:48Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-21T18:26:58.669550Z",
+      "updatedAt": "2026-11-21T18:26:58.669550Z"
     }
   ],
   "history": [
@@ -168717,9 +169477,856 @@
         "firstSeen": "2026-11-21T04:42:10.077757Z",
         "updatedAt": "2026-11-21T04:42:10.077757Z"
       }
+    },
+    {
+      "eventId": "rss-2681b8486e6260f1f09b24c8",
+      "at": "2026-11-21T18:26:58.669550Z",
+      "data": {
+        "id": "rss-2681b8486e6260f1f09b24c8",
+        "title": "据称墨西哥贩毒集团头目`El Chapo Isidro ' 在特种部队突袭中被捕",
+        "originalTitle": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+        "summary": "福斯托·伊西德罗·梅萨·弗洛雷斯(Fausto Isidro Meza Flores)是联邦调查局最通缉的逃犯之一,并躲避了十多年的抓捕。 墨西哥军方在星期五晚上对墨西哥锡那罗亚州的一次特别部队袭击中抓获了联邦调查局十大通缉犯之一。 福斯托·伊西德罗·梅萨·弗洛雷斯(名为“El Chapo Isidro ” )和其他两名被指控的帮派头目一起在枪战后被捕。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-21T17:46:55Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T18:26:58.669550Z",
+        "updatedAt": "2026-11-21T18:26:58.669550Z"
+      }
+    },
+    {
+      "eventId": "rss-d15566b2aef3b460300ba5fc",
+      "at": "2026-11-21T18:26:58.669550Z",
+      "data": {
+        "id": "rss-d15566b2aef3b460300ba5fc",
+        "title": "这里是顶尖的AI代理 可以在您的短信中生活",
+        "originalTitle": "Here are the top AI agents that can live in your text messages",
+        "summary": "我们创造了一个名单 最引人注目的AI代理 可以在你的短信中生活, 从一般助理到 为家庭、旅行和工作设计的代理。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-21T17:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T18:26:58.669550Z",
+        "updatedAt": "2026-11-21T18:26:58.669550Z"
+      }
+    },
+    {
+      "eventId": "rss-cac4d486e46aeed2b2c3cb6e",
+      "at": "2026-11-21T18:26:58.669550Z",
+      "data": {
+        "id": "rss-cac4d486e46aeed2b2c3cb6e",
+        "title": "联合国关于控制自发武器使用问题的国际会谈",
+        "originalTitle": "International UN talks on controlling use of autonomous weapons collapse",
+        "summary": "为期一周的努力未能确立关于AI战争的谈判任务,因为俄罗斯“挫败”了长达一周的努力,以商定一项具有法律约束力的国际条约的谈判任务,以控制自主武器的使用,但就在一夜谈判之后的凌晨5点前,这一努力失败了,未能克服俄罗斯的反对。 尽管绝大多数国家都参加了联合国《关于某些常规武器的公约》。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-21T16:36:11Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T18:26:58.669550Z",
+        "updatedAt": "2026-11-21T18:26:58.669550Z"
+      }
+    },
+    {
+      "eventId": "rss-1c64d44e2f0cbfcc23357977",
+      "at": "2026-11-21T18:26:58.669550Z",
+      "data": {
+        "id": "rss-1c64d44e2f0cbfcc23357977",
+        "title": "据报联邦调查局正在调查其犯罪数据库的明显黑客",
+        "originalTitle": "FBI reportedly investigating apparent hack of its criminal database",
+        "summary": "联邦和地方执法机构利用国家犯罪信息中心数据库分享信息。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-21T16:35:15Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T18:26:58.669550Z",
+        "updatedAt": "2026-11-21T18:26:58.669550Z"
+      }
+    },
+    {
+      "eventId": "rss-53e893a48ca02ab2292951b3",
+      "at": "2026-11-21T18:26:58.669550Z",
+      "data": {
+        "id": "rss-53e893a48ca02ab2292951b3",
+        "title": "向好莱坞的开场秀 出售一个人工智能版的你的脸吗?",
+        "originalTitle": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+        "summary": "一位演员允许他参加一场微型戏剧的启动活动,这一趋势在中国已经很流行。 如果这在好莱坞也成为一种趋势,专家们会质疑长期后果。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-21T16:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T18:26:58.669550Z",
+        "updatedAt": "2026-11-21T18:26:58.669550Z"
+      }
+    },
+    {
+      "eventId": "rss-4759f8bfede4ad55fd526351",
+      "at": "2026-11-21T18:26:58.669550Z",
+      "data": {
+        "id": "rss-4759f8bfede4ad55fd526351",
+        "title": "英国人对儿子从塞浦路斯窗戶倒下后死亡感到“绝望”。",
+        "originalTitle": "British man recalls ‘despair’ over son’s death after fall from Cyprus window",
+        "summary": "Joshua Foster告诉大家,当他从一家旅馆的第四层倒下时,他 \" 失去控制 \" 了两岁的孩子。 一位英国父亲在塞浦路斯的一个家庭节日中,他的儿子从四楼窗户倒下,他被法院罚款。 Joshua Foster回忆了“绝望”的回忆,当时他从他手中溜走。 Joshua Foster在认罪后被处以3 000欧元(2 500英镑)的罚款。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-21T15:19:03Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/uk-news/2026/nov/21/british-man-recalls-despair-over-sons-death-after-fall-from-cyprus-window"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T18:26:58.669550Z",
+        "updatedAt": "2026-11-21T18:26:58.669550Z"
+      }
+    },
+    {
+      "eventId": "rss-7e38a968ec4d4e65c4b7e763",
+      "at": "2026-11-21T18:26:58.669550Z",
+      "data": {
+        "id": "rss-7e38a968ec4d4e65c4b7e763",
+        "title": "阿拉斯加,你下一任州长是维基百科书呆子",
+        "originalTitle": "Alaska, your next governor is a Wikipedia nerd",
+        "summary": "Jonathan Kreiss-Tomkins, 阿拉斯加当选州长, 已经做了超过13000 Wikipedia 编辑。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-21T15:18:29Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T18:26:58.669550Z",
+        "updatedAt": "2026-11-21T18:26:58.669550Z"
+      }
+    },
+    {
+      "eventId": "rss-e54ec07f73645f1c57481f59",
+      "at": "2026-11-21T18:26:58.669550Z",
+      "data": {
+        "id": "rss-e54ec07f73645f1c57481f59",
+        "title": "争夺化石燃料使COP31气候谈判陷入僵局",
+        "originalTitle": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+        "summary": "来自近200个国家的国家正陷入僵局,试图达成一项新的全球气候协定。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-21T14:54:24Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T18:26:58.669550Z",
+        "updatedAt": "2026-11-21T18:26:58.669550Z"
+      }
+    },
+    {
+      "eventId": "rss-714dcc77cc1a9fcdd651284d",
+      "at": "2026-11-21T18:26:58.669550Z",
+      "data": {
+        "id": "rss-714dcc77cc1a9fcdd651284d",
+        "title": "Zelensky说克里米亚桥在遇到英国街坊时,",
+        "originalTitle": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+        "summary": "乌克兰总统说,基辅是在109次俄罗斯对乌克兰桥梁的单独空袭之后采取行动的。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-21T13:17:38Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T18:26:58.669550Z",
+        "updatedAt": "2026-11-21T18:26:58.669550Z"
+      }
+    },
+    {
+      "eventId": "rss-d53e011b61eef9a5dd0ffdc0",
+      "at": "2026-11-21T18:26:58.669550Z",
+      "data": {
+        "id": "rss-d53e011b61eef9a5dd0ffdc0",
+        "title": "联邦调查局十大通缉犯名单上的墨西哥毒枭 在枪战中被捕",
+        "originalTitle": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+        "summary": "Fausto Isidro “Chapo Idisro” Meza Flores被控贩卖毒品和施以酷刑,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-21T13:15:21Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T18:26:58.669550Z",
+        "updatedAt": "2026-11-21T18:26:58.669550Z"
+      }
+    },
+    {
+      "eventId": "rss-438962f752c0a47aa622ef2b",
+      "at": "2026-11-21T18:26:58.669550Z",
+      "data": {
+        "id": "rss-438962f752c0a47aa622ef2b",
+        "title": "当英国在贸易和年轻人问题上做交易时,重新加入欧盟",
+        "originalTitle": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
+        "summary": "Ed Miliband说,在未来的谈判中,所有选项都可选择,而首相则欢呼“英国和欧洲的好日子 ” 。 英国重新加入欧盟可能会成为安迪·伯纳姆和欧洲领导人在布鲁塞尔的非正式讨论的焦点。 Ed Miliband说,“所有选项”将在总理就贸易和年轻人问题达成协议后,在此过程中得到审查。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-21T11:33:01Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T18:26:58.669550Z",
+        "updatedAt": "2026-11-21T18:26:58.669550Z"
+      }
+    },
+    {
+      "eventId": "rss-bdbb801d5b8cbaebc5123b45",
+      "at": "2026-11-21T18:26:58.669550Z",
+      "data": {
+        "id": "rss-bdbb801d5b8cbaebc5123b45",
+        "title": "海地人兴奋但不安,因为萨尔瓦多部队与帮派作战",
+        "originalTitle": "Haitians excited but uneasy as El Salvador troops fight gangs",
+        "summary": "太子港的外国战斗人员在帮派控制多年后受到许多人的欢迎,但一些恐惧可能会加剧动荡局势。 海地罢工家埃马纽埃尔·萨农(Emmanuel Sanon)的弹孔壁画覆盖了太子港主要足球场的外墙。 但自任何体育明星赢得球场以来,两年多过去了。 2024年,周围城市几乎完全被包围了。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-21T11:00:57Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T18:26:58.669550Z",
+        "updatedAt": "2026-11-21T18:26:58.669550Z"
+      }
+    },
+    {
+      "eventId": "rss-f46ca9a79cba57f0c3899c4a",
+      "at": "2026-11-21T18:26:58.669550Z",
+      "data": {
+        "id": "rss-f46ca9a79cba57f0c3899c4a",
+        "title": "中国致力于低碳电气化,帮助其他国家改善",
+        "originalTitle": "China commits to low-carbon electrification and help for others to improve",
+        "summary": "独家:在Cop31会议上,各国被敦促承诺在2035年Cop31直播之前从电力中获取35%的能源 — — 中国正在利用低碳能源推动其经济快速电气化的最新消息,并将帮助其他国家这样做。 出席Cop31联合国气候峰会的中国代表团一位高级成员说 : 王仪,一位能源和环境政治教授。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-21T09:47:57Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T18:26:58.669550Z",
+        "updatedAt": "2026-11-21T18:26:58.669550Z"
+      }
+    },
+    {
+      "eventId": "rss-8bd28aa954d3604bf83d4ede",
+      "at": "2026-11-21T18:26:58.669550Z",
+      "data": {
+        "id": "rss-8bd28aa954d3604bf83d4ede",
+        "title": "Miliband说,与不依赖学费协议的欧盟打交道",
+        "originalTitle": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+        "summary": "布鲁塞尔的消息来源曾建议,在降低英国的欧盟学生的学费之前,集团可能不会适用更广泛的交易。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-21T09:40:55Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T18:26:58.669550Z",
+        "updatedAt": "2026-11-21T18:26:58.669550Z"
+      }
+    },
+    {
+      "eventId": "rss-9bc8a6e38b5a853ede9b2e4d",
+      "at": "2026-11-21T18:26:58.669550Z",
+      "data": {
+        "id": "rss-9bc8a6e38b5a853ede9b2e4d",
+        "title": "Zelensky说,普京是一个“杀手”,特朗普称俄罗斯领导人为朋友。",
+        "originalTitle": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+        "summary": "本周早些时候,特朗普在中国开会前向普京表示欢迎,并说这对夫妻有着“很好的关系”。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-21T08:10:25Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T18:26:58.669550Z",
+        "updatedAt": "2026-11-21T18:26:58.669550Z"
+      }
+    },
+    {
+      "eventId": "rss-c04736f66c046ddc6f35905c",
+      "at": "2026-11-21T18:26:58.669550Z",
+      "data": {
+        "id": "rss-c04736f66c046ddc6f35905c",
+        "title": "特拉法加广场圣诞树在挪威被砍伐",
+        "originalTitle": "Trafalgar Square Christmas tree felled in Norway",
+        "summary": "这棵21米的树是奥斯陆每年对英国在二战期间的支持表示感谢。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-21T08:10:03Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T18:26:58.669550Z",
+        "updatedAt": "2026-11-21T18:26:58.669550Z"
+      }
+    },
+    {
+      "eventId": "rss-e3251cb4a7cb260c4b556ed6",
+      "at": "2026-11-21T18:26:58.669550Z",
+      "data": {
+        "id": "rss-e3251cb4a7cb260c4b556ed6",
+        "title": "基辅居民因俄罗斯攻击城市桥梁而解脱,",
+        "originalTitle": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges",
+        "summary": "尽管在停机坪上躲藏眼泪,人们仍对城市的基础设施充满信心 — — 也不会担心没有发生的事情,然而,Mykola预计每天要开他的被撞的蜜蜂小客车20至24次,超过基辅被俄罗斯弹道导弹袭击破坏的北部大桥上的道路孔。 现在只有汽车可以经过。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-21T05:00:50Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T18:26:58.669550Z",
+        "updatedAt": "2026-11-21T18:26:58.669550Z"
+      }
+    },
+    {
+      "eventId": "rss-ef990386d9a8051897e45a92",
+      "at": "2026-11-21T18:26:58.669550Z",
+      "data": {
+        "id": "rss-ef990386d9a8051897e45a92",
+        "title": "据称,在墨尔本招待战争期间,青少年在信号上组织纵火和绑架。",
+        "originalTitle": "Teenager allegedly organised arsons and kidnapping on Signal during Melbourne hospitality wars",
+        "summary": "维多利亚州警方说,17岁的男孩用用户名“百分之一”与罪犯沟通。 得到我们的突发新闻电子邮件、免费应用程序或每日新闻播客维多利亚州警方指控一名17岁的男孩委托他人进行一系列纵火、家庭入侵和错误的身份绑架,导致墨尔本盛情战争期间受害人手指部分断肢。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-21T04:44:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T18:26:58.669550Z",
+        "updatedAt": "2026-11-21T18:26:58.669550Z"
+      }
+    },
+    {
+      "eventId": "rss-81231055e0a0be4281ba98ec",
+      "at": "2026-11-21T18:26:58.669550Z",
+      "data": {
+        "id": "rss-81231055e0a0be4281ba98ec",
+        "title": "被判定在洛杉矶 引发Palisades火灾的人",
+        "originalTitle": "Man convicted of starting Palisades fire in Los Angeles",
+        "summary": "这名30岁的LA居民被判犯有纵火罪,导致12人死亡,6 800多座建筑物被毁。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-21T04:34:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T18:26:58.669550Z",
+        "updatedAt": "2026-11-21T18:26:58.669550Z"
+      }
+    },
+    {
+      "eventId": "rss-de2a70e2ff584d1a10bfc168",
+      "at": "2026-11-21T18:26:58.669550Z",
+      "data": {
+        "id": "rss-de2a70e2ff584d1a10bfc168",
+        "title": "迈阿密还是副城?",
+        "originalTitle": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+        "summary": "英国广播公司新闻网(BBC News Mundo)的Rafael Rojas访问迈阿密真实生活,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-20T18:48:48Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-21T18:26:58.669550Z",
+        "updatedAt": "2026-11-21T18:26:58.669550Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-21T18:26:58.669550Z",
+      "at": "2026-11-21T18:26:58.669550Z",
+      "kind": "GitHub Actions 采集",
+      "count": 20,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 9}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 0}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 8}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 3}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-21T04:42:10.077757Z",
       "at": "2026-11-21T04:42:10.077757Z",
