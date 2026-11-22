@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-21T18:26:58.669550Z",
+  "updatedAt": "2026-11-22T03:55:51.274665Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -80896,6 +80896,424 @@
       "tokens": [],
       "firstSeen": "2026-11-21T18:26:58.669550Z",
       "updatedAt": "2026-11-21T18:26:58.669550Z"
+    },
+    {
+      "id": "rss-66c4004d37cef98df89c39e1",
+      "title": "警方说,在佛林德尔斯岛上发现有人被警察开枪打死",
+      "originalTitle": "Man found dead on Flinders Island believed to have been shot by officer, police say",
+      "summary": "这名中士在据称 \" 目标攻击 \" 后,在岛屿警察局外多次开枪。 得到我们的突发新闻电子邮件、免费应用程序或每日新闻播报。 据称,一名警官在偏远的塔斯马尼亚警察局外被枪杀,这是针对当局认为是 \" 目标 \" 的事件。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-22T02:44:01Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T03:55:51.274665Z",
+      "updatedAt": "2026-11-22T03:55:51.274665Z"
+    },
+    {
+      "id": "rss-d5fefb2e07250b488f9a0294",
+      "title": "`没有时间进行文化战争 ' :维多利亚的电力供应处于危险之中。 它能避免电力短缺和法案冲击吗?",
+      "originalTitle": "‘No time for a culture war’: Victoria’s electricity supply is at risk. Can it avoid power shortages and bill shocks?",
+      "summary": "当Yallourn燃煤发电站于2028年关闭时,国家面临电力供应缺口,因为专家警告说,Labor和联军都没有适当的计划。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-22T01:00:13Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/22/victoria-election-2026-what-are-parties-promising-energy-policy"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T03:55:51.274665Z",
+      "updatedAt": "2026-11-22T03:55:51.274665Z"
+    },
+    {
+      "id": "rss-d64c4a633c46c9b094947d7c",
+      "title": "弗雷德·尼罗,前新南威尔士州政治家和右翼基督教民主党头目,死亡年龄92岁",
+      "originalTitle": "Fred Nile, former NSW politician and figurehead of the rightwing Christian Democratic party, dies aged 92",
+      "summary": "前新南威尔士议员和右翼基督教民主党长期的人物领袖佛瑞德尼罗(Rev Fred Nile)于92岁去世,尼罗是新南威尔士州党员。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-22T00:26:35Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/22/fred-nile-former-nsw-politician-and-figurehead-of-the-rightwing-christian-democratic-party-dies-aged-92"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T03:55:51.274665Z",
+      "updatedAt": "2026-11-22T03:55:51.274665Z"
+    },
+    {
+      "id": "rss-a201ec4f423e6ef281b420f8",
+      "title": "尼日利亚青年已经展示了他们过去的力量,",
+      "originalTitle": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+      "summary": "在明年的选举中,登记投票的年轻人比2023年少,年轻人是否对民主失去信心?（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-22T00:10:37Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T03:55:51.274665Z",
+      "updatedAt": "2026-11-22T03:55:51.274665Z"
+    },
+    {
+      "id": "rss-7b29528f2e14da5a0c7cb3e4",
+      "title": "一个青少年游戏家和他母亲如何帮助营救失踪的女孩",
+      "originalTitle": "How a teen gamer and his mother helped rescue a missing girl",
+      "summary": "当16岁的Landon Tresp在网上游戏中遇到一个十几岁的女孩时, 他和他的母亲帮助FBI救她免遭绑架。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-22T00:09:58Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T03:55:51.274665Z",
+      "updatedAt": "2026-11-22T03:55:51.274665Z"
+    },
+    {
+      "id": "rss-490042f26061ca852e150f15",
+      "title": "前美国总统乔治·华盛顿的头发卖了四千块",
+      "originalTitle": "Lock of former US President George Washington's hair sells for $4,000",
+      "summary": "1799年华盛顿逝世前不久,根據其前主人的后裔,头发是作为友谊的象征而发的。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-21T22:01:19Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T03:55:51.274665Z",
+      "updatedAt": "2026-11-22T03:55:51.274665Z"
+    },
+    {
+      "id": "rss-7289e21f33e265e97a89457e",
+      "title": "信号限制移动截图,",
+      "originalTitle": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "summary": "信号正在限制用户在 Android 和 iOS 应用程序中拍摄截图的能力。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-21T21:37:10Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T03:55:51.274665Z",
+      "updatedAt": "2026-11-22T03:55:51.274665Z"
+    },
+    {
+      "id": "rss-8ed913cfa76c678b69752038",
+      "title": "两个Nvidias的故事",
+      "originalTitle": "A tale of two Nvidias",
+      "summary": "我们得到两张截然不同的Nvidia照片, 公司最新收入报告与技术主管对立, 强烈要求Jensen Huang回来。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-21T21:07:42Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T03:55:51.274665Z",
+      "updatedAt": "2026-11-22T03:55:51.274665Z"
+    },
+    {
+      "id": "rss-a9bb7c6e29da205c76d25856",
+      "title": "在芬兰湾被袭击的俄罗斯船",
+      "originalTitle": "Russia-bound ship attacked in Gulf of Finland",
+      "summary": "芬兰国防部队说,乌克兰很可能是无人机攻击该船的幕后策划者。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-21T19:20:22Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T03:55:51.274665Z",
+      "updatedAt": "2026-11-22T03:55:51.274665Z"
+    },
+    {
+      "id": "rss-d899398bd5470a83d1c44a2e",
+      "title": "“六、七、也许更可以预防的死亡”:昆士兰州国民警察面临医疗系统崩溃的考量。",
+      "originalTitle": "‘Six, seven, maybe more preventable deaths’: Queensland’s LNP faces reckoning over broken health system",
+      "summary": "一个执政超过两年的政府最终被迫承担责任,似乎不再能够指责其前工党员。 在昆士兰州议会另一周会议开始之际,匿名消息源已经失效,这次是针对州工党领袖史蒂文·迈尔斯的背景简报。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-21T19:00:08Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T03:55:51.274665Z",
+      "updatedAt": "2026-11-22T03:55:51.274665Z"
+    },
+    {
+      "id": "rss-e41fc8a711e07250969b08b1",
+      "title": "Trump说FBI报告的数据库黑客\"不好\"",
+      "originalTitle": "Trump says reported FBI database hack is ‘not good’",
+      "summary": "据说联邦调查局正在调查国家犯罪信息中心的黑客案。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-21T18:44:53Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T03:55:51.274665Z",
+      "updatedAt": "2026-11-22T03:55:51.274665Z"
     }
   ],
   "history": [
@@ -170317,9 +170735,478 @@
         "firstSeen": "2026-11-21T18:26:58.669550Z",
         "updatedAt": "2026-11-21T18:26:58.669550Z"
       }
+    },
+    {
+      "eventId": "rss-66c4004d37cef98df89c39e1",
+      "at": "2026-11-22T03:55:51.274665Z",
+      "data": {
+        "id": "rss-66c4004d37cef98df89c39e1",
+        "title": "警方说,在佛林德尔斯岛上发现有人被警察开枪打死",
+        "originalTitle": "Man found dead on Flinders Island believed to have been shot by officer, police say",
+        "summary": "这名中士在据称 \" 目标攻击 \" 后,在岛屿警察局外多次开枪。 得到我们的突发新闻电子邮件、免费应用程序或每日新闻播报。 据称,一名警官在偏远的塔斯马尼亚警察局外被枪杀,这是针对当局认为是 \" 目标 \" 的事件。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-22T02:44:01Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T03:55:51.274665Z",
+        "updatedAt": "2026-11-22T03:55:51.274665Z"
+      }
+    },
+    {
+      "eventId": "rss-d5fefb2e07250b488f9a0294",
+      "at": "2026-11-22T03:55:51.274665Z",
+      "data": {
+        "id": "rss-d5fefb2e07250b488f9a0294",
+        "title": "`没有时间进行文化战争 ' :维多利亚的电力供应处于危险之中。 它能避免电力短缺和法案冲击吗?",
+        "originalTitle": "‘No time for a culture war’: Victoria’s electricity supply is at risk. Can it avoid power shortages and bill shocks?",
+        "summary": "当Yallourn燃煤发电站于2028年关闭时,国家面临电力供应缺口,因为专家警告说,Labor和联军都没有适当的计划。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-22T01:00:13Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/22/victoria-election-2026-what-are-parties-promising-energy-policy"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T03:55:51.274665Z",
+        "updatedAt": "2026-11-22T03:55:51.274665Z"
+      }
+    },
+    {
+      "eventId": "rss-d64c4a633c46c9b094947d7c",
+      "at": "2026-11-22T03:55:51.274665Z",
+      "data": {
+        "id": "rss-d64c4a633c46c9b094947d7c",
+        "title": "弗雷德·尼罗,前新南威尔士州政治家和右翼基督教民主党头目,死亡年龄92岁",
+        "originalTitle": "Fred Nile, former NSW politician and figurehead of the rightwing Christian Democratic party, dies aged 92",
+        "summary": "前新南威尔士议员和右翼基督教民主党长期的人物领袖佛瑞德尼罗(Rev Fred Nile)于92岁去世,尼罗是新南威尔士州党员。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-22T00:26:35Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/22/fred-nile-former-nsw-politician-and-figurehead-of-the-rightwing-christian-democratic-party-dies-aged-92"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T03:55:51.274665Z",
+        "updatedAt": "2026-11-22T03:55:51.274665Z"
+      }
+    },
+    {
+      "eventId": "rss-a201ec4f423e6ef281b420f8",
+      "at": "2026-11-22T03:55:51.274665Z",
+      "data": {
+        "id": "rss-a201ec4f423e6ef281b420f8",
+        "title": "尼日利亚青年已经展示了他们过去的力量,",
+        "originalTitle": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+        "summary": "在明年的选举中,登记投票的年轻人比2023年少,年轻人是否对民主失去信心?（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-22T00:10:37Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T03:55:51.274665Z",
+        "updatedAt": "2026-11-22T03:55:51.274665Z"
+      }
+    },
+    {
+      "eventId": "rss-7b29528f2e14da5a0c7cb3e4",
+      "at": "2026-11-22T03:55:51.274665Z",
+      "data": {
+        "id": "rss-7b29528f2e14da5a0c7cb3e4",
+        "title": "一个青少年游戏家和他母亲如何帮助营救失踪的女孩",
+        "originalTitle": "How a teen gamer and his mother helped rescue a missing girl",
+        "summary": "当16岁的Landon Tresp在网上游戏中遇到一个十几岁的女孩时, 他和他的母亲帮助FBI救她免遭绑架。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-22T00:09:58Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T03:55:51.274665Z",
+        "updatedAt": "2026-11-22T03:55:51.274665Z"
+      }
+    },
+    {
+      "eventId": "rss-490042f26061ca852e150f15",
+      "at": "2026-11-22T03:55:51.274665Z",
+      "data": {
+        "id": "rss-490042f26061ca852e150f15",
+        "title": "前美国总统乔治·华盛顿的头发卖了四千块",
+        "originalTitle": "Lock of former US President George Washington's hair sells for $4,000",
+        "summary": "1799年华盛顿逝世前不久,根據其前主人的后裔,头发是作为友谊的象征而发的。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-21T22:01:19Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T03:55:51.274665Z",
+        "updatedAt": "2026-11-22T03:55:51.274665Z"
+      }
+    },
+    {
+      "eventId": "rss-7289e21f33e265e97a89457e",
+      "at": "2026-11-22T03:55:51.274665Z",
+      "data": {
+        "id": "rss-7289e21f33e265e97a89457e",
+        "title": "信号限制移动截图,",
+        "originalTitle": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+        "summary": "信号正在限制用户在 Android 和 iOS 应用程序中拍摄截图的能力。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-21T21:37:10Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T03:55:51.274665Z",
+        "updatedAt": "2026-11-22T03:55:51.274665Z"
+      }
+    },
+    {
+      "eventId": "rss-8ed913cfa76c678b69752038",
+      "at": "2026-11-22T03:55:51.274665Z",
+      "data": {
+        "id": "rss-8ed913cfa76c678b69752038",
+        "title": "两个Nvidias的故事",
+        "originalTitle": "A tale of two Nvidias",
+        "summary": "我们得到两张截然不同的Nvidia照片, 公司最新收入报告与技术主管对立, 强烈要求Jensen Huang回来。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-21T21:07:42Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T03:55:51.274665Z",
+        "updatedAt": "2026-11-22T03:55:51.274665Z"
+      }
+    },
+    {
+      "eventId": "rss-a9bb7c6e29da205c76d25856",
+      "at": "2026-11-22T03:55:51.274665Z",
+      "data": {
+        "id": "rss-a9bb7c6e29da205c76d25856",
+        "title": "在芬兰湾被袭击的俄罗斯船",
+        "originalTitle": "Russia-bound ship attacked in Gulf of Finland",
+        "summary": "芬兰国防部队说,乌克兰很可能是无人机攻击该船的幕后策划者。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-21T19:20:22Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T03:55:51.274665Z",
+        "updatedAt": "2026-11-22T03:55:51.274665Z"
+      }
+    },
+    {
+      "eventId": "rss-d899398bd5470a83d1c44a2e",
+      "at": "2026-11-22T03:55:51.274665Z",
+      "data": {
+        "id": "rss-d899398bd5470a83d1c44a2e",
+        "title": "“六、七、也许更可以预防的死亡”:昆士兰州国民警察面临医疗系统崩溃的考量。",
+        "originalTitle": "‘Six, seven, maybe more preventable deaths’: Queensland’s LNP faces reckoning over broken health system",
+        "summary": "一个执政超过两年的政府最终被迫承担责任,似乎不再能够指责其前工党员。 在昆士兰州议会另一周会议开始之际,匿名消息源已经失效,这次是针对州工党领袖史蒂文·迈尔斯的背景简报。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-21T19:00:08Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T03:55:51.274665Z",
+        "updatedAt": "2026-11-22T03:55:51.274665Z"
+      }
+    },
+    {
+      "eventId": "rss-e41fc8a711e07250969b08b1",
+      "at": "2026-11-22T03:55:51.274665Z",
+      "data": {
+        "id": "rss-e41fc8a711e07250969b08b1",
+        "title": "Trump说FBI报告的数据库黑客\"不好\"",
+        "originalTitle": "Trump says reported FBI database hack is ‘not good’",
+        "summary": "据说联邦调查局正在调查国家犯罪信息中心的黑客案。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-21T18:44:53Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T03:55:51.274665Z",
+        "updatedAt": "2026-11-22T03:55:51.274665Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-22T03:55:51.274665Z",
+      "at": "2026-11-22T03:55:51.274665Z",
+      "kind": "GitHub Actions 采集",
+      "count": 11,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 4}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 0}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 4}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 3}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-21T18:26:58.669550Z",
       "at": "2026-11-21T18:26:58.669550Z",
