@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-22T03:55:51.274665Z",
+  "updatedAt": "2026-11-22T18:48:54.700008Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -81314,6 +81314,728 @@
       "tokens": [],
       "firstSeen": "2026-11-22T03:55:51.274665Z",
       "updatedAt": "2026-11-22T03:55:51.274665Z"
+    },
+    {
+      "id": "rss-b51af88d58d8138dece56306",
+      "title": "为什么数据中心是大科技反弹的中心",
+      "originalTitle": "Why data centers are at the center of the Big Tech backlash",
+      "summary": "记者巴黎马克思 拆开他的新书\"Hyperscale\"。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-22T18:08:43Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T18:48:54.700008Z",
+      "updatedAt": "2026-11-22T18:48:54.700008Z"
+    },
+    {
+      "id": "rss-3a79b8d5c4b4253131a4f0b0",
+      "title": "“危险似乎越来越严重”:在俄罗斯袭击之后,乌克兰人寻找失踪",
+      "originalTitle": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "summary": "英国广播公司的Sarah Rainsford报导乌克兰基辅地区一栋房屋倒塌。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-22T17:57:43Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T18:48:54.700008Z",
+      "updatedAt": "2026-11-22T18:48:54.700008Z"
+    },
+    {
+      "id": "rss-cb29a20e38ef835b166a4d39",
+      "title": "官员说,在利比亚港口的俄罗斯船只上爆炸是由无人机攻击引起的",
+      "originalTitle": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "summary": "利比亚东部政府说,该船在返回俄罗斯的途中已停靠,以获取燃料和补给。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-22T17:16:47Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T18:48:54.700008Z",
+      "updatedAt": "2026-11-22T18:48:54.700008Z"
+    },
+    {
+      "id": "rss-70eecc407642e6be563ce144",
+      "title": "TechCrunch 流动性:A/B测试机器人对人",
+      "originalTitle": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "summary": "欢迎回到TechCrunch行动中心 未来的交通中心 现在比以往任何时候 AI在其中扮演的角色（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-22T17:06:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T18:48:54.700008Z",
+      "updatedAt": "2026-11-22T18:48:54.700008Z"
+    },
+    {
+      "id": "rss-0a72272c8d43a3ceda33ea18",
+      "title": "在班加西的俄罗斯舰艇上爆炸,",
+      "originalTitle": "Blast on Russian ship in Benghazi a suspected drone attack, say Libyan authorities",
+      "summary": "利比亚东部政府说,在利比亚港口城市班加西海军基地停靠的一艘俄罗斯船只上发生的爆炸是无人机袭击的嫌疑造成的。 利比亚东部政府说,没有立即声称对这次袭击负责,但乌克兰部队已经采取行动。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-22T16:55:49Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T18:48:54.700008Z",
+      "updatedAt": "2026-11-22T18:48:54.700008Z"
+    },
+    {
+      "id": "rss-f18447eb72de5043027339c6",
+      "title": "Cop31气候对话因关键交易被拒绝而破裂",
+      "originalTitle": "Cop31 climate talks break down as key deal rejected",
+      "summary": "欧盟、英国和一些发展中国家反对 \" 未能满足这一时刻 \" 和未提及化石燃料的主要案文。 欧盟、英国和发展中世界的盟友在土耳其的Cop31联合国会谈的戏剧性结束中拒绝了他们所说的关于未来气候的不可接受的协议,甚至没有提到化石燃料。 Ir说,拟议的协议 \" 未能满足这一时刻 \" 。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-22T16:14:46Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T18:48:54.700008Z",
+      "updatedAt": "2026-11-22T18:48:54.700008Z"
+    },
+    {
+      "id": "rss-9dc96c937c8254f4c565d8c8",
+      "title": "电视是不是太大了?",
+      "originalTitle": "Can a TV be too large? An investigation",
+      "summary": "电视是不是太大了?这个作家最近升级为65英寸的OLED 带来了一些意外的挑战。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-22T15:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T18:48:54.700008Z",
+      "updatedAt": "2026-11-22T18:48:54.700008Z"
+    },
+    {
+      "id": "rss-737a9facdd26faa145938db2",
+      "title": "印尼工厂发生火灾后,三人死亡,数十人失踪",
+      "originalTitle": "Three killed and dozens missing after fire at Indonesian factory",
+      "summary": "至少有三人死亡,许多人担心在一家糖果厂发生火灾后死亡。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-22T14:05:20Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T18:48:54.700008Z",
+      "updatedAt": "2026-11-22T18:48:54.700008Z"
+    },
+    {
+      "id": "rss-e2cf3299d8b8e2f49633a310",
+      "title": "以澳大利亚议会为首的便便议员 创下了新的宣誓记录",
+      "originalTitle": "Potty-mouthed MPs ranked as Australian parliament sets new swearing record",
+      "summary": "连环宣誓的罪犯Jacqui Lambie说,这不会是澳大利亚议会`不说几句脏话',他想每两周在你的收件箱里拿到更多的图表吗? 当自由党议员Garth Hamilton于6月冲出议会时,他在这里签名,把他的手敲在桌子上,并喊着房子的发言人Milton Dick“他妈的胡说八道 ” , 称之为“一个新的低潮”（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-22T14:00:32Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/news/2026/nov/23/potty-mouthed-mps-ranked-as-australian-parliament-sets-new-swearing-record"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T18:48:54.700008Z",
+      "updatedAt": "2026-11-22T18:48:54.700008Z"
+    },
+    {
+      "id": "rss-0db2097cecb396fc378e4c28",
+      "title": "澳大利亚敦促在全球供应冲击中断绝进口化石燃料",
+      "originalTitle": "Australia urged to wean off imported fossil fuels amid global supply shocks",
+      "summary": "Grattan Institute报告呼吁政府“抓住机会, 限制柴油税抵免, 对较不富裕的精炼厂实行EV补贴,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-22T14:00:29Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/23/australia-urged-to-wean-off-imported-fossil-fuels-amid-global-supply-shocks"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T18:48:54.700008Z",
+      "updatedAt": "2026-11-22T18:48:54.700008Z"
+    },
+    {
+      "id": "rss-520e56a219a4af173a969d8f",
+      "title": "韩国部长在AI出轨丑闻席卷大学考试后辞职",
+      "originalTitle": "South Korean minister quits after AI cheating scandal engulfs university exams",
+      "summary": "崔孝镇说,韩国教育部长在上周重要的大学入学考试前爆发了由AI协助的欺骗丑闻,在最后一刻紧紧措施之后,他“没能为入学考试做好充分准备 ” 。 自上星期天以来,韩国一直害怕AI协助的考试出轨,当时韩国国家教育部长的顶尖得分者已经辞职。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-22T12:12:07Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T18:48:54.700008Z",
+      "updatedAt": "2026-11-22T18:48:54.700008Z"
+    },
+    {
+      "id": "rss-9fca7a9ef1e0d7bb963af8d7",
+      "title": "英国-欧盟食品交易受到英国企业的欢迎:",
+      "originalTitle": "UK-EU food deal hailed by British firms: ‘We’re pretty aligned anyway’",
+      "summary": "出口者欢迎Brexit检查的结束 — — 但对于英国生产商将花费如此长的时间来实施英国与欧盟的协议感到沮丧,该协议旨在取消绝大多数对食品、植物和动物产品的实物检查。 卫生和植物检疫协议有望让英国食品出口商受益,并让英国的精细食品和其他产品得以使用。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-22T11:00:24Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T18:48:54.700008Z",
+      "updatedAt": "2026-11-22T18:48:54.700008Z"
+    },
+    {
+      "id": "rss-1702b449ef0b09d7ee21232e",
+      "title": "韩国教育部长因考试欺骗丑闻辞职",
+      "originalTitle": "South Korea education minister resigns over exam cheating scandal",
+      "summary": "崔京镇承认在大学入学考试期间 阻止AI协助作弊的最后一步措施 造成了混乱（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-22T09:20:45Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T18:48:54.700008Z",
+      "updatedAt": "2026-11-22T18:48:54.700008Z"
+    },
+    {
+      "id": "rss-6fc3bb31bc34ec6a1dba1a27",
+      "title": "英格兰银行董事从古巴的废除后奴役中非法获利",
+      "originalTitle": "Bank of England directors illegally profited from post-abolition enslavement in Cuba",
+      "summary": "新的研究发现,英国领导的科布雷矿业公司通过铜矿和受奴役的非洲人民帮助曼彻斯特工业化 奴隶贸易财富植根于英国的金融体系中,研究发现,英国企业由英格兰银行长期服务董事经营,在英国帝国废除奴隶制之后,在古巴从奴役中获利数十年。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-22T08:00:22Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T18:48:54.700008Z",
+      "updatedAt": "2026-11-22T18:48:54.700008Z"
+    },
+    {
+      "id": "rss-f52c822b3d4b23835901d4e2",
+      "title": "意大利珠宝商和商人Paolo Bulgari 89岁死亡",
+      "originalTitle": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "summary": "在对意大利媒体的声明中,他的家人记得他是 \"我们时代最大的珠宝商\"。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-22T07:12:41Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T18:48:54.700008Z",
+      "updatedAt": "2026-11-22T18:48:54.700008Z"
+    },
+    {
+      "id": "rss-b1fdd3d9246a5ec111d064b8",
+      "title": "印度尼西亚糖果厂失火,至少造成三人死亡,数十人失踪",
+      "originalTitle": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
+      "summary": "一名印度尼西亚救援官员说,雅加达以西一家糖果厂发生火灾,造成三人死亡,36人失踪。 无人机的录像显示,工厂大片被摧毁,屋顶倒塌,建筑群的烟雾仍在上升。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-22T07:11:17Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T18:48:54.700008Z",
+      "updatedAt": "2026-11-22T18:48:54.700008Z"
+    },
+    {
+      "id": "rss-cc5e8f65eaaca95a6325d110",
+      "title": "`判断错误严重 ' :对柏林艺术院的AI军事事件感到愤慨",
+      "originalTitle": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
+      "summary": "与Tresor技术俱乐部一样,Kraftwerk Berlin也是发展的一部分,它变成了武器公司活动的 \" 战室 \" ,它们有着坚固的工业后场地,牙齿磨制了4乘4的节拍和保镖,看上去像Blade Runner 外加的,柏林夜总会交易的名声是暗淡的。 然而,最近在该市最传奇的俱乐部机构之一举行的一次活动证明,它已经变得太糟糕了。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-22T06:00:21Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T18:48:54.700008Z",
+      "updatedAt": "2026-11-22T18:48:54.700008Z"
+    },
+    {
+      "id": "rss-de7bf89f11d03d84388113f4",
+      "title": "欧洲正在进入国家选举的“超级周期 ” 。 其结果可能会动摇欧盟的基础。",
+      "originalTitle": "Europe is entering a ‘supercycle’ of national elections. Their outcomes could shake the EU’s foundations",
+      "summary": "随着民族主义、欧洲怀疑派政党在该集团四个最大成员国中崛起,明年的民意测验可以像以往任何时候一样考验其韧性。 1998年底,托尼·布莱尔担任英国首相,莱昂内尔·约斯潘担任法国总理,格哈德·施罗德刚刚当选为德国总理。 欧盟有15个成员国,而支持欧洲的中左翼政党掌权。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-22T06:00:18Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T18:48:54.700008Z",
+      "updatedAt": "2026-11-22T18:48:54.700008Z"
+    },
+    {
+      "id": "rss-9605475c387aa7bfd1ecfd80",
+      "title": "警方说,在悉尼灌木林 12天未发现尸体的人 在疑似肇事逃逸中被杀",
+      "originalTitle": "Police say man whose body lay undiscovered in Sydney bushland for 12 days was killed in suspected hit-and-run",
+      "summary": "Joshua Howard,31岁, 据信在Rouse Hill的派对上回家时被汽车撞倒, 被扔在护栏上。 得到我们的突发新闻电子邮件、免费应用程序或每日新闻播客。 Joshua Howard是一名男子的双胞胎兄弟,他的尸体在被怀疑在悉尼被击中并逃跑12天后未被发现。 他说,这使他感觉像半个人。 Joshua Howard最后一次被看见是Joshua Howard。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-22T05:21:01Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-22T18:48:54.700008Z",
+      "updatedAt": "2026-11-22T18:48:54.700008Z"
     }
   ],
   "history": [
@@ -171197,9 +171919,814 @@
         "firstSeen": "2026-11-22T03:55:51.274665Z",
         "updatedAt": "2026-11-22T03:55:51.274665Z"
       }
+    },
+    {
+      "eventId": "rss-b51af88d58d8138dece56306",
+      "at": "2026-11-22T18:48:54.700008Z",
+      "data": {
+        "id": "rss-b51af88d58d8138dece56306",
+        "title": "为什么数据中心是大科技反弹的中心",
+        "originalTitle": "Why data centers are at the center of the Big Tech backlash",
+        "summary": "记者巴黎马克思 拆开他的新书\"Hyperscale\"。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-22T18:08:43Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T18:48:54.700008Z",
+        "updatedAt": "2026-11-22T18:48:54.700008Z"
+      }
+    },
+    {
+      "eventId": "rss-3a79b8d5c4b4253131a4f0b0",
+      "at": "2026-11-22T18:48:54.700008Z",
+      "data": {
+        "id": "rss-3a79b8d5c4b4253131a4f0b0",
+        "title": "“危险似乎越来越严重”:在俄罗斯袭击之后,乌克兰人寻找失踪",
+        "originalTitle": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+        "summary": "英国广播公司的Sarah Rainsford报导乌克兰基辅地区一栋房屋倒塌。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-22T17:57:43Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T18:48:54.700008Z",
+        "updatedAt": "2026-11-22T18:48:54.700008Z"
+      }
+    },
+    {
+      "eventId": "rss-cb29a20e38ef835b166a4d39",
+      "at": "2026-11-22T18:48:54.700008Z",
+      "data": {
+        "id": "rss-cb29a20e38ef835b166a4d39",
+        "title": "官员说,在利比亚港口的俄罗斯船只上爆炸是由无人机攻击引起的",
+        "originalTitle": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+        "summary": "利比亚东部政府说,该船在返回俄罗斯的途中已停靠,以获取燃料和补给。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-22T17:16:47Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T18:48:54.700008Z",
+        "updatedAt": "2026-11-22T18:48:54.700008Z"
+      }
+    },
+    {
+      "eventId": "rss-70eecc407642e6be563ce144",
+      "at": "2026-11-22T18:48:54.700008Z",
+      "data": {
+        "id": "rss-70eecc407642e6be563ce144",
+        "title": "TechCrunch 流动性:A/B测试机器人对人",
+        "originalTitle": "TechCrunch Mobility: A/B testing robots vs. humans",
+        "summary": "欢迎回到TechCrunch行动中心 未来的交通中心 现在比以往任何时候 AI在其中扮演的角色（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-22T17:06:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T18:48:54.700008Z",
+        "updatedAt": "2026-11-22T18:48:54.700008Z"
+      }
+    },
+    {
+      "eventId": "rss-0a72272c8d43a3ceda33ea18",
+      "at": "2026-11-22T18:48:54.700008Z",
+      "data": {
+        "id": "rss-0a72272c8d43a3ceda33ea18",
+        "title": "在班加西的俄罗斯舰艇上爆炸,",
+        "originalTitle": "Blast on Russian ship in Benghazi a suspected drone attack, say Libyan authorities",
+        "summary": "利比亚东部政府说,在利比亚港口城市班加西海军基地停靠的一艘俄罗斯船只上发生的爆炸是无人机袭击的嫌疑造成的。 利比亚东部政府说,没有立即声称对这次袭击负责,但乌克兰部队已经采取行动。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-22T16:55:49Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T18:48:54.700008Z",
+        "updatedAt": "2026-11-22T18:48:54.700008Z"
+      }
+    },
+    {
+      "eventId": "rss-f18447eb72de5043027339c6",
+      "at": "2026-11-22T18:48:54.700008Z",
+      "data": {
+        "id": "rss-f18447eb72de5043027339c6",
+        "title": "Cop31气候对话因关键交易被拒绝而破裂",
+        "originalTitle": "Cop31 climate talks break down as key deal rejected",
+        "summary": "欧盟、英国和一些发展中国家反对 \" 未能满足这一时刻 \" 和未提及化石燃料的主要案文。 欧盟、英国和发展中世界的盟友在土耳其的Cop31联合国会谈的戏剧性结束中拒绝了他们所说的关于未来气候的不可接受的协议,甚至没有提到化石燃料。 Ir说,拟议的协议 \" 未能满足这一时刻 \" 。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-22T16:14:46Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T18:48:54.700008Z",
+        "updatedAt": "2026-11-22T18:48:54.700008Z"
+      }
+    },
+    {
+      "eventId": "rss-9dc96c937c8254f4c565d8c8",
+      "at": "2026-11-22T18:48:54.700008Z",
+      "data": {
+        "id": "rss-9dc96c937c8254f4c565d8c8",
+        "title": "电视是不是太大了?",
+        "originalTitle": "Can a TV be too large? An investigation",
+        "summary": "电视是不是太大了?这个作家最近升级为65英寸的OLED 带来了一些意外的挑战。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-22T15:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T18:48:54.700008Z",
+        "updatedAt": "2026-11-22T18:48:54.700008Z"
+      }
+    },
+    {
+      "eventId": "rss-737a9facdd26faa145938db2",
+      "at": "2026-11-22T18:48:54.700008Z",
+      "data": {
+        "id": "rss-737a9facdd26faa145938db2",
+        "title": "印尼工厂发生火灾后,三人死亡,数十人失踪",
+        "originalTitle": "Three killed and dozens missing after fire at Indonesian factory",
+        "summary": "至少有三人死亡,许多人担心在一家糖果厂发生火灾后死亡。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-22T14:05:20Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T18:48:54.700008Z",
+        "updatedAt": "2026-11-22T18:48:54.700008Z"
+      }
+    },
+    {
+      "eventId": "rss-e2cf3299d8b8e2f49633a310",
+      "at": "2026-11-22T18:48:54.700008Z",
+      "data": {
+        "id": "rss-e2cf3299d8b8e2f49633a310",
+        "title": "以澳大利亚议会为首的便便议员 创下了新的宣誓记录",
+        "originalTitle": "Potty-mouthed MPs ranked as Australian parliament sets new swearing record",
+        "summary": "连环宣誓的罪犯Jacqui Lambie说,这不会是澳大利亚议会`不说几句脏话',他想每两周在你的收件箱里拿到更多的图表吗? 当自由党议员Garth Hamilton于6月冲出议会时,他在这里签名,把他的手敲在桌子上,并喊着房子的发言人Milton Dick“他妈的胡说八道 ” , 称之为“一个新的低潮”（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-22T14:00:32Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/news/2026/nov/23/potty-mouthed-mps-ranked-as-australian-parliament-sets-new-swearing-record"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T18:48:54.700008Z",
+        "updatedAt": "2026-11-22T18:48:54.700008Z"
+      }
+    },
+    {
+      "eventId": "rss-0db2097cecb396fc378e4c28",
+      "at": "2026-11-22T18:48:54.700008Z",
+      "data": {
+        "id": "rss-0db2097cecb396fc378e4c28",
+        "title": "澳大利亚敦促在全球供应冲击中断绝进口化石燃料",
+        "originalTitle": "Australia urged to wean off imported fossil fuels amid global supply shocks",
+        "summary": "Grattan Institute报告呼吁政府“抓住机会, 限制柴油税抵免, 对较不富裕的精炼厂实行EV补贴,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-22T14:00:29Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/23/australia-urged-to-wean-off-imported-fossil-fuels-amid-global-supply-shocks"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T18:48:54.700008Z",
+        "updatedAt": "2026-11-22T18:48:54.700008Z"
+      }
+    },
+    {
+      "eventId": "rss-520e56a219a4af173a969d8f",
+      "at": "2026-11-22T18:48:54.700008Z",
+      "data": {
+        "id": "rss-520e56a219a4af173a969d8f",
+        "title": "韩国部长在AI出轨丑闻席卷大学考试后辞职",
+        "originalTitle": "South Korean minister quits after AI cheating scandal engulfs university exams",
+        "summary": "崔孝镇说,韩国教育部长在上周重要的大学入学考试前爆发了由AI协助的欺骗丑闻,在最后一刻紧紧措施之后,他“没能为入学考试做好充分准备 ” 。 自上星期天以来,韩国一直害怕AI协助的考试出轨,当时韩国国家教育部长的顶尖得分者已经辞职。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-22T12:12:07Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T18:48:54.700008Z",
+        "updatedAt": "2026-11-22T18:48:54.700008Z"
+      }
+    },
+    {
+      "eventId": "rss-9fca7a9ef1e0d7bb963af8d7",
+      "at": "2026-11-22T18:48:54.700008Z",
+      "data": {
+        "id": "rss-9fca7a9ef1e0d7bb963af8d7",
+        "title": "英国-欧盟食品交易受到英国企业的欢迎:",
+        "originalTitle": "UK-EU food deal hailed by British firms: ‘We’re pretty aligned anyway’",
+        "summary": "出口者欢迎Brexit检查的结束 — — 但对于英国生产商将花费如此长的时间来实施英国与欧盟的协议感到沮丧,该协议旨在取消绝大多数对食品、植物和动物产品的实物检查。 卫生和植物检疫协议有望让英国食品出口商受益,并让英国的精细食品和其他产品得以使用。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-22T11:00:24Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T18:48:54.700008Z",
+        "updatedAt": "2026-11-22T18:48:54.700008Z"
+      }
+    },
+    {
+      "eventId": "rss-1702b449ef0b09d7ee21232e",
+      "at": "2026-11-22T18:48:54.700008Z",
+      "data": {
+        "id": "rss-1702b449ef0b09d7ee21232e",
+        "title": "韩国教育部长因考试欺骗丑闻辞职",
+        "originalTitle": "South Korea education minister resigns over exam cheating scandal",
+        "summary": "崔京镇承认在大学入学考试期间 阻止AI协助作弊的最后一步措施 造成了混乱（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-22T09:20:45Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T18:48:54.700008Z",
+        "updatedAt": "2026-11-22T18:48:54.700008Z"
+      }
+    },
+    {
+      "eventId": "rss-6fc3bb31bc34ec6a1dba1a27",
+      "at": "2026-11-22T18:48:54.700008Z",
+      "data": {
+        "id": "rss-6fc3bb31bc34ec6a1dba1a27",
+        "title": "英格兰银行董事从古巴的废除后奴役中非法获利",
+        "originalTitle": "Bank of England directors illegally profited from post-abolition enslavement in Cuba",
+        "summary": "新的研究发现,英国领导的科布雷矿业公司通过铜矿和受奴役的非洲人民帮助曼彻斯特工业化 奴隶贸易财富植根于英国的金融体系中,研究发现,英国企业由英格兰银行长期服务董事经营,在英国帝国废除奴隶制之后,在古巴从奴役中获利数十年。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-22T08:00:22Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T18:48:54.700008Z",
+        "updatedAt": "2026-11-22T18:48:54.700008Z"
+      }
+    },
+    {
+      "eventId": "rss-f52c822b3d4b23835901d4e2",
+      "at": "2026-11-22T18:48:54.700008Z",
+      "data": {
+        "id": "rss-f52c822b3d4b23835901d4e2",
+        "title": "意大利珠宝商和商人Paolo Bulgari 89岁死亡",
+        "originalTitle": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+        "summary": "在对意大利媒体的声明中,他的家人记得他是 \"我们时代最大的珠宝商\"。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-22T07:12:41Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T18:48:54.700008Z",
+        "updatedAt": "2026-11-22T18:48:54.700008Z"
+      }
+    },
+    {
+      "eventId": "rss-b1fdd3d9246a5ec111d064b8",
+      "at": "2026-11-22T18:48:54.700008Z",
+      "data": {
+        "id": "rss-b1fdd3d9246a5ec111d064b8",
+        "title": "印度尼西亚糖果厂失火,至少造成三人死亡,数十人失踪",
+        "originalTitle": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
+        "summary": "一名印度尼西亚救援官员说,雅加达以西一家糖果厂发生火灾,造成三人死亡,36人失踪。 无人机的录像显示,工厂大片被摧毁,屋顶倒塌,建筑群的烟雾仍在上升。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-22T07:11:17Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T18:48:54.700008Z",
+        "updatedAt": "2026-11-22T18:48:54.700008Z"
+      }
+    },
+    {
+      "eventId": "rss-cc5e8f65eaaca95a6325d110",
+      "at": "2026-11-22T18:48:54.700008Z",
+      "data": {
+        "id": "rss-cc5e8f65eaaca95a6325d110",
+        "title": "`判断错误严重 ' :对柏林艺术院的AI军事事件感到愤慨",
+        "originalTitle": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
+        "summary": "与Tresor技术俱乐部一样,Kraftwerk Berlin也是发展的一部分,它变成了武器公司活动的 \" 战室 \" ,它们有着坚固的工业后场地,牙齿磨制了4乘4的节拍和保镖,看上去像Blade Runner 外加的,柏林夜总会交易的名声是暗淡的。 然而,最近在该市最传奇的俱乐部机构之一举行的一次活动证明,它已经变得太糟糕了。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-22T06:00:21Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T18:48:54.700008Z",
+        "updatedAt": "2026-11-22T18:48:54.700008Z"
+      }
+    },
+    {
+      "eventId": "rss-de7bf89f11d03d84388113f4",
+      "at": "2026-11-22T18:48:54.700008Z",
+      "data": {
+        "id": "rss-de7bf89f11d03d84388113f4",
+        "title": "欧洲正在进入国家选举的“超级周期 ” 。 其结果可能会动摇欧盟的基础。",
+        "originalTitle": "Europe is entering a ‘supercycle’ of national elections. Their outcomes could shake the EU’s foundations",
+        "summary": "随着民族主义、欧洲怀疑派政党在该集团四个最大成员国中崛起,明年的民意测验可以像以往任何时候一样考验其韧性。 1998年底,托尼·布莱尔担任英国首相,莱昂内尔·约斯潘担任法国总理,格哈德·施罗德刚刚当选为德国总理。 欧盟有15个成员国,而支持欧洲的中左翼政党掌权。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-22T06:00:18Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T18:48:54.700008Z",
+        "updatedAt": "2026-11-22T18:48:54.700008Z"
+      }
+    },
+    {
+      "eventId": "rss-9605475c387aa7bfd1ecfd80",
+      "at": "2026-11-22T18:48:54.700008Z",
+      "data": {
+        "id": "rss-9605475c387aa7bfd1ecfd80",
+        "title": "警方说,在悉尼灌木林 12天未发现尸体的人 在疑似肇事逃逸中被杀",
+        "originalTitle": "Police say man whose body lay undiscovered in Sydney bushland for 12 days was killed in suspected hit-and-run",
+        "summary": "Joshua Howard,31岁, 据信在Rouse Hill的派对上回家时被汽车撞倒, 被扔在护栏上。 得到我们的突发新闻电子邮件、免费应用程序或每日新闻播客。 Joshua Howard是一名男子的双胞胎兄弟,他的尸体在被怀疑在悉尼被击中并逃跑12天后未被发现。 他说,这使他感觉像半个人。 Joshua Howard最后一次被看见是Joshua Howard。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-22T05:21:01Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-22T18:48:54.700008Z",
+        "updatedAt": "2026-11-22T18:48:54.700008Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-22T18:48:54.700008Z",
+      "at": "2026-11-22T18:48:54.700008Z",
+      "kind": "GitHub Actions 采集",
+      "count": 19,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 5}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 0}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 11}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 3}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-22T03:55:51.274665Z",
       "at": "2026-11-22T03:55:51.274665Z",
