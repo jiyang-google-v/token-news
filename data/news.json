@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-22T18:48:54.700008Z",
+  "updatedAt": "2026-11-23T04:37:31.594693Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -82036,6 +82036,690 @@
       "tokens": [],
       "firstSeen": "2026-11-22T18:48:54.700008Z",
       "updatedAt": "2026-11-22T18:48:54.700008Z"
+    },
+    {
+      "id": "rss-d27b0bfc7a3699e6103ecf3a",
+      "title": "\" 困难的地缘政治时代 \" :Albanese在Cop31交易失败后为Bowen辩护",
+      "originalTitle": "‘Difficult geopolitical times’: Albanese defends Bowen after Cop31 deal failure",
+      "summary": "联盟呼吁气候变化部长立即辞职, 或因「灾难性外交灾难」而被解雇,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-23T04:21:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/23/difficult-geopolitical-times-albanese-defends-bowen-after-cop31-deal-failure"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-23T04:37:31.594693Z",
+      "updatedAt": "2026-11-23T04:37:31.594693Z"
+    },
+    {
+      "id": "rss-e04446d687eb90fac3bcf7f6",
+      "title": "澳大利亚政治现场直播:反对党用Molly Meldrum的口号敲打劳动局超过1 500万元的“Cop flop”;Tehan因“收麦片”而被从议会踢出。",
+      "originalTitle": "Australian politics live: Opposition hammers Labor over $150m ‘Cop flop’; Tehan kicked out of parliament for ‘taking mickey’ with Molly Meldrum catchphrase",
+      "summary": "获得我们的突发新闻电子邮件、免费应用程序或每日新闻播客“很难弥合这一鸿沟 ” : Murray Watt内阁部长Murray Watt说,在一次令人沮丧的警察峰会未能达成最后协议之后,越来越难以弥合国家之间在气候政策上的分歧。 显然,这一封面决定没有得到所有人同意是一个非常令人失望的结果。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-23T04:19:17Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-23T04:37:31.594693Z",
+      "updatedAt": "2026-11-23T04:37:31.594693Z"
+    },
+    {
+      "id": "rss-cf71e8c5e0359ed4e419ef95",
+      "title": "财长Jim Chalmers警告说, 失业率将超过5%,",
+      "originalTitle": "Unemployment to surpass 5% and ‘things will get a bit harder’, treasurer Jim Chalmers warns",
+      "summary": "经济学家指出,随着2027年和2028年政府预测经济将增长不到2%,衰退风险将上升。 吉姆·查默斯警告澳大利亚人,“事情会变得更难,否则就会变得更容易 ” , 下个月的最新预算将显示失业率将超过5 % , 未来两年经济增长将放缓。 正如经济学家指出的,衰退风险将不断上升。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-23T04:17:27Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/23/unemployment-to-surpass-5-and-things-will-get-a-bit-harder-treasurer-jim-chalmers-warns"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-23T04:37:31.594693Z",
+      "updatedAt": "2026-11-23T04:37:31.594693Z"
+    },
+    {
+      "id": "rss-bb28d5b74a6e05edf16f4bfd",
+      "title": "杜拉认为自我描述的生育守护者 在新南威尔士州婴儿死亡前 接受临床训练",
+      "originalTitle": "Doula thought self-described birth keeper was clinically trained before NSW baby death, inquest hears",
+      "summary": "调查四个婴儿在自由生育和在家分娩后死亡的事件, 听到杜拉的呼声,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-23T04:03:07Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/23/doula-thought-self-described-birth-keeper-was-clinically-trained-before-nsw-baby-death-inquest-hears-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-23T04:37:31.594693Z",
+      "updatedAt": "2026-11-23T04:37:31.594693Z"
+    },
+    {
+      "id": "rss-932ecb810116f3b9d34f6dd6",
+      "title": "Beau Lamarre-Condon在指称双重谋杀前,",
+      "originalTitle": "Beau Lamarre-Condon acted like a ‘poorly behaved boyfriend’ before alleged double murders, defence argues",
+      "summary": "Crown说被告发展了`嫉妒的迷恋 ' ,但辩护说“爱让我们成为傻瓜 ” 。 跟随我们的澳大利亚政治实况博客获取最新消息。 我们的突发新闻电子邮件、免费应用程序或每日新闻播客Beau Lamarre-Condon在被指称谋杀Jesse Baird和Luke Davies之前,表现得像一个“不良的男友 ” 。 Lamarre-Condon被指控致命地枪杀了Sydn。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-23T03:07:31Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-23T04:37:31.594693Z",
+      "updatedAt": "2026-11-23T04:37:31.594693Z"
+    },
+    {
+      "id": "rss-88ba4b4797cf6601835d0269",
+      "title": "拯救者说,7岁男孩在俄罗斯袭击乌克兰数小时后从瓦砾中活下来",
+      "originalTitle": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "summary": "9人在袭击中死亡,目前正在进行救援工作,以寻找仍在住宅楼失踪的人。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-23T02:37:02Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-23T04:37:31.594693Z",
+      "updatedAt": "2026-11-23T04:37:31.594693Z"
+    },
+    {
+      "id": "rss-04e5e033b7998e4feb3c5278",
+      "title": "著名资本,GIC和Baillie Gifford 在IPO之前在人类学上打大赌",
+      "originalTitle": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "summary": "三个重要的支持者分享了 给他们的信念 在人类身上赌数十亿。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-23T01:25:53Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-23T04:37:31.594693Z",
+      "updatedAt": "2026-11-23T04:37:31.594693Z"
+    },
+    {
+      "id": "rss-7e5383763bcf3b019d2cfd74",
+      "title": "民主党赢得了1992年以来最大的众议院多数席位",
+      "originalTitle": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "summary": "与共和党(共和党)至少拥有173个席位相比,民主党在中期中至少赢得258个席位。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-23T01:23:43Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-23T04:37:31.594693Z",
+      "updatedAt": "2026-11-23T04:37:31.594693Z"
+    },
+    {
+      "id": "rss-e4dc3fa8f4ea0ce67434f82c",
+      "title": "由于会谈暴露出深刻的分歧,COP31未能达成重大气候协议",
+      "originalTitle": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "summary": "一连串提到化石燃料后,达成应对气候变化协议的希望破灭（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-23T00:50:35Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-23T04:37:31.594693Z",
+      "updatedAt": "2026-11-23T04:37:31.594693Z"
+    },
+    {
+      "id": "rss-6352bd0d59b48f2b0e31c68c",
+      "title": "旧金山正在享受人工智能的繁荣 但坠机的担忧越来越强烈了",
+      "originalTitle": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "summary": "工业中心 — 旧金山 — 的AI员工担心这个部门过热。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-23T00:08:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-23T04:37:31.594693Z",
+      "updatedAt": "2026-11-23T04:37:31.594693Z"
+    },
+    {
+      "id": "rss-76dc4ef35813878594cb5bbf",
+      "title": "伯纳姆告诉议员们“兰德马克”欧盟的交易 可能会让下一个十年“好得多”",
+      "originalTitle": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "summary": "总理会告诉议员们, 周五达成的协议是“打破现状或改变的抉择”。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-22T22:49:10Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-23T04:37:31.594693Z",
+      "updatedAt": "2026-11-23T04:37:31.594693Z"
+    },
+    {
+      "id": "rss-1da50c24753579701adc6b58",
+      "title": "“你能看到一切”已经在全世界赚了1亿多美元。",
+      "originalTitle": "‘You Can See Everything’ has made more than $100M worldwide",
+      "summary": "新的Elizabeth Holmes纪录片才刚刚开始在国际上推出。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-22T21:42:48Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-23T04:37:31.594693Z",
+      "updatedAt": "2026-11-23T04:37:31.594693Z"
+    },
+    {
+      "id": "rss-a107945cc9c74b6378174dcd",
+      "title": "米莉・赛勒斯在加州 和马克斯・莫兰多结婚",
+      "originalTitle": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "summary": "这对夫妇在一起四年,在2025年订婚。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-22T21:22:40Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-23T04:37:31.594693Z",
+      "updatedAt": "2026-11-23T04:37:31.594693Z"
+    },
+    {
+      "id": "rss-90468db0d5a9c8d3332bd7b5",
+      "title": "OpenAI的首席科学家对如何限制AI开发有想法",
+      "originalTitle": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "summary": "要设定人工智能开发速度限制, 您需要商定如何测量速度 。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-22T21:14:07Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-23T04:37:31.594693Z",
+      "updatedAt": "2026-11-23T04:37:31.594693Z"
+    },
+    {
+      "id": "rss-7aaba70f0b275b7f7ad6bcd1",
+      "title": "现在交新朋友的最好应用",
+      "originalTitle": "The best apps to make new friends right now",
+      "summary": "我们汇编了一份友情应用程序清单, 从朋友发现平台,如BFF 到事件焦点,如Timeleft。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-22T21:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-23T04:37:31.594693Z",
+      "updatedAt": "2026-11-23T04:37:31.594693Z"
+    },
+    {
+      "id": "rss-e7b0be9b33dae1e6e4ae4a84",
+      "title": "美国情报主任说,他相信特朗普将普京描述为“我的朋友”。",
+      "originalTitle": "US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’",
+      "summary": "美国国家情报局局长杰·克莱顿(Jay Clayton)在星期天的媒体露面时,受到特朗普(Trump)对普丁的描述的抨击,他说,在美国总统最近在中国会晤期间将弗拉基米尔·普京(Vladimir Putin)称为“朋友 ” 之后,他“完全信任”唐纳德·特朗普(Donald Trump)。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-22T20:55:33Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-23T04:37:31.594693Z",
+      "updatedAt": "2026-11-23T04:37:31.594693Z"
+    },
+    {
+      "id": "rss-4d2dfd34c10fd72ac5e50983",
+      "title": "在COP31气候会谈没有交易之后接下来怎么办?",
+      "originalTitle": "What's next after no deal at COP31 climate talks?",
+      "summary": "会谈是首脑会议历史上历时最长的,谈判在结束两天后破裂。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-22T18:57:24Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-23T04:37:31.594693Z",
+      "updatedAt": "2026-11-23T04:37:31.594693Z"
+    },
+    {
+      "id": "rss-7ca3eed99935d152b6174db7",
+      "title": "美军不顾法庭命令 在爱荷华州引爆数吨不稳定炸药",
+      "originalTitle": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+      "summary": "军队说,为了保护在爱荷华的弹药厂周围的人员和附近的社区,必须采取“快速行动”。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-22T18:29:46Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-23T04:37:31.594693Z",
+      "updatedAt": "2026-11-23T04:37:31.594693Z"
     }
   ],
   "history": [
@@ -172717,9 +173401,772 @@
         "firstSeen": "2026-11-22T18:48:54.700008Z",
         "updatedAt": "2026-11-22T18:48:54.700008Z"
       }
+    },
+    {
+      "eventId": "rss-d27b0bfc7a3699e6103ecf3a",
+      "at": "2026-11-23T04:37:31.594693Z",
+      "data": {
+        "id": "rss-d27b0bfc7a3699e6103ecf3a",
+        "title": "\" 困难的地缘政治时代 \" :Albanese在Cop31交易失败后为Bowen辩护",
+        "originalTitle": "‘Difficult geopolitical times’: Albanese defends Bowen after Cop31 deal failure",
+        "summary": "联盟呼吁气候变化部长立即辞职, 或因「灾难性外交灾难」而被解雇,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-23T04:21:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/23/difficult-geopolitical-times-albanese-defends-bowen-after-cop31-deal-failure"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-23T04:37:31.594693Z",
+        "updatedAt": "2026-11-23T04:37:31.594693Z"
+      }
+    },
+    {
+      "eventId": "rss-e04446d687eb90fac3bcf7f6",
+      "at": "2026-11-23T04:37:31.594693Z",
+      "data": {
+        "id": "rss-e04446d687eb90fac3bcf7f6",
+        "title": "澳大利亚政治现场直播:反对党用Molly Meldrum的口号敲打劳动局超过1 500万元的“Cop flop”;Tehan因“收麦片”而被从议会踢出。",
+        "originalTitle": "Australian politics live: Opposition hammers Labor over $150m ‘Cop flop’; Tehan kicked out of parliament for ‘taking mickey’ with Molly Meldrum catchphrase",
+        "summary": "获得我们的突发新闻电子邮件、免费应用程序或每日新闻播客“很难弥合这一鸿沟 ” : Murray Watt内阁部长Murray Watt说,在一次令人沮丧的警察峰会未能达成最后协议之后,越来越难以弥合国家之间在气候政策上的分歧。 显然,这一封面决定没有得到所有人同意是一个非常令人失望的结果。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-23T04:19:17Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-23T04:37:31.594693Z",
+        "updatedAt": "2026-11-23T04:37:31.594693Z"
+      }
+    },
+    {
+      "eventId": "rss-cf71e8c5e0359ed4e419ef95",
+      "at": "2026-11-23T04:37:31.594693Z",
+      "data": {
+        "id": "rss-cf71e8c5e0359ed4e419ef95",
+        "title": "财长Jim Chalmers警告说, 失业率将超过5%,",
+        "originalTitle": "Unemployment to surpass 5% and ‘things will get a bit harder’, treasurer Jim Chalmers warns",
+        "summary": "经济学家指出,随着2027年和2028年政府预测经济将增长不到2%,衰退风险将上升。 吉姆·查默斯警告澳大利亚人,“事情会变得更难,否则就会变得更容易 ” , 下个月的最新预算将显示失业率将超过5 % , 未来两年经济增长将放缓。 正如经济学家指出的,衰退风险将不断上升。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-23T04:17:27Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/23/unemployment-to-surpass-5-and-things-will-get-a-bit-harder-treasurer-jim-chalmers-warns"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-23T04:37:31.594693Z",
+        "updatedAt": "2026-11-23T04:37:31.594693Z"
+      }
+    },
+    {
+      "eventId": "rss-bb28d5b74a6e05edf16f4bfd",
+      "at": "2026-11-23T04:37:31.594693Z",
+      "data": {
+        "id": "rss-bb28d5b74a6e05edf16f4bfd",
+        "title": "杜拉认为自我描述的生育守护者 在新南威尔士州婴儿死亡前 接受临床训练",
+        "originalTitle": "Doula thought self-described birth keeper was clinically trained before NSW baby death, inquest hears",
+        "summary": "调查四个婴儿在自由生育和在家分娩后死亡的事件, 听到杜拉的呼声,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-23T04:03:07Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/23/doula-thought-self-described-birth-keeper-was-clinically-trained-before-nsw-baby-death-inquest-hears-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-23T04:37:31.594693Z",
+        "updatedAt": "2026-11-23T04:37:31.594693Z"
+      }
+    },
+    {
+      "eventId": "rss-932ecb810116f3b9d34f6dd6",
+      "at": "2026-11-23T04:37:31.594693Z",
+      "data": {
+        "id": "rss-932ecb810116f3b9d34f6dd6",
+        "title": "Beau Lamarre-Condon在指称双重谋杀前,",
+        "originalTitle": "Beau Lamarre-Condon acted like a ‘poorly behaved boyfriend’ before alleged double murders, defence argues",
+        "summary": "Crown说被告发展了`嫉妒的迷恋 ' ,但辩护说“爱让我们成为傻瓜 ” 。 跟随我们的澳大利亚政治实况博客获取最新消息。 我们的突发新闻电子邮件、免费应用程序或每日新闻播客Beau Lamarre-Condon在被指称谋杀Jesse Baird和Luke Davies之前,表现得像一个“不良的男友 ” 。 Lamarre-Condon被指控致命地枪杀了Sydn。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-23T03:07:31Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-23T04:37:31.594693Z",
+        "updatedAt": "2026-11-23T04:37:31.594693Z"
+      }
+    },
+    {
+      "eventId": "rss-88ba4b4797cf6601835d0269",
+      "at": "2026-11-23T04:37:31.594693Z",
+      "data": {
+        "id": "rss-88ba4b4797cf6601835d0269",
+        "title": "拯救者说,7岁男孩在俄罗斯袭击乌克兰数小时后从瓦砾中活下来",
+        "originalTitle": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+        "summary": "9人在袭击中死亡,目前正在进行救援工作,以寻找仍在住宅楼失踪的人。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-23T02:37:02Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-23T04:37:31.594693Z",
+        "updatedAt": "2026-11-23T04:37:31.594693Z"
+      }
+    },
+    {
+      "eventId": "rss-04e5e033b7998e4feb3c5278",
+      "at": "2026-11-23T04:37:31.594693Z",
+      "data": {
+        "id": "rss-04e5e033b7998e4feb3c5278",
+        "title": "著名资本,GIC和Baillie Gifford 在IPO之前在人类学上打大赌",
+        "originalTitle": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+        "summary": "三个重要的支持者分享了 给他们的信念 在人类身上赌数十亿。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-23T01:25:53Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-23T04:37:31.594693Z",
+        "updatedAt": "2026-11-23T04:37:31.594693Z"
+      }
+    },
+    {
+      "eventId": "rss-7e5383763bcf3b019d2cfd74",
+      "at": "2026-11-23T04:37:31.594693Z",
+      "data": {
+        "id": "rss-7e5383763bcf3b019d2cfd74",
+        "title": "民主党赢得了1992年以来最大的众议院多数席位",
+        "originalTitle": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+        "summary": "与共和党(共和党)至少拥有173个席位相比,民主党在中期中至少赢得258个席位。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-23T01:23:43Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-23T04:37:31.594693Z",
+        "updatedAt": "2026-11-23T04:37:31.594693Z"
+      }
+    },
+    {
+      "eventId": "rss-e4dc3fa8f4ea0ce67434f82c",
+      "at": "2026-11-23T04:37:31.594693Z",
+      "data": {
+        "id": "rss-e4dc3fa8f4ea0ce67434f82c",
+        "title": "由于会谈暴露出深刻的分歧,COP31未能达成重大气候协议",
+        "originalTitle": "COP31 fails to reach major climate deal as talks expose deep divisions",
+        "summary": "一连串提到化石燃料后,达成应对气候变化协议的希望破灭（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-23T00:50:35Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-23T04:37:31.594693Z",
+        "updatedAt": "2026-11-23T04:37:31.594693Z"
+      }
+    },
+    {
+      "eventId": "rss-6352bd0d59b48f2b0e31c68c",
+      "at": "2026-11-23T04:37:31.594693Z",
+      "data": {
+        "id": "rss-6352bd0d59b48f2b0e31c68c",
+        "title": "旧金山正在享受人工智能的繁荣 但坠机的担忧越来越强烈了",
+        "originalTitle": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+        "summary": "工业中心 — 旧金山 — 的AI员工担心这个部门过热。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-23T00:08:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-23T04:37:31.594693Z",
+        "updatedAt": "2026-11-23T04:37:31.594693Z"
+      }
+    },
+    {
+      "eventId": "rss-76dc4ef35813878594cb5bbf",
+      "at": "2026-11-23T04:37:31.594693Z",
+      "data": {
+        "id": "rss-76dc4ef35813878594cb5bbf",
+        "title": "伯纳姆告诉议员们“兰德马克”欧盟的交易 可能会让下一个十年“好得多”",
+        "originalTitle": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+        "summary": "总理会告诉议员们, 周五达成的协议是“打破现状或改变的抉择”。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-22T22:49:10Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-23T04:37:31.594693Z",
+        "updatedAt": "2026-11-23T04:37:31.594693Z"
+      }
+    },
+    {
+      "eventId": "rss-1da50c24753579701adc6b58",
+      "at": "2026-11-23T04:37:31.594693Z",
+      "data": {
+        "id": "rss-1da50c24753579701adc6b58",
+        "title": "“你能看到一切”已经在全世界赚了1亿多美元。",
+        "originalTitle": "‘You Can See Everything’ has made more than $100M worldwide",
+        "summary": "新的Elizabeth Holmes纪录片才刚刚开始在国际上推出。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-22T21:42:48Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-23T04:37:31.594693Z",
+        "updatedAt": "2026-11-23T04:37:31.594693Z"
+      }
+    },
+    {
+      "eventId": "rss-a107945cc9c74b6378174dcd",
+      "at": "2026-11-23T04:37:31.594693Z",
+      "data": {
+        "id": "rss-a107945cc9c74b6378174dcd",
+        "title": "米莉・赛勒斯在加州 和马克斯・莫兰多结婚",
+        "originalTitle": "Miley Cyrus marries Maxx Morando in California ceremony",
+        "summary": "这对夫妇在一起四年,在2025年订婚。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-22T21:22:40Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-23T04:37:31.594693Z",
+        "updatedAt": "2026-11-23T04:37:31.594693Z"
+      }
+    },
+    {
+      "eventId": "rss-90468db0d5a9c8d3332bd7b5",
+      "at": "2026-11-23T04:37:31.594693Z",
+      "data": {
+        "id": "rss-90468db0d5a9c8d3332bd7b5",
+        "title": "OpenAI的首席科学家对如何限制AI开发有想法",
+        "originalTitle": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+        "summary": "要设定人工智能开发速度限制, 您需要商定如何测量速度 。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-22T21:14:07Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-23T04:37:31.594693Z",
+        "updatedAt": "2026-11-23T04:37:31.594693Z"
+      }
+    },
+    {
+      "eventId": "rss-7aaba70f0b275b7f7ad6bcd1",
+      "at": "2026-11-23T04:37:31.594693Z",
+      "data": {
+        "id": "rss-7aaba70f0b275b7f7ad6bcd1",
+        "title": "现在交新朋友的最好应用",
+        "originalTitle": "The best apps to make new friends right now",
+        "summary": "我们汇编了一份友情应用程序清单, 从朋友发现平台,如BFF 到事件焦点,如Timeleft。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-22T21:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-23T04:37:31.594693Z",
+        "updatedAt": "2026-11-23T04:37:31.594693Z"
+      }
+    },
+    {
+      "eventId": "rss-e7b0be9b33dae1e6e4ae4a84",
+      "at": "2026-11-23T04:37:31.594693Z",
+      "data": {
+        "id": "rss-e7b0be9b33dae1e6e4ae4a84",
+        "title": "美国情报主任说,他相信特朗普将普京描述为“我的朋友”。",
+        "originalTitle": "US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’",
+        "summary": "美国国家情报局局长杰·克莱顿(Jay Clayton)在星期天的媒体露面时,受到特朗普(Trump)对普丁的描述的抨击,他说,在美国总统最近在中国会晤期间将弗拉基米尔·普京(Vladimir Putin)称为“朋友 ” 之后,他“完全信任”唐纳德·特朗普(Donald Trump)。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-22T20:55:33Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-23T04:37:31.594693Z",
+        "updatedAt": "2026-11-23T04:37:31.594693Z"
+      }
+    },
+    {
+      "eventId": "rss-4d2dfd34c10fd72ac5e50983",
+      "at": "2026-11-23T04:37:31.594693Z",
+      "data": {
+        "id": "rss-4d2dfd34c10fd72ac5e50983",
+        "title": "在COP31气候会谈没有交易之后接下来怎么办?",
+        "originalTitle": "What's next after no deal at COP31 climate talks?",
+        "summary": "会谈是首脑会议历史上历时最长的,谈判在结束两天后破裂。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-22T18:57:24Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-23T04:37:31.594693Z",
+        "updatedAt": "2026-11-23T04:37:31.594693Z"
+      }
+    },
+    {
+      "eventId": "rss-7ca3eed99935d152b6174db7",
+      "at": "2026-11-23T04:37:31.594693Z",
+      "data": {
+        "id": "rss-7ca3eed99935d152b6174db7",
+        "title": "美军不顾法庭命令 在爱荷华州引爆数吨不稳定炸药",
+        "originalTitle": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+        "summary": "军队说,为了保护在爱荷华的弹药厂周围的人员和附近的社区,必须采取“快速行动”。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-22T18:29:46Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-23T04:37:31.594693Z",
+        "updatedAt": "2026-11-23T04:37:31.594693Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-23T04:37:31.594693Z",
+      "at": "2026-11-23T04:37:31.594693Z",
+      "kind": "GitHub Actions 采集",
+      "count": 18,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 8}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 0}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 6}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 4}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-22T18:48:54.700008Z",
       "at": "2026-11-22T18:48:54.700008Z",
