@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-23T23:03:15.469670Z",
+  "updatedAt": "2026-11-24T07:30:54.986467Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -84544,6 +84544,880 @@
       "tokens": [],
       "firstSeen": "2026-11-23T23:03:15.469670Z",
       "updatedAt": "2026-11-23T23:03:15.469670Z"
+    },
+    {
+      "id": "rss-b1d82f5106d46801c847a016",
+      "title": "孟加拉国前总理谢赫哈西娜(Sheikh Hasina)说,她计划在12月16日返回。",
+      "originalTitle": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+      "summary": "Hasina多次提到她想要回来,但这是她第一次确定日期。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-24T06:23:01Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-24T07:30:54.986467Z",
+      "updatedAt": "2026-11-24T07:30:54.986467Z"
+    },
+    {
+      "id": "rss-a0de565bf64dea2ded5203cf",
+      "title": "在澳大利亚板球篡改传说中受拟议法律保护的体育检举人",
+      "originalTitle": "Sports whistleblowers protected under proposed laws amid Australian cricket ball tampering saga",
+      "summary": "联盟和绿党对政府法案的修正将建立对体育中不法行为报告者的保护措施。 联盟和绿党针对澳大利亚板球的余波提出的法律草案将保护我们的日常政治电子邮件、免费应用程序或每日新闻播客举报人前来举报体育中的腐败或不当行为。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-24T06:20:10Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/24/sports-whistleblowers-protected-proposed-laws-australian-cricket-ball-tampering-sandpapergate-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-24T07:30:54.986467Z",
+      "updatedAt": "2026-11-24T07:30:54.986467Z"
+    },
+    {
+      "id": "rss-84343938fb07038a30400bca",
+      "title": "Kate Bush和Grace Jones敦促澳大利亚政府不要将AI“偷窃”合法化。",
+      "originalTitle": "Kate Bush and Grace Jones urge Australian government not to legalise AI ‘theft’",
+      "summary": "我们的突发新闻电子邮件、免费应用程序或每日新闻播客Kate Bush、Grace Jones和Ian Rankin爵士与全世界7000名艺术家和创作者联手, 恳求澳大利亚政府不要削弱版权法,（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-24T05:58:15Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-24T07:30:54.986467Z",
+      "updatedAt": "2026-11-24T07:30:54.986467Z"
+    },
+    {
+      "id": "rss-6057c7b195d846144ad94ce2",
+      "title": "马来西亚将数千名移民送回缅甸,",
+      "originalTitle": "Malaysia to send thousands of migrants back to Myanmar as PM acknowledges junta’s ‘atrocities’",
+      "summary": "总理安瓦尔·易卜拉欣(Anwar Ibrahim)的公告是在国际法学家委员会(ICJ)发现缅甸对罗辛亚少数民族马来西亚(Rohingya Limith Malaysia)犯下种族灭绝罪行后几天发表的,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-24T05:54:14Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-24T07:30:54.986467Z",
+      "updatedAt": "2026-11-24T07:30:54.986467Z"
+    },
+    {
+      "id": "rss-40de6cd9df4382e043690b47",
+      "title": "Beau Lamarre-Condon本可以告诉皇冠`做你最坏的事',但被告方却说,",
+      "originalTitle": "Beau Lamarre-Condon could have told crown ‘do your worst’ and not given evidence, defence says",
+      "summary": "前警官对2024年2月在Baird Paddington家中谋杀Jesse Baird和Luke Davies一事不认罪。 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客Beau Lamarre-Condon本可以静坐,告诉王室“做你最坏的事 ” , 但他选择将“长途跋涉”带到证人箱,陪审团被告知。 Lamarre-Condon被指控犯有致命罪。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-24T05:49:34Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/24/beau-lamarre-condon-trial-barrister-closing-statement-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-24T07:30:54.986467Z",
+      "updatedAt": "2026-11-24T07:30:54.986467Z"
+    },
+    {
+      "id": "rss-4acc4486706bb1659549a45d",
+      "title": "印度的“cockroach”党领袖说他被阻止飞去英国",
+      "originalTitle": "India's 'cockroach' party leader says he was stopped from flying to UK",
+      "summary": "Saurav Das说,德里机场的移民当局告诉他,他的护照是“挂着的”。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-24T05:33:07Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-24T07:30:54.986467Z",
+      "updatedAt": "2026-11-24T07:30:54.986467Z"
+    },
+    {
+      "id": "rss-d56ae315880fa92c98a1ccba",
+      "title": "自行车、屏幕和失败的举止对荷兰自行车文化构成挑战",
+      "originalTitle": "Ebikes, screens and failing manners pose challenge for Dutch cycling culture",
+      "summary": "宣传活动提醒公众, “交通是团队运动”在不那么文明和道路上更多碰撞的情况下。 几十年来,荷兰以自豪的自行车文化而闻名,拥有23 000英里长的自行车路线网络,从8岁以下儿童到80岁以上的成年人。 然而,近年来,与世界上许多国家一样,荷兰在车型类型方面发生了巨大变化。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-24T05:00:07Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/24/ebikes-screens-and-failing-manners-pose-challenge-for-dutch-cycling-culture"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-24T07:30:54.986467Z",
+      "updatedAt": "2026-11-24T07:30:54.986467Z"
+    },
+    {
+      "id": "rss-25d043b118adad46fcdfb812",
+      "title": "特朗普说\"说服\"Nvidia 恢复了首席执行官Jensen Huang",
+      "originalTitle": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "summary": "Nvidia受到特朗普总统的压力 要求重新任命黄四郎 黄四郎的归来 帮助公司股票增值一美元（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-24T04:36:31Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-24T07:30:54.986467Z",
+      "updatedAt": "2026-11-24T07:30:54.986467Z"
+    },
+    {
+      "id": "rss-02dc0690684e02200fe47463",
+      "title": "南朝鲜让岛上居民在俄罗斯军用飞机接近后避难",
+      "originalTitle": "South Korea tells island residents to take shelter after Russian military aircraft approach",
+      "summary": "这项命令是在几架俄罗斯军用飞机接近其领空之后,星期二上午,在南朝鲜一个偏远岛屿的Ulleungdo岛上的飞机进入该国防空识别区后下达的,这促使军方发出预先警告,预计会发生违规事件。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-24T04:14:43Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-24T07:30:54.986467Z",
+      "updatedAt": "2026-11-24T07:30:54.986467Z"
+    },
+    {
+      "id": "rss-33e00abceedff5a4bb7bc6b8",
+      "title": "社会媒体公司可以被罚款5%的全球收入 之后,劳工和绿党联手 在线安全法",
+      "originalTitle": "Social media companies could be fined 5% of global revenue after Labor and Greens join forces on online safety laws",
+      "summary": "澳大利亚个人可以起诉大型科技公司, 指控这些公司因妥协协议而遭受的伤害。 追寻我们的澳大利亚政治实况博客, 以获取最新消息。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-24T04:03:16Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/technology/2026/nov/24/social-media-big-tech-fines-global-revenue-australia-digital-duty-care-laws"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-24T07:30:54.986467Z",
+      "updatedAt": "2026-11-24T07:30:54.986467Z"
+    },
+    {
+      "id": "rss-fd3c944f0667032b85d905c8",
+      "title": "中国官员因为外国从事间谍活动被判死刑",
+      "originalTitle": "China sentences official to death for spying for foreign country",
+      "summary": "被告官员向无名国家泄露了国家机密,并收到价值超过15万美元的付款。 国家相关出版商说,一名中国官员因为外国进行间谍活动而被判死刑。 一名政府相关出版商说,Gold Wall Press是一家与中国国家机密保护管理有关的出版公司。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-24T02:37:36Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-24T07:30:54.986467Z",
+      "updatedAt": "2026-11-24T07:30:54.986467Z"
+    },
+    {
+      "id": "rss-8a11be66dc0b8ac744134349",
+      "title": "俄罗斯核子卫星报告后 内藤总长发誓要防范太空威胁",
+      "originalTitle": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "summary": "德国媒体说,俄罗斯计划在未来几周发射一颗带有核弹头的卫星进入太空。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-24T02:15:59Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-24T07:30:54.986467Z",
+      "updatedAt": "2026-11-24T07:30:54.986467Z"
+    },
+    {
+      "id": "rss-e0495d6a5040b0f670d8ef31",
+      "title": "Nvidia对Jensen Huang回任首席执行官的反应如何",
+      "originalTitle": "How Nvidia is reacting to Jensen Huang's return as CEO",
+      "summary": "英国广播公司的Lily Jamali在Nvidia的总部报道,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-24T01:21:41Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-24T07:30:54.986467Z",
+      "updatedAt": "2026-11-24T07:30:54.986467Z"
+    },
+    {
+      "id": "rss-e000e454f6b288cbd948ac44",
+      "title": "查尔斯国王和埃尔顿·约翰 向澳大利亚音乐传奇莫莉·梅尔德鲁姆致敬",
+      "originalTitle": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
+      "summary": "宣传员和广播员帮助定义了澳大利亚人几十年来的音乐品味。（机器翻译；尚未完成正文核查。）",
+      "category": "网络文化",
+      "publishedAt": "2026-11-24T00:23:25Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-24T07:30:54.986467Z",
+      "updatedAt": "2026-11-24T07:30:54.986467Z"
+    },
+    {
+      "id": "rss-c63e4cf44e0ffbe2ec399cac",
+      "title": "在脸书上发现女儿被害的爸爸 觉得被南非警方忽视了",
+      "originalTitle": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
+      "summary": "南非社区告诉BBC, 在一波可怕的杀戮之后, 他们正在采取措施来保证妇女的安全。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-24T00:02:15Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-24T07:30:54.986467Z",
+      "updatedAt": "2026-11-24T07:30:54.986467Z"
+    },
+    {
+      "id": "rss-3e3d5a4bd74c60af3fe96138",
+      "title": "Figma雇员起诉,指控公司强迫她面对骚扰者",
+      "originalTitle": "Figma employee sues, alleging company forced her to confront harassers",
+      "summary": "Figma及其首席执行官被一名现任雇员控告性骚扰和歧视。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-23T23:07:49Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-24T07:30:54.986467Z",
+      "updatedAt": "2026-11-24T07:30:54.986467Z"
+    },
+    {
+      "id": "rss-eb3ae9634767b876d25f71c0",
+      "title": "在西雅图机场 ICE逮捕了父亲和女儿之后的暴动",
+      "originalTitle": "Outrage after ICE arrest father and daughter at Seattle airport",
+      "summary": "ICE官员逮捕了两名乘客,一名父亲和女儿,因为他们星期六在西雅图登机。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-23T22:59:07Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/crd910g5x882o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-24T07:30:54.986467Z",
+      "updatedAt": "2026-11-24T07:30:54.986467Z"
+    },
+    {
+      "id": "rss-d5d2228e02af8ab1fc7d70f3",
+      "title": "Gisèle Pelicot在光着身子的照片寄给媒体促销书后,",
+      "originalTitle": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+      "summary": "一篇关于强制控制的文章的出版商为“不幸和不适当的沟通”道歉。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-23T21:24:47Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-24T07:30:54.986467Z",
+      "updatedAt": "2026-11-24T07:30:54.986467Z"
+    },
+    {
+      "id": "rss-ad724bcf8f7740f095376b3e",
+      "title": "在罗辛亚种族灭绝统治后,联合王国对缅甸军方最高领导人的制裁",
+      "originalTitle": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+      "summary": "联合王国和其他几个国家一起承认国际法院关于缅甸实施种族灭绝的裁决。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-23T21:03:34Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-24T07:30:54.986467Z",
+      "updatedAt": "2026-11-24T07:30:54.986467Z"
+    },
+    {
+      "id": "rss-de264d24b1a82fc129c50561",
+      "title": "第一夫人梅拉妮娅·特朗普 欢迎今年的白宫圣诞树",
+      "originalTitle": "First Lady Melania Trump welcomes this year's White House Christmas tree",
+      "summary": "正式的2026年白宫圣诞树 是来自威斯康辛州Endeavor的一个农场 宁静夜长青的一棵18英尺长的树（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-23T18:49:19Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-24T07:30:54.986467Z",
+      "updatedAt": "2026-11-24T07:30:54.986467Z"
+    },
+    {
+      "id": "rss-8006ba0f9c438f1c4f570ce3",
+      "title": "\"我想摧毁资本主义,而不是法国\": 在街上与法国极端左",
+      "originalTitle": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
+      "summary": "英国广播公司与极左派抗议者法国总统马科恩(Emmanuel Macron)会面,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-23T13:09:52Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-24T07:30:54.986467Z",
+      "updatedAt": "2026-11-24T07:30:54.986467Z"
+    },
+    {
+      "id": "rss-3b152dca00dd577e08d76b67",
+      "title": "乌克兰分享在利比亚境外袭击俄罗斯船只的录像",
+      "originalTitle": "Ukraine shares video of strikes on Russian ships off Libya",
+      "summary": "塞伦斯基总统说,一艘俄罗斯军舰沉没,一艘俄罗斯货船也遭到袭击。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-23T11:34:10Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-24T07:30:54.986467Z",
+      "updatedAt": "2026-11-24T07:30:54.986467Z"
+    },
+    {
+      "id": "rss-4279a33688d6c96d11c2d03d",
+      "title": "五次从失败的气候会谈中取走",
+      "originalTitle": "Five takeaways from the failed climate talks COP31",
+      "summary": "在安塔利亚举行的第31次缔约方会议首脑会议是联合国历史上历时最长的气候对话。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-23T06:33:50Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-24T07:30:54.986467Z",
+      "updatedAt": "2026-11-24T07:30:54.986467Z"
     }
   ],
   "history": [
@@ -177997,9 +178871,982 @@
         "firstSeen": "2026-11-23T23:03:15.469670Z",
         "updatedAt": "2026-11-23T23:03:15.469670Z"
       }
+    },
+    {
+      "eventId": "rss-b1d82f5106d46801c847a016",
+      "at": "2026-11-24T07:30:54.986467Z",
+      "data": {
+        "id": "rss-b1d82f5106d46801c847a016",
+        "title": "孟加拉国前总理谢赫哈西娜(Sheikh Hasina)说,她计划在12月16日返回。",
+        "originalTitle": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+        "summary": "Hasina多次提到她想要回来,但这是她第一次确定日期。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-24T06:23:01Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-24T07:30:54.986467Z",
+        "updatedAt": "2026-11-24T07:30:54.986467Z"
+      }
+    },
+    {
+      "eventId": "rss-a0de565bf64dea2ded5203cf",
+      "at": "2026-11-24T07:30:54.986467Z",
+      "data": {
+        "id": "rss-a0de565bf64dea2ded5203cf",
+        "title": "在澳大利亚板球篡改传说中受拟议法律保护的体育检举人",
+        "originalTitle": "Sports whistleblowers protected under proposed laws amid Australian cricket ball tampering saga",
+        "summary": "联盟和绿党对政府法案的修正将建立对体育中不法行为报告者的保护措施。 联盟和绿党针对澳大利亚板球的余波提出的法律草案将保护我们的日常政治电子邮件、免费应用程序或每日新闻播客举报人前来举报体育中的腐败或不当行为。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-24T06:20:10Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/24/sports-whistleblowers-protected-proposed-laws-australian-cricket-ball-tampering-sandpapergate-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-24T07:30:54.986467Z",
+        "updatedAt": "2026-11-24T07:30:54.986467Z"
+      }
+    },
+    {
+      "eventId": "rss-84343938fb07038a30400bca",
+      "at": "2026-11-24T07:30:54.986467Z",
+      "data": {
+        "id": "rss-84343938fb07038a30400bca",
+        "title": "Kate Bush和Grace Jones敦促澳大利亚政府不要将AI“偷窃”合法化。",
+        "originalTitle": "Kate Bush and Grace Jones urge Australian government not to legalise AI ‘theft’",
+        "summary": "我们的突发新闻电子邮件、免费应用程序或每日新闻播客Kate Bush、Grace Jones和Ian Rankin爵士与全世界7000名艺术家和创作者联手, 恳求澳大利亚政府不要削弱版权法,（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-24T05:58:15Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-24T07:30:54.986467Z",
+        "updatedAt": "2026-11-24T07:30:54.986467Z"
+      }
+    },
+    {
+      "eventId": "rss-6057c7b195d846144ad94ce2",
+      "at": "2026-11-24T07:30:54.986467Z",
+      "data": {
+        "id": "rss-6057c7b195d846144ad94ce2",
+        "title": "马来西亚将数千名移民送回缅甸,",
+        "originalTitle": "Malaysia to send thousands of migrants back to Myanmar as PM acknowledges junta’s ‘atrocities’",
+        "summary": "总理安瓦尔·易卜拉欣(Anwar Ibrahim)的公告是在国际法学家委员会(ICJ)发现缅甸对罗辛亚少数民族马来西亚(Rohingya Limith Malaysia)犯下种族灭绝罪行后几天发表的,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-24T05:54:14Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-24T07:30:54.986467Z",
+        "updatedAt": "2026-11-24T07:30:54.986467Z"
+      }
+    },
+    {
+      "eventId": "rss-40de6cd9df4382e043690b47",
+      "at": "2026-11-24T07:30:54.986467Z",
+      "data": {
+        "id": "rss-40de6cd9df4382e043690b47",
+        "title": "Beau Lamarre-Condon本可以告诉皇冠`做你最坏的事',但被告方却说,",
+        "originalTitle": "Beau Lamarre-Condon could have told crown ‘do your worst’ and not given evidence, defence says",
+        "summary": "前警官对2024年2月在Baird Paddington家中谋杀Jesse Baird和Luke Davies一事不认罪。 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客Beau Lamarre-Condon本可以静坐,告诉王室“做你最坏的事 ” , 但他选择将“长途跋涉”带到证人箱,陪审团被告知。 Lamarre-Condon被指控犯有致命罪。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-24T05:49:34Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/24/beau-lamarre-condon-trial-barrister-closing-statement-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-24T07:30:54.986467Z",
+        "updatedAt": "2026-11-24T07:30:54.986467Z"
+      }
+    },
+    {
+      "eventId": "rss-4acc4486706bb1659549a45d",
+      "at": "2026-11-24T07:30:54.986467Z",
+      "data": {
+        "id": "rss-4acc4486706bb1659549a45d",
+        "title": "印度的“cockroach”党领袖说他被阻止飞去英国",
+        "originalTitle": "India's 'cockroach' party leader says he was stopped from flying to UK",
+        "summary": "Saurav Das说,德里机场的移民当局告诉他,他的护照是“挂着的”。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-24T05:33:07Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-24T07:30:54.986467Z",
+        "updatedAt": "2026-11-24T07:30:54.986467Z"
+      }
+    },
+    {
+      "eventId": "rss-d56ae315880fa92c98a1ccba",
+      "at": "2026-11-24T07:30:54.986467Z",
+      "data": {
+        "id": "rss-d56ae315880fa92c98a1ccba",
+        "title": "自行车、屏幕和失败的举止对荷兰自行车文化构成挑战",
+        "originalTitle": "Ebikes, screens and failing manners pose challenge for Dutch cycling culture",
+        "summary": "宣传活动提醒公众, “交通是团队运动”在不那么文明和道路上更多碰撞的情况下。 几十年来,荷兰以自豪的自行车文化而闻名,拥有23 000英里长的自行车路线网络,从8岁以下儿童到80岁以上的成年人。 然而,近年来,与世界上许多国家一样,荷兰在车型类型方面发生了巨大变化。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-24T05:00:07Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/24/ebikes-screens-and-failing-manners-pose-challenge-for-dutch-cycling-culture"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-24T07:30:54.986467Z",
+        "updatedAt": "2026-11-24T07:30:54.986467Z"
+      }
+    },
+    {
+      "eventId": "rss-25d043b118adad46fcdfb812",
+      "at": "2026-11-24T07:30:54.986467Z",
+      "data": {
+        "id": "rss-25d043b118adad46fcdfb812",
+        "title": "特朗普说\"说服\"Nvidia 恢复了首席执行官Jensen Huang",
+        "originalTitle": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+        "summary": "Nvidia受到特朗普总统的压力 要求重新任命黄四郎 黄四郎的归来 帮助公司股票增值一美元（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-24T04:36:31Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-24T07:30:54.986467Z",
+        "updatedAt": "2026-11-24T07:30:54.986467Z"
+      }
+    },
+    {
+      "eventId": "rss-02dc0690684e02200fe47463",
+      "at": "2026-11-24T07:30:54.986467Z",
+      "data": {
+        "id": "rss-02dc0690684e02200fe47463",
+        "title": "南朝鲜让岛上居民在俄罗斯军用飞机接近后避难",
+        "originalTitle": "South Korea tells island residents to take shelter after Russian military aircraft approach",
+        "summary": "这项命令是在几架俄罗斯军用飞机接近其领空之后,星期二上午,在南朝鲜一个偏远岛屿的Ulleungdo岛上的飞机进入该国防空识别区后下达的,这促使军方发出预先警告,预计会发生违规事件。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-24T04:14:43Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-24T07:30:54.986467Z",
+        "updatedAt": "2026-11-24T07:30:54.986467Z"
+      }
+    },
+    {
+      "eventId": "rss-33e00abceedff5a4bb7bc6b8",
+      "at": "2026-11-24T07:30:54.986467Z",
+      "data": {
+        "id": "rss-33e00abceedff5a4bb7bc6b8",
+        "title": "社会媒体公司可以被罚款5%的全球收入 之后,劳工和绿党联手 在线安全法",
+        "originalTitle": "Social media companies could be fined 5% of global revenue after Labor and Greens join forces on online safety laws",
+        "summary": "澳大利亚个人可以起诉大型科技公司, 指控这些公司因妥协协议而遭受的伤害。 追寻我们的澳大利亚政治实况博客, 以获取最新消息。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-24T04:03:16Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/technology/2026/nov/24/social-media-big-tech-fines-global-revenue-australia-digital-duty-care-laws"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-24T07:30:54.986467Z",
+        "updatedAt": "2026-11-24T07:30:54.986467Z"
+      }
+    },
+    {
+      "eventId": "rss-fd3c944f0667032b85d905c8",
+      "at": "2026-11-24T07:30:54.986467Z",
+      "data": {
+        "id": "rss-fd3c944f0667032b85d905c8",
+        "title": "中国官员因为外国从事间谍活动被判死刑",
+        "originalTitle": "China sentences official to death for spying for foreign country",
+        "summary": "被告官员向无名国家泄露了国家机密,并收到价值超过15万美元的付款。 国家相关出版商说,一名中国官员因为外国进行间谍活动而被判死刑。 一名政府相关出版商说,Gold Wall Press是一家与中国国家机密保护管理有关的出版公司。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-24T02:37:36Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-24T07:30:54.986467Z",
+        "updatedAt": "2026-11-24T07:30:54.986467Z"
+      }
+    },
+    {
+      "eventId": "rss-8a11be66dc0b8ac744134349",
+      "at": "2026-11-24T07:30:54.986467Z",
+      "data": {
+        "id": "rss-8a11be66dc0b8ac744134349",
+        "title": "俄罗斯核子卫星报告后 内藤总长发誓要防范太空威胁",
+        "originalTitle": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+        "summary": "德国媒体说,俄罗斯计划在未来几周发射一颗带有核弹头的卫星进入太空。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-24T02:15:59Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-24T07:30:54.986467Z",
+        "updatedAt": "2026-11-24T07:30:54.986467Z"
+      }
+    },
+    {
+      "eventId": "rss-e0495d6a5040b0f670d8ef31",
+      "at": "2026-11-24T07:30:54.986467Z",
+      "data": {
+        "id": "rss-e0495d6a5040b0f670d8ef31",
+        "title": "Nvidia对Jensen Huang回任首席执行官的反应如何",
+        "originalTitle": "How Nvidia is reacting to Jensen Huang's return as CEO",
+        "summary": "英国广播公司的Lily Jamali在Nvidia的总部报道,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-24T01:21:41Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-24T07:30:54.986467Z",
+        "updatedAt": "2026-11-24T07:30:54.986467Z"
+      }
+    },
+    {
+      "eventId": "rss-e000e454f6b288cbd948ac44",
+      "at": "2026-11-24T07:30:54.986467Z",
+      "data": {
+        "id": "rss-e000e454f6b288cbd948ac44",
+        "title": "查尔斯国王和埃尔顿·约翰 向澳大利亚音乐传奇莫莉·梅尔德鲁姆致敬",
+        "originalTitle": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
+        "summary": "宣传员和广播员帮助定义了澳大利亚人几十年来的音乐品味。（机器翻译；尚未完成正文核查。）",
+        "category": "网络文化",
+        "publishedAt": "2026-11-24T00:23:25Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-24T07:30:54.986467Z",
+        "updatedAt": "2026-11-24T07:30:54.986467Z"
+      }
+    },
+    {
+      "eventId": "rss-c63e4cf44e0ffbe2ec399cac",
+      "at": "2026-11-24T07:30:54.986467Z",
+      "data": {
+        "id": "rss-c63e4cf44e0ffbe2ec399cac",
+        "title": "在脸书上发现女儿被害的爸爸 觉得被南非警方忽视了",
+        "originalTitle": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
+        "summary": "南非社区告诉BBC, 在一波可怕的杀戮之后, 他们正在采取措施来保证妇女的安全。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-24T00:02:15Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-24T07:30:54.986467Z",
+        "updatedAt": "2026-11-24T07:30:54.986467Z"
+      }
+    },
+    {
+      "eventId": "rss-3e3d5a4bd74c60af3fe96138",
+      "at": "2026-11-24T07:30:54.986467Z",
+      "data": {
+        "id": "rss-3e3d5a4bd74c60af3fe96138",
+        "title": "Figma雇员起诉,指控公司强迫她面对骚扰者",
+        "originalTitle": "Figma employee sues, alleging company forced her to confront harassers",
+        "summary": "Figma及其首席执行官被一名现任雇员控告性骚扰和歧视。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-23T23:07:49Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-24T07:30:54.986467Z",
+        "updatedAt": "2026-11-24T07:30:54.986467Z"
+      }
+    },
+    {
+      "eventId": "rss-eb3ae9634767b876d25f71c0",
+      "at": "2026-11-24T07:30:54.986467Z",
+      "data": {
+        "id": "rss-eb3ae9634767b876d25f71c0",
+        "title": "在西雅图机场 ICE逮捕了父亲和女儿之后的暴动",
+        "originalTitle": "Outrage after ICE arrest father and daughter at Seattle airport",
+        "summary": "ICE官员逮捕了两名乘客,一名父亲和女儿,因为他们星期六在西雅图登机。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-23T22:59:07Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/crd910g5x882o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-24T07:30:54.986467Z",
+        "updatedAt": "2026-11-24T07:30:54.986467Z"
+      }
+    },
+    {
+      "eventId": "rss-d5d2228e02af8ab1fc7d70f3",
+      "at": "2026-11-24T07:30:54.986467Z",
+      "data": {
+        "id": "rss-d5d2228e02af8ab1fc7d70f3",
+        "title": "Gisèle Pelicot在光着身子的照片寄给媒体促销书后,",
+        "originalTitle": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+        "summary": "一篇关于强制控制的文章的出版商为“不幸和不适当的沟通”道歉。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-23T21:24:47Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-24T07:30:54.986467Z",
+        "updatedAt": "2026-11-24T07:30:54.986467Z"
+      }
+    },
+    {
+      "eventId": "rss-ad724bcf8f7740f095376b3e",
+      "at": "2026-11-24T07:30:54.986467Z",
+      "data": {
+        "id": "rss-ad724bcf8f7740f095376b3e",
+        "title": "在罗辛亚种族灭绝统治后,联合王国对缅甸军方最高领导人的制裁",
+        "originalTitle": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+        "summary": "联合王国和其他几个国家一起承认国际法院关于缅甸实施种族灭绝的裁决。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-23T21:03:34Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-24T07:30:54.986467Z",
+        "updatedAt": "2026-11-24T07:30:54.986467Z"
+      }
+    },
+    {
+      "eventId": "rss-de264d24b1a82fc129c50561",
+      "at": "2026-11-24T07:30:54.986467Z",
+      "data": {
+        "id": "rss-de264d24b1a82fc129c50561",
+        "title": "第一夫人梅拉妮娅·特朗普 欢迎今年的白宫圣诞树",
+        "originalTitle": "First Lady Melania Trump welcomes this year's White House Christmas tree",
+        "summary": "正式的2026年白宫圣诞树 是来自威斯康辛州Endeavor的一个农场 宁静夜长青的一棵18英尺长的树（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-23T18:49:19Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-24T07:30:54.986467Z",
+        "updatedAt": "2026-11-24T07:30:54.986467Z"
+      }
+    },
+    {
+      "eventId": "rss-8006ba0f9c438f1c4f570ce3",
+      "at": "2026-11-24T07:30:54.986467Z",
+      "data": {
+        "id": "rss-8006ba0f9c438f1c4f570ce3",
+        "title": "\"我想摧毁资本主义,而不是法国\": 在街上与法国极端左",
+        "originalTitle": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
+        "summary": "英国广播公司与极左派抗议者法国总统马科恩(Emmanuel Macron)会面,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-23T13:09:52Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-24T07:30:54.986467Z",
+        "updatedAt": "2026-11-24T07:30:54.986467Z"
+      }
+    },
+    {
+      "eventId": "rss-3b152dca00dd577e08d76b67",
+      "at": "2026-11-24T07:30:54.986467Z",
+      "data": {
+        "id": "rss-3b152dca00dd577e08d76b67",
+        "title": "乌克兰分享在利比亚境外袭击俄罗斯船只的录像",
+        "originalTitle": "Ukraine shares video of strikes on Russian ships off Libya",
+        "summary": "塞伦斯基总统说,一艘俄罗斯军舰沉没,一艘俄罗斯货船也遭到袭击。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-23T11:34:10Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-24T07:30:54.986467Z",
+        "updatedAt": "2026-11-24T07:30:54.986467Z"
+      }
+    },
+    {
+      "eventId": "rss-4279a33688d6c96d11c2d03d",
+      "at": "2026-11-24T07:30:54.986467Z",
+      "data": {
+        "id": "rss-4279a33688d6c96d11c2d03d",
+        "title": "五次从失败的气候会谈中取走",
+        "originalTitle": "Five takeaways from the failed climate talks COP31",
+        "summary": "在安塔利亚举行的第31次缔约方会议首脑会议是联合国历史上历时最长的气候对话。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-23T06:33:50Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-24T07:30:54.986467Z",
+        "updatedAt": "2026-11-24T07:30:54.986467Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-24T07:30:54.986467Z",
+      "at": "2026-11-24T07:30:54.986467Z",
+      "kind": "GitHub Actions 采集",
+      "count": 23,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 14}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 0}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 8}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 1}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-23T23:03:15.469670Z",
       "at": "2026-11-23T23:03:15.469670Z",
