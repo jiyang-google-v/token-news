@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-24T21:42:15.516321Z",
+  "updatedAt": "2026-11-25T05:59:21.071455Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -87090,6 +87090,766 @@
       "tokens": [],
       "firstSeen": "2026-11-24T21:42:15.516321Z",
       "updatedAt": "2026-11-24T21:42:15.516321Z"
+    },
+    {
+      "id": "rss-baec5162ff99d9e232edb151",
+      "title": "在图表中:欧洲选举的一年中,权力如何转移",
+      "originalTitle": "In charts: how power could shift in Europe’s big year of elections",
+      "summary": "未来12个月中,一半以上的欧盟选民将参加投票,其中极右翼的目标将是重大进步。 我们提出了未来12个月的政治格局和趋势,超过一半的欧盟选民将参加选举,从而改变欧洲大陆的方向,重点关注该集团五个最大州中四个州的选民。 在西班牙,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-25T05:00:06Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/25/charts-europe-big-year-of-elections-eu-far-right"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-25T05:59:21.071455Z",
+      "updatedAt": "2026-11-25T05:59:21.071455Z"
+    },
+    {
+      "id": "rss-d28edd583d67403a26f23b52",
+      "title": "Kilmar Ábrego García离开美国前往西班牙,结束了特朗普驱逐战",
+      "originalTitle": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+      "summary": "他被遣送回萨尔瓦多, 回到美国, 成为关于总统唐纳德·特朗普移民议程的争论的热点。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-25T04:49:55Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-25T05:59:21.071455Z",
+      "updatedAt": "2026-11-25T05:59:21.071455Z"
+    },
+    {
+      "id": "rss-87d01006e157b37e463f4cb9",
+      "title": "110个俱乐部的分离团体故意错过了 昆士兰州足球队的注册",
+      "originalTitle": "Breakaway group of 110 clubs deliberately misses Football Queensland registration as revolt over $5 gate fees builds",
+      "summary": "在2027年的赛季中,俱乐部未能报名参加,因为对管理机构的行政主管控制着足球社区感到不安。 我们的突发新闻电子邮件、免费应用程序或每日新闻播客。 代表数十万球员的100个足球俱乐部在与昆士兰州足球赛的争议中故意错过了下一个赛季的报名截止日期。 分歧迫使澳大利亚足球队加入。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-25T04:29:29Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/25/breakaway-clubs-miss-football-queensland-registration-gate-fee-dispute"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-25T05:59:21.071455Z",
+      "updatedAt": "2026-11-25T05:59:21.071455Z"
+    },
+    {
+      "id": "rss-c368e58f77b63d6e3e6ed126",
+      "title": "Chalmers宣称, 澳大利亚的通胀率在经济“非常严重的时刻”跃升到4.9%,",
+      "originalTitle": "Australia’s inflation rate jumping to 4.9% a ‘very serious moment’ for economy, Chalmers declares",
+      "summary": "与9月4.3%的年利率相比,以及几乎翻倍的储备银行的官方目标2.5%, 因为澳大利亚的生活费危机加剧。（机器翻译；尚未完成正文核查。）",
+      "category": "商业 / 宏观",
+      "publishedAt": "2026-11-25T03:55:50Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-25T05:59:21.071455Z",
+      "updatedAt": "2026-11-25T05:59:21.071455Z"
+    },
+    {
+      "id": "rss-7595bde59d080e57fbf8d647",
+      "title": "Beau Lamarre-Condon 被判犯有谋杀Jesse Baird和Luke Davies的罪行",
+      "originalTitle": "Beau Lamarre-Condon found guilty of murdering Jesse Baird and Luke Davies",
+      "summary": "陪审团认定前警官于2024年在Baird的悉尼家中杀害情侣有罪。 一名悉尼警官的执着导致双重谋杀。 一名前警官Beau Lamarre-Condon被裁定以其服役武器谋杀Jesse Baird和Luke Davies。 新南威尔士最高法院陪审团于星期三做出判决,裁定Lamarre-Condon犯有两项罪行。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-25T03:05:42Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-25T05:59:21.071455Z",
+      "updatedAt": "2026-11-25T05:59:21.071455Z"
+    },
+    {
+      "id": "rss-f7be36771056aa599232321e",
+      "title": "俄罗斯军队的秘密死亡人数 — — 播客",
+      "originalTitle": "The Russian army’s secret death toll – podcast",
+      "summary": "弗拉基米尔·普京一直对在乌克兰被杀死的士兵人数保密,但有一次,720人在24小时内死亡。 Pjotr Sauer报告。 将你的评论和问题发送给tif. questions@theguardian.com俄罗斯对其在乌克兰战争中的士兵死亡事件进行了谨慎的保密。 现在,泄露给卫报的文件暴露了其真实规模。 卫报的俄罗斯已经暴露了它的真实规模。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-25T03:00:03Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/news/audio/2026/nov/25/the-russian-armys-secret-death-toll-podcast"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-25T05:59:21.071455Z",
+      "updatedAt": "2026-11-25T05:59:21.071455Z"
+    },
+    {
+      "id": "rss-d6d3387d2942de9ac47c3d75",
+      "title": "澳大利亚与所罗门群岛达成的安全协定是对中国在太平洋影响力的打击",
+      "originalTitle": "Australia’s security pact with Solomon Islands a blow to China’s influence in the Pacific",
+      "summary": "安东尼·阿尔巴内斯和马修·瓦莱签署新的条约,因为所罗门群岛总理指出,他的国家不再“是该地区不确定和怀疑的根源 ” 。 所罗门群岛总理说,他的国家在太平洋成为不确定的伙伴的日子已经结束了,因为他签署了一份包罗万象的协定,使澳大利亚成为他国家的主要安全伙伴,并限制了与中国的关系。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-25T01:51:02Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-25T05:59:21.071455Z",
+      "updatedAt": "2026-11-25T05:59:21.071455Z"
+    },
+    {
+      "id": "rss-931118a83c11690ed2611032",
+      "title": "托马斯·马克因拥有儿童性虐待图像而在美国被起诉",
+      "originalTitle": "Thomas Markle indicted in US for possessing child sex abuse images",
+      "summary": "联邦调查局于11月6日逮捕了Markle,当时他搜查了据称在洛杉矶租用的一个储藏室,发现了虐待材料。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-25T01:40:42Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-25T05:59:21.071455Z",
+      "updatedAt": "2026-11-25T05:59:21.071455Z"
+    },
+    {
+      "id": "rss-8baf0c8a65bad7415e7eb634",
+      "title": "中国调查了习近平最新清洗中的政治局明星",
+      "originalTitle": "China investigates politburo star in Xi Jinping’s latest purge",
+      "summary": "陈金宁是中国精英政治局的第四名成员,自2025年以来接受调查。 中国对上海共产党党长陈锦平进行了调查,他是中国精英政治局的成员。 周二,国营新华新闻社意外地宣布,这是最高领导层的第四名成员。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-25T01:31:46Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-25T05:59:21.071455Z",
+      "updatedAt": "2026-11-25T05:59:21.071455Z"
+    },
+    {
+      "id": "rss-04d7a75d17591af0239d4740",
+      "title": "印度将粮食放在桌面上的成本不断上升",
+      "originalTitle": "The rising cost of putting food on the table in India",
+      "summary": "印度的粮食通货膨胀正在扩大,挤压家庭预算。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-25T01:02:13Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-25T05:59:21.071455Z",
+      "updatedAt": "2026-11-25T05:59:21.071455Z"
+    },
+    {
+      "id": "rss-4980e212d8f2fd4177de2298",
+      "title": "俄罗斯自己的数字显示,在乌克兰战争中,有近50万人死亡。",
+      "originalTitle": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "summary": "泄漏的数据显示,对乌克兰的全面入侵从根本上改变了俄罗斯的死亡率模式。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-25T00:56:51Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-25T05:59:21.071455Z",
+      "updatedAt": "2026-11-25T05:59:21.071455Z"
+    },
+    {
+      "id": "rss-3267b6051ed13edd2e7a4394",
+      "title": "为什么小车要横跨欧洲",
+      "originalTitle": "Why tiny cars are taking off across Europe",
+      "summary": "小型汽车曾经被视为老年人和农村人口的汽车,现在却被较年轻的人口所拥抱。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-25T00:34:05Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-25T05:59:21.071455Z",
+      "updatedAt": "2026-11-25T05:59:21.071455Z"
+    },
+    {
+      "id": "rss-11304642d4ef0ee9b5604991",
+      "title": "耶鲁的Sonnenfeld:Nvidia是美国工业实力的“破坏”,而不是冠军",
+      "originalTitle": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "summary": "耶鲁的Jeffrey Sonnenfeld警告说,周一市场欢呼的Jensen Huang's White House — — 以Nvidia的首席执行官和董事会成员的身份支持返回 — — 可能证明是一个巨大的错误,使董事们面临越来越多的诉讼带来的“历史”个人责任,并提出了国家是否在庆祝一家帮助其对手掌握先进芯片的公司的问题。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-25T00:12:02Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-25T05:59:21.071455Z",
+      "updatedAt": "2026-11-25T05:59:21.071455Z"
+    },
+    {
+      "id": "rss-c23a6a86a20a0a6e81dd052f",
+      "title": "据说特朗普说赦免黄詹是\"一个选择\"",
+      "originalTitle": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+      "summary": "黄四郎与黄四郎的关系不断受到质疑, 黄四郎与中国情报部门有联系,（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-25T00:10:27Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-25T05:59:21.071455Z",
+      "updatedAt": "2026-11-25T05:59:21.071455Z"
+    },
+    {
+      "id": "rss-e0ee458ad4118b14dec56136",
+      "title": "Kilmar Ábrego García, 在特朗普驱逐战斗中的男人,离开美国",
+      "originalTitle": "Kilmar Ábrego García, man at center of Trump deportation battle, leaves US",
+      "summary": "萨尔瓦多人于2025年3月被驱逐,在最高法院裁决后返回美国,自愿离开前往西班牙的Kilmar Ábrego García。 他的律师于星期二自愿离开美国,但得到国土安全部的证实,证实他正在前往西班牙。 萨尔瓦多移民自他离开西班牙以来,一直处于长达几个月的法律斗争的中心。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-24T23:50:31Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-25T05:59:21.071455Z",
+      "updatedAt": "2026-11-25T05:59:21.071455Z"
+    },
+    {
+      "id": "rss-803932ad076bb2b61b1ca154",
+      "title": "与中国连结的网络使用人工智能假造来污蔑台湾选举候选人,",
+      "originalTitle": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+      "summary": "网络攻击了执政的人民党的关键人物,包括莱总统和市长候选人沈。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-24T23:05:11Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-25T05:59:21.071455Z",
+      "updatedAt": "2026-11-25T05:59:21.071455Z"
+    },
+    {
+      "id": "rss-728942263f493f659fb2616e",
+      "title": "这些朝鲜人说,他们被监视、殴打和监禁 因为他们是基督徒",
+      "originalTitle": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+      "summary": "一份新报告有几百名叛逃者的证词,他们说他们因为信仰而受到迫害。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-24T23:03:59Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-25T05:59:21.071455Z",
+      "updatedAt": "2026-11-25T05:59:21.071455Z"
+    },
+    {
+      "id": "rss-3f66369c8927dc1a5f3b5740",
+      "title": "Jensen Huang 仍然认为继任计划会造成不必要的等级",
+      "originalTitle": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "summary": "这对一个公司来说是个了不起的姿态 公司在过去的两周里 发现没有创始人会发生什么（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-24T22:27:52Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-25T05:59:21.071455Z",
+      "updatedAt": "2026-11-25T05:59:21.071455Z"
+    },
+    {
+      "id": "rss-a919734a680de1b27cada568",
+      "title": "Jensen Huang在全方位的会面中感谢白宫,",
+      "originalTitle": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "summary": "Nvidia的创始人周二向他的员工道歉,并说他感谢第二次有机会领导公司。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-24T21:48:27Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-25T05:59:21.071455Z",
+      "updatedAt": "2026-11-25T05:59:21.071455Z"
+    },
+    {
+      "id": "rss-6c97203d76598be571dc541f",
+      "title": "技术生命",
+      "originalTitle": "Tech Life",
+      "summary": "来自世界各地的专家每五年规划一次大赦国际的发展。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-24T21:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-25T05:59:21.071455Z",
+      "updatedAt": "2026-11-25T05:59:21.071455Z"
     }
   ],
   "history": [
@@ -183357,9 +184117,856 @@
         "firstSeen": "2026-11-24T21:42:15.516321Z",
         "updatedAt": "2026-11-24T21:42:15.516321Z"
       }
+    },
+    {
+      "eventId": "rss-baec5162ff99d9e232edb151",
+      "at": "2026-11-25T05:59:21.071455Z",
+      "data": {
+        "id": "rss-baec5162ff99d9e232edb151",
+        "title": "在图表中:欧洲选举的一年中,权力如何转移",
+        "originalTitle": "In charts: how power could shift in Europe’s big year of elections",
+        "summary": "未来12个月中,一半以上的欧盟选民将参加投票,其中极右翼的目标将是重大进步。 我们提出了未来12个月的政治格局和趋势,超过一半的欧盟选民将参加选举,从而改变欧洲大陆的方向,重点关注该集团五个最大州中四个州的选民。 在西班牙,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-25T05:00:06Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/25/charts-europe-big-year-of-elections-eu-far-right"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-25T05:59:21.071455Z",
+        "updatedAt": "2026-11-25T05:59:21.071455Z"
+      }
+    },
+    {
+      "eventId": "rss-d28edd583d67403a26f23b52",
+      "at": "2026-11-25T05:59:21.071455Z",
+      "data": {
+        "id": "rss-d28edd583d67403a26f23b52",
+        "title": "Kilmar Ábrego García离开美国前往西班牙,结束了特朗普驱逐战",
+        "originalTitle": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+        "summary": "他被遣送回萨尔瓦多, 回到美国, 成为关于总统唐纳德·特朗普移民议程的争论的热点。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-25T04:49:55Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-25T05:59:21.071455Z",
+        "updatedAt": "2026-11-25T05:59:21.071455Z"
+      }
+    },
+    {
+      "eventId": "rss-87d01006e157b37e463f4cb9",
+      "at": "2026-11-25T05:59:21.071455Z",
+      "data": {
+        "id": "rss-87d01006e157b37e463f4cb9",
+        "title": "110个俱乐部的分离团体故意错过了 昆士兰州足球队的注册",
+        "originalTitle": "Breakaway group of 110 clubs deliberately misses Football Queensland registration as revolt over $5 gate fees builds",
+        "summary": "在2027年的赛季中,俱乐部未能报名参加,因为对管理机构的行政主管控制着足球社区感到不安。 我们的突发新闻电子邮件、免费应用程序或每日新闻播客。 代表数十万球员的100个足球俱乐部在与昆士兰州足球赛的争议中故意错过了下一个赛季的报名截止日期。 分歧迫使澳大利亚足球队加入。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-25T04:29:29Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/25/breakaway-clubs-miss-football-queensland-registration-gate-fee-dispute"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-25T05:59:21.071455Z",
+        "updatedAt": "2026-11-25T05:59:21.071455Z"
+      }
+    },
+    {
+      "eventId": "rss-c368e58f77b63d6e3e6ed126",
+      "at": "2026-11-25T05:59:21.071455Z",
+      "data": {
+        "id": "rss-c368e58f77b63d6e3e6ed126",
+        "title": "Chalmers宣称, 澳大利亚的通胀率在经济“非常严重的时刻”跃升到4.9%,",
+        "originalTitle": "Australia’s inflation rate jumping to 4.9% a ‘very serious moment’ for economy, Chalmers declares",
+        "summary": "与9月4.3%的年利率相比,以及几乎翻倍的储备银行的官方目标2.5%, 因为澳大利亚的生活费危机加剧。（机器翻译；尚未完成正文核查。）",
+        "category": "商业 / 宏观",
+        "publishedAt": "2026-11-25T03:55:50Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-25T05:59:21.071455Z",
+        "updatedAt": "2026-11-25T05:59:21.071455Z"
+      }
+    },
+    {
+      "eventId": "rss-7595bde59d080e57fbf8d647",
+      "at": "2026-11-25T05:59:21.071455Z",
+      "data": {
+        "id": "rss-7595bde59d080e57fbf8d647",
+        "title": "Beau Lamarre-Condon 被判犯有谋杀Jesse Baird和Luke Davies的罪行",
+        "originalTitle": "Beau Lamarre-Condon found guilty of murdering Jesse Baird and Luke Davies",
+        "summary": "陪审团认定前警官于2024年在Baird的悉尼家中杀害情侣有罪。 一名悉尼警官的执着导致双重谋杀。 一名前警官Beau Lamarre-Condon被裁定以其服役武器谋杀Jesse Baird和Luke Davies。 新南威尔士最高法院陪审团于星期三做出判决,裁定Lamarre-Condon犯有两项罪行。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-25T03:05:42Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-25T05:59:21.071455Z",
+        "updatedAt": "2026-11-25T05:59:21.071455Z"
+      }
+    },
+    {
+      "eventId": "rss-f7be36771056aa599232321e",
+      "at": "2026-11-25T05:59:21.071455Z",
+      "data": {
+        "id": "rss-f7be36771056aa599232321e",
+        "title": "俄罗斯军队的秘密死亡人数 — — 播客",
+        "originalTitle": "The Russian army’s secret death toll – podcast",
+        "summary": "弗拉基米尔·普京一直对在乌克兰被杀死的士兵人数保密,但有一次,720人在24小时内死亡。 Pjotr Sauer报告。 将你的评论和问题发送给tif. questions@theguardian.com俄罗斯对其在乌克兰战争中的士兵死亡事件进行了谨慎的保密。 现在,泄露给卫报的文件暴露了其真实规模。 卫报的俄罗斯已经暴露了它的真实规模。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-25T03:00:03Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/news/audio/2026/nov/25/the-russian-armys-secret-death-toll-podcast"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-25T05:59:21.071455Z",
+        "updatedAt": "2026-11-25T05:59:21.071455Z"
+      }
+    },
+    {
+      "eventId": "rss-d6d3387d2942de9ac47c3d75",
+      "at": "2026-11-25T05:59:21.071455Z",
+      "data": {
+        "id": "rss-d6d3387d2942de9ac47c3d75",
+        "title": "澳大利亚与所罗门群岛达成的安全协定是对中国在太平洋影响力的打击",
+        "originalTitle": "Australia’s security pact with Solomon Islands a blow to China’s influence in the Pacific",
+        "summary": "安东尼·阿尔巴内斯和马修·瓦莱签署新的条约,因为所罗门群岛总理指出,他的国家不再“是该地区不确定和怀疑的根源 ” 。 所罗门群岛总理说,他的国家在太平洋成为不确定的伙伴的日子已经结束了,因为他签署了一份包罗万象的协定,使澳大利亚成为他国家的主要安全伙伴,并限制了与中国的关系。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-25T01:51:02Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-25T05:59:21.071455Z",
+        "updatedAt": "2026-11-25T05:59:21.071455Z"
+      }
+    },
+    {
+      "eventId": "rss-931118a83c11690ed2611032",
+      "at": "2026-11-25T05:59:21.071455Z",
+      "data": {
+        "id": "rss-931118a83c11690ed2611032",
+        "title": "托马斯·马克因拥有儿童性虐待图像而在美国被起诉",
+        "originalTitle": "Thomas Markle indicted in US for possessing child sex abuse images",
+        "summary": "联邦调查局于11月6日逮捕了Markle,当时他搜查了据称在洛杉矶租用的一个储藏室,发现了虐待材料。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-25T01:40:42Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-25T05:59:21.071455Z",
+        "updatedAt": "2026-11-25T05:59:21.071455Z"
+      }
+    },
+    {
+      "eventId": "rss-8baf0c8a65bad7415e7eb634",
+      "at": "2026-11-25T05:59:21.071455Z",
+      "data": {
+        "id": "rss-8baf0c8a65bad7415e7eb634",
+        "title": "中国调查了习近平最新清洗中的政治局明星",
+        "originalTitle": "China investigates politburo star in Xi Jinping’s latest purge",
+        "summary": "陈金宁是中国精英政治局的第四名成员,自2025年以来接受调查。 中国对上海共产党党长陈锦平进行了调查,他是中国精英政治局的成员。 周二,国营新华新闻社意外地宣布,这是最高领导层的第四名成员。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-25T01:31:46Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-25T05:59:21.071455Z",
+        "updatedAt": "2026-11-25T05:59:21.071455Z"
+      }
+    },
+    {
+      "eventId": "rss-04d7a75d17591af0239d4740",
+      "at": "2026-11-25T05:59:21.071455Z",
+      "data": {
+        "id": "rss-04d7a75d17591af0239d4740",
+        "title": "印度将粮食放在桌面上的成本不断上升",
+        "originalTitle": "The rising cost of putting food on the table in India",
+        "summary": "印度的粮食通货膨胀正在扩大,挤压家庭预算。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-25T01:02:13Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-25T05:59:21.071455Z",
+        "updatedAt": "2026-11-25T05:59:21.071455Z"
+      }
+    },
+    {
+      "eventId": "rss-4980e212d8f2fd4177de2298",
+      "at": "2026-11-25T05:59:21.071455Z",
+      "data": {
+        "id": "rss-4980e212d8f2fd4177de2298",
+        "title": "俄罗斯自己的数字显示,在乌克兰战争中,有近50万人死亡。",
+        "originalTitle": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+        "summary": "泄漏的数据显示,对乌克兰的全面入侵从根本上改变了俄罗斯的死亡率模式。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-25T00:56:51Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-25T05:59:21.071455Z",
+        "updatedAt": "2026-11-25T05:59:21.071455Z"
+      }
+    },
+    {
+      "eventId": "rss-3267b6051ed13edd2e7a4394",
+      "at": "2026-11-25T05:59:21.071455Z",
+      "data": {
+        "id": "rss-3267b6051ed13edd2e7a4394",
+        "title": "为什么小车要横跨欧洲",
+        "originalTitle": "Why tiny cars are taking off across Europe",
+        "summary": "小型汽车曾经被视为老年人和农村人口的汽车,现在却被较年轻的人口所拥抱。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-25T00:34:05Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-25T05:59:21.071455Z",
+        "updatedAt": "2026-11-25T05:59:21.071455Z"
+      }
+    },
+    {
+      "eventId": "rss-11304642d4ef0ee9b5604991",
+      "at": "2026-11-25T05:59:21.071455Z",
+      "data": {
+        "id": "rss-11304642d4ef0ee9b5604991",
+        "title": "耶鲁的Sonnenfeld:Nvidia是美国工业实力的“破坏”,而不是冠军",
+        "originalTitle": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+        "summary": "耶鲁的Jeffrey Sonnenfeld警告说,周一市场欢呼的Jensen Huang's White House — — 以Nvidia的首席执行官和董事会成员的身份支持返回 — — 可能证明是一个巨大的错误,使董事们面临越来越多的诉讼带来的“历史”个人责任,并提出了国家是否在庆祝一家帮助其对手掌握先进芯片的公司的问题。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-25T00:12:02Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-25T05:59:21.071455Z",
+        "updatedAt": "2026-11-25T05:59:21.071455Z"
+      }
+    },
+    {
+      "eventId": "rss-c23a6a86a20a0a6e81dd052f",
+      "at": "2026-11-25T05:59:21.071455Z",
+      "data": {
+        "id": "rss-c23a6a86a20a0a6e81dd052f",
+        "title": "据说特朗普说赦免黄詹是\"一个选择\"",
+        "originalTitle": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+        "summary": "黄四郎与黄四郎的关系不断受到质疑, 黄四郎与中国情报部门有联系,（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-25T00:10:27Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-25T05:59:21.071455Z",
+        "updatedAt": "2026-11-25T05:59:21.071455Z"
+      }
+    },
+    {
+      "eventId": "rss-e0ee458ad4118b14dec56136",
+      "at": "2026-11-25T05:59:21.071455Z",
+      "data": {
+        "id": "rss-e0ee458ad4118b14dec56136",
+        "title": "Kilmar Ábrego García, 在特朗普驱逐战斗中的男人,离开美国",
+        "originalTitle": "Kilmar Ábrego García, man at center of Trump deportation battle, leaves US",
+        "summary": "萨尔瓦多人于2025年3月被驱逐,在最高法院裁决后返回美国,自愿离开前往西班牙的Kilmar Ábrego García。 他的律师于星期二自愿离开美国,但得到国土安全部的证实,证实他正在前往西班牙。 萨尔瓦多移民自他离开西班牙以来,一直处于长达几个月的法律斗争的中心。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-24T23:50:31Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-25T05:59:21.071455Z",
+        "updatedAt": "2026-11-25T05:59:21.071455Z"
+      }
+    },
+    {
+      "eventId": "rss-803932ad076bb2b61b1ca154",
+      "at": "2026-11-25T05:59:21.071455Z",
+      "data": {
+        "id": "rss-803932ad076bb2b61b1ca154",
+        "title": "与中国连结的网络使用人工智能假造来污蔑台湾选举候选人,",
+        "originalTitle": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+        "summary": "网络攻击了执政的人民党的关键人物,包括莱总统和市长候选人沈。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-24T23:05:11Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-25T05:59:21.071455Z",
+        "updatedAt": "2026-11-25T05:59:21.071455Z"
+      }
+    },
+    {
+      "eventId": "rss-728942263f493f659fb2616e",
+      "at": "2026-11-25T05:59:21.071455Z",
+      "data": {
+        "id": "rss-728942263f493f659fb2616e",
+        "title": "这些朝鲜人说,他们被监视、殴打和监禁 因为他们是基督徒",
+        "originalTitle": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+        "summary": "一份新报告有几百名叛逃者的证词,他们说他们因为信仰而受到迫害。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-24T23:03:59Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-25T05:59:21.071455Z",
+        "updatedAt": "2026-11-25T05:59:21.071455Z"
+      }
+    },
+    {
+      "eventId": "rss-3f66369c8927dc1a5f3b5740",
+      "at": "2026-11-25T05:59:21.071455Z",
+      "data": {
+        "id": "rss-3f66369c8927dc1a5f3b5740",
+        "title": "Jensen Huang 仍然认为继任计划会造成不必要的等级",
+        "originalTitle": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+        "summary": "这对一个公司来说是个了不起的姿态 公司在过去的两周里 发现没有创始人会发生什么（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-24T22:27:52Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-25T05:59:21.071455Z",
+        "updatedAt": "2026-11-25T05:59:21.071455Z"
+      }
+    },
+    {
+      "eventId": "rss-a919734a680de1b27cada568",
+      "at": "2026-11-25T05:59:21.071455Z",
+      "data": {
+        "id": "rss-a919734a680de1b27cada568",
+        "title": "Jensen Huang在全方位的会面中感谢白宫,",
+        "originalTitle": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+        "summary": "Nvidia的创始人周二向他的员工道歉,并说他感谢第二次有机会领导公司。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-24T21:48:27Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-25T05:59:21.071455Z",
+        "updatedAt": "2026-11-25T05:59:21.071455Z"
+      }
+    },
+    {
+      "eventId": "rss-6c97203d76598be571dc541f",
+      "at": "2026-11-25T05:59:21.071455Z",
+      "data": {
+        "id": "rss-6c97203d76598be571dc541f",
+        "title": "技术生命",
+        "originalTitle": "Tech Life",
+        "summary": "来自世界各地的专家每五年规划一次大赦国际的发展。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-24T21:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-25T05:59:21.071455Z",
+        "updatedAt": "2026-11-25T05:59:21.071455Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-25T05:59:21.071455Z",
+      "at": "2026-11-25T05:59:21.071455Z",
+      "kind": "GitHub Actions 采集",
+      "count": 20,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 6}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 2}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 8}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 4}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-24T21:42:15.516321Z",
       "at": "2026-11-24T21:42:15.516321Z",
