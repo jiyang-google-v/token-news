@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-25T20:49:48.903279Z",
+  "updatedAt": "2026-11-26T05:52:31.835149Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -89902,6 +89902,766 @@
       "tokens": [],
       "firstSeen": "2026-11-25T20:49:48.903279Z",
       "updatedAt": "2026-11-25T20:49:48.903279Z"
+    },
+    {
+      "id": "rss-5fdffbfcba174b08c5dbf292",
+      "title": "联盟将私有化墨尔本的污水处理,同时出售国有土地和可再生能源,为维多利亚选举承诺提供资金,并削减债务",
+      "originalTitle": "Coalition would privatise Melbourne’s sewage treatment while selling state land and renewables to fund Victorian election promises and cut debt",
+      "summary": "自由党和国民党的预选政策成本也显示,里士满火车站和MCG之间的“航空权利”将会被出售。 跟随我们的澳大利亚政治实况博客,以更新维多利亚州2026年选举指南:你需要知道什么是对于谁投票的困惑? 检查政党的主要承诺和政策。 查看我们的每日政治电子邮件、免费应用程序或每日新闻播客A Victori。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-26T05:30:32Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-26T05:52:31.835149Z",
+      "updatedAt": "2026-11-26T05:52:31.835149Z"
+    },
+    {
+      "id": "rss-c1536e739e29b884369cbb09",
+      "title": "遭俄罗斯拘留的日本记者的妻子恳求释放。",
+      "originalTitle": "‘Trapped in grief’: wife of Japanese journalist detained by Russia pleads for his release",
+      "summary": "Yuki Imai因被指控在俄罗斯远东萨哈林岛的一家报社工作时实施“间谍”而被拘留在莫斯科。 一名日本记者因涉嫌从事间谍活动而在俄罗斯被拘留了一个多月的妻子发出了释放他的情绪性呼吁。 北海道Shimbun的记者Yuki Imai于10月中旬被捕,当时他正在准备重审。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-26T05:16:17Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/26/japanese-journalist-yuki-imai-detained-in-russia-wife-pleads-his-release"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-26T05:52:31.835149Z",
+      "updatedAt": "2026-11-26T05:52:31.835149Z"
+    },
+    {
+      "id": "rss-d5f21f8e9c85dbbcc187df2a",
+      "title": "联合王国对乌克兰风力农场投资950万英镑,用于加强战时能源系统",
+      "originalTitle": "UK to invest £9.5m in Ukraine windfarm to bolster war-hit energy system",
+      "summary": "能够为30万户家庭提供电力的项目,由英国提供770多万英镑重建能源部门,英国将为重建乌克兰能源系统增加数百万英镑的投资,其方法是资助一个能够为30万户乌克兰家庭提供电力的风力农场项目。 联合王国外交大臣爱德·米利班德说,英国将投资950万英镑,用于在一块坚硬的土地上建造一个200兆瓦风力农场。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-26T05:00:46Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/business/2026/nov/26/uk-to-invest-95m-in-ukraine-windfarm-war-hit-energy-system"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-26T05:52:31.835149Z",
+      "updatedAt": "2026-11-26T05:52:31.835149Z"
+    },
+    {
+      "id": "rss-6151a5eb4abb7c6237dbf8d2",
+      "title": "青少年杀人的想法在她杀害十岁小孩、审讯听到传闻前几天被斥之为“胡言乱语”",
+      "originalTitle": "Teen’s homicidal thoughts dismissed as ‘crap’ days before she killed 10-year-old, inquest hears",
+      "summary": "Bridgette ' Biddy ' Porter死在新南威尔士州农村地产的情况正由验尸官法庭审查。 获得我们的突发新闻电子邮件、免费应用程序或每日新闻播报。 两天前,一名青少年在精神失常时杀死一名年轻女孩,她父亲将她的杀人思想、妄想和幻觉视为“强奸 ” 。 2020年7月6日,一名14岁的孩子写在一篇调查文章上。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-26T04:11:34Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/26/teens-homicidal-thoughts-dismissed-as-crap-before-killed-10-year-old-inquest-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-26T05:52:31.835149Z",
+      "updatedAt": "2026-11-26T05:52:31.835149Z"
+    },
+    {
+      "id": "rss-fee99f7092cda5689bd84013",
+      "title": "梅西因为天气恶劣推迟了感恩节游行",
+      "originalTitle": "Macy's postpones Thanksgiving parade due to severe weather",
+      "summary": "这是第一次因为暴风雨而推迟了标志性庆祝活动。 纽约预计感恩节会发生破坏风和暴雨。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-26T04:04:14Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-26T05:52:31.835149Z",
+      "updatedAt": "2026-11-26T05:52:31.835149Z"
+    },
+    {
+      "id": "rss-a77b5085c9245e54e54e404e",
+      "title": "巴西说, Trump 关税威胁“不可接受”,因为中国谴责税收是毫无根据的",
+      "originalTitle": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
+      "summary": "巴西对拟议对糖和飞机征收的关税感到愤慨, 而北京则说新税相当于“政治操纵 ” , Trump 提议对包括中国和欧盟巴西在内的14个伙伴征收新税, 表示不会屈服于美国新的关税“威胁 ” , 中国指责华盛顿在唐纳德·特朗普最近对14个主要贸易伙伴发表经济演讲后“政治操纵 ” 。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-26T03:54:24Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-26T05:52:31.835149Z",
+      "updatedAt": "2026-11-26T05:52:31.835149Z"
+    },
+    {
+      "id": "rss-a067c0da2f1d966961527798",
+      "title": "FedEx飞机飞越迈阿密跑道,机场短暂暂停飞行",
+      "originalTitle": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
+      "summary": "美国感恩节节前一天,即一年中最繁忙的旅行日之一,是短暂的地面站。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-26T03:27:33Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-26T05:52:31.835149Z",
+      "updatedAt": "2026-11-26T05:52:31.835149Z"
+    },
+    {
+      "id": "rss-a95ce385f2e490aa3e96e84e",
+      "title": "西班牙的选举:左翼图标的结束? - 播客",
+      "originalTitle": "Spain’s election: the end of a leftwing icon? - podcast",
+      "summary": "马德里记者萨姆·琼斯(Sam Jones)和欧洲社会事务记者阿希法·卡萨姆(Ashifa Kassam)(Ashifa Kassam)(Asam)本周末在西班牙的重要选举报道,这可以看到长期以来首相佩德罗·桑切斯(Pedro Sánchez)被保守联盟(包括极右联盟)所取代。 他已经成为欧洲左翼的象征。 西班牙的佩德罗·桑切斯(Pedro Sánchez)是一位伟大的政治幸存者,执政八年之久 — — 整个连环都如此。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-26T03:00:43Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/news/audio/2026/nov/26/spains-election-the-end-of-a-leftwing-icon-podcast"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-26T05:52:31.835149Z",
+      "updatedAt": "2026-11-26T05:52:31.835149Z"
+    },
+    {
+      "id": "rss-beb3751f25f814fd9f45a978",
+      "title": "澳大利亚预测,如果没有新的气候政策,将完全无法实现2035年的排放目标",
+      "originalTitle": "Australia projected to completely miss 2035 emissions target without new climate policies",
+      "summary": "新官方预测显示,国家接近2030年目标的正轨,但Chris Bowen警告说,除非联邦政府大力推进气候政策,否则,“不受欢迎的风向”将加入气候和环境编辑Adam Morton的免费清洁空气通讯,澳大利亚即将实现2030年减排目标,但将大大低于2035年目标,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-26T02:26:10Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/26/australia-projected-to-miss-2035-emissions-targets-climate-policies"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-26T05:52:31.835149Z",
+      "updatedAt": "2026-11-26T05:52:31.835149Z"
+    },
+    {
+      "id": "rss-a9c62cdd7213c88961e4403e",
+      "title": "加利福尼亚州警告说,随着感恩节的国王潮水高峰,洪水会淹没",
+      "originalTitle": "California warns of flooding as King Tides peak over Thanksgiving",
+      "summary": "加拿大不列颠哥伦比亚省部分地区也可能受到暴风雨和洪水的影响,数百万人前往度假。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-26T01:22:55Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-26T05:52:31.835149Z",
+      "updatedAt": "2026-11-26T05:52:31.835149Z"
+    },
+    {
+      "id": "rss-7583f52321a2849b1c95e16c",
+      "title": "至少有31人死亡,因为油罐车坠毁引发了开罗公路的大火",
+      "originalTitle": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
+      "summary": "埃及当局说,环绕埃及首都的环形路上的火焰至少造成21人受伤,汽车和摩托车被烧焦。 星期三,一辆油罐车在环绕开罗的公路上点燃了一场大火,造成至少31人死亡。 环形路上的火焰是绕着埃及首都的关键动脉,至少21人受伤,留下2人以上。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-26T00:39:10Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-26T05:52:31.835149Z",
+      "updatedAt": "2026-11-26T05:52:31.835149Z"
+    },
+    {
+      "id": "rss-791ea9aca8c2feb9c8fa7a84",
+      "title": "全球圣战失败了吗? 还是它只是改变了形式?",
+      "originalTitle": "Has global jihadism failed, or is it simply changing shape?",
+      "summary": "圣战团体似乎专注于地方问题,而不是全球恐怖。 这是否意味着真正的变化?（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-26T00:22:18Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-26T05:52:31.835149Z",
+      "updatedAt": "2026-11-26T05:52:31.835149Z"
+    },
+    {
+      "id": "rss-8842d637b0f0fbcccbea6dc4",
+      "title": "安吉丽娜·朱莉和布拉德·皮特 解决法国葡萄酒公司的法律纠纷",
+      "originalTitle": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
+      "summary": "好莱坞A -isters的法律战 专注于他们2008年买下的葡萄园 和他们六年后结婚的地方（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-25T23:18:27Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-26T05:52:31.835149Z",
+      "updatedAt": "2026-11-26T05:52:31.835149Z"
+    },
+    {
+      "id": "rss-d7b28b808e94d828093f0148",
+      "title": "S&P认为Nvidia信用评级低于治理水平和 \" 关键人物 \" 风险",
+      "originalTitle": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "summary": "信用评级机构可以将Nvidia的信用评级降低到AA级,是第四高的评级。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-25T22:44:32Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-26T05:52:31.835149Z",
+      "updatedAt": "2026-11-26T05:52:31.835149Z"
+    },
+    {
+      "id": "rss-1c6024d18fe8d709ef3ddd2b",
+      "title": "31人死于大火 油罐车坠毁在开罗高速公路上",
+      "originalTitle": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "summary": "另有21人受伤,据报该油轮在埃及首都一条繁忙的环形公路上倒塌。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-25T22:18:06Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-26T05:52:31.835149Z",
+      "updatedAt": "2026-11-26T05:52:31.835149Z"
+    },
+    {
+      "id": "rss-cecacbdc275020c7eec6bd4f",
+      "title": "FCC 批准SpaceX在空间安装AI数据中心的计划",
+      "originalTitle": "FCC approves SpaceX plan to put AI data centers in space",
+      "summary": "公平竞争委员会驳回了反对者提出的一些主要关切,包括对科学研究的潜在威胁,因为该机构确定这些威胁不属于其监管当局的范围。（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-25T20:56:44Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-26T05:52:31.835149Z",
+      "updatedAt": "2026-11-26T05:52:31.835149Z"
+    },
+    {
+      "id": "rss-a60791c866814e25b9ec76f1",
+      "title": "纳萨号航天器撞击小行星,随后发生了什么",
+      "originalTitle": "Moment Nasa spacecraft hit asteroid - and what happened next",
+      "summary": "英国广播公司的科学编辑Rebecca Morelle说,（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-25T20:11:46Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-26T05:52:31.835149Z",
+      "updatedAt": "2026-11-26T05:52:31.835149Z"
+    },
+    {
+      "id": "rss-bc108d345915abe27fa6bd6f",
+      "title": "关于特朗普感恩节的收费",
+      "originalTitle": "What we know about Trump's Thanksgiving tariffs",
+      "summary": "唐纳德·特朗普在新一轮关税中以中国、欧洲联盟和其他12个管辖区为目标。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-25T19:38:05Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-26T05:52:31.835149Z",
+      "updatedAt": "2026-11-26T05:52:31.835149Z"
+    },
+    {
+      "id": "rss-1948fca9bbe107ced6c36dd2",
+      "title": "特朗普的账户交易 Nvidia 股票今年44次,记录显示",
+      "originalTitle": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+      "summary": "对美国总统财务披露的回顾显示,唐纳德·特朗普的投资组合经常在技术巨头中进行股票交易。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-25T16:42:11Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-26T05:52:31.835149Z",
+      "updatedAt": "2026-11-26T05:52:31.835149Z"
+    },
+    {
+      "id": "rss-c107a504b005577675c234d4",
+      "title": "骑摩托车的人抢得真厉害",
+      "originalTitle": "Greatest catch ever? Man on motorbike takes incredible grab",
+      "summary": "一名骑摩托车的乘客在巴基斯坦斯瓦特第一联赛的六人球被击落后,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-25T16:23:03Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/sport/cricket/videos/cwx2e0g93l3eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-26T05:52:31.835149Z",
+      "updatedAt": "2026-11-26T05:52:31.835149Z"
     }
   ],
   "history": [
@@ -189277,9 +190037,856 @@
         "firstSeen": "2026-11-25T20:49:48.903279Z",
         "updatedAt": "2026-11-25T20:49:48.903279Z"
       }
+    },
+    {
+      "eventId": "rss-5fdffbfcba174b08c5dbf292",
+      "at": "2026-11-26T05:52:31.835149Z",
+      "data": {
+        "id": "rss-5fdffbfcba174b08c5dbf292",
+        "title": "联盟将私有化墨尔本的污水处理,同时出售国有土地和可再生能源,为维多利亚选举承诺提供资金,并削减债务",
+        "originalTitle": "Coalition would privatise Melbourne’s sewage treatment while selling state land and renewables to fund Victorian election promises and cut debt",
+        "summary": "自由党和国民党的预选政策成本也显示,里士满火车站和MCG之间的“航空权利”将会被出售。 跟随我们的澳大利亚政治实况博客,以更新维多利亚州2026年选举指南:你需要知道什么是对于谁投票的困惑? 检查政党的主要承诺和政策。 查看我们的每日政治电子邮件、免费应用程序或每日新闻播客A Victori。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-26T05:30:32Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-26T05:52:31.835149Z",
+        "updatedAt": "2026-11-26T05:52:31.835149Z"
+      }
+    },
+    {
+      "eventId": "rss-c1536e739e29b884369cbb09",
+      "at": "2026-11-26T05:52:31.835149Z",
+      "data": {
+        "id": "rss-c1536e739e29b884369cbb09",
+        "title": "遭俄罗斯拘留的日本记者的妻子恳求释放。",
+        "originalTitle": "‘Trapped in grief’: wife of Japanese journalist detained by Russia pleads for his release",
+        "summary": "Yuki Imai因被指控在俄罗斯远东萨哈林岛的一家报社工作时实施“间谍”而被拘留在莫斯科。 一名日本记者因涉嫌从事间谍活动而在俄罗斯被拘留了一个多月的妻子发出了释放他的情绪性呼吁。 北海道Shimbun的记者Yuki Imai于10月中旬被捕,当时他正在准备重审。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-26T05:16:17Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/26/japanese-journalist-yuki-imai-detained-in-russia-wife-pleads-his-release"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-26T05:52:31.835149Z",
+        "updatedAt": "2026-11-26T05:52:31.835149Z"
+      }
+    },
+    {
+      "eventId": "rss-d5f21f8e9c85dbbcc187df2a",
+      "at": "2026-11-26T05:52:31.835149Z",
+      "data": {
+        "id": "rss-d5f21f8e9c85dbbcc187df2a",
+        "title": "联合王国对乌克兰风力农场投资950万英镑,用于加强战时能源系统",
+        "originalTitle": "UK to invest £9.5m in Ukraine windfarm to bolster war-hit energy system",
+        "summary": "能够为30万户家庭提供电力的项目,由英国提供770多万英镑重建能源部门,英国将为重建乌克兰能源系统增加数百万英镑的投资,其方法是资助一个能够为30万户乌克兰家庭提供电力的风力农场项目。 联合王国外交大臣爱德·米利班德说,英国将投资950万英镑,用于在一块坚硬的土地上建造一个200兆瓦风力农场。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-26T05:00:46Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/business/2026/nov/26/uk-to-invest-95m-in-ukraine-windfarm-war-hit-energy-system"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-26T05:52:31.835149Z",
+        "updatedAt": "2026-11-26T05:52:31.835149Z"
+      }
+    },
+    {
+      "eventId": "rss-6151a5eb4abb7c6237dbf8d2",
+      "at": "2026-11-26T05:52:31.835149Z",
+      "data": {
+        "id": "rss-6151a5eb4abb7c6237dbf8d2",
+        "title": "青少年杀人的想法在她杀害十岁小孩、审讯听到传闻前几天被斥之为“胡言乱语”",
+        "originalTitle": "Teen’s homicidal thoughts dismissed as ‘crap’ days before she killed 10-year-old, inquest hears",
+        "summary": "Bridgette ' Biddy ' Porter死在新南威尔士州农村地产的情况正由验尸官法庭审查。 获得我们的突发新闻电子邮件、免费应用程序或每日新闻播报。 两天前,一名青少年在精神失常时杀死一名年轻女孩,她父亲将她的杀人思想、妄想和幻觉视为“强奸 ” 。 2020年7月6日,一名14岁的孩子写在一篇调查文章上。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-26T04:11:34Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/26/teens-homicidal-thoughts-dismissed-as-crap-before-killed-10-year-old-inquest-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-26T05:52:31.835149Z",
+        "updatedAt": "2026-11-26T05:52:31.835149Z"
+      }
+    },
+    {
+      "eventId": "rss-fee99f7092cda5689bd84013",
+      "at": "2026-11-26T05:52:31.835149Z",
+      "data": {
+        "id": "rss-fee99f7092cda5689bd84013",
+        "title": "梅西因为天气恶劣推迟了感恩节游行",
+        "originalTitle": "Macy's postpones Thanksgiving parade due to severe weather",
+        "summary": "这是第一次因为暴风雨而推迟了标志性庆祝活动。 纽约预计感恩节会发生破坏风和暴雨。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-26T04:04:14Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-26T05:52:31.835149Z",
+        "updatedAt": "2026-11-26T05:52:31.835149Z"
+      }
+    },
+    {
+      "eventId": "rss-a77b5085c9245e54e54e404e",
+      "at": "2026-11-26T05:52:31.835149Z",
+      "data": {
+        "id": "rss-a77b5085c9245e54e54e404e",
+        "title": "巴西说, Trump 关税威胁“不可接受”,因为中国谴责税收是毫无根据的",
+        "originalTitle": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
+        "summary": "巴西对拟议对糖和飞机征收的关税感到愤慨, 而北京则说新税相当于“政治操纵 ” , Trump 提议对包括中国和欧盟巴西在内的14个伙伴征收新税, 表示不会屈服于美国新的关税“威胁 ” , 中国指责华盛顿在唐纳德·特朗普最近对14个主要贸易伙伴发表经济演讲后“政治操纵 ” 。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-26T03:54:24Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-26T05:52:31.835149Z",
+        "updatedAt": "2026-11-26T05:52:31.835149Z"
+      }
+    },
+    {
+      "eventId": "rss-a067c0da2f1d966961527798",
+      "at": "2026-11-26T05:52:31.835149Z",
+      "data": {
+        "id": "rss-a067c0da2f1d966961527798",
+        "title": "FedEx飞机飞越迈阿密跑道,机场短暂暂停飞行",
+        "originalTitle": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
+        "summary": "美国感恩节节前一天,即一年中最繁忙的旅行日之一,是短暂的地面站。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-26T03:27:33Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-26T05:52:31.835149Z",
+        "updatedAt": "2026-11-26T05:52:31.835149Z"
+      }
+    },
+    {
+      "eventId": "rss-a95ce385f2e490aa3e96e84e",
+      "at": "2026-11-26T05:52:31.835149Z",
+      "data": {
+        "id": "rss-a95ce385f2e490aa3e96e84e",
+        "title": "西班牙的选举:左翼图标的结束? - 播客",
+        "originalTitle": "Spain’s election: the end of a leftwing icon? - podcast",
+        "summary": "马德里记者萨姆·琼斯(Sam Jones)和欧洲社会事务记者阿希法·卡萨姆(Ashifa Kassam)(Ashifa Kassam)(Asam)本周末在西班牙的重要选举报道,这可以看到长期以来首相佩德罗·桑切斯(Pedro Sánchez)被保守联盟(包括极右联盟)所取代。 他已经成为欧洲左翼的象征。 西班牙的佩德罗·桑切斯(Pedro Sánchez)是一位伟大的政治幸存者,执政八年之久 — — 整个连环都如此。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-26T03:00:43Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/news/audio/2026/nov/26/spains-election-the-end-of-a-leftwing-icon-podcast"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-26T05:52:31.835149Z",
+        "updatedAt": "2026-11-26T05:52:31.835149Z"
+      }
+    },
+    {
+      "eventId": "rss-beb3751f25f814fd9f45a978",
+      "at": "2026-11-26T05:52:31.835149Z",
+      "data": {
+        "id": "rss-beb3751f25f814fd9f45a978",
+        "title": "澳大利亚预测,如果没有新的气候政策,将完全无法实现2035年的排放目标",
+        "originalTitle": "Australia projected to completely miss 2035 emissions target without new climate policies",
+        "summary": "新官方预测显示,国家接近2030年目标的正轨,但Chris Bowen警告说,除非联邦政府大力推进气候政策,否则,“不受欢迎的风向”将加入气候和环境编辑Adam Morton的免费清洁空气通讯,澳大利亚即将实现2030年减排目标,但将大大低于2035年目标,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-26T02:26:10Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/26/australia-projected-to-miss-2035-emissions-targets-climate-policies"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-26T05:52:31.835149Z",
+        "updatedAt": "2026-11-26T05:52:31.835149Z"
+      }
+    },
+    {
+      "eventId": "rss-a9c62cdd7213c88961e4403e",
+      "at": "2026-11-26T05:52:31.835149Z",
+      "data": {
+        "id": "rss-a9c62cdd7213c88961e4403e",
+        "title": "加利福尼亚州警告说,随着感恩节的国王潮水高峰,洪水会淹没",
+        "originalTitle": "California warns of flooding as King Tides peak over Thanksgiving",
+        "summary": "加拿大不列颠哥伦比亚省部分地区也可能受到暴风雨和洪水的影响,数百万人前往度假。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-26T01:22:55Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-26T05:52:31.835149Z",
+        "updatedAt": "2026-11-26T05:52:31.835149Z"
+      }
+    },
+    {
+      "eventId": "rss-7583f52321a2849b1c95e16c",
+      "at": "2026-11-26T05:52:31.835149Z",
+      "data": {
+        "id": "rss-7583f52321a2849b1c95e16c",
+        "title": "至少有31人死亡,因为油罐车坠毁引发了开罗公路的大火",
+        "originalTitle": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
+        "summary": "埃及当局说,环绕埃及首都的环形路上的火焰至少造成21人受伤,汽车和摩托车被烧焦。 星期三,一辆油罐车在环绕开罗的公路上点燃了一场大火,造成至少31人死亡。 环形路上的火焰是绕着埃及首都的关键动脉,至少21人受伤,留下2人以上。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-26T00:39:10Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-26T05:52:31.835149Z",
+        "updatedAt": "2026-11-26T05:52:31.835149Z"
+      }
+    },
+    {
+      "eventId": "rss-791ea9aca8c2feb9c8fa7a84",
+      "at": "2026-11-26T05:52:31.835149Z",
+      "data": {
+        "id": "rss-791ea9aca8c2feb9c8fa7a84",
+        "title": "全球圣战失败了吗? 还是它只是改变了形式?",
+        "originalTitle": "Has global jihadism failed, or is it simply changing shape?",
+        "summary": "圣战团体似乎专注于地方问题,而不是全球恐怖。 这是否意味着真正的变化?（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-26T00:22:18Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-26T05:52:31.835149Z",
+        "updatedAt": "2026-11-26T05:52:31.835149Z"
+      }
+    },
+    {
+      "eventId": "rss-8842d637b0f0fbcccbea6dc4",
+      "at": "2026-11-26T05:52:31.835149Z",
+      "data": {
+        "id": "rss-8842d637b0f0fbcccbea6dc4",
+        "title": "安吉丽娜·朱莉和布拉德·皮特 解决法国葡萄酒公司的法律纠纷",
+        "originalTitle": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
+        "summary": "好莱坞A -isters的法律战 专注于他们2008年买下的葡萄园 和他们六年后结婚的地方（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-25T23:18:27Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-26T05:52:31.835149Z",
+        "updatedAt": "2026-11-26T05:52:31.835149Z"
+      }
+    },
+    {
+      "eventId": "rss-d7b28b808e94d828093f0148",
+      "at": "2026-11-26T05:52:31.835149Z",
+      "data": {
+        "id": "rss-d7b28b808e94d828093f0148",
+        "title": "S&P认为Nvidia信用评级低于治理水平和 \" 关键人物 \" 风险",
+        "originalTitle": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+        "summary": "信用评级机构可以将Nvidia的信用评级降低到AA级,是第四高的评级。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-25T22:44:32Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-26T05:52:31.835149Z",
+        "updatedAt": "2026-11-26T05:52:31.835149Z"
+      }
+    },
+    {
+      "eventId": "rss-1c6024d18fe8d709ef3ddd2b",
+      "at": "2026-11-26T05:52:31.835149Z",
+      "data": {
+        "id": "rss-1c6024d18fe8d709ef3ddd2b",
+        "title": "31人死于大火 油罐车坠毁在开罗高速公路上",
+        "originalTitle": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+        "summary": "另有21人受伤,据报该油轮在埃及首都一条繁忙的环形公路上倒塌。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-25T22:18:06Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-26T05:52:31.835149Z",
+        "updatedAt": "2026-11-26T05:52:31.835149Z"
+      }
+    },
+    {
+      "eventId": "rss-cecacbdc275020c7eec6bd4f",
+      "at": "2026-11-26T05:52:31.835149Z",
+      "data": {
+        "id": "rss-cecacbdc275020c7eec6bd4f",
+        "title": "FCC 批准SpaceX在空间安装AI数据中心的计划",
+        "originalTitle": "FCC approves SpaceX plan to put AI data centers in space",
+        "summary": "公平竞争委员会驳回了反对者提出的一些主要关切,包括对科学研究的潜在威胁,因为该机构确定这些威胁不属于其监管当局的范围。（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-25T20:56:44Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-26T05:52:31.835149Z",
+        "updatedAt": "2026-11-26T05:52:31.835149Z"
+      }
+    },
+    {
+      "eventId": "rss-a60791c866814e25b9ec76f1",
+      "at": "2026-11-26T05:52:31.835149Z",
+      "data": {
+        "id": "rss-a60791c866814e25b9ec76f1",
+        "title": "纳萨号航天器撞击小行星,随后发生了什么",
+        "originalTitle": "Moment Nasa spacecraft hit asteroid - and what happened next",
+        "summary": "英国广播公司的科学编辑Rebecca Morelle说,（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-25T20:11:46Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-26T05:52:31.835149Z",
+        "updatedAt": "2026-11-26T05:52:31.835149Z"
+      }
+    },
+    {
+      "eventId": "rss-bc108d345915abe27fa6bd6f",
+      "at": "2026-11-26T05:52:31.835149Z",
+      "data": {
+        "id": "rss-bc108d345915abe27fa6bd6f",
+        "title": "关于特朗普感恩节的收费",
+        "originalTitle": "What we know about Trump's Thanksgiving tariffs",
+        "summary": "唐纳德·特朗普在新一轮关税中以中国、欧洲联盟和其他12个管辖区为目标。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-25T19:38:05Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-26T05:52:31.835149Z",
+        "updatedAt": "2026-11-26T05:52:31.835149Z"
+      }
+    },
+    {
+      "eventId": "rss-1948fca9bbe107ced6c36dd2",
+      "at": "2026-11-26T05:52:31.835149Z",
+      "data": {
+        "id": "rss-1948fca9bbe107ced6c36dd2",
+        "title": "特朗普的账户交易 Nvidia 股票今年44次,记录显示",
+        "originalTitle": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+        "summary": "对美国总统财务披露的回顾显示,唐纳德·特朗普的投资组合经常在技术巨头中进行股票交易。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-25T16:42:11Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-26T05:52:31.835149Z",
+        "updatedAt": "2026-11-26T05:52:31.835149Z"
+      }
+    },
+    {
+      "eventId": "rss-c107a504b005577675c234d4",
+      "at": "2026-11-26T05:52:31.835149Z",
+      "data": {
+        "id": "rss-c107a504b005577675c234d4",
+        "title": "骑摩托车的人抢得真厉害",
+        "originalTitle": "Greatest catch ever? Man on motorbike takes incredible grab",
+        "summary": "一名骑摩托车的乘客在巴基斯坦斯瓦特第一联赛的六人球被击落后,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-25T16:23:03Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/sport/cricket/videos/cwx2e0g93l3eo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-26T05:52:31.835149Z",
+        "updatedAt": "2026-11-26T05:52:31.835149Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-26T05:52:31.835149Z",
+      "at": "2026-11-26T05:52:31.835149Z",
+      "kind": "GitHub Actions 采集",
+      "count": 20,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 10}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 0}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 8}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 2}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-25T20:49:48.903279Z",
       "at": "2026-11-25T20:49:48.903279Z",
