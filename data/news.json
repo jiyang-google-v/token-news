@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-26T20:41:41.643317Z",
+  "updatedAt": "2026-11-27T05:46:15.815517Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -92144,6 +92144,538 @@
       "tokens": [],
       "firstSeen": "2026-11-26T20:41:41.643317Z",
       "updatedAt": "2026-11-26T20:41:41.643317Z"
+    },
+    {
+      "id": "rss-484419258293567f4560ed5c",
+      "title": "Erin Patterson对蘑菇谋杀案提起了高等法院上诉",
+      "originalTitle": "Erin Patterson launches high court appeal bid over mushroom murder convictions",
+      "summary": "52岁的Patterson, 寻求向澳大利亚最高法院上诉, 以质疑在死亡的牛肉井午餐Erin Patterson上月推翻其三起谋杀罪的投标失败后, 其离散家庭成员的死亡问题。 去年,52岁的Patterson被判定犯有谋杀其离散丈夫父母Don和Gail Patterson的罪行。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T05:31:38Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/27/erin-patterson-launches-high-court-appeal-over-mushroom-convictions-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T05:46:15.815517Z",
+      "updatedAt": "2026-11-27T05:46:15.815517Z"
+    },
+    {
+      "id": "rss-f4e84e6acf3c002d2917408b",
+      "title": "Alan Jones的辩护时间是几小时后 猥亵攻击审判即将结束",
+      "originalTitle": "Alan Jones defence opens and closes in space of a few hours as indecent assault trial draws to a close",
+      "summary": "我们的突发新闻电子邮件、免费应用程序或每日新闻播客Alan Jones在猥亵和性爱审判中的辩护只持续了几个小时,下周将结束对长期案件的陈述。 琼斯的律师Gabrielle Bashir SC于周五开审了辩方陈述。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T05:02:40Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/27/alan-jones-trial-defence-open-and-close-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T05:46:15.815517Z",
+      "updatedAt": "2026-11-27T05:46:15.815517Z"
+    },
+    {
+      "id": "rss-8dd0d50f43e41639d231a89a",
+      "title": "去年西班牙这个城市爆发了种族仇恨。",
+      "originalTitle": "Race hate exploded in this Spanish town last year. Now its residents are bracing for more",
+      "summary": "托雷-帕切科(Torre-Pacheco)的众多社群都担心极右派的沃克斯党会在星期天的大选后进入政府,坐在公园的长椅上,在阳光灿烂的一天里,奈马反思了自从她30年前搬到西班牙以来所有似乎已经发生了变化的事情。 当时,摩洛哥国民感到受到西班牙人的热烈欢迎。 “在我一生中,我从未有过这样的感觉。 ”（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T05:00:55Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/27/spain-migrants-election-vox-far-right-europe"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T05:46:15.815517Z",
+      "updatedAt": "2026-11-27T05:46:15.815517Z"
+    },
+    {
+      "id": "rss-390a0e5d59e909ecaa0e3e52",
+      "title": "前RAAF飞行员在将妻子作为割草机事故而死亡后被判犯有谋杀罪",
+      "originalTitle": "Former RAAF pilot convicted of murder after staging wife’s death as lawnmower accident",
+      "summary": "布里斯班最高法院陪审团认定Robert John Crawford在离婚协议中因经济损失而犯有谋杀罪。 我们的突发新闻电子邮件、免费应用程序或每日新闻播客前空军飞行员Robert John Crawford在陪审团承认其死亡是致命的割草机事故后被判犯有谋杀罪。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T04:56:32Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/27/raaf-pilot-robert-john-crawford-guilty-murder-wife-staged-as-lawn-mowing-accident-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T05:46:15.815517Z",
+      "updatedAt": "2026-11-27T05:46:15.815517Z"
+    },
+    {
+      "id": "rss-7d6be5dc19172846ebe8f1d7",
+      "title": "新西兰的执政联盟没有达到一个席位的议会多数",
+      "originalTitle": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+      "summary": "国民党领导的右翼统治集团没有达到执政所需的多数。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T03:28:15Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T05:46:15.815517Z",
+      "updatedAt": "2026-11-27T05:46:15.815517Z"
+    },
+    {
+      "id": "rss-5f9c557285d6a641f3343fc1",
+      "title": "热浪、洪水、火灾和雨:全澳大利亚天气极端的周末",
+      "originalTitle": "Heatwaves, floods, fires and rain: weekend of weather extremes expected across Australia",
+      "summary": "随着野火肆虐佛林德尔斯岛,随着东海岸的风暴预报,维克多人可以期待一个湿风选举日。 我们的突发新闻电子邮件、免费应用程序或每日新闻播客。 大火是周五和周末在澳大利亚各地的天气极端预报之一,其中也包括严重风暴、大雨、洪水和热浪。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T03:14:10Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/27/heatwaves-floods-fires-and-rain-weekend-of-extreme-weather-expected-across-australia"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T05:46:15.815517Z",
+      "updatedAt": "2026-11-27T05:46:15.815517Z"
+    },
+    {
+      "id": "rss-070fa6bfc84f4bc9173176e2",
+      "title": "新西兰选举:最终结果显示执政联盟需要小党来治理",
+      "originalTitle": "New Zealand election: final results show ruling coalition needs minor party to govern",
+      "summary": "执政的总理克里斯托弗·卢克森失去了多数,需要机会党的支持才能继续掌权,或国家面临另一场选举。 新西兰大选的最终结果显示,执政的右翼联盟需要中间派新政党的支持才能组建政府,避免将国家送回投票。 11月7日的初步结果是:（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-27T02:38:15Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T05:46:15.815517Z",
+      "updatedAt": "2026-11-27T05:46:15.815517Z"
+    },
+    {
+      "id": "rss-34a04aa6806b5c9c8289deb0",
+      "title": "台湾的地方选举面临来自中国的巨大威胁",
+      "originalTitle": "Threat from China looms large over Taiwan’s local elections",
+      "summary": "台湾官员对中国干涉选举,从而影响执政党台湾选民在周六密切观察的地方选举中参加投票,从而影响执政党民主进步党(DPP)在全球舞台上日益不稳定的关系,从而影响其命运的担忧。 星期六的投票将选出市长、议会。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T01:00:49Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T05:46:15.815517Z",
+      "updatedAt": "2026-11-27T05:46:15.815517Z"
+    },
+    {
+      "id": "rss-10700dbe16ec8215e3eb994d",
+      "title": "Qantas和Air 新西兰飞机离悉尼机场太近,作为机组人员的 \" 心理模型 \" ,有待调查",
+      "originalTitle": "Qantas and Air New Zealand planes too close at Sydney airport as ‘mental models’ of crews to be investigated",
+      "summary": "澳大利亚交通安全局正在调查机组人员的“心理模型 ” 。 机组人员在看到另一架飞机在降落时在降落时发现另一架飞机在降落时于星期三在悉尼机场坠落后中止了降落。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T00:10:55Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/27/qantas-plane-aborted-landing-sydney-airport-mental-model-investigation"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T05:46:15.815517Z",
+      "updatedAt": "2026-11-27T05:46:15.815517Z"
+    },
+    {
+      "id": "rss-3c01055c44d74eefc54e96b7",
+      "title": "为什么缺少\"电动\"电梯机械师?",
+      "originalTitle": "Why is there a shortage of 'wizard' elevator mechanics?",
+      "summary": "薪水是好的,有很多工作, 所以什么是背后 缺少电梯机械师?（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T00:02:19Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T05:46:15.815517Z",
+      "updatedAt": "2026-11-27T05:46:15.815517Z"
+    },
+    {
+      "id": "rss-1319dbd59774efca69351d82",
+      "title": "亚洲在Nvidia上做了个大人工智能赌注 现在怎么办?",
+      "originalTitle": "Asia made a big AI bet on Nvidia. What happens now?",
+      "summary": "黄詹森作为NvidiaCEO 的冲击回来后 亚洲股票一直在滚车赛中（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-26T23:08:12Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T05:46:15.815517Z",
+      "updatedAt": "2026-11-27T05:46:15.815517Z"
+    },
+    {
+      "id": "rss-b084591b14edb85ced184df2",
+      "title": "我爸死的时候手表就停了 我在香港大火的灰烬里找到的",
+      "originalTitle": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+      "summary": "这座城市标志了7个街区被大火摧毁一年后 168人丧生（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-26T23:03:16Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T05:46:15.815517Z",
+      "updatedAt": "2026-11-27T05:46:15.815517Z"
+    },
+    {
+      "id": "rss-2eccc11da40e85e306dcd333",
+      "title": "Zelensky告诉BBC说,",
+      "originalTitle": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "summary": "乌克兰总统对美国表示不满, 并说Trump将弗拉基米尔·普京描述为朋友。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-26T22:49:27Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T05:46:15.815517Z",
+      "updatedAt": "2026-11-27T05:46:15.815517Z"
+    },
+    {
+      "id": "rss-84c0a249884bc4edef493c8c",
+      "title": "Zelensky在BBC的采访中质问Trump-Putin的友谊",
+      "originalTitle": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+      "summary": "乌克兰总统告诉英国广播公司,俄罗斯的弗拉基米尔·普京不应该被当作朋友对待。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-26T22:06:20Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T05:46:15.815517Z",
+      "updatedAt": "2026-11-27T05:46:15.815517Z"
     }
   ],
   "history": [
@@ -193997,9 +194529,604 @@
         "firstSeen": "2026-11-26T20:41:41.643317Z",
         "updatedAt": "2026-11-26T20:41:41.643317Z"
       }
+    },
+    {
+      "eventId": "rss-484419258293567f4560ed5c",
+      "at": "2026-11-27T05:46:15.815517Z",
+      "data": {
+        "id": "rss-484419258293567f4560ed5c",
+        "title": "Erin Patterson对蘑菇谋杀案提起了高等法院上诉",
+        "originalTitle": "Erin Patterson launches high court appeal bid over mushroom murder convictions",
+        "summary": "52岁的Patterson, 寻求向澳大利亚最高法院上诉, 以质疑在死亡的牛肉井午餐Erin Patterson上月推翻其三起谋杀罪的投标失败后, 其离散家庭成员的死亡问题。 去年,52岁的Patterson被判定犯有谋杀其离散丈夫父母Don和Gail Patterson的罪行。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T05:31:38Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/27/erin-patterson-launches-high-court-appeal-over-mushroom-convictions-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T05:46:15.815517Z",
+        "updatedAt": "2026-11-27T05:46:15.815517Z"
+      }
+    },
+    {
+      "eventId": "rss-f4e84e6acf3c002d2917408b",
+      "at": "2026-11-27T05:46:15.815517Z",
+      "data": {
+        "id": "rss-f4e84e6acf3c002d2917408b",
+        "title": "Alan Jones的辩护时间是几小时后 猥亵攻击审判即将结束",
+        "originalTitle": "Alan Jones defence opens and closes in space of a few hours as indecent assault trial draws to a close",
+        "summary": "我们的突发新闻电子邮件、免费应用程序或每日新闻播客Alan Jones在猥亵和性爱审判中的辩护只持续了几个小时,下周将结束对长期案件的陈述。 琼斯的律师Gabrielle Bashir SC于周五开审了辩方陈述。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T05:02:40Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/27/alan-jones-trial-defence-open-and-close-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T05:46:15.815517Z",
+        "updatedAt": "2026-11-27T05:46:15.815517Z"
+      }
+    },
+    {
+      "eventId": "rss-8dd0d50f43e41639d231a89a",
+      "at": "2026-11-27T05:46:15.815517Z",
+      "data": {
+        "id": "rss-8dd0d50f43e41639d231a89a",
+        "title": "去年西班牙这个城市爆发了种族仇恨。",
+        "originalTitle": "Race hate exploded in this Spanish town last year. Now its residents are bracing for more",
+        "summary": "托雷-帕切科(Torre-Pacheco)的众多社群都担心极右派的沃克斯党会在星期天的大选后进入政府,坐在公园的长椅上,在阳光灿烂的一天里,奈马反思了自从她30年前搬到西班牙以来所有似乎已经发生了变化的事情。 当时,摩洛哥国民感到受到西班牙人的热烈欢迎。 “在我一生中,我从未有过这样的感觉。 ”（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T05:00:55Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/27/spain-migrants-election-vox-far-right-europe"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T05:46:15.815517Z",
+        "updatedAt": "2026-11-27T05:46:15.815517Z"
+      }
+    },
+    {
+      "eventId": "rss-390a0e5d59e909ecaa0e3e52",
+      "at": "2026-11-27T05:46:15.815517Z",
+      "data": {
+        "id": "rss-390a0e5d59e909ecaa0e3e52",
+        "title": "前RAAF飞行员在将妻子作为割草机事故而死亡后被判犯有谋杀罪",
+        "originalTitle": "Former RAAF pilot convicted of murder after staging wife’s death as lawnmower accident",
+        "summary": "布里斯班最高法院陪审团认定Robert John Crawford在离婚协议中因经济损失而犯有谋杀罪。 我们的突发新闻电子邮件、免费应用程序或每日新闻播客前空军飞行员Robert John Crawford在陪审团承认其死亡是致命的割草机事故后被判犯有谋杀罪。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T04:56:32Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/27/raaf-pilot-robert-john-crawford-guilty-murder-wife-staged-as-lawn-mowing-accident-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T05:46:15.815517Z",
+        "updatedAt": "2026-11-27T05:46:15.815517Z"
+      }
+    },
+    {
+      "eventId": "rss-7d6be5dc19172846ebe8f1d7",
+      "at": "2026-11-27T05:46:15.815517Z",
+      "data": {
+        "id": "rss-7d6be5dc19172846ebe8f1d7",
+        "title": "新西兰的执政联盟没有达到一个席位的议会多数",
+        "originalTitle": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+        "summary": "国民党领导的右翼统治集团没有达到执政所需的多数。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T03:28:15Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T05:46:15.815517Z",
+        "updatedAt": "2026-11-27T05:46:15.815517Z"
+      }
+    },
+    {
+      "eventId": "rss-5f9c557285d6a641f3343fc1",
+      "at": "2026-11-27T05:46:15.815517Z",
+      "data": {
+        "id": "rss-5f9c557285d6a641f3343fc1",
+        "title": "热浪、洪水、火灾和雨:全澳大利亚天气极端的周末",
+        "originalTitle": "Heatwaves, floods, fires and rain: weekend of weather extremes expected across Australia",
+        "summary": "随着野火肆虐佛林德尔斯岛,随着东海岸的风暴预报,维克多人可以期待一个湿风选举日。 我们的突发新闻电子邮件、免费应用程序或每日新闻播客。 大火是周五和周末在澳大利亚各地的天气极端预报之一,其中也包括严重风暴、大雨、洪水和热浪。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T03:14:10Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/27/heatwaves-floods-fires-and-rain-weekend-of-extreme-weather-expected-across-australia"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T05:46:15.815517Z",
+        "updatedAt": "2026-11-27T05:46:15.815517Z"
+      }
+    },
+    {
+      "eventId": "rss-070fa6bfc84f4bc9173176e2",
+      "at": "2026-11-27T05:46:15.815517Z",
+      "data": {
+        "id": "rss-070fa6bfc84f4bc9173176e2",
+        "title": "新西兰选举:最终结果显示执政联盟需要小党来治理",
+        "originalTitle": "New Zealand election: final results show ruling coalition needs minor party to govern",
+        "summary": "执政的总理克里斯托弗·卢克森失去了多数,需要机会党的支持才能继续掌权,或国家面临另一场选举。 新西兰大选的最终结果显示,执政的右翼联盟需要中间派新政党的支持才能组建政府,避免将国家送回投票。 11月7日的初步结果是:（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-27T02:38:15Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T05:46:15.815517Z",
+        "updatedAt": "2026-11-27T05:46:15.815517Z"
+      }
+    },
+    {
+      "eventId": "rss-34a04aa6806b5c9c8289deb0",
+      "at": "2026-11-27T05:46:15.815517Z",
+      "data": {
+        "id": "rss-34a04aa6806b5c9c8289deb0",
+        "title": "台湾的地方选举面临来自中国的巨大威胁",
+        "originalTitle": "Threat from China looms large over Taiwan’s local elections",
+        "summary": "台湾官员对中国干涉选举,从而影响执政党台湾选民在周六密切观察的地方选举中参加投票,从而影响执政党民主进步党(DPP)在全球舞台上日益不稳定的关系,从而影响其命运的担忧。 星期六的投票将选出市长、议会。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T01:00:49Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T05:46:15.815517Z",
+        "updatedAt": "2026-11-27T05:46:15.815517Z"
+      }
+    },
+    {
+      "eventId": "rss-10700dbe16ec8215e3eb994d",
+      "at": "2026-11-27T05:46:15.815517Z",
+      "data": {
+        "id": "rss-10700dbe16ec8215e3eb994d",
+        "title": "Qantas和Air 新西兰飞机离悉尼机场太近,作为机组人员的 \" 心理模型 \" ,有待调查",
+        "originalTitle": "Qantas and Air New Zealand planes too close at Sydney airport as ‘mental models’ of crews to be investigated",
+        "summary": "澳大利亚交通安全局正在调查机组人员的“心理模型 ” 。 机组人员在看到另一架飞机在降落时在降落时发现另一架飞机在降落时于星期三在悉尼机场坠落后中止了降落。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T00:10:55Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/27/qantas-plane-aborted-landing-sydney-airport-mental-model-investigation"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T05:46:15.815517Z",
+        "updatedAt": "2026-11-27T05:46:15.815517Z"
+      }
+    },
+    {
+      "eventId": "rss-3c01055c44d74eefc54e96b7",
+      "at": "2026-11-27T05:46:15.815517Z",
+      "data": {
+        "id": "rss-3c01055c44d74eefc54e96b7",
+        "title": "为什么缺少\"电动\"电梯机械师?",
+        "originalTitle": "Why is there a shortage of 'wizard' elevator mechanics?",
+        "summary": "薪水是好的,有很多工作, 所以什么是背后 缺少电梯机械师?（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T00:02:19Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T05:46:15.815517Z",
+        "updatedAt": "2026-11-27T05:46:15.815517Z"
+      }
+    },
+    {
+      "eventId": "rss-1319dbd59774efca69351d82",
+      "at": "2026-11-27T05:46:15.815517Z",
+      "data": {
+        "id": "rss-1319dbd59774efca69351d82",
+        "title": "亚洲在Nvidia上做了个大人工智能赌注 现在怎么办?",
+        "originalTitle": "Asia made a big AI bet on Nvidia. What happens now?",
+        "summary": "黄詹森作为NvidiaCEO 的冲击回来后 亚洲股票一直在滚车赛中（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-26T23:08:12Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T05:46:15.815517Z",
+        "updatedAt": "2026-11-27T05:46:15.815517Z"
+      }
+    },
+    {
+      "eventId": "rss-b084591b14edb85ced184df2",
+      "at": "2026-11-27T05:46:15.815517Z",
+      "data": {
+        "id": "rss-b084591b14edb85ced184df2",
+        "title": "我爸死的时候手表就停了 我在香港大火的灰烬里找到的",
+        "originalTitle": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+        "summary": "这座城市标志了7个街区被大火摧毁一年后 168人丧生（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-26T23:03:16Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T05:46:15.815517Z",
+        "updatedAt": "2026-11-27T05:46:15.815517Z"
+      }
+    },
+    {
+      "eventId": "rss-2eccc11da40e85e306dcd333",
+      "at": "2026-11-27T05:46:15.815517Z",
+      "data": {
+        "id": "rss-2eccc11da40e85e306dcd333",
+        "title": "Zelensky告诉BBC说,",
+        "originalTitle": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+        "summary": "乌克兰总统对美国表示不满, 并说Trump将弗拉基米尔·普京描述为朋友。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-26T22:49:27Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T05:46:15.815517Z",
+        "updatedAt": "2026-11-27T05:46:15.815517Z"
+      }
+    },
+    {
+      "eventId": "rss-84c0a249884bc4edef493c8c",
+      "at": "2026-11-27T05:46:15.815517Z",
+      "data": {
+        "id": "rss-84c0a249884bc4edef493c8c",
+        "title": "Zelensky在BBC的采访中质问Trump-Putin的友谊",
+        "originalTitle": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+        "summary": "乌克兰总统告诉英国广播公司,俄罗斯的弗拉基米尔·普京不应该被当作朋友对待。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-26T22:06:20Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T05:46:15.815517Z",
+        "updatedAt": "2026-11-27T05:46:15.815517Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-27T05:46:15.815517Z",
+      "at": "2026-11-27T05:46:15.815517Z",
+      "kind": "GitHub Actions 采集",
+      "count": 14,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 4}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 2}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 8}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 0}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-26T20:41:41.643317Z",
       "at": "2026-11-26T20:41:41.643317Z",
