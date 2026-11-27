@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-27T05:46:15.815517Z",
+  "updatedAt": "2026-11-27T20:28:42.365489Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -92676,6 +92676,1184 @@
       "tokens": [],
       "firstSeen": "2026-11-27T05:46:15.815517Z",
       "updatedAt": "2026-11-27T05:46:15.815517Z"
+    },
+    {
+      "id": "rss-17509216a0f52cbf2a100bf6",
+      "title": "`野蛮和侮辱加拿大人 ' :推翻美国驻国会大使的运动",
+      "originalTitle": "‘Abusive and insulting to Canadians’: campaign to oust US ambassador presented to parliament",
+      "summary": "数以十万计的加拿大人要求宣布皮特·霍克斯特拉“不受欢迎的人”破坏外交关系。 近29万加拿大人签署了一份请愿书,呼吁马克·卡尼的议会罢免美国驻加拿大大使彼得·霍克斯特拉,该请愿书于星期四正式提交下议院,这是邻国关系紧张的迹象。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T20:19:04Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-65e067513a05324abc8865e4",
+      "title": "西班牙总理与对手在最后投票中拉拢支持者",
+      "originalTitle": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "summary": "总理潘德罗·桑切斯想违抗民调,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T20:09:09Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-5813550398040e4fc6ea2932",
+      "title": "\"我们不能轻易放弃\" 游行乐队在感恩节游行后 拼凑起来支付费用",
+      "originalTitle": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "summary": "纽约的暴风天气促使组织者将梅西的游行推后两天,使一些音乐家陷入困境。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T20:06:31Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-1eab93bf7e54c93e2ea5771b",
+      "title": "疲惫的战争,但没有退缩的迹象,基辅面临另一个严酷的冬天",
+      "originalTitle": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "summary": "随着问题持续存在,乌克兰又陷入一个毁灭性的冬天:这一切将如何结束?（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T18:42:50Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-467f8b5c839a331f085c9dcb",
+      "title": "警方疑犯抢劫曼彻斯特演出的粉丝,",
+      "originalTitle": "Police suspect criminals robbed fans at Manchester gig disrupted by ‘unknown substance’",
+      "summary": "警方与欧洲各地的机构合作,因为其他两场Don Toliver音乐会也发生了类似事件。 据警方说,在Don Toliver的曼彻斯特音乐会期间,据信有一批有组织的罪犯实施了抢劫,其中释放了一种“未知物质 ” , 在欧洲的另外两场美国饶舌歌手演出中也发生了类似事件。 大曼彻斯特 p（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T18:35:45Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/27/police-believe-criminals-carried-out-robberies-during-don-toliver-manchester-gig-unknown-substance"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-db367a35fb282de990d79d8b",
+      "title": "谷歌告诉比利时数据中心因缺乏规划许可而停止建设",
+      "originalTitle": "Google told to halt Belgium datacentre construction over lack of planning permit",
+      "summary": "绿色和平运动发表的报告显示,尽管比利时当局在规划方面呼吁仍未解决,但技术公司仍在继续建设,因为美国技术公司要求修改规划许可的最初条款,但未获批准,因此已命令Google停止在该国南部一个大型数据中心的建设工程。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T17:21:18Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-60bd6b1a9655a23182e6dc9b",
+      "title": "肯尼亚末日邪教领袖 进一步判定123人死亡",
+      "originalTitle": "Kenyan doomsday cult leader convicted over further 123 deaths",
+      "summary": "Paul Mackenzie被判有罪 杀害他的追随者, 几个星期后,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T17:19:31Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-5ef4be14e1a178dfd7a60bda",
+      "title": "加拿大最高法院基本上维持魁北克对公务员宗教标志的禁令",
+      "originalTitle": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+      "summary": "包括女穆斯林、锡克教和天主教教师在内的一系列群体对法律提出了挑战,认为法律侵犯了她们的基本权利。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T16:53:46Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-1c8ed0b731975bc1fe0ee38e",
+      "title": "贾里德·库什纳(Jared Kushner)的70分钟采访表明,在处理普京的侵略行为时存在着天真的偏见。",
+      "originalTitle": "Jared Kushner’s 70-minute interview reveals naive bias in handling of Putin’s aggression",
+      "summary": "特朗普的女婿和高级谈判家将俄罗斯入侵乌克兰描绘成一个有待解决的误解。 在长达70分钟的采访中,贾里德·库什纳 — — 唐纳德·特朗普的女婿和美国在俄罗斯、加沙和伊朗的著名谈判家 — — 可能做了更多的工作来揭示为什么世界陷入了根深蒂固的冲突,而不是数千个地缘政治主题或研讨会。（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-27T16:49:59Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/us-news/2026/nov/27/jared-kushner-interview-peril-putin-corporate-rival"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-f0a62b2b913b8363d0182189",
+      "title": "西班牙总理桑切斯(Pedro Sánchez)对选举胜利充满信心,",
+      "originalTitle": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – as it happened",
+      "summary": "这个博客现已关闭, 位于马德里的Freelance记者, Sobremesa Podcast Vox的主持人经常被国际报导描述为法国怀旧派的政党,（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-27T16:19:50Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-ce0c9325ee8cb3e96470ccdd",
+      "title": "加拿大最高法院支持魁北克法律,禁止公共部门工人佩戴宗教标志。",
+      "originalTitle": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
+      "summary": "加拿大最高法院基本上支持魁北克省一项有争议的世俗法, 禁止公共部门工作者佩戴明显的宗教标志,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T16:13:07Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-f53be474bc7fc47c59520f75",
+      "title": "巴西推回了麦肯 称其肉是\"下沉\"",
+      "originalTitle": "Brazil pushes back on Macron calling its meat 'doped'",
+      "summary": "在欧盟禁止巴西牛肉和家禽产品数月后,（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-27T15:54:15Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-c28a4b04e09368a6b881e90c",
+      "title": "Norse Atlantic Airways公司破产档案,并取消所有未来航班",
+      "originalTitle": "Norse Atlantic Airways files for bankruptcy and cancels all future flights",
+      "summary": "挪威航空公司告诉客户不要到机场去,因为伊朗战争造成的燃料费用暴涨。 Norse Atlantic Airways已经提出破产申请,并在伊朗战争造成的燃料费用暴涨破坏其财务后取消了所有未来的航班。 挪威航空公司说,它正在陷入破产,并在网站上发布信息,告诉客户不要到机场去。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T15:40:35Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/business/2026/nov/27/norse-atlantic-airways-files-for-bankruptcy-cancels-all-future-flights"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-1a58528ae82e3b8de77ef233",
+      "title": "Jess Wilson的墨尔本污水处理厂计划会危及水和湿地,",
+      "originalTitle": "Jess Wilson’s plan for Melbourne sewage plants risks water and wetlands without bringing debt down, experts say",
+      "summary": "学者说,维多利亚自由党(Victoria Libertican Propossible)建议将治疗厂私有化,在服务无损的情况下创造利润 — — 维多利亚选举指南 2026 : 您需要知道谁能投票的问题吗? 检查政党的主要承诺和政策。 我们的每日政治电子邮件、免费应用程序或每日新闻播客专家警告维多利亚自由党租借墨尔本的计划。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T14:00:14Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/28/jess-wilson-melbourne-sewage-plants-privatisation-risks-water-and-wetlands"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-804f9fb3f3e534d58f22c5ea",
+      "title": "随着选民转向自由党和“一个民族”党,",
+      "originalTitle": "Labor faces prospect of electoral wipeout in Victoria as voters turn to Liberals and One Nation",
+      "summary": "前ALP战略家说本·卡罗尔政府有可能在星期六的选举中失去30多个席位,而落后于Pauline Hanson党的维多利亚选举2026年指南:你需要知道关于谁投票的困惑吗? 检查一下政党的主要承诺和政策。 我们每天的政治电子邮件、免费的应用程序或每日新闻播客:维多利亚州劳动党政府正面临选举的擦拭。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T14:00:13Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/28/vic-election-labor-faces-electoral-wipeout-as-voters-turn-to-liberals-and-one-nation-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-dffd46c1727929953dbdc24b",
+      "title": "新南威尔士州劳动党(LABOR) \" 超越党的原则 \" ,",
+      "originalTitle": "NSW Labor is ‘trampling over party principles’ with preselections by captain’s call, members say",
+      "summary": "专栏:劳动党总长办公室要求Ryde议员Penny Pedersen不要在3月的州选举中提名Lane Cove。 我们的突发新闻电子邮件、免费应用程序或每日新闻播客,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T14:00:12Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/28/nsw-labor-is-trampling-over-party-principles-with-preselections-by-captains-call-members-say"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-e056cc8e97bf4372ee4c952d",
+      "title": "在阿姆斯特丹机场行李中发现的稀有海龟",
+      "originalTitle": "Rare turtles found inside baggage at Amsterdam airport",
+      "summary": "官员说,濒临灭绝的爬行动物被胶带捆绑起来,以防止他们移动。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T13:38:07Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-88cd0cc8f59ee6485235c324",
+      "title": "前媒体主管承认, 澳大利亚儿童性虐待幸存者「又被强奸」,",
+      "originalTitle": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
+      "summary": "前Murdoch媒体主管在提到Grace Tame穿衣方式的一次活动中被偷听到。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T11:44:40Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-1e82c20bfd294eebdfbfaaf9",
+      "title": "前肯尼亚州长因谋杀怀孕女友入狱25年",
+      "originalTitle": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder",
+      "summary": "这名怀孕学生在离开一家旅馆后被谋杀,当时她与一名记者联系,与州长讨论她的婚外情。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T11:22:02Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/crx209ekq5xdo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-d3a2445f266a7daf24c6f32a",
+      "title": "新南威尔士州验尸官发现,",
+      "originalTitle": "‘Crisis in empathy’: prison guard was watching TV while Aboriginal man was dying in custody, NSW coroner finds",
+      "summary": "法官说,在Silverwater33岁死亡后,警员值班时应被禁止使用屏幕和电话。 警告:这篇文章提到已死亡的土著澳大利亚人。 新南威尔士州验尸官发现,2023年被拘留的一名土著男子的死亡不仅是可以预防的,而且是她所调查的“最令人发指的死亡之一 ” 。 新南威尔士州矫正服务局(NSW)有b条。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T11:18:47Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/27/crisis-in-empathy-death-in-custody-of-aboriginal-man-tj-denniss-was-preventable-says-nsw-coroner-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-1b2d9a072f32db2fb806c025",
+      "title": "乌干达将部队撤出驻守在外交列席的刚果河镇",
+      "originalTitle": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
+      "summary": "乌干达军队正在帮助刚果军队在该国东部打击一个伊斯兰激进团体。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T10:39:31Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-340af565625916d0ce3ecb50",
+      "title": "欧洲游戏冲突三号,因为Macron谴责暴力",
+      "originalTitle": "Clashes mar European games as Macron condemns violence",
+      "summary": "周四晚上的欧洲足球比赛中 爆发了暴力冲突 法国总统埃马纽尔·麦隆 谴责马赛针对列夫斯基·索非亚的比赛（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-27T10:24:24Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-d8b939cea51e00e0d0be49b8",
+      "title": "几内亚比绍的军事领导人将恢复文官统治推迟到2028年",
+      "originalTitle": "Guinea-Bissau's military leaders delay return to civilian rule until 2028",
+      "summary": "这一宣布是在军事政变一年之后作出的,其领导人承诺在12个月内恢复文官统治。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T08:58:08Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-1c0565d52f665d4bd3955c95",
+      "title": "南亚数百万妻子没有受到婚内强奸的保护 -- -- 研究",
+      "originalTitle": "Millions of wives in South Asia unprotected from marital rape - study",
+      "summary": "100多个国家已宣布婚内强奸为非法,但南亚大部分地区没有这样做。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T08:13:43Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-c8eeaea13d408f6952787907",
+      "title": "意大利前警察局长在死前拒绝了黑手党的调查指控",
+      "originalTitle": "Italy's former police chief rejected mafia inquiry allegations before death",
+      "summary": "吉安尼·德·根纳罗在托斯卡尼家中发现尸体几天后,他写了一封长达八页的信。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T07:28:10Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-038c1230613876629a1ec209",
+      "title": "Grace Tame打电话给前Murdoch媒体主管,",
+      "originalTitle": "Grace Tame calls out ex-Murdoch media executive who said she ‘must be looking to be raped again’",
+      "summary": "马特·汉德伯里(Matt Handbury),鲁珀特·默多克(Rupert Murdoch)的侄子,承认他发表了冒犯性的评论,并说他在引用袭击幸存者的`令人惊奇地吸引的起身'。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T06:54:59Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/27/grace-tame-responds-former-murdoch-executive-nephew-rape-comment-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-f3136c437b79c2be8cb41d97",
+      "title": "欧盟领导人未能弥补因谈判停顿而导致的预算分裂",
+      "originalTitle": "EU leaders fail to bridge budget splits as talks stall",
+      "summary": "对乌克兰的援助是争端之一,因为欧盟成员国希望到年底结束谈判。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T06:11:55Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-c5e1d62c5803183c4874f08e",
+      "title": "“不可能”:西班牙年轻人在星期天选举前在住房问题上",
+      "originalTitle": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
+      "summary": "欧洲记者尼克·比克 和在巴伦西亚被高租金分开的一对夫妇说话（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-27T06:09:31Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-d69a88649a9e22bd375ec57e",
+      "title": "疯狂的马拉:DIY舞蹈运动帮助尼日利亚年轻人摆脱日常的磨难",
+      "originalTitle": "Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind",
+      "summary": "在尼日利亚中部的伊洛林市,拉瓦尔·哈比卜·科拉(Lawal Habeeb Kola)非常喜欢住在他的宿舍里,制作节拍,而不是回到他出生后最狂热的城市拉各斯的家。 2022年,他的节拍在蒂克市很受欢迎。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T06:00:56Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-18a24f1cbbb1e7386543d832",
+      "title": "谋杀Mushroom凶手Erin Patterson 高等法院提起最后上诉",
+      "originalTitle": "Mushroom murderer Erin Patterson launches last-ditch High Court appeal",
+      "summary": "Erin Patterson因在2023年用毒蘑菇午餐毒害亲戚而终身监禁。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T05:54:38Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck053e1d3ly1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-b4ba312f7ecbbceb76ba0a1d",
+      "title": "委内瑞拉废除禁止反对公职的法律",
+      "originalTitle": "Venezuela to scrap law that bars opposition from public office",
+      "summary": "这项立法自两年前提出以来,就因允许政治迫害而受到批评。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T05:35:10Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c58j4pw9xjrlo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-27T20:28:42.365489Z",
+      "updatedAt": "2026-11-27T20:28:42.365489Z"
     }
   ],
   "history": [
@@ -195117,9 +196295,1318 @@
         "firstSeen": "2026-11-27T05:46:15.815517Z",
         "updatedAt": "2026-11-27T05:46:15.815517Z"
       }
+    },
+    {
+      "eventId": "rss-17509216a0f52cbf2a100bf6",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-17509216a0f52cbf2a100bf6",
+        "title": "`野蛮和侮辱加拿大人 ' :推翻美国驻国会大使的运动",
+        "originalTitle": "‘Abusive and insulting to Canadians’: campaign to oust US ambassador presented to parliament",
+        "summary": "数以十万计的加拿大人要求宣布皮特·霍克斯特拉“不受欢迎的人”破坏外交关系。 近29万加拿大人签署了一份请愿书,呼吁马克·卡尼的议会罢免美国驻加拿大大使彼得·霍克斯特拉,该请愿书于星期四正式提交下议院,这是邻国关系紧张的迹象。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T20:19:04Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-65e067513a05324abc8865e4",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-65e067513a05324abc8865e4",
+        "title": "西班牙总理与对手在最后投票中拉拢支持者",
+        "originalTitle": "Spanish PM and rivals rally supporters in final pitch for votes",
+        "summary": "总理潘德罗·桑切斯想违抗民调,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T20:09:09Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-5813550398040e4fc6ea2932",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-5813550398040e4fc6ea2932",
+        "title": "\"我们不能轻易放弃\" 游行乐队在感恩节游行后 拼凑起来支付费用",
+        "originalTitle": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+        "summary": "纽约的暴风天气促使组织者将梅西的游行推后两天,使一些音乐家陷入困境。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T20:06:31Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-1eab93bf7e54c93e2ea5771b",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-1eab93bf7e54c93e2ea5771b",
+        "title": "疲惫的战争,但没有退缩的迹象,基辅面临另一个严酷的冬天",
+        "originalTitle": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+        "summary": "随着问题持续存在,乌克兰又陷入一个毁灭性的冬天:这一切将如何结束?（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T18:42:50Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-467f8b5c839a331f085c9dcb",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-467f8b5c839a331f085c9dcb",
+        "title": "警方疑犯抢劫曼彻斯特演出的粉丝,",
+        "originalTitle": "Police suspect criminals robbed fans at Manchester gig disrupted by ‘unknown substance’",
+        "summary": "警方与欧洲各地的机构合作,因为其他两场Don Toliver音乐会也发生了类似事件。 据警方说,在Don Toliver的曼彻斯特音乐会期间,据信有一批有组织的罪犯实施了抢劫,其中释放了一种“未知物质 ” , 在欧洲的另外两场美国饶舌歌手演出中也发生了类似事件。 大曼彻斯特 p（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T18:35:45Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/uk-news/2026/nov/27/police-believe-criminals-carried-out-robberies-during-don-toliver-manchester-gig-unknown-substance"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-db367a35fb282de990d79d8b",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-db367a35fb282de990d79d8b",
+        "title": "谷歌告诉比利时数据中心因缺乏规划许可而停止建设",
+        "originalTitle": "Google told to halt Belgium datacentre construction over lack of planning permit",
+        "summary": "绿色和平运动发表的报告显示,尽管比利时当局在规划方面呼吁仍未解决,但技术公司仍在继续建设,因为美国技术公司要求修改规划许可的最初条款,但未获批准,因此已命令Google停止在该国南部一个大型数据中心的建设工程。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T17:21:18Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-60bd6b1a9655a23182e6dc9b",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-60bd6b1a9655a23182e6dc9b",
+        "title": "肯尼亚末日邪教领袖 进一步判定123人死亡",
+        "originalTitle": "Kenyan doomsday cult leader convicted over further 123 deaths",
+        "summary": "Paul Mackenzie被判有罪 杀害他的追随者, 几个星期后,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T17:19:31Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-5ef4be14e1a178dfd7a60bda",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-5ef4be14e1a178dfd7a60bda",
+        "title": "加拿大最高法院基本上维持魁北克对公务员宗教标志的禁令",
+        "originalTitle": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+        "summary": "包括女穆斯林、锡克教和天主教教师在内的一系列群体对法律提出了挑战,认为法律侵犯了她们的基本权利。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T16:53:46Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-1c8ed0b731975bc1fe0ee38e",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-1c8ed0b731975bc1fe0ee38e",
+        "title": "贾里德·库什纳(Jared Kushner)的70分钟采访表明,在处理普京的侵略行为时存在着天真的偏见。",
+        "originalTitle": "Jared Kushner’s 70-minute interview reveals naive bias in handling of Putin’s aggression",
+        "summary": "特朗普的女婿和高级谈判家将俄罗斯入侵乌克兰描绘成一个有待解决的误解。 在长达70分钟的采访中,贾里德·库什纳 — — 唐纳德·特朗普的女婿和美国在俄罗斯、加沙和伊朗的著名谈判家 — — 可能做了更多的工作来揭示为什么世界陷入了根深蒂固的冲突,而不是数千个地缘政治主题或研讨会。（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-27T16:49:59Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/us-news/2026/nov/27/jared-kushner-interview-peril-putin-corporate-rival"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-f0a62b2b913b8363d0182189",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-f0a62b2b913b8363d0182189",
+        "title": "西班牙总理桑切斯(Pedro Sánchez)对选举胜利充满信心,",
+        "originalTitle": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – as it happened",
+        "summary": "这个博客现已关闭, 位于马德里的Freelance记者, Sobremesa Podcast Vox的主持人经常被国际报导描述为法国怀旧派的政党,（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-27T16:19:50Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-ce0c9325ee8cb3e96470ccdd",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-ce0c9325ee8cb3e96470ccdd",
+        "title": "加拿大最高法院支持魁北克法律,禁止公共部门工人佩戴宗教标志。",
+        "originalTitle": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
+        "summary": "加拿大最高法院基本上支持魁北克省一项有争议的世俗法, 禁止公共部门工作者佩戴明显的宗教标志,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T16:13:07Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-f53be474bc7fc47c59520f75",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-f53be474bc7fc47c59520f75",
+        "title": "巴西推回了麦肯 称其肉是\"下沉\"",
+        "originalTitle": "Brazil pushes back on Macron calling its meat 'doped'",
+        "summary": "在欧盟禁止巴西牛肉和家禽产品数月后,（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-27T15:54:15Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-c28a4b04e09368a6b881e90c",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-c28a4b04e09368a6b881e90c",
+        "title": "Norse Atlantic Airways公司破产档案,并取消所有未来航班",
+        "originalTitle": "Norse Atlantic Airways files for bankruptcy and cancels all future flights",
+        "summary": "挪威航空公司告诉客户不要到机场去,因为伊朗战争造成的燃料费用暴涨。 Norse Atlantic Airways已经提出破产申请,并在伊朗战争造成的燃料费用暴涨破坏其财务后取消了所有未来的航班。 挪威航空公司说,它正在陷入破产,并在网站上发布信息,告诉客户不要到机场去。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T15:40:35Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/business/2026/nov/27/norse-atlantic-airways-files-for-bankruptcy-cancels-all-future-flights"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-1a58528ae82e3b8de77ef233",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-1a58528ae82e3b8de77ef233",
+        "title": "Jess Wilson的墨尔本污水处理厂计划会危及水和湿地,",
+        "originalTitle": "Jess Wilson’s plan for Melbourne sewage plants risks water and wetlands without bringing debt down, experts say",
+        "summary": "学者说,维多利亚自由党(Victoria Libertican Propossible)建议将治疗厂私有化,在服务无损的情况下创造利润 — — 维多利亚选举指南 2026 : 您需要知道谁能投票的问题吗? 检查政党的主要承诺和政策。 我们的每日政治电子邮件、免费应用程序或每日新闻播客专家警告维多利亚自由党租借墨尔本的计划。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T14:00:14Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/28/jess-wilson-melbourne-sewage-plants-privatisation-risks-water-and-wetlands"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-804f9fb3f3e534d58f22c5ea",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-804f9fb3f3e534d58f22c5ea",
+        "title": "随着选民转向自由党和“一个民族”党,",
+        "originalTitle": "Labor faces prospect of electoral wipeout in Victoria as voters turn to Liberals and One Nation",
+        "summary": "前ALP战略家说本·卡罗尔政府有可能在星期六的选举中失去30多个席位,而落后于Pauline Hanson党的维多利亚选举2026年指南:你需要知道关于谁投票的困惑吗? 检查一下政党的主要承诺和政策。 我们每天的政治电子邮件、免费的应用程序或每日新闻播客:维多利亚州劳动党政府正面临选举的擦拭。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T14:00:13Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/28/vic-election-labor-faces-electoral-wipeout-as-voters-turn-to-liberals-and-one-nation-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-dffd46c1727929953dbdc24b",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-dffd46c1727929953dbdc24b",
+        "title": "新南威尔士州劳动党(LABOR) \" 超越党的原则 \" ,",
+        "originalTitle": "NSW Labor is ‘trampling over party principles’ with preselections by captain’s call, members say",
+        "summary": "专栏:劳动党总长办公室要求Ryde议员Penny Pedersen不要在3月的州选举中提名Lane Cove。 我们的突发新闻电子邮件、免费应用程序或每日新闻播客,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T14:00:12Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/28/nsw-labor-is-trampling-over-party-principles-with-preselections-by-captains-call-members-say"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-e056cc8e97bf4372ee4c952d",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-e056cc8e97bf4372ee4c952d",
+        "title": "在阿姆斯特丹机场行李中发现的稀有海龟",
+        "originalTitle": "Rare turtles found inside baggage at Amsterdam airport",
+        "summary": "官员说,濒临灭绝的爬行动物被胶带捆绑起来,以防止他们移动。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T13:38:07Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-88cd0cc8f59ee6485235c324",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-88cd0cc8f59ee6485235c324",
+        "title": "前媒体主管承认, 澳大利亚儿童性虐待幸存者「又被强奸」,",
+        "originalTitle": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
+        "summary": "前Murdoch媒体主管在提到Grace Tame穿衣方式的一次活动中被偷听到。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T11:44:40Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-1e82c20bfd294eebdfbfaaf9",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-1e82c20bfd294eebdfbfaaf9",
+        "title": "前肯尼亚州长因谋杀怀孕女友入狱25年",
+        "originalTitle": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder",
+        "summary": "这名怀孕学生在离开一家旅馆后被谋杀,当时她与一名记者联系,与州长讨论她的婚外情。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T11:22:02Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/crx209ekq5xdo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-d3a2445f266a7daf24c6f32a",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-d3a2445f266a7daf24c6f32a",
+        "title": "新南威尔士州验尸官发现,",
+        "originalTitle": "‘Crisis in empathy’: prison guard was watching TV while Aboriginal man was dying in custody, NSW coroner finds",
+        "summary": "法官说,在Silverwater33岁死亡后,警员值班时应被禁止使用屏幕和电话。 警告:这篇文章提到已死亡的土著澳大利亚人。 新南威尔士州验尸官发现,2023年被拘留的一名土著男子的死亡不仅是可以预防的,而且是她所调查的“最令人发指的死亡之一 ” 。 新南威尔士州矫正服务局(NSW)有b条。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T11:18:47Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/27/crisis-in-empathy-death-in-custody-of-aboriginal-man-tj-denniss-was-preventable-says-nsw-coroner-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-1b2d9a072f32db2fb806c025",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-1b2d9a072f32db2fb806c025",
+        "title": "乌干达将部队撤出驻守在外交列席的刚果河镇",
+        "originalTitle": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
+        "summary": "乌干达军队正在帮助刚果军队在该国东部打击一个伊斯兰激进团体。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T10:39:31Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-340af565625916d0ce3ecb50",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-340af565625916d0ce3ecb50",
+        "title": "欧洲游戏冲突三号,因为Macron谴责暴力",
+        "originalTitle": "Clashes mar European games as Macron condemns violence",
+        "summary": "周四晚上的欧洲足球比赛中 爆发了暴力冲突 法国总统埃马纽尔·麦隆 谴责马赛针对列夫斯基·索非亚的比赛（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-27T10:24:24Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-d8b939cea51e00e0d0be49b8",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-d8b939cea51e00e0d0be49b8",
+        "title": "几内亚比绍的军事领导人将恢复文官统治推迟到2028年",
+        "originalTitle": "Guinea-Bissau's military leaders delay return to civilian rule until 2028",
+        "summary": "这一宣布是在军事政变一年之后作出的,其领导人承诺在12个月内恢复文官统治。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T08:58:08Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-1c0565d52f665d4bd3955c95",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-1c0565d52f665d4bd3955c95",
+        "title": "南亚数百万妻子没有受到婚内强奸的保护 -- -- 研究",
+        "originalTitle": "Millions of wives in South Asia unprotected from marital rape - study",
+        "summary": "100多个国家已宣布婚内强奸为非法,但南亚大部分地区没有这样做。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T08:13:43Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-c8eeaea13d408f6952787907",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-c8eeaea13d408f6952787907",
+        "title": "意大利前警察局长在死前拒绝了黑手党的调查指控",
+        "originalTitle": "Italy's former police chief rejected mafia inquiry allegations before death",
+        "summary": "吉安尼·德·根纳罗在托斯卡尼家中发现尸体几天后,他写了一封长达八页的信。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T07:28:10Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-038c1230613876629a1ec209",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-038c1230613876629a1ec209",
+        "title": "Grace Tame打电话给前Murdoch媒体主管,",
+        "originalTitle": "Grace Tame calls out ex-Murdoch media executive who said she ‘must be looking to be raped again’",
+        "summary": "马特·汉德伯里(Matt Handbury),鲁珀特·默多克(Rupert Murdoch)的侄子,承认他发表了冒犯性的评论,并说他在引用袭击幸存者的`令人惊奇地吸引的起身'。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T06:54:59Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/27/grace-tame-responds-former-murdoch-executive-nephew-rape-comment-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-f3136c437b79c2be8cb41d97",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-f3136c437b79c2be8cb41d97",
+        "title": "欧盟领导人未能弥补因谈判停顿而导致的预算分裂",
+        "originalTitle": "EU leaders fail to bridge budget splits as talks stall",
+        "summary": "对乌克兰的援助是争端之一,因为欧盟成员国希望到年底结束谈判。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T06:11:55Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-c5e1d62c5803183c4874f08e",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-c5e1d62c5803183c4874f08e",
+        "title": "“不可能”:西班牙年轻人在星期天选举前在住房问题上",
+        "originalTitle": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
+        "summary": "欧洲记者尼克·比克 和在巴伦西亚被高租金分开的一对夫妇说话（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-27T06:09:31Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-d69a88649a9e22bd375ec57e",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-d69a88649a9e22bd375ec57e",
+        "title": "疯狂的马拉:DIY舞蹈运动帮助尼日利亚年轻人摆脱日常的磨难",
+        "originalTitle": "Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind",
+        "summary": "在尼日利亚中部的伊洛林市,拉瓦尔·哈比卜·科拉(Lawal Habeeb Kola)非常喜欢住在他的宿舍里,制作节拍,而不是回到他出生后最狂热的城市拉各斯的家。 2022年,他的节拍在蒂克市很受欢迎。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T06:00:56Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-18a24f1cbbb1e7386543d832",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-18a24f1cbbb1e7386543d832",
+        "title": "谋杀Mushroom凶手Erin Patterson 高等法院提起最后上诉",
+        "originalTitle": "Mushroom murderer Erin Patterson launches last-ditch High Court appeal",
+        "summary": "Erin Patterson因在2023年用毒蘑菇午餐毒害亲戚而终身监禁。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T05:54:38Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/ck053e1d3ly1o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
+    },
+    {
+      "eventId": "rss-b4ba312f7ecbbceb76ba0a1d",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "data": {
+        "id": "rss-b4ba312f7ecbbceb76ba0a1d",
+        "title": "委内瑞拉废除禁止反对公职的法律",
+        "originalTitle": "Venezuela to scrap law that bars opposition from public office",
+        "summary": "这项立法自两年前提出以来,就因允许政治迫害而受到批评。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T05:35:10Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/c58j4pw9xjrlo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-27T20:28:42.365489Z",
+        "updatedAt": "2026-11-27T20:28:42.365489Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-27T20:28:42.365489Z",
+      "at": "2026-11-27T20:28:42.365489Z",
+      "kind": "GitHub Actions 采集",
+      "count": 31,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 18}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 0}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 13}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 0}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-27T05:46:15.815517Z",
       "at": "2026-11-27T05:46:15.815517Z",
