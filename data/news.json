@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-27T20:28:42.365489Z",
+  "updatedAt": "2026-11-28T05:25:51.524839Z",
   "events": [
     {
       "id": "rss-28713c2b0bca04eee62a9481",
@@ -93854,6 +93854,538 @@
       "tokens": [],
       "firstSeen": "2026-11-27T20:28:42.365489Z",
       "updatedAt": "2026-11-27T20:28:42.365489Z"
+    },
+    {
+      "id": "rss-f75cb2f04dd4ef578a768145",
+      "title": "2026年维多利亚选举现场直播:当联盟试图推翻LABOR时,",
+      "originalTitle": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor – latest news",
+      "summary": "关注今天的实况最新消息和今晚的结果,作为劳动党的本·卡罗尔和自由党领导人杰西·威尔逊在维多利亚州选举2026年的《维多利亚选举指南 》 ( Victoria Education 2026 ) 中寻求胜利:你需要知道谁能投票给谁?（机器翻译；尚未完成正文核查。）",
+      "category": "政治人物",
+      "publishedAt": "2026-11-28T05:15:09Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-28T05:25:51.524839Z",
+      "updatedAt": "2026-11-28T05:25:51.524839Z"
+    },
+    {
+      "id": "rss-0a792c60da7e62150d27fec7",
+      "title": "La 继承:法国最富有的家庭说要对抗谁来接管LVMH",
+      "originalTitle": "La succession: France’s wealthiest family said to be battling over who will take over LVMH",
+      "summary": "伯纳德·阿尔诺的孩子 — — 被称为`现代法国皇室 ’ — — 在谁继承他的问题上充满了争吵的谣言。 他们是法国最富有的家庭,领导着世界上最大的奢侈品帝国,穿着相配的迪奥西装 — — 一个如此强大的部族,被称为现代法国皇室。 但近几个月来,伯纳德·阿尔诺的家庭王朝(Bernard Arnault),77岁,亿万富翁。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-28T05:00:30Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/business/2026/nov/28/french-succession-bernard-arnault-lvmh"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-28T05:25:51.524839Z",
+      "updatedAt": "2026-11-28T05:25:51.524839Z"
+    },
+    {
+      "id": "rss-6ab5d6559ff0df911d01adeb",
+      "title": "尤里和我曾经一起踢足球。 然后我发现他的名字在俄国战争中死去。",
+      "originalTitle": "Yuri and I used to play football together. Then I spotted his name among Russia’s war dead",
+      "summary": "我完全不知道他去乌克兰打仗,如果没有黑客数据,我可能永远也不会知道他的死讯。 一天晚上,在数了数了数俄罗斯的战争死亡数数数数之后,我开始寻找我可能认出的名字。 我的同事和我一直在努力寻找从俄罗斯国家统计局罗斯塔特泄露的超过11米的死亡证明,并确定了近半毫微奥。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-28T05:00:30Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/world/2026/nov/28/yuri-football-together-russia-war-dead-ukraine"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-28T05:25:51.524839Z",
+      "updatedAt": "2026-11-28T05:25:51.524839Z"
+    },
+    {
+      "id": "rss-0b2a52c951b978bc840b6283",
+      "title": "8人在秘鲁军用直升机坠毁中丧生",
+      "originalTitle": "Eight killed in Peruvian military helicopter crash",
+      "summary": "这名飞行员是在以贩毒闻名的偏远地区的救援任务中事故的唯一幸存者。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-28T04:19:16Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-28T05:25:51.524839Z",
+      "updatedAt": "2026-11-28T05:25:51.524839Z"
+    },
+    {
+      "id": "rss-58b7ceb1a51005c1e80848cd",
+      "title": "土耳其官员“摧毁了”支持反对派的电视频道,老板告诉BBC",
+      "originalTitle": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+      "summary": "Halk电视台总部上个月遭到突袭,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-28T04:13:45Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-28T05:25:51.524839Z",
+      "updatedAt": "2026-11-28T05:25:51.524839Z"
+    },
+    {
+      "id": "rss-0e1215c1504428e344b44fba",
+      "title": "澳大利亚东海岸被风暴困扰,成为新南威尔士州和维多利亚州的公路洪水和破坏性风预报",
+      "originalTitle": "Australia’s east coast deluged by storms as roads flood and damaging winds forecast for NSW and Victoria",
+      "summary": "随着从昆士兰州中部经新南威尔士州到维多利亚州和塔斯马尼亚州的暴风雨波段的移动,严酷的天气和洪水观测警告已经到位。 获得我们的突发新闻电子邮件、免费应用程序或每日新闻播客。 澳大利亚在厄尔尼诺年记录的湿泉最后周末正在带来暴风雨和大雨。 东部的天气和洪水观测警告已经到位。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-28T02:39:28Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "卫报国际",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/28/australias-east-coast-deluged-by-storms-as-roads-flood-and-damaging-winds-forecast-for-nsw-and-victoria"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-28T05:25:51.524839Z",
+      "updatedAt": "2026-11-28T05:25:51.524839Z"
+    },
+    {
+      "id": "rss-bb0be17c4eefba01243166ef",
+      "title": "游戏者如何使用 AI 和泄漏的文件克隆 Grand Theft Auto 6",
+      "originalTitle": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+      "summary": "正式的电脑版本可能还有几个月了 粉丝们越来越不耐烦了（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-28T01:30:50Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-28T05:25:51.524839Z",
+      "updatedAt": "2026-11-28T05:25:51.524839Z"
+    },
+    {
+      "id": "rss-5ebdf7f6465550fbfd182c13",
+      "title": "尼日利亚的“终极硬汉”成为网络迷因",
+      "originalTitle": "Nigeria's 'ultimate hard man' who become an online meme",
+      "summary": "在尼日利亚电影业成为家庭名称之前,Edochie在广播领域开创了职业。（机器翻译；尚未完成正文核查。）",
+      "category": "网络文化",
+      "publishedAt": "2026-11-28T01:20:35Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-28T05:25:51.524839Z",
+      "updatedAt": "2026-11-28T05:25:51.524839Z"
+    },
+    {
+      "id": "rss-7e6740d947b0596def9ae2be",
+      "title": "现在技术",
+      "originalTitle": "Tech Now",
+      "summary": "Ammie Sekhon看机器人 有一天可以帮助航天器独立行动（机器翻译；尚未完成正文核查。）",
+      "category": "AI / 科技",
+      "publishedAt": "2026-11-28T01:00:00Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 科技",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-28T05:25:51.524839Z",
+      "updatedAt": "2026-11-28T05:25:51.524839Z"
+    },
+    {
+      "id": "rss-6ccc7c31dee7390a75c18152",
+      "title": "Kenneth Law 在法庭上向受害者家属道歉",
+      "originalTitle": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+      "summary": "加拿大男子对今年早些时候的14项协助和教唆自杀罪认罪,他说,他对自己的行动感到悔恨。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-28T00:56:55Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-28T05:25:51.524839Z",
+      "updatedAt": "2026-11-28T05:25:51.524839Z"
+    },
+    {
+      "id": "rss-d78f8d306811d4ce8ea82e79",
+      "title": "印度的\"塔马沙女王\",他的粉丝为一场从未发生过的演出付出了代价",
+      "originalTitle": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+      "summary": "新的宝莱坞闪耀着舞蹈家和歌手Vithabhai Narayangaonkar的辉煌生活。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-28T00:50:11Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-28T05:25:51.524839Z",
+      "updatedAt": "2026-11-28T05:25:51.524839Z"
+    },
+    {
+      "id": "rss-776f6dea0328e2d7c613807b",
+      "title": "一个诊所正在重新评估有自闭症和自闭症诊断的人,但批评者担心这会加深耻辱感",
+      "originalTitle": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+      "summary": "虽然许多人发现诊断为ADHD或自闭症确诊,（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-28T00:05:17Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-28T05:25:51.524839Z",
+      "updatedAt": "2026-11-28T05:25:51.524839Z"
+    },
+    {
+      "id": "rss-dd6d2bba2a6517066d523466",
+      "title": "在中国壮观崛起的背后 反抗的呼声说他们被淹死了",
+      "originalTitle": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+      "summary": "中国的巨大影响力现在也具有软实力。 批评者和持不同政见者说,他们的声音正被淹没。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T23:02:35Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-28T05:25:51.524839Z",
+      "updatedAt": "2026-11-28T05:25:51.524839Z"
+    },
+    {
+      "id": "rss-517112579bf8b7c199f6fa17",
+      "title": "严重的感恩节风暴使道路淹没,树木倒塌",
+      "originalTitle": "Severe Thanksgiving storms leave roads flooded and trees fallen",
+      "summary": "在感恩节期间,美国两岸都遭受恶劣天气袭击,数十万人没有电力。（机器翻译；尚未完成正文核查。）",
+      "category": "其他",
+      "publishedAt": "2026-11-27T16:46:47Z",
+      "eventAt": "未核实；报道时间不等于事件发生时间",
+      "sources": [
+        {
+          "name": "BBC 国际",
+          "url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "keywords": [],
+      "scores": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+        "没有独立社交传播数据，记0分。",
+        "自动采集不主观推测 Meme 潜力，待研究评分。",
+        "未核实后续催化，记0分。"
+      ],
+      "risks": [
+        "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+        "仅来源摘要初筛，不能视为事实核查或买入信号",
+        "未执行链上安全、持仓或流动性检查"
+      ],
+      "status": "仅标题初筛",
+      "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+      "tokens": [],
+      "firstSeen": "2026-11-28T05:25:51.524839Z",
+      "updatedAt": "2026-11-28T05:25:51.524839Z"
     }
   ],
   "history": [
@@ -197597,9 +198129,604 @@
         "firstSeen": "2026-11-27T20:28:42.365489Z",
         "updatedAt": "2026-11-27T20:28:42.365489Z"
       }
+    },
+    {
+      "eventId": "rss-f75cb2f04dd4ef578a768145",
+      "at": "2026-11-28T05:25:51.524839Z",
+      "data": {
+        "id": "rss-f75cb2f04dd4ef578a768145",
+        "title": "2026年维多利亚选举现场直播:当联盟试图推翻LABOR时,",
+        "originalTitle": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor – latest news",
+        "summary": "关注今天的实况最新消息和今晚的结果,作为劳动党的本·卡罗尔和自由党领导人杰西·威尔逊在维多利亚州选举2026年的《维多利亚选举指南 》 ( Victoria Education 2026 ) 中寻求胜利:你需要知道谁能投票给谁?（机器翻译；尚未完成正文核查。）",
+        "category": "政治人物",
+        "publishedAt": "2026-11-28T05:15:09Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-28T05:25:51.524839Z",
+        "updatedAt": "2026-11-28T05:25:51.524839Z"
+      }
+    },
+    {
+      "eventId": "rss-0a792c60da7e62150d27fec7",
+      "at": "2026-11-28T05:25:51.524839Z",
+      "data": {
+        "id": "rss-0a792c60da7e62150d27fec7",
+        "title": "La 继承:法国最富有的家庭说要对抗谁来接管LVMH",
+        "originalTitle": "La succession: France’s wealthiest family said to be battling over who will take over LVMH",
+        "summary": "伯纳德·阿尔诺的孩子 — — 被称为`现代法国皇室 ’ — — 在谁继承他的问题上充满了争吵的谣言。 他们是法国最富有的家庭,领导着世界上最大的奢侈品帝国,穿着相配的迪奥西装 — — 一个如此强大的部族,被称为现代法国皇室。 但近几个月来,伯纳德·阿尔诺的家庭王朝(Bernard Arnault),77岁,亿万富翁。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-28T05:00:30Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/business/2026/nov/28/french-succession-bernard-arnault-lvmh"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-28T05:25:51.524839Z",
+        "updatedAt": "2026-11-28T05:25:51.524839Z"
+      }
+    },
+    {
+      "eventId": "rss-6ab5d6559ff0df911d01adeb",
+      "at": "2026-11-28T05:25:51.524839Z",
+      "data": {
+        "id": "rss-6ab5d6559ff0df911d01adeb",
+        "title": "尤里和我曾经一起踢足球。 然后我发现他的名字在俄国战争中死去。",
+        "originalTitle": "Yuri and I used to play football together. Then I spotted his name among Russia’s war dead",
+        "summary": "我完全不知道他去乌克兰打仗,如果没有黑客数据,我可能永远也不会知道他的死讯。 一天晚上,在数了数了数俄罗斯的战争死亡数数数数之后,我开始寻找我可能认出的名字。 我的同事和我一直在努力寻找从俄罗斯国家统计局罗斯塔特泄露的超过11米的死亡证明,并确定了近半毫微奥。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-28T05:00:30Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/world/2026/nov/28/yuri-football-together-russia-war-dead-ukraine"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-28T05:25:51.524839Z",
+        "updatedAt": "2026-11-28T05:25:51.524839Z"
+      }
+    },
+    {
+      "eventId": "rss-0b2a52c951b978bc840b6283",
+      "at": "2026-11-28T05:25:51.524839Z",
+      "data": {
+        "id": "rss-0b2a52c951b978bc840b6283",
+        "title": "8人在秘鲁军用直升机坠毁中丧生",
+        "originalTitle": "Eight killed in Peruvian military helicopter crash",
+        "summary": "这名飞行员是在以贩毒闻名的偏远地区的救援任务中事故的唯一幸存者。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-28T04:19:16Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-28T05:25:51.524839Z",
+        "updatedAt": "2026-11-28T05:25:51.524839Z"
+      }
+    },
+    {
+      "eventId": "rss-58b7ceb1a51005c1e80848cd",
+      "at": "2026-11-28T05:25:51.524839Z",
+      "data": {
+        "id": "rss-58b7ceb1a51005c1e80848cd",
+        "title": "土耳其官员“摧毁了”支持反对派的电视频道,老板告诉BBC",
+        "originalTitle": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+        "summary": "Halk电视台总部上个月遭到突袭,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-28T04:13:45Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-28T05:25:51.524839Z",
+        "updatedAt": "2026-11-28T05:25:51.524839Z"
+      }
+    },
+    {
+      "eventId": "rss-0e1215c1504428e344b44fba",
+      "at": "2026-11-28T05:25:51.524839Z",
+      "data": {
+        "id": "rss-0e1215c1504428e344b44fba",
+        "title": "澳大利亚东海岸被风暴困扰,成为新南威尔士州和维多利亚州的公路洪水和破坏性风预报",
+        "originalTitle": "Australia’s east coast deluged by storms as roads flood and damaging winds forecast for NSW and Victoria",
+        "summary": "随着从昆士兰州中部经新南威尔士州到维多利亚州和塔斯马尼亚州的暴风雨波段的移动,严酷的天气和洪水观测警告已经到位。 获得我们的突发新闻电子邮件、免费应用程序或每日新闻播客。 澳大利亚在厄尔尼诺年记录的湿泉最后周末正在带来暴风雨和大雨。 东部的天气和洪水观测警告已经到位。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-28T02:39:28Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "卫报国际",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/28/australias-east-coast-deluged-by-storms-as-roads-flood-and-damaging-winds-forecast-for-nsw-and-victoria"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-28T05:25:51.524839Z",
+        "updatedAt": "2026-11-28T05:25:51.524839Z"
+      }
+    },
+    {
+      "eventId": "rss-bb0be17c4eefba01243166ef",
+      "at": "2026-11-28T05:25:51.524839Z",
+      "data": {
+        "id": "rss-bb0be17c4eefba01243166ef",
+        "title": "游戏者如何使用 AI 和泄漏的文件克隆 Grand Theft Auto 6",
+        "originalTitle": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+        "summary": "正式的电脑版本可能还有几个月了 粉丝们越来越不耐烦了（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-28T01:30:50Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-28T05:25:51.524839Z",
+        "updatedAt": "2026-11-28T05:25:51.524839Z"
+      }
+    },
+    {
+      "eventId": "rss-5ebdf7f6465550fbfd182c13",
+      "at": "2026-11-28T05:25:51.524839Z",
+      "data": {
+        "id": "rss-5ebdf7f6465550fbfd182c13",
+        "title": "尼日利亚的“终极硬汉”成为网络迷因",
+        "originalTitle": "Nigeria's 'ultimate hard man' who become an online meme",
+        "summary": "在尼日利亚电影业成为家庭名称之前,Edochie在广播领域开创了职业。（机器翻译；尚未完成正文核查。）",
+        "category": "网络文化",
+        "publishedAt": "2026-11-28T01:20:35Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-28T05:25:51.524839Z",
+        "updatedAt": "2026-11-28T05:25:51.524839Z"
+      }
+    },
+    {
+      "eventId": "rss-7e6740d947b0596def9ae2be",
+      "at": "2026-11-28T05:25:51.524839Z",
+      "data": {
+        "id": "rss-7e6740d947b0596def9ae2be",
+        "title": "现在技术",
+        "originalTitle": "Tech Now",
+        "summary": "Ammie Sekhon看机器人 有一天可以帮助航天器独立行动（机器翻译；尚未完成正文核查。）",
+        "category": "AI / 科技",
+        "publishedAt": "2026-11-28T01:00:00Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 科技",
+            "url": "https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-28T05:25:51.524839Z",
+        "updatedAt": "2026-11-28T05:25:51.524839Z"
+      }
+    },
+    {
+      "eventId": "rss-6ccc7c31dee7390a75c18152",
+      "at": "2026-11-28T05:25:51.524839Z",
+      "data": {
+        "id": "rss-6ccc7c31dee7390a75c18152",
+        "title": "Kenneth Law 在法庭上向受害者家属道歉",
+        "originalTitle": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+        "summary": "加拿大男子对今年早些时候的14项协助和教唆自杀罪认罪,他说,他对自己的行动感到悔恨。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-28T00:56:55Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-28T05:25:51.524839Z",
+        "updatedAt": "2026-11-28T05:25:51.524839Z"
+      }
+    },
+    {
+      "eventId": "rss-d78f8d306811d4ce8ea82e79",
+      "at": "2026-11-28T05:25:51.524839Z",
+      "data": {
+        "id": "rss-d78f8d306811d4ce8ea82e79",
+        "title": "印度的\"塔马沙女王\",他的粉丝为一场从未发生过的演出付出了代价",
+        "originalTitle": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+        "summary": "新的宝莱坞闪耀着舞蹈家和歌手Vithabhai Narayangaonkar的辉煌生活。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-28T00:50:11Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-28T05:25:51.524839Z",
+        "updatedAt": "2026-11-28T05:25:51.524839Z"
+      }
+    },
+    {
+      "eventId": "rss-776f6dea0328e2d7c613807b",
+      "at": "2026-11-28T05:25:51.524839Z",
+      "data": {
+        "id": "rss-776f6dea0328e2d7c613807b",
+        "title": "一个诊所正在重新评估有自闭症和自闭症诊断的人,但批评者担心这会加深耻辱感",
+        "originalTitle": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+        "summary": "虽然许多人发现诊断为ADHD或自闭症确诊,（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-28T00:05:17Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-28T05:25:51.524839Z",
+        "updatedAt": "2026-11-28T05:25:51.524839Z"
+      }
+    },
+    {
+      "eventId": "rss-dd6d2bba2a6517066d523466",
+      "at": "2026-11-28T05:25:51.524839Z",
+      "data": {
+        "id": "rss-dd6d2bba2a6517066d523466",
+        "title": "在中国壮观崛起的背后 反抗的呼声说他们被淹死了",
+        "originalTitle": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+        "summary": "中国的巨大影响力现在也具有软实力。 批评者和持不同政见者说,他们的声音正被淹没。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T23:02:35Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-28T05:25:51.524839Z",
+        "updatedAt": "2026-11-28T05:25:51.524839Z"
+      }
+    },
+    {
+      "eventId": "rss-517112579bf8b7c199f6fa17",
+      "at": "2026-11-28T05:25:51.524839Z",
+      "data": {
+        "id": "rss-517112579bf8b7c199f6fa17",
+        "title": "严重的感恩节风暴使道路淹没,树木倒塌",
+        "originalTitle": "Severe Thanksgiving storms leave roads flooded and trees fallen",
+        "summary": "在感恩节期间,美国两岸都遭受恶劣天气袭击,数十万人没有电力。（机器翻译；尚未完成正文核查。）",
+        "category": "其他",
+        "publishedAt": "2026-11-27T16:46:47Z",
+        "eventAt": "未核实；报道时间不等于事件发生时间",
+        "sources": [
+          {
+            "name": "BBC 国际",
+            "url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "keywords": [],
+        "scores": [
+          8,
+          0,
+          0,
+          0
+        ],
+        "reasons": [
+          "公开 RSS 来源标题与摘要；未核查正文，规则固定为8分。",
+          "没有独立社交传播数据，记0分。",
+          "自动采集不主观推测 Meme 潜力，待研究评分。",
+          "未核实后续催化，记0分。"
+        ],
+        "risks": [
+          "英文内容经本地模型机器翻译，人名及专有名词可能有误差",
+          "仅来源摘要初筛，不能视为事实核查或买入信号",
+          "未执行链上安全、持仓或流动性检查"
+        ],
+        "status": "仅标题初筛",
+        "tokenEvidence": "未核实任何代币关联；同名不等于官方授权。",
+        "tokens": [],
+        "firstSeen": "2026-11-28T05:25:51.524839Z",
+        "updatedAt": "2026-11-28T05:25:51.524839Z"
+      }
     }
   ],
   "runs": [
+    {
+      "id": "github-2026-11-28T05:25:51.524839Z",
+      "at": "2026-11-28T05:25:51.524839Z",
+      "kind": "GitHub Actions 采集",
+      "count": 14,
+      "detail": "{\"runner\": \"GitHub Actions\", \"schedule\": \"Asia/Shanghai 08:00 / 20:00\", \"sources\": [{\"source\": \"BBC 国际\", \"ok\": true, \"new\": 8}, {\"source\": \"BBC 科技\", \"ok\": true, \"new\": 2}, {\"source\": \"卫报国际\", \"ok\": true, \"new\": 4}, {\"source\": \"TechCrunch\", \"ok\": true, \"new\": 0}], \"translationFailures\": 0, \"scoring\": \"RSS来源8；传播/Meme/催化未知0；时效由网站计算。\"}"
+    },
     {
       "id": "github-2026-11-27T20:28:42.365489Z",
       "at": "2026-11-27T20:28:42.365489Z",
